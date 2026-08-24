@@ -1,0 +1,9 @@
+host, scholar.google.com
+host-suffix, google.com
+host-wildcard, *.goo?le.com
+host-keyword, ads
+ip-cidr, 1.1.8.0/24
+ip6-cidr, 2001:4860:4860::8888/32
+ip-asn, 6185
+ip-asn, 6185
+host-suffix, youtube.com

@@ -1,0 +1,14 @@
+scholar.google.com
++.google.com
+*.goo?le.com
+keyword:ads
+1.1.8.0/24
+2001:4860:4860::8888/32
+6185
+AS6185
+
+# whole-line comment
+; also a comment
+// slash comment
+
++.youtube.com # inline comment

@@ -1,0 +1,13 @@
+{
+  "name": "qx-rules",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "bun src/cli.ts convert",
+    "sync": "bun src/cli.ts sync",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

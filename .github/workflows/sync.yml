@@ -1,0 +1,48 @@
+name: Sync QX rules
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.13
+
+      - name: Prepare release worktree
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin release; then
+            git fetch origin release
+            git worktree add release-out origin/release
+          else
+            git worktree add --detach release-out
+            git -C release-out checkout --orphan release
+            git -C release-out rm -rf --ignore-unmatch .
+          fi
+
+      - name: Convert and publish
+        run: bun src/cli.ts sync --out release-out
+
+      - name: Commit release
+        run: |
+          cd release-out
+          git add --all -- ':!.git'
+          if git diff --cached --quiet; then
+            echo "No rule changes"
+            exit 0
+          fi
+          git commit -m "sync: update Quantumult X rules"
+          git push origin HEAD:release
