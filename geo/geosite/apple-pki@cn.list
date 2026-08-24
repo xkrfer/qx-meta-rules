@@ -1,0 +1,8 @@
+host, certs-lb.apple.com.akadns.net
+host, certs.apple.com
+host, crl-lb.apple.com.akadns.net
+host, crl.apple.com
+host, ocsp.apple.com
+host, ocsp2.apple.com
+host, valid.apple.com
+host, valid.origin-apple.com.akadns.net

@@ -1,0 +1,12 @@
+host, publicca.googleapis.com
+host, preprod-publicca.googleapis.com
+host, clients1.google.com
+host, pki.google.com
+host-suffix, pki.goog
+host, pki-goog.l.google.com
+host, c.pki.goog
+host, i.pki.goog
+host, o.pki.goog
+host, crl.pki.goog
+host, crls.pki.goog
+host, ocsp.pki.goog

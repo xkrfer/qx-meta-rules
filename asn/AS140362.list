@@ -1,0 +1,7 @@
+ip-cidr, 103.196.26.0/24
+ip-cidr, 157.10.250.0/23
+ip-cidr, 160.30.120.0/23
+ip6-cidr, 2400:a260::/48
+ip6-cidr, 2602:feda:adb::/48
+ip6-cidr, 2602:feda:adc::/48
+ip6-cidr, 2602:feda:adf::/48

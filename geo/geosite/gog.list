@@ -1,0 +1,8 @@
+host, gog-cdn-lumen.secure2.footprint.net
+host, gog-cdn.akamaized.net
+host-suffix, gog.com
+host-suffix, gog-services.com
+host-suffix, gog-statics.com
+host-suffix, gogalaxy.com
+host, gog.qtlglb.com
+host-suffix, insights-collector.gog.com

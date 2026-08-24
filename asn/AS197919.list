@@ -1,0 +1,7 @@
+ip6-cidr, 2a05:dfc1:6200::/47
+ip6-cidr, 2a05:dfc1:6260::/46
+ip6-cidr, 2a05:dfc1:6299::/48
+ip6-cidr, 2a05:dfc1:62a3::/48
+ip6-cidr, 2a05:dfc1:62b0::/44
+ip6-cidr, 2a05:dfc1:62c9::/48
+ip6-cidr, 2a05:dfc1:62ff::/48

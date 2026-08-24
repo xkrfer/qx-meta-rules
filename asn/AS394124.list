@@ -1,0 +1,13 @@
+ip-cidr, 192.135.62.0/24
+ip6-cidr, 2602:f7be::/40
+ip6-cidr, 2602:f7be:100::/47
+ip6-cidr, 2602:f7be:103::/48
+ip6-cidr, 2602:f7be:104::/46
+ip6-cidr, 2602:f7be:108::/45
+ip6-cidr, 2602:f7be:110::/44
+ip6-cidr, 2602:f7be:120::/43
+ip6-cidr, 2602:f7be:140::/42
+ip6-cidr, 2602:f7be:180::/41
+ip6-cidr, 2602:f7be:200::/39
+ip6-cidr, 2602:f7be:400::/38
+ip6-cidr, 2602:f7be:800::/37

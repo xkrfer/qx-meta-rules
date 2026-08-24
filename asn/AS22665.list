@@ -1,0 +1,6 @@
+ip-cidr, 23.190.200.0/24
+ip6-cidr, 2602:fb6c::/44
+ip6-cidr, 2602:fb6c:53::/48
+ip6-cidr, 2602:fb6c:a1::/48
+ip6-cidr, 2602:fb6c:e1::/48
+ip6-cidr, 2602:fb6c:e2::/48

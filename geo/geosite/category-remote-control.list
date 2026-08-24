@@ -1,0 +1,8 @@
+host, client-teamviewer-com.trafficmanager.net
+host, teamviewer.com.cdn.cloudflare.net
+host-suffix, anydesk.com
+host-suffix, nomachine.com
+host-suffix, rustdesk.com
+host-suffix, teamviewer.com
+host-suffix, teamviewer.us
+host-suffix, teamviewer.cn

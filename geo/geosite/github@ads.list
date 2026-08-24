@@ -1,0 +1,3 @@
+host-suffix, collector.github.com
+host, copilot-telemetry-service.githubusercontent.com
+host, copilot-telemetry.githubusercontent.com

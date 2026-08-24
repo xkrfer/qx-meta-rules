@@ -1,0 +1,4 @@
+ip6-cidr, 2a0a:6040:df00::/48
+ip6-cidr, 2a0a:6040:dfa0::/44
+ip6-cidr, 2a0a:6040:dfe0::/44
+ip6-cidr, 2a0a:6040:dfff::/48

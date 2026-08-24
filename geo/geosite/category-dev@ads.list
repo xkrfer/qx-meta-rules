@@ -1,0 +1,12 @@
+host-suffix, collector.github.com
+host, copilot-telemetry-service.githubusercontent.com
+host, copilot-telemetry.githubusercontent.com
+host-suffix, analytics.cloud.unity3d.com
+host-suffix, api2.amplitude.com
+host-suffix, config.uca.cloud.unity3d.com
+host-suffix, cdp.cloud.unity3d.com
+host-suffix, prd-lender.cdp.internal.unity3d.com
+host-suffix, iads.unity3d.com
+host-suffix, perf.cloud.unity3d.com
+host-suffix, perf-events.cloud.unity3d.com
+host-suffix, unityads.unity3d.com

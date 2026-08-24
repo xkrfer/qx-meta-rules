@@ -1,0 +1,9 @@
+host, disney.my.sentry.io
+host-suffix, log-upload-os.hoyoverse.com
+host-suffix, insights-collector.gog.com
+host, adeventtracker.spotify.com
+host, adstudio-assets.scdn.co
+host, bloodhound.spotify.com
+host-suffix, analytics.tiktok.com
+host-suffix, ads-pixiv.net
+host-suffix, ads.youtube.com

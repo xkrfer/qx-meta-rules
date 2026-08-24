@@ -1,0 +1,6 @@
+ip6-cidr, 2a06:a005:e20::/44
+ip6-cidr, 2a06:a005:1140::/44
+ip6-cidr, 2a06:a005:1ef0::/44
+ip6-cidr, 2a0e:8f02:2000::/44
+ip6-cidr, 2a0e:b107:1030::/48
+ip6-cidr, 2a13:1c47:ffdd::/48

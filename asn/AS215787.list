@@ -1,0 +1,9 @@
+ip-cidr, 31.13.230.0/24
+ip-cidr, 85.209.133.0/24
+ip-cidr, 91.200.192.0/22
+ip-cidr, 92.249.48.0/24
+ip-cidr, 94.154.163.0/24
+ip6-cidr, 2a0d:2146:bdf8::/48
+ip6-cidr, 2a0d:2146:bdfa::/47
+ip6-cidr, 2a0d:2146:bdfc::/48
+ip6-cidr, 2a0d:2146:bdff::/48

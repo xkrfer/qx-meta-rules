@@ -1,0 +1,4 @@
+ip6-cidr, 2a0b:a500:1::/48
+ip6-cidr, 2a0b:a500:2::/47
+ip6-cidr, 2a0b:a500:4::/47
+ip6-cidr, 2a0b:a500:6::/48

@@ -1,0 +1,17 @@
+ip-cidr, 66.203.126.0/23
+ip-cidr, 82.21.172.0/24
+ip-cidr, 82.29.203.0/24
+ip-cidr, 82.29.204.0/22
+ip-cidr, 94.24.36.0/23
+ip-cidr, 162.208.16.0/24
+ip-cidr, 185.206.24.0/22
+ip-cidr, 217.180.20.0/23
+ip6-cidr, 2a09:a381::/40
+ip6-cidr, 2a0b:e40:1::/48
+ip6-cidr, 2a0b:e40:2::/47
+ip6-cidr, 2a0b:e41:1::/48
+ip6-cidr, 2a0b:e41:2::/48
+ip6-cidr, 2a0b:e42:1::/48
+ip6-cidr, 2a0b:e43::/40
+ip6-cidr, 2a0b:e44::/40
+ip6-cidr, 2a0b:e45:1::/48

@@ -1,0 +1,7 @@
+ip-cidr, 176.119.215.0/24
+ip6-cidr, 2001:678:ce4::/48
+ip6-cidr, 2001:678:ce8::/48
+ip6-cidr, 2001:678:cec::/48
+ip6-cidr, 2001:678:cf0::/48
+ip6-cidr, 2a0d:8d06::/32
+ip6-cidr, 2a0e:fd45:da0::/48

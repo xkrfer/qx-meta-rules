@@ -1,0 +1,10 @@
+host-suffix, clarity.ms
+host-suffix, microsoftads.com
+host-suffix, msads.net
+host-suffix, nelreports.net
+host-suffix, bingads.com
+host-suffix, collector.github.com
+host, copilot-telemetry-service.githubusercontent.com
+host, copilot-telemetry.githubusercontent.com
+host-suffix, browser.events.data.msn.cn
+host-suffix, browser.events.data.msn.com

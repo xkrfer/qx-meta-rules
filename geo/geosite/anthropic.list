@@ -1,0 +1,8 @@
+host, servd-anthropic-website.b-cdn.net
+host-suffix, anthropic.com
+host-suffix, clau.de
+host-suffix, claude.ai
+host-suffix, claude.com
+host-suffix, claudemcpclient.com
+host-suffix, claudemcpcontent.com
+host-suffix, claudeusercontent.com
