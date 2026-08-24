@@ -1,4 +1,4 @@
-ip-cidr, 151.244.12.0/24
-ip-cidr, 192.160.102.0/24
-ip6-cidr, 2602:fd53:200::/40
-ip6-cidr, 2620:132:3000::/40
+ip-cidr, 151.244.12.0/24, proxy, no-resolve
+ip-cidr, 192.160.102.0/24, proxy, no-resolve
+ip6-cidr, 2602:fd53:200::/40, proxy, no-resolve
+ip6-cidr, 2620:132:3000::/40, proxy, no-resolve

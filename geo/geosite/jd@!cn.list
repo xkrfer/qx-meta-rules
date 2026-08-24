@@ -1,4 +1,4 @@
-host-suffix, jd.co.th
-host-suffix, jd.hk
-host-suffix, jd.id
-host-suffix, jd.ru
+host-suffix, jd.co.th, proxy
+host-suffix, jd.hk, proxy
+host-suffix, jd.id, proxy
+host-suffix, jd.ru, proxy

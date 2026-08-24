@@ -1,2 +1,2 @@
-host-suffix, omaps.app
-host-suffix, organicmaps.app
+host-suffix, omaps.app, proxy
+host-suffix, organicmaps.app, proxy

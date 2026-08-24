@@ -1,5 +1,5 @@
-ip-cidr, 206.57.128.0/20
-ip-cidr, 206.57.144.0/21
-ip-cidr, 206.57.168.0/21
-ip-cidr, 206.57.176.0/20
-ip-cidr, 206.57.192.0/18
+ip-cidr, 206.57.128.0/20, proxy, no-resolve
+ip-cidr, 206.57.144.0/21, proxy, no-resolve
+ip-cidr, 206.57.168.0/21, proxy, no-resolve
+ip-cidr, 206.57.176.0/20, proxy, no-resolve
+ip-cidr, 206.57.192.0/18, proxy, no-resolve

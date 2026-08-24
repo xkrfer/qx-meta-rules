@@ -1,8 +1,8 @@
-host-suffix, ac.ir
-host-suffix, edu.ir
-host-suffix, iranlms.ir
-host-suffix, jtt.ir
-host-suffix, sanjesh.org
-host-suffix, sharif.edu
-host-suffix, sharif.ir
-host-suffix, srttu.edu
+host-suffix, ac.ir, proxy
+host-suffix, edu.ir, proxy
+host-suffix, iranlms.ir, proxy
+host-suffix, jtt.ir, proxy
+host-suffix, sanjesh.org, proxy
+host-suffix, sharif.edu, proxy
+host-suffix, sharif.ir, proxy
+host-suffix, srttu.edu, proxy

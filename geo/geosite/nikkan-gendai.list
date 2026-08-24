@@ -1,2 +1,2 @@
-host-suffix, gendai.net
-host-suffix, nikkan-gendai.com
+host-suffix, gendai.net, proxy
+host-suffix, nikkan-gendai.com, proxy

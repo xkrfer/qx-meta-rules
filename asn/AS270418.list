@@ -1,4 +1,4 @@
-ip-cidr, 190.111.168.0/24
-ip-cidr, 190.111.170.0/23
-ip6-cidr, 2804:6bb4::/35
-ip6-cidr, 2804:6bb4:c000::/34
+ip-cidr, 190.111.168.0/24, proxy, no-resolve
+ip-cidr, 190.111.170.0/23, proxy, no-resolve
+ip6-cidr, 2804:6bb4::/35, proxy, no-resolve
+ip6-cidr, 2804:6bb4:c000::/34, proxy, no-resolve

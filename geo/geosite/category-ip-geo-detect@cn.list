@@ -1,4 +1,4 @@
-host-suffix, ipify.cn
-host-suffix, iplark.com
-host-suffix, ipw.cn
-host-suffix, whois.pconline.com.cn
+host-suffix, ipify.cn, proxy
+host-suffix, iplark.com, proxy
+host-suffix, ipw.cn, proxy
+host-suffix, whois.pconline.com.cn, proxy

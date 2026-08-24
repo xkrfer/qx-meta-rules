@@ -1,1 +1,1 @@
-ip6-cidr, 2a10:4646:250::/44
+ip6-cidr, 2a10:4646:250::/44, proxy, no-resolve

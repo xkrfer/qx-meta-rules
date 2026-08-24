@@ -1,2 +1,2 @@
-host-suffix, liberapay.com
-host-suffix, liberapay.org
+host-suffix, liberapay.com, proxy
+host-suffix, liberapay.org, proxy

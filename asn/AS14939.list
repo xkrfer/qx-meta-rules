@@ -1,4 +1,4 @@
-ip-cidr, 67.206.179.0/24
-ip-cidr, 199.191.62.0/24
-ip6-cidr, 2604:5000:1000::/36
-ip6-cidr, 2604:5000:2000::/36
+ip-cidr, 67.206.179.0/24, proxy, no-resolve
+ip-cidr, 199.191.62.0/24, proxy, no-resolve
+ip6-cidr, 2604:5000:1000::/36, proxy, no-resolve
+ip6-cidr, 2604:5000:2000::/36, proxy, no-resolve

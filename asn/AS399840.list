@@ -1,2 +1,2 @@
-ip-cidr, 192.43.246.0/24
-ip6-cidr, 2602:fed2:712a::/48
+ip-cidr, 192.43.246.0/24, proxy, no-resolve
+ip6-cidr, 2602:fed2:712a::/48, proxy, no-resolve

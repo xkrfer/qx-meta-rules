@@ -1,7 +1,7 @@
-host-suffix, embl-hamburg.de
-host-suffix, embl.de
-host-suffix, embl.fr
-host-suffix, embl.it
-host-suffix, embl.org
-host-suffix, emblstatic.net
-host-suffix, ebi.ac.uk
+host-suffix, embl-hamburg.de, proxy
+host-suffix, embl.de, proxy
+host-suffix, embl.fr, proxy
+host-suffix, embl.it, proxy
+host-suffix, embl.org, proxy
+host-suffix, emblstatic.net, proxy
+host-suffix, ebi.ac.uk, proxy

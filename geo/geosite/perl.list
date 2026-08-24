@@ -1,5 +1,5 @@
-host-suffix, perl.org
-host-suffix, cpan.org
-host-suffix, metacpan.org
-host-suffix, modperl.pl
-host-suffix, perl.apache.org
+host-suffix, perl.org, proxy
+host-suffix, cpan.org, proxy
+host-suffix, metacpan.org, proxy
+host-suffix, modperl.pl, proxy
+host-suffix, perl.apache.org, proxy

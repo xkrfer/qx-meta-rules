@@ -1,12 +1,12 @@
-host-suffix, banmaaike.com
-host-suffix, xiaoyuankousuan.com
-host-suffix, ybccode.com
-host-suffix, yuanfudao.com
-host-suffix, yuansouti.com
-host-suffix, yuantiku.com
-host-suffix, fbstatic.cn
-host-suffix, fenbi.com
-host-suffix, fenbike.cn
-host-suffix, fenbike.com
-host-suffix, fenbilantian.cn
-host-suffix, fenbilantian.com
+host-suffix, banmaaike.com, proxy
+host-suffix, xiaoyuankousuan.com, proxy
+host-suffix, ybccode.com, proxy
+host-suffix, yuanfudao.com, proxy
+host-suffix, yuansouti.com, proxy
+host-suffix, yuantiku.com, proxy
+host-suffix, fbstatic.cn, proxy
+host-suffix, fenbi.com, proxy
+host-suffix, fenbike.cn, proxy
+host-suffix, fenbike.com, proxy
+host-suffix, fenbilantian.cn, proxy
+host-suffix, fenbilantian.com, proxy

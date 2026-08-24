@@ -1,5 +1,5 @@
-host-suffix, hupun.com
-host-suffix, newniu.com
-host-suffix, wanliniu.com
-host-suffix, hupun.com.cn
-host-suffix, kata.com.cn
+host-suffix, hupun.com, proxy
+host-suffix, newniu.com, proxy
+host-suffix, wanliniu.com, proxy
+host-suffix, hupun.com.cn, proxy
+host-suffix, kata.com.cn, proxy

@@ -1,8 +1,8 @@
-host-suffix, budingscan.com
-host-suffix, iqoo.com
-host-suffix, vivo.cn
-host-suffix, vivo.com
-host-suffix, vvstc.com
-host-suffix, blueos.com.cn
-host-suffix, vivo.com.cn
-host-suffix, vivoglobal.com
+host-suffix, budingscan.com, proxy
+host-suffix, iqoo.com, proxy
+host-suffix, vivo.cn, proxy
+host-suffix, vivo.com, proxy
+host-suffix, vvstc.com, proxy
+host-suffix, blueos.com.cn, proxy
+host-suffix, vivo.com.cn, proxy
+host-suffix, vivoglobal.com, proxy

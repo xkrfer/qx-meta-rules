@@ -1,4 +1,4 @@
-host-suffix, nga.cn
-host-suffix, 178.com
-host-suffix, ngabbs.com
-host-suffix, ngacn.cc
+host-suffix, nga.cn, proxy
+host-suffix, 178.com, proxy
+host-suffix, ngabbs.com, proxy
+host-suffix, ngacn.cc, proxy

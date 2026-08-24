@@ -1,9 +1,9 @@
-host-suffix, acjs.aliyun.com
-host-suffix, adash-emas.cn-hangzhou.aliyuncs.com
-host-suffix, adash.man.aliyuncs.com
-host-suffix, alimama.alicdn.com
-host-suffix, atanx.alicdn.com
-host-suffix, atanx2.alicdn.com
-host-suffix, baichuan-sdk.alicdn.com
-host-suffix, nbsdk-baichuan.alicdn.com
-host-suffix, tce.alicdn.com
+host-suffix, acjs.aliyun.com, proxy
+host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, proxy
+host-suffix, adash.man.aliyuncs.com, proxy
+host-suffix, alimama.alicdn.com, proxy
+host-suffix, atanx.alicdn.com, proxy
+host-suffix, atanx2.alicdn.com, proxy
+host-suffix, baichuan-sdk.alicdn.com, proxy
+host-suffix, nbsdk-baichuan.alicdn.com, proxy
+host-suffix, tce.alicdn.com, proxy

@@ -1,9 +1,9 @@
-ip-cidr, 159.153.32.0/21
-ip-cidr, 159.153.58.0/23
-ip-cidr, 159.153.62.0/23
-ip-cidr, 159.153.72.0/21
-ip-cidr, 159.153.80.0/22
-ip-cidr, 159.153.124.0/22
-ip-cidr, 159.153.160.0/21
-ip-cidr, 159.153.224.0/21
-ip6-cidr, 2a00:ad40:10::/44
+ip-cidr, 159.153.32.0/21, proxy, no-resolve
+ip-cidr, 159.153.58.0/23, proxy, no-resolve
+ip-cidr, 159.153.62.0/23, proxy, no-resolve
+ip-cidr, 159.153.72.0/21, proxy, no-resolve
+ip-cidr, 159.153.80.0/22, proxy, no-resolve
+ip-cidr, 159.153.124.0/22, proxy, no-resolve
+ip-cidr, 159.153.160.0/21, proxy, no-resolve
+ip-cidr, 159.153.224.0/21, proxy, no-resolve
+ip6-cidr, 2a00:ad40:10::/44, proxy, no-resolve

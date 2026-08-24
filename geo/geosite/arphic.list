@@ -1,4 +1,4 @@
-host-suffix, arphic.com
-host-suffix, ifontcloud.com
-host-suffix, arphic.com.cn
-host-suffix, arphic.com.tw
+host-suffix, arphic.com, proxy
+host-suffix, ifontcloud.com, proxy
+host-suffix, arphic.com.cn, proxy
+host-suffix, arphic.com.tw, proxy

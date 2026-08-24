@@ -1,7 +1,7 @@
-host-suffix, coolbuy.com
-host-suffix, ifanr.cn
-host-suffix, ifanr.com
-host-suffix, ifanr.in
-host-suffix, ifanrusercontent.com
-host-suffix, ifanrx.com
-host-suffix, minapp.com
+host-suffix, coolbuy.com, proxy
+host-suffix, ifanr.cn, proxy
+host-suffix, ifanr.com, proxy
+host-suffix, ifanr.in, proxy
+host-suffix, ifanrusercontent.com, proxy
+host-suffix, ifanrx.com, proxy
+host-suffix, minapp.com, proxy

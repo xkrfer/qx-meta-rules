@@ -1,10 +1,10 @@
-host-suffix, ishumei.com
-host-suffix, fengkongbao.com
-host-suffix, fengkongcloud.com
-host-suffix, fengkongcloud.cn
-host-suffix, portal101.cn
-host-suffix, portal102.cn
-host-suffix, portal201.cn
-host-suffix, portal301.cn
-host-suffix, tebiefuza.cloud
-host-suffix, tebiefuza.cn
+host-suffix, ishumei.com, proxy
+host-suffix, fengkongbao.com, proxy
+host-suffix, fengkongcloud.com, proxy
+host-suffix, fengkongcloud.cn, proxy
+host-suffix, portal101.cn, proxy
+host-suffix, portal102.cn, proxy
+host-suffix, portal201.cn, proxy
+host-suffix, portal301.cn, proxy
+host-suffix, tebiefuza.cloud, proxy
+host-suffix, tebiefuza.cn, proxy

@@ -1,4 +1,4 @@
-ip-cidr, 85.142.151.0/24
-ip-cidr, 85.142.154.0/23
-ip-cidr, 85.143.88.0/21
-ip6-cidr, 2001:b08:100::/44
+ip-cidr, 85.142.151.0/24, proxy, no-resolve
+ip-cidr, 85.142.154.0/23, proxy, no-resolve
+ip-cidr, 85.143.88.0/21, proxy, no-resolve
+ip6-cidr, 2001:b08:100::/44, proxy, no-resolve

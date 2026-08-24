@@ -1,30 +1,30 @@
-ip-cidr, 58.84.12.0/23
-ip-cidr, 86.111.54.0/23
-ip-cidr, 148.59.72.0/24
-ip-cidr, 159.112.236.0/23
-ip-cidr, 169.150.0.0/23
-ip-cidr, 177.93.128.0/21
-ip-cidr, 177.93.136.0/23
-ip-cidr, 177.154.60.0/22
-ip-cidr, 201.23.0.0/21
-ip-cidr, 201.23.8.0/23
-ip-cidr, 201.23.12.0/22
-ip-cidr, 201.23.16.0/22
-ip-cidr, 201.23.20.0/23
-ip-cidr, 201.23.24.0/21
-ip-cidr, 201.23.64.0/20
-ip-cidr, 201.23.80.0/21
-ip-cidr, 201.23.88.0/22
-ip-cidr, 201.23.94.0/23
-ip-cidr, 201.54.0.0/22
-ip-cidr, 201.54.8.0/21
-ip-cidr, 201.54.16.0/21
-ip-cidr, 201.54.24.0/22
-ip-cidr, 201.54.31.0/24
-ip-cidr, 209.127.140.0/23
-ip-cidr, 209.172.6.0/23
-ip-cidr, 213.163.246.0/23
-ip6-cidr, 2801:80:3ea0::/46
-ip6-cidr, 2801:80:3ea4::/48
-ip6-cidr, 2801:80:3ead::/48
-ip6-cidr, 2801:80:3eaf::/48
+ip-cidr, 58.84.12.0/23, proxy, no-resolve
+ip-cidr, 86.111.54.0/23, proxy, no-resolve
+ip-cidr, 148.59.72.0/24, proxy, no-resolve
+ip-cidr, 159.112.236.0/23, proxy, no-resolve
+ip-cidr, 169.150.0.0/23, proxy, no-resolve
+ip-cidr, 177.93.128.0/21, proxy, no-resolve
+ip-cidr, 177.93.136.0/23, proxy, no-resolve
+ip-cidr, 177.154.60.0/22, proxy, no-resolve
+ip-cidr, 201.23.0.0/21, proxy, no-resolve
+ip-cidr, 201.23.8.0/23, proxy, no-resolve
+ip-cidr, 201.23.12.0/22, proxy, no-resolve
+ip-cidr, 201.23.16.0/22, proxy, no-resolve
+ip-cidr, 201.23.20.0/23, proxy, no-resolve
+ip-cidr, 201.23.24.0/21, proxy, no-resolve
+ip-cidr, 201.23.64.0/20, proxy, no-resolve
+ip-cidr, 201.23.80.0/21, proxy, no-resolve
+ip-cidr, 201.23.88.0/22, proxy, no-resolve
+ip-cidr, 201.23.94.0/23, proxy, no-resolve
+ip-cidr, 201.54.0.0/22, proxy, no-resolve
+ip-cidr, 201.54.8.0/21, proxy, no-resolve
+ip-cidr, 201.54.16.0/21, proxy, no-resolve
+ip-cidr, 201.54.24.0/22, proxy, no-resolve
+ip-cidr, 201.54.31.0/24, proxy, no-resolve
+ip-cidr, 209.127.140.0/23, proxy, no-resolve
+ip-cidr, 209.172.6.0/23, proxy, no-resolve
+ip-cidr, 213.163.246.0/23, proxy, no-resolve
+ip6-cidr, 2801:80:3ea0::/46, proxy, no-resolve
+ip6-cidr, 2801:80:3ea4::/48, proxy, no-resolve
+ip6-cidr, 2801:80:3ead::/48, proxy, no-resolve
+ip6-cidr, 2801:80:3eaf::/48, proxy, no-resolve

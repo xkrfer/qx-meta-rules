@@ -1,2 +1,2 @@
-host-suffix, c-span.org
-host-suffix, c-spanvideo.org
+host-suffix, c-span.org, proxy
+host-suffix, c-spanvideo.org, proxy

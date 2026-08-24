@@ -1,4 +1,4 @@
-ip-cidr, 204.145.129.0/24
-ip-cidr, 204.145.130.0/24
-ip-cidr, 204.145.133.0/24
-ip-cidr, 204.145.134.0/24
+ip-cidr, 204.145.129.0/24, proxy, no-resolve
+ip-cidr, 204.145.130.0/24, proxy, no-resolve
+ip-cidr, 204.145.133.0/24, proxy, no-resolve
+ip-cidr, 204.145.134.0/24, proxy, no-resolve

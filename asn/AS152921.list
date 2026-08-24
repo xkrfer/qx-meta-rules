@@ -1,1 +1,1 @@
-ip6-cidr, 2406:840:fe94::/48
+ip6-cidr, 2406:840:fe94::/48, proxy, no-resolve

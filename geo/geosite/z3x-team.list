@@ -1,2 +1,2 @@
-host-suffix, easy-jtag.com
-host-suffix, z3x-team.com
+host-suffix, easy-jtag.com, proxy
+host-suffix, z3x-team.com, proxy

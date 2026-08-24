@@ -1,61 +1,61 @@
-host-suffix, bloomberg
-host-suffix, bbgevent.com
-host-suffix, bbhub.io
-host-suffix, bbthat.com
-host-suffix, bgov.com
-host-suffix, bloomberg.cn
-host-suffix, bloomberg.com
-host-suffix, bloomberg.fm
-host-suffix, bloomberg.tv
-host-suffix, bloombergapps.com
-host-suffix, bloombergarcade.com
-host-suffix, bloombergbeta.com
-host-suffix, bloombergbna.com
-host-suffix, bloombergbreakaway.com
-host-suffix, bloombergbriefs.com
-host-suffix, bloombergchina.com
-host-suffix, bloombergenvironment.com
-host-suffix, bloombergforeducation.com
-host-suffix, bloomberggovernment.com
-host-suffix, bloombergindices.com
-host-suffix, bloombergindustry.com
-host-suffix, bloomberglabs.com
-host-suffix, bloomberglaw.com
-host-suffix, bloomberglive.com
-host-suffix, bloomberglp.com
-host-suffix, bloombergmedia.com
-host-suffix, bloombergnext.com
-host-suffix, bloombergpolarlake.com
-host-suffix, bloombergprep.com
-host-suffix, bloombergquint.com
-host-suffix, bloombergradio.com
-host-suffix, bloombergsef.com
-host-suffix, bloombergspace.com
-host-suffix, bloombergstatus.com
-host-suffix, bloombergsurvey.com
-host-suffix, bloombergtax.com
-host-suffix, bloombergtax1.com
-host-suffix, bloombergtaxtech.com
-host-suffix, bloombergtradingchallenge.com
-host-suffix, bloombergtv.mn
-host-suffix, bloombergvault.com
-host-suffix, bloombergview.com
-host-suffix, blpcareers.com
-host-suffix, blpevents.com
-host-suffix, blpprofessional.com
-host-suffix, bmia.org
-host-suffix, bnef.com
-host-suffix, businessweek.com
-host-suffix, businessweekmag.com
-host-suffix, bwbx.io
-host-suffix, citylab.com
-host-suffix, gotraffic.net
-host-suffix, londonmithraeum.com
-host-suffix, neweconomyforum.com
-host-suffix, newenergyfinance.com
-host-suffix, quicktake.video
-host-suffix, techatbloomberg.com
-host-suffix, tictoc.video
-host-suffix, bloomberg.co.jp
-host-suffix, bloomberg.co.kr
-host-suffix, bloomberg.com.br
+host-suffix, bloomberg, proxy
+host-suffix, bbgevent.com, proxy
+host-suffix, bbhub.io, proxy
+host-suffix, bbthat.com, proxy
+host-suffix, bgov.com, proxy
+host-suffix, bloomberg.cn, proxy
+host-suffix, bloomberg.com, proxy
+host-suffix, bloomberg.fm, proxy
+host-suffix, bloomberg.tv, proxy
+host-suffix, bloombergapps.com, proxy
+host-suffix, bloombergarcade.com, proxy
+host-suffix, bloombergbeta.com, proxy
+host-suffix, bloombergbna.com, proxy
+host-suffix, bloombergbreakaway.com, proxy
+host-suffix, bloombergbriefs.com, proxy
+host-suffix, bloombergchina.com, proxy
+host-suffix, bloombergenvironment.com, proxy
+host-suffix, bloombergforeducation.com, proxy
+host-suffix, bloomberggovernment.com, proxy
+host-suffix, bloombergindices.com, proxy
+host-suffix, bloombergindustry.com, proxy
+host-suffix, bloomberglabs.com, proxy
+host-suffix, bloomberglaw.com, proxy
+host-suffix, bloomberglive.com, proxy
+host-suffix, bloomberglp.com, proxy
+host-suffix, bloombergmedia.com, proxy
+host-suffix, bloombergnext.com, proxy
+host-suffix, bloombergpolarlake.com, proxy
+host-suffix, bloombergprep.com, proxy
+host-suffix, bloombergquint.com, proxy
+host-suffix, bloombergradio.com, proxy
+host-suffix, bloombergsef.com, proxy
+host-suffix, bloombergspace.com, proxy
+host-suffix, bloombergstatus.com, proxy
+host-suffix, bloombergsurvey.com, proxy
+host-suffix, bloombergtax.com, proxy
+host-suffix, bloombergtax1.com, proxy
+host-suffix, bloombergtaxtech.com, proxy
+host-suffix, bloombergtradingchallenge.com, proxy
+host-suffix, bloombergtv.mn, proxy
+host-suffix, bloombergvault.com, proxy
+host-suffix, bloombergview.com, proxy
+host-suffix, blpcareers.com, proxy
+host-suffix, blpevents.com, proxy
+host-suffix, blpprofessional.com, proxy
+host-suffix, bmia.org, proxy
+host-suffix, bnef.com, proxy
+host-suffix, businessweek.com, proxy
+host-suffix, businessweekmag.com, proxy
+host-suffix, bwbx.io, proxy
+host-suffix, citylab.com, proxy
+host-suffix, gotraffic.net, proxy
+host-suffix, londonmithraeum.com, proxy
+host-suffix, neweconomyforum.com, proxy
+host-suffix, newenergyfinance.com, proxy
+host-suffix, quicktake.video, proxy
+host-suffix, techatbloomberg.com, proxy
+host-suffix, tictoc.video, proxy
+host-suffix, bloomberg.co.jp, proxy
+host-suffix, bloomberg.co.kr, proxy
+host-suffix, bloomberg.com.br, proxy

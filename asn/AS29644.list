@@ -1,35 +1,35 @@
-ip-cidr, 31.193.216.0/21
-ip-cidr, 77.75.96.0/21
-ip-cidr, 148.252.8.0/21
-ip-cidr, 178.250.112.0/21
-ip-cidr, 185.51.104.0/22
-ip-cidr, 185.69.212.0/22
-ip-cidr, 185.113.232.0/22
-ip6-cidr, 2a03:5f00::/40
-ip6-cidr, 2a03:5f00:100::/46
-ip6-cidr, 2a03:5f00:105::/48
-ip6-cidr, 2a03:5f00:106::/47
-ip6-cidr, 2a03:5f00:109::/48
-ip6-cidr, 2a03:5f00:10a::/47
-ip6-cidr, 2a03:5f00:10c::/46
-ip6-cidr, 2a03:5f00:110::/44
-ip6-cidr, 2a03:5f00:120::/43
-ip6-cidr, 2a03:5f00:140::/42
-ip6-cidr, 2a03:5f00:180::/41
-ip6-cidr, 2a03:5f00:200::/39
-ip6-cidr, 2a03:5f00:400::/38
-ip6-cidr, 2a03:5f00:800::/37
-ip6-cidr, 2a03:5f00:1002::/47
-ip6-cidr, 2a03:5f00:1004::/46
-ip6-cidr, 2a03:5f00:1008::/45
-ip6-cidr, 2a03:5f00:1010::/44
-ip6-cidr, 2a03:5f00:1020::/43
-ip6-cidr, 2a03:5f00:1040::/42
-ip6-cidr, 2a03:5f00:1080::/41
-ip6-cidr, 2a03:5f00:1100::/40
-ip6-cidr, 2a03:5f00:1200::/39
-ip6-cidr, 2a03:5f00:1400::/38
-ip6-cidr, 2a03:5f00:1800::/37
-ip6-cidr, 2a03:5f00:2000::/35
-ip6-cidr, 2a03:5f00:4000::/34
-ip6-cidr, 2a03:5f00:8000::/33
+ip-cidr, 31.193.216.0/21, proxy, no-resolve
+ip-cidr, 77.75.96.0/21, proxy, no-resolve
+ip-cidr, 148.252.8.0/21, proxy, no-resolve
+ip-cidr, 178.250.112.0/21, proxy, no-resolve
+ip-cidr, 185.51.104.0/22, proxy, no-resolve
+ip-cidr, 185.69.212.0/22, proxy, no-resolve
+ip-cidr, 185.113.232.0/22, proxy, no-resolve
+ip6-cidr, 2a03:5f00::/40, proxy, no-resolve
+ip6-cidr, 2a03:5f00:100::/46, proxy, no-resolve
+ip6-cidr, 2a03:5f00:105::/48, proxy, no-resolve
+ip6-cidr, 2a03:5f00:106::/47, proxy, no-resolve
+ip6-cidr, 2a03:5f00:109::/48, proxy, no-resolve
+ip6-cidr, 2a03:5f00:10a::/47, proxy, no-resolve
+ip6-cidr, 2a03:5f00:10c::/46, proxy, no-resolve
+ip6-cidr, 2a03:5f00:110::/44, proxy, no-resolve
+ip6-cidr, 2a03:5f00:120::/43, proxy, no-resolve
+ip6-cidr, 2a03:5f00:140::/42, proxy, no-resolve
+ip6-cidr, 2a03:5f00:180::/41, proxy, no-resolve
+ip6-cidr, 2a03:5f00:200::/39, proxy, no-resolve
+ip6-cidr, 2a03:5f00:400::/38, proxy, no-resolve
+ip6-cidr, 2a03:5f00:800::/37, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1002::/47, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1004::/46, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1008::/45, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1010::/44, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1020::/43, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1040::/42, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1080::/41, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1100::/40, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1200::/39, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1400::/38, proxy, no-resolve
+ip6-cidr, 2a03:5f00:1800::/37, proxy, no-resolve
+ip6-cidr, 2a03:5f00:2000::/35, proxy, no-resolve
+ip6-cidr, 2a03:5f00:4000::/34, proxy, no-resolve
+ip6-cidr, 2a03:5f00:8000::/33, proxy, no-resolve

@@ -1,29 +1,29 @@
-host, cbsi.live.ott.irdeto.com
-host, cbsplaylistserver.aws.syncbak.com
-host, cbsservice.aws.syncbak.com
-host, link.theplatform.com
-host-suffix, cbs.com
-host-suffix, cbscorporation.com
-host-suffix, cbsi.com
-host-suffix, cbsi.video
-host-suffix, cbsiam.com
-host-suffix, cbsig.net
-host-suffix, cbsimg.net
-host-suffix, cbsinteractive.com
-host-suffix, cbsistatic.com
-host-suffix, cbsivideo.com
-host-suffix, cbsnews.com
-host-suffix, cbspressexpress.com
-host-suffix, cbssports.com
-host-suffix, cbsstatic.com
-host-suffix, cbssvideo.com
-host-suffix, viacbs.com
-host-suffix, viacom.com
-host-suffix, viacomcbs.com
-host-suffix, viacomcbspressexpress.com
-host-suffix, paramount.com
-host-suffix, amlg.io
-host-suffix, cbsaavideo.com
-host-suffix, mtvnservices.com
-host-suffix, paramountplus.com
-host-suffix, pplusstatic.com
+host, cbsi.live.ott.irdeto.com, proxy
+host, cbsplaylistserver.aws.syncbak.com, proxy
+host, cbsservice.aws.syncbak.com, proxy
+host, link.theplatform.com, proxy
+host-suffix, cbs.com, proxy
+host-suffix, cbscorporation.com, proxy
+host-suffix, cbsi.com, proxy
+host-suffix, cbsi.video, proxy
+host-suffix, cbsiam.com, proxy
+host-suffix, cbsig.net, proxy
+host-suffix, cbsimg.net, proxy
+host-suffix, cbsinteractive.com, proxy
+host-suffix, cbsistatic.com, proxy
+host-suffix, cbsivideo.com, proxy
+host-suffix, cbsnews.com, proxy
+host-suffix, cbspressexpress.com, proxy
+host-suffix, cbssports.com, proxy
+host-suffix, cbsstatic.com, proxy
+host-suffix, cbssvideo.com, proxy
+host-suffix, viacbs.com, proxy
+host-suffix, viacom.com, proxy
+host-suffix, viacomcbs.com, proxy
+host-suffix, viacomcbspressexpress.com, proxy
+host-suffix, paramount.com, proxy
+host-suffix, amlg.io, proxy
+host-suffix, cbsaavideo.com, proxy
+host-suffix, mtvnservices.com, proxy
+host-suffix, paramountplus.com, proxy
+host-suffix, pplusstatic.com, proxy

@@ -1,4 +1,4 @@
-host-suffix, tandfonline.com
-host-suffix, taylorandfrancis.com
-host-suffix, taylorfrancis.com
-host-suffix, tandf.co.uk
+host-suffix, tandfonline.com, proxy
+host-suffix, taylorandfrancis.com, proxy
+host-suffix, taylorfrancis.com, proxy
+host-suffix, tandf.co.uk, proxy

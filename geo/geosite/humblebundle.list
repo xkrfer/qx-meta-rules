@@ -1,2 +1,2 @@
-host, hb.imgix.net
-host-suffix, humblebundle.com
+host, hb.imgix.net, proxy
+host-suffix, humblebundle.com, proxy

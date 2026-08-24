@@ -1,11 +1,11 @@
-host-suffix, myanonamouse.net
-host-suffix, nebulance.io
-host-suffix, torrentleech.cc
-host-suffix, torrentleech.org
-host-suffix, skyey2.com
-host-suffix, skyeysnow.com
-host-suffix, m-team.cc
-host-suffix, m-team.io
-host-suffix, mt.cc
-host-suffix, dmhy.best
-host-suffix, dmhy.org
+host-suffix, myanonamouse.net, proxy
+host-suffix, nebulance.io, proxy
+host-suffix, torrentleech.cc, proxy
+host-suffix, torrentleech.org, proxy
+host-suffix, skyey2.com, proxy
+host-suffix, skyeysnow.com, proxy
+host-suffix, m-team.cc, proxy
+host-suffix, m-team.io, proxy
+host-suffix, mt.cc, proxy
+host-suffix, dmhy.best, proxy
+host-suffix, dmhy.org, proxy

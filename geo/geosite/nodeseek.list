@@ -1,6 +1,6 @@
-host-suffix, 22112211.xyz
-host-suffix, deepflood.com
-host-suffix, nodeget.com
-host-suffix, nodeimage.com
-host-suffix, nodequality.com
-host-suffix, nodeseek.com
+host-suffix, 22112211.xyz, proxy
+host-suffix, deepflood.com, proxy
+host-suffix, nodeget.com, proxy
+host-suffix, nodeimage.com, proxy
+host-suffix, nodequality.com, proxy
+host-suffix, nodeseek.com, proxy

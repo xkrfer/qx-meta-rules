@@ -1,55 +1,55 @@
-host-suffix, aboutamazon.cn
-host-suffix, alexafund.cn
-host-suffix, alexafund.com.cn
-host-suffix, amazon.cn
-host-suffix, amazonbusiness.cn
-host-suffix, amazonbusiness.com.cn
-host-suffix, amazonchoice.cn
-host-suffix, amazonchoice.com.cn
-host-suffix, amazonchoices.cn
-host-suffix, amazonchoices.com.cn
-host-suffix, amazoninspire.cn
-host-suffix, amazoninspire.com.cn
-host-suffix, amazonlaunchpad.cn
-host-suffix, amazonlaunchpad.com.cn
-host-suffix, amazonlending.com.cn
-host-suffix, amazonnow.cn
-host-suffix, amazonnow.com.cn
-host-suffix, assoc-amazon.cn
-host-suffix, primeday.cn
-host-suffix, primeday.com.cn
-host-suffix, yamaxun.cn
-host-suffix, z.cn
-host, images-cn.ssl-images-amazon.com
-host, images-cn-8.ssl-images-amazon.com
-host-suffix, kindle.cn
-host-suffix, kindleoasis.cn
-host-suffix, kindleoasis.com.cn
-host-suffix, amazonprimevideo.cn
-host-suffix, amazonprimevideo.com.cn
-host-suffix, a2z.org.cn
-host-suffix, amazonaws.cn
-host-suffix, amazonaws.com.cn
-host-suffix, amazonwebservices.cn
-host-suffix, amazonwebservices.com.cn
-host-suffix, amazonworkdocs.cn
-host-suffix, amazonworkdocs.com.cn
-host-suffix, asfiovnxocqpcry.com.cn
-host-suffix, aws-border.cn
-host-suffix, aws-icp-domain-manager.cn
-host-suffix, awsapps.cn
-host-suffix, awsapps.com.cn
-host-suffix, awsstatic.cn
-host-suffix, cloudfront-cn.net
-host-suffix, cloudfront-test.cn
-host-suffix, cloudfront.cn
-host-suffix, nwcdcloud.cn
-host-suffix, nwcdcloud.com.cn
-host-suffix, nwcddns.cn
-host-suffix, nwcdinfosec.cn
-host-suffix, route53.cn
-host-suffix, sagemaker.com.cn
-host-suffix, amzndns-cn.biz
-host-suffix, amzndns-cn.cn
-host-suffix, amzndns-cn.com
-host-suffix, amzndns-cn.net
+host-suffix, aboutamazon.cn, proxy
+host-suffix, alexafund.cn, proxy
+host-suffix, alexafund.com.cn, proxy
+host-suffix, amazon.cn, proxy
+host-suffix, amazonbusiness.cn, proxy
+host-suffix, amazonbusiness.com.cn, proxy
+host-suffix, amazonchoice.cn, proxy
+host-suffix, amazonchoice.com.cn, proxy
+host-suffix, amazonchoices.cn, proxy
+host-suffix, amazonchoices.com.cn, proxy
+host-suffix, amazoninspire.cn, proxy
+host-suffix, amazoninspire.com.cn, proxy
+host-suffix, amazonlaunchpad.cn, proxy
+host-suffix, amazonlaunchpad.com.cn, proxy
+host-suffix, amazonlending.com.cn, proxy
+host-suffix, amazonnow.cn, proxy
+host-suffix, amazonnow.com.cn, proxy
+host-suffix, assoc-amazon.cn, proxy
+host-suffix, primeday.cn, proxy
+host-suffix, primeday.com.cn, proxy
+host-suffix, yamaxun.cn, proxy
+host-suffix, z.cn, proxy
+host, images-cn.ssl-images-amazon.com, proxy
+host, images-cn-8.ssl-images-amazon.com, proxy
+host-suffix, kindle.cn, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com.cn, proxy
+host-suffix, amazonprimevideo.cn, proxy
+host-suffix, amazonprimevideo.com.cn, proxy
+host-suffix, a2z.org.cn, proxy
+host-suffix, amazonaws.cn, proxy
+host-suffix, amazonaws.com.cn, proxy
+host-suffix, amazonwebservices.cn, proxy
+host-suffix, amazonwebservices.com.cn, proxy
+host-suffix, amazonworkdocs.cn, proxy
+host-suffix, amazonworkdocs.com.cn, proxy
+host-suffix, asfiovnxocqpcry.com.cn, proxy
+host-suffix, aws-border.cn, proxy
+host-suffix, aws-icp-domain-manager.cn, proxy
+host-suffix, awsapps.cn, proxy
+host-suffix, awsapps.com.cn, proxy
+host-suffix, awsstatic.cn, proxy
+host-suffix, cloudfront-cn.net, proxy
+host-suffix, cloudfront-test.cn, proxy
+host-suffix, cloudfront.cn, proxy
+host-suffix, nwcdcloud.cn, proxy
+host-suffix, nwcdcloud.com.cn, proxy
+host-suffix, nwcddns.cn, proxy
+host-suffix, nwcdinfosec.cn, proxy
+host-suffix, route53.cn, proxy
+host-suffix, sagemaker.com.cn, proxy
+host-suffix, amzndns-cn.biz, proxy
+host-suffix, amzndns-cn.cn, proxy
+host-suffix, amzndns-cn.com, proxy
+host-suffix, amzndns-cn.net, proxy

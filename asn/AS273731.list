@@ -1,2 +1,2 @@
-ip6-cidr, 2804:8b6c::/47
-ip6-cidr, 2804:8b6c:9000::/48
+ip6-cidr, 2804:8b6c::/47, proxy, no-resolve
+ip6-cidr, 2804:8b6c:9000::/48, proxy, no-resolve

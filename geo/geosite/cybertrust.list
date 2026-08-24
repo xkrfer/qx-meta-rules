@@ -1,2 +1,2 @@
-host-suffix, cybertrust.co.jp
-host-suffix, cybertrust.ne.jp
+host-suffix, cybertrust.co.jp, proxy
+host-suffix, cybertrust.ne.jp, proxy

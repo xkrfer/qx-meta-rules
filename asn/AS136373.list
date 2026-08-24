@@ -1,13 +1,13 @@
-ip-cidr, 103.57.66.0/23
-ip-cidr, 103.69.88.0/22
-ip-cidr, 103.122.200.0/23
-ip-cidr, 103.143.39.0/24
-ip-cidr, 103.163.68.0/23
-ip-cidr, 103.164.176.0/23
-ip-cidr, 154.22.16.0/23
-ip-cidr, 162.4.144.0/24
-ip6-cidr, 2400:3ca0::/41
-ip6-cidr, 2400:3ca0:81::/48
-ip6-cidr, 2400:3ca0:82::/47
-ip6-cidr, 2400:3ca0:84::/46
-ip6-cidr, 2400:3ca0:88::/45
+ip-cidr, 103.57.66.0/23, proxy, no-resolve
+ip-cidr, 103.69.88.0/22, proxy, no-resolve
+ip-cidr, 103.122.200.0/23, proxy, no-resolve
+ip-cidr, 103.143.39.0/24, proxy, no-resolve
+ip-cidr, 103.163.68.0/23, proxy, no-resolve
+ip-cidr, 103.164.176.0/23, proxy, no-resolve
+ip-cidr, 154.22.16.0/23, proxy, no-resolve
+ip-cidr, 162.4.144.0/24, proxy, no-resolve
+ip6-cidr, 2400:3ca0::/41, proxy, no-resolve
+ip6-cidr, 2400:3ca0:81::/48, proxy, no-resolve
+ip6-cidr, 2400:3ca0:82::/47, proxy, no-resolve
+ip6-cidr, 2400:3ca0:84::/46, proxy, no-resolve
+ip6-cidr, 2400:3ca0:88::/45, proxy, no-resolve

@@ -1,5 +1,5 @@
-ip-cidr, 38.9.48.0/23
-ip-cidr, 38.183.152.0/24
-ip-cidr, 45.38.2.0/24
-ip-cidr, 45.88.99.0/24
-ip6-cidr, 2803:7910::/32
+ip-cidr, 38.9.48.0/23, proxy, no-resolve
+ip-cidr, 38.183.152.0/24, proxy, no-resolve
+ip-cidr, 45.38.2.0/24, proxy, no-resolve
+ip-cidr, 45.88.99.0/24, proxy, no-resolve
+ip6-cidr, 2803:7910::/32, proxy, no-resolve

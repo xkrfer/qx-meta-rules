@@ -1,4 +1,4 @@
-ip-cidr, 131.153.93.0/24
-ip-cidr, 131.153.121.0/24
-ip6-cidr, 2607:6004:a100::/40
-ip6-cidr, 2607:6004:e301::/48
+ip-cidr, 131.153.93.0/24, proxy, no-resolve
+ip-cidr, 131.153.121.0/24, proxy, no-resolve
+ip6-cidr, 2607:6004:a100::/40, proxy, no-resolve
+ip6-cidr, 2607:6004:e301::/48, proxy, no-resolve

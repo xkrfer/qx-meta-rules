@@ -1,32 +1,32 @@
-host-suffix, realtor.com
-host-suffix, rea-group.com
-host-suffix, thinkofliving.com
-host-suffix, housing.com
-host-suffix, housingcdn.com
-host-suffix, smartexpos.com
-host-suffix, ippstatic.com
-host-suffix, iproperty.com
-host-suffix, rea-asia.com
-host-suffix, rumah123.com
-host-suffix, makaan.com
-host-suffix, move.com
-host-suffix, moveaws.com
-host-suffix, myfun.com
-host-suffix, reastatic.net
-host-suffix, rea.tech
-host-suffix, rea.io
-host-suffix, proptiger.com
-host-suffix, rea.design
-host-suffix, rea.global
-host-suffix, iproperty.com.my
-host-suffix, property.com.au
-host-suffix, realcommercial.com.au
-host-suffix, realestate.com.au
-host-suffix, flatmates.com.au
-host-suffix, hackday.com.au
-host-suffix, iproperty.com.sg
-host-suffix, inventorship.com.au
-host-suffix, smartline.com.au
-host-suffix, spacely.com.au
-host-suffix, squarefoot.com.hk
-host-suffix, hometrack.com.au
+host-suffix, realtor.com, proxy
+host-suffix, rea-group.com, proxy
+host-suffix, thinkofliving.com, proxy
+host-suffix, housing.com, proxy
+host-suffix, housingcdn.com, proxy
+host-suffix, smartexpos.com, proxy
+host-suffix, ippstatic.com, proxy
+host-suffix, iproperty.com, proxy
+host-suffix, rea-asia.com, proxy
+host-suffix, rumah123.com, proxy
+host-suffix, makaan.com, proxy
+host-suffix, move.com, proxy
+host-suffix, moveaws.com, proxy
+host-suffix, myfun.com, proxy
+host-suffix, reastatic.net, proxy
+host-suffix, rea.tech, proxy
+host-suffix, rea.io, proxy
+host-suffix, proptiger.com, proxy
+host-suffix, rea.design, proxy
+host-suffix, rea.global, proxy
+host-suffix, iproperty.com.my, proxy
+host-suffix, property.com.au, proxy
+host-suffix, realcommercial.com.au, proxy
+host-suffix, realestate.com.au, proxy
+host-suffix, flatmates.com.au, proxy
+host-suffix, hackday.com.au, proxy
+host-suffix, iproperty.com.sg, proxy
+host-suffix, inventorship.com.au, proxy
+host-suffix, smartline.com.au, proxy
+host-suffix, spacely.com.au, proxy
+host-suffix, squarefoot.com.hk, proxy
+host-suffix, hometrack.com.au, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 45.183.140.0/22
-ip6-cidr, 2803:e360::/37
-ip6-cidr, 2803:e360:800::/38
-ip6-cidr, 2803:e360:c00::/39
-ip6-cidr, 2803:e360:e00::/40
+ip-cidr, 45.183.140.0/22, proxy, no-resolve
+ip6-cidr, 2803:e360::/37, proxy, no-resolve
+ip6-cidr, 2803:e360:800::/38, proxy, no-resolve
+ip6-cidr, 2803:e360:c00::/39, proxy, no-resolve
+ip6-cidr, 2803:e360:e00::/40, proxy, no-resolve

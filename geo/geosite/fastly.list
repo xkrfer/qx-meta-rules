@@ -1,7 +1,7 @@
-host-suffix, fastly-edge.com
-host-suffix, fastly-terrarium.com
-host-suffix, fastly.com
-host-suffix, fastly.io
-host-suffix, fastly.net
-host-suffix, fastlylabs.com
-host-suffix, fastlylb.net
+host-suffix, fastly-edge.com, proxy
+host-suffix, fastly-terrarium.com, proxy
+host-suffix, fastly.com, proxy
+host-suffix, fastly.io, proxy
+host-suffix, fastly.net, proxy
+host-suffix, fastlylabs.com, proxy
+host-suffix, fastlylb.net, proxy

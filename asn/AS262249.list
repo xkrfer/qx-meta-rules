@@ -1,16 +1,16 @@
-ip-cidr, 200.108.144.0/22
-ip-cidr, 200.108.149.0/24
-ip-cidr, 200.108.150.0/23
-ip-cidr, 200.108.155.0/24
-ip6-cidr, 2801:140::/46
-ip6-cidr, 2801:140:4::/47
-ip6-cidr, 2801:140:11::/48
-ip6-cidr, 2801:140:121::/48
-ip6-cidr, 2801:140:122::/47
-ip6-cidr, 2801:140:124::/48
-ip6-cidr, 2801:140:144::/48
-ip6-cidr, 2801:140:bfa::/48
-ip6-cidr, 2801:140:b149::/48
-ip6-cidr, 2801:140:b941::/48
-ip6-cidr, 2801:140:fffb::/48
-ip6-cidr, 2801:140:fffe::/48
+ip-cidr, 200.108.144.0/22, proxy, no-resolve
+ip-cidr, 200.108.149.0/24, proxy, no-resolve
+ip-cidr, 200.108.150.0/23, proxy, no-resolve
+ip-cidr, 200.108.155.0/24, proxy, no-resolve
+ip6-cidr, 2801:140::/46, proxy, no-resolve
+ip6-cidr, 2801:140:4::/47, proxy, no-resolve
+ip6-cidr, 2801:140:11::/48, proxy, no-resolve
+ip6-cidr, 2801:140:121::/48, proxy, no-resolve
+ip6-cidr, 2801:140:122::/47, proxy, no-resolve
+ip6-cidr, 2801:140:124::/48, proxy, no-resolve
+ip6-cidr, 2801:140:144::/48, proxy, no-resolve
+ip6-cidr, 2801:140:bfa::/48, proxy, no-resolve
+ip6-cidr, 2801:140:b149::/48, proxy, no-resolve
+ip6-cidr, 2801:140:b941::/48, proxy, no-resolve
+ip6-cidr, 2801:140:fffb::/48, proxy, no-resolve
+ip6-cidr, 2801:140:fffe::/48, proxy, no-resolve

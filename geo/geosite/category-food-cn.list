@@ -1,62 +1,62 @@
-host-suffix, yili.com
-host-suffix, telunsu.net
-host-suffix, haidilao.com
-host-suffix, hdlcdns.com
-host-suffix, kiwa-tech.com
-host-suffix, heytea.com
-host-suffix, anlaiye.com
-host-suffix, yyds.co
-host-suffix, imcoming.com
-host-suffix, imcome.net
-host-suffix, meican.com
-host-suffix, meicanstatic.com
-host-suffix, nongfuspring.com
-host-suffix, luckincoffeecdn.com
-host-suffix, lkcoffee.com
-host-suffix, whhhealth.com
-host-suffix, shuxinyc.com
-host-suffix, mxbc.com
-host-suffix, mxbc.net
-host-suffix, hophing.cn
-host-suffix, lppzimg.com
-host-suffix, lppz.com
-host-suffix, hwwt8.com
-host-suffix, qmimg.cn
-host-suffix, yumchina.com
-host-suffix, qmai.com
-host-suffix, vipbcw.com
-host-suffix, 517lppz.com
-host-suffix, bkchina.cn
-host-suffix, kemen.cn
-host-suffix, micun.com
-host-suffix, cofco.com
-host-suffix, shuanghui.net
-host-suffix, chinabdh.com
-host-suffix, hacl.cn
-host-suffix, 4008117117.com
-host-suffix, brightdairy.com
-host-suffix, brighticecream.com
-host-suffix, chinacow.com
-host-suffix, 3songshu.com
-host-suffix, luhua.cn
-host-suffix, qmai.cn
-host-suffix, junlebaoruye.com
-host-suffix, yihaikerry.net.cn
-host-suffix, mengniu.com.cn
-host-suffix, greatwallwine.com.cn
-host-suffix, chinatea.com.cn
-host-suffix, kfc.com.cn
-host-suffix, dicos.com.cn
-host-suffix, hophing.com.cn
-host-suffix, wahaha.com.cn
-host-suffix, yst.com.cn
-host-suffix, anlaiye.com.cn
-host-suffix, logger.qmai.cn
-host-suffix, tracking.mcdonalds.com.cn
-host-suffix, trackingprd.hwwt8.com
-host-suffix, trackserver.shuxinyc.com
-host-suffix, 4008-517-517.cn
-host-suffix, mcd.cn
-host-suffix, mcdchina.net
-host-suffix, mcdonalds.com.cn
-host-suffix, starbucks.com.cn
+host-suffix, yili.com, proxy
+host-suffix, telunsu.net, proxy
+host-suffix, haidilao.com, proxy
+host-suffix, hdlcdns.com, proxy
+host-suffix, kiwa-tech.com, proxy
+host-suffix, heytea.com, proxy
+host-suffix, anlaiye.com, proxy
+host-suffix, yyds.co, proxy
+host-suffix, imcoming.com, proxy
+host-suffix, imcome.net, proxy
+host-suffix, meican.com, proxy
+host-suffix, meicanstatic.com, proxy
+host-suffix, nongfuspring.com, proxy
+host-suffix, luckincoffeecdn.com, proxy
+host-suffix, lkcoffee.com, proxy
+host-suffix, whhhealth.com, proxy
+host-suffix, shuxinyc.com, proxy
+host-suffix, mxbc.com, proxy
+host-suffix, mxbc.net, proxy
+host-suffix, hophing.cn, proxy
+host-suffix, lppzimg.com, proxy
+host-suffix, lppz.com, proxy
+host-suffix, hwwt8.com, proxy
+host-suffix, qmimg.cn, proxy
+host-suffix, yumchina.com, proxy
+host-suffix, qmai.com, proxy
+host-suffix, vipbcw.com, proxy
+host-suffix, 517lppz.com, proxy
+host-suffix, bkchina.cn, proxy
+host-suffix, kemen.cn, proxy
+host-suffix, micun.com, proxy
+host-suffix, cofco.com, proxy
+host-suffix, shuanghui.net, proxy
+host-suffix, chinabdh.com, proxy
+host-suffix, hacl.cn, proxy
+host-suffix, 4008117117.com, proxy
+host-suffix, brightdairy.com, proxy
+host-suffix, brighticecream.com, proxy
+host-suffix, chinacow.com, proxy
+host-suffix, 3songshu.com, proxy
+host-suffix, luhua.cn, proxy
+host-suffix, qmai.cn, proxy
+host-suffix, junlebaoruye.com, proxy
+host-suffix, yihaikerry.net.cn, proxy
+host-suffix, mengniu.com.cn, proxy
+host-suffix, greatwallwine.com.cn, proxy
+host-suffix, chinatea.com.cn, proxy
+host-suffix, kfc.com.cn, proxy
+host-suffix, dicos.com.cn, proxy
+host-suffix, hophing.com.cn, proxy
+host-suffix, wahaha.com.cn, proxy
+host-suffix, yst.com.cn, proxy
+host-suffix, anlaiye.com.cn, proxy
+host-suffix, logger.qmai.cn, proxy
+host-suffix, tracking.mcdonalds.com.cn, proxy
+host-suffix, trackingprd.hwwt8.com, proxy
+host-suffix, trackserver.shuxinyc.com, proxy
+host-suffix, 4008-517-517.cn, proxy
+host-suffix, mcd.cn, proxy
+host-suffix, mcdchina.net, proxy
+host-suffix, mcdonalds.com.cn, proxy
+host-suffix, starbucks.com.cn, proxy

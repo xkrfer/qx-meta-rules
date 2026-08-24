@@ -1,35 +1,35 @@
-host-suffix, dettol-prize.com
-host-suffix, dettol.com
-host-suffix, dettol.be
-host-suffix, dettol.ru
-host-suffix, dettol.cl
-host-suffix, dettolthailand.com
-host-suffix, dettolcleannaija.com
-host-suffix, dettolarabia.com
-host-suffix, dettol.at
-host-suffix, dettol.cz
-host-suffix, dettol.ch
-host-suffix, dettol.pt
-host-suffix, dettol.pl
-host-suffix, dettol.pk
-host-suffix, dettol.nl
-host-suffix, dettol.net
-host-suffix, dettol.ie
-host-suffix, dettol.hu
-host-suffix, dettol.fr
-host-suffix, dettol.co.nz
-host-suffix, dettol.com.sg
-host-suffix, dettol.com.ng
-host-suffix, dettol.com.my
-host-suffix, dettol.com.hk
-host-suffix, dettol.com.eg
-host-suffix, dettol.com.br
-host-suffix, dettol.com.bd
-host-suffix, dettol.com.au
-host-suffix, dettol.co.uk
-host-suffix, dettol.co.ke
-host-suffix, dettol.co.in
-host-suffix, dettolsitishield.co.in
-host-suffix, dettol.co.id
-host-suffix, espadoldettol.com.ar
-host-suffix, dettol.com.cn
+host-suffix, dettol-prize.com, proxy
+host-suffix, dettol.com, proxy
+host-suffix, dettol.be, proxy
+host-suffix, dettol.ru, proxy
+host-suffix, dettol.cl, proxy
+host-suffix, dettolthailand.com, proxy
+host-suffix, dettolcleannaija.com, proxy
+host-suffix, dettolarabia.com, proxy
+host-suffix, dettol.at, proxy
+host-suffix, dettol.cz, proxy
+host-suffix, dettol.ch, proxy
+host-suffix, dettol.pt, proxy
+host-suffix, dettol.pl, proxy
+host-suffix, dettol.pk, proxy
+host-suffix, dettol.nl, proxy
+host-suffix, dettol.net, proxy
+host-suffix, dettol.ie, proxy
+host-suffix, dettol.hu, proxy
+host-suffix, dettol.fr, proxy
+host-suffix, dettol.co.nz, proxy
+host-suffix, dettol.com.sg, proxy
+host-suffix, dettol.com.ng, proxy
+host-suffix, dettol.com.my, proxy
+host-suffix, dettol.com.hk, proxy
+host-suffix, dettol.com.eg, proxy
+host-suffix, dettol.com.br, proxy
+host-suffix, dettol.com.bd, proxy
+host-suffix, dettol.com.au, proxy
+host-suffix, dettol.co.uk, proxy
+host-suffix, dettol.co.ke, proxy
+host-suffix, dettol.co.in, proxy
+host-suffix, dettolsitishield.co.in, proxy
+host-suffix, dettol.co.id, proxy
+host-suffix, espadoldettol.com.ar, proxy
+host-suffix, dettol.com.cn, proxy

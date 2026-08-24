@@ -1,5 +1,5 @@
-host-suffix, crazedns.ru
-host-suffix, netcraze.club
-host-suffix, netcraze.link
-host-suffix, netcraze.pro
-host-suffix, netcraze.ru
+host-suffix, crazedns.ru, proxy
+host-suffix, netcraze.club, proxy
+host-suffix, netcraze.link, proxy
+host-suffix, netcraze.pro, proxy
+host-suffix, netcraze.ru, proxy

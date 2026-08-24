@@ -1,6 +1,6 @@
-host-suffix, cambridge.org
-host-suffix, cambridgeschoolshakespeare.com
-host-suffix, cambridgedigital.net
-host-suffix, cambridgemaths.org
-host-suffix, cam.ac.uk
-host-suffix, dlib.eastview.com
+host-suffix, cambridge.org, proxy
+host-suffix, cambridgeschoolshakespeare.com, proxy
+host-suffix, cambridgedigital.net, proxy
+host-suffix, cambridgemaths.org, proxy
+host-suffix, cam.ac.uk, proxy
+host-suffix, dlib.eastview.com, proxy

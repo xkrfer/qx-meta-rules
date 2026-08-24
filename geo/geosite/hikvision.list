@@ -1,8 +1,8 @@
-host-suffix, hik-cloud.com
-host-suffix, hik-express.com
-host-suffix, hikiot.com
-host-suffix, hikmall.com
-host-suffix, hikvision.com
-host-suffix, eziot.com
-host-suffix, ezviz.com
-host-suffix, ys7.com
+host-suffix, hik-cloud.com, proxy
+host-suffix, hik-express.com, proxy
+host-suffix, hikiot.com, proxy
+host-suffix, hikmall.com, proxy
+host-suffix, hikvision.com, proxy
+host-suffix, eziot.com, proxy
+host-suffix, ezviz.com, proxy
+host-suffix, ys7.com, proxy

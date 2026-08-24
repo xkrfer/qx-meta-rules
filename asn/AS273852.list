@@ -1,1 +1,1 @@
-ip6-cidr, 2801:14a::/40
+ip6-cidr, 2801:14a::/40, proxy, no-resolve

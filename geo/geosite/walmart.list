@@ -1,10 +1,10 @@
-host-suffix, walmart
-host-suffix, w-mt.co
-host-suffix, wal-mart.com
-host-suffix, wal.co
-host-suffix, walmart-content.com
-host-suffix, walmart.com
-host-suffix, walmart.pharmacy
-host-suffix, walmartimages.com
-host-suffix, wmt.co
-host-suffix, walmart.cn
+host-suffix, walmart, proxy
+host-suffix, w-mt.co, proxy
+host-suffix, wal-mart.com, proxy
+host-suffix, wal.co, proxy
+host-suffix, walmart-content.com, proxy
+host-suffix, walmart.com, proxy
+host-suffix, walmart.pharmacy, proxy
+host-suffix, walmartimages.com, proxy
+host-suffix, wmt.co, proxy
+host-suffix, walmart.cn, proxy

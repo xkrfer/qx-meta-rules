@@ -1,4 +1,4 @@
-host-suffix, coursera-for-business.org
-host-suffix, coursera.community
-host-suffix, coursera.help
-host-suffix, coursera.org
+host-suffix, coursera-for-business.org, proxy
+host-suffix, coursera.community, proxy
+host-suffix, coursera.help, proxy
+host-suffix, coursera.org, proxy

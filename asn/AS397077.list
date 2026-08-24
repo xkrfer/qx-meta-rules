@@ -1,3 +1,3 @@
-ip-cidr, 160.33.58.0/24
-ip-cidr, 160.33.60.0/24
-ip6-cidr, 2a02:5400:87::/48
+ip-cidr, 160.33.58.0/24, proxy, no-resolve
+ip-cidr, 160.33.60.0/24, proxy, no-resolve
+ip6-cidr, 2a02:5400:87::/48, proxy, no-resolve

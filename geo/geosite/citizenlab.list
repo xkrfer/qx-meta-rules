@@ -1,2 +1,2 @@
-host-suffix, citizenlab.ca
-host-suffix, citizenlab.org
+host-suffix, citizenlab.ca, proxy
+host-suffix, citizenlab.org, proxy

@@ -1,13 +1,13 @@
-host-suffix, zohomerchandise.com
-host-suffix, zoho.eu
-host-suffix, zoho.in
-host-suffix, zohocdn.com
-host-suffix, zohomeetups.com
-host-suffix, zoho.com
-host-suffix, zohopublic.com
-host-suffix, zohoschools.com
-host-suffix, zohostatic.com
-host-suffix, zohostatic.in
-host-suffix, zohouniversity.com
-host-suffix, zohowebstatic.com
-host-suffix, zoho.com.au
+host-suffix, zohomerchandise.com, proxy
+host-suffix, zoho.eu, proxy
+host-suffix, zoho.in, proxy
+host-suffix, zohocdn.com, proxy
+host-suffix, zohomeetups.com, proxy
+host-suffix, zoho.com, proxy
+host-suffix, zohopublic.com, proxy
+host-suffix, zohoschools.com, proxy
+host-suffix, zohostatic.com, proxy
+host-suffix, zohostatic.in, proxy
+host-suffix, zohouniversity.com, proxy
+host-suffix, zohowebstatic.com, proxy
+host-suffix, zoho.com.au, proxy

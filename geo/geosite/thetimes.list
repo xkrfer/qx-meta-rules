@@ -1,9 +1,9 @@
-host-suffix, thetimes.ie
-host-suffix, timesmembership.com
-host-suffix, driving.co.uk
-host-suffix, mytimesplus.co.uk
-host-suffix, sportswomanoftheyear.co.uk
-host-suffix, sportswomenoftheyear.co.uk
-host-suffix, the-tls.co.uk
-host-suffix, thesundaytimes.co.uk
-host-suffix, thetimes.co.uk
+host-suffix, thetimes.ie, proxy
+host-suffix, timesmembership.com, proxy
+host-suffix, driving.co.uk, proxy
+host-suffix, mytimesplus.co.uk, proxy
+host-suffix, sportswomanoftheyear.co.uk, proxy
+host-suffix, sportswomenoftheyear.co.uk, proxy
+host-suffix, the-tls.co.uk, proxy
+host-suffix, thesundaytimes.co.uk, proxy
+host-suffix, thetimes.co.uk, proxy

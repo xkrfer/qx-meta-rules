@@ -1,3 +1,3 @@
-host-suffix, zoom.com
-host-suffix, zoom.us
-host-suffix, zoom.com.cn
+host-suffix, zoom.com, proxy
+host-suffix, zoom.us, proxy
+host-suffix, zoom.com.cn, proxy

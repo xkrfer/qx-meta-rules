@@ -1,6 +1,6 @@
-host-suffix, gpsonextra.net
-host-suffix, izatcloud.net
-host-suffix, qceventscenter.com.cn
-host-suffix, qualcomm.cn
-host-suffix, qualcomm.cn.cdn.cloudflare.net
-host-suffix, xtracloud.cn
+host-suffix, gpsonextra.net, proxy
+host-suffix, izatcloud.net, proxy
+host-suffix, qceventscenter.com.cn, proxy
+host-suffix, qualcomm.cn, proxy
+host-suffix, qualcomm.cn.cdn.cloudflare.net, proxy
+host-suffix, xtracloud.cn, proxy

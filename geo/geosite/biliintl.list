@@ -1,11 +1,11 @@
-host-suffix, bstarstatic.com
-host-suffix, bilibili.tv
-host-suffix, biliintl.com
-host-suffix, upos-bstar1-mirrorakam.akamaized.net
-host-suffix, apm-misaka.biliapi.net
-host-suffix, p-bstarstatic.akamaized.net
-host-suffix, upos-bstar-mirrorakam.akamaized.net
-host-suffix, upos-sz-mirrorcosbstar1.bilivideo.com
-host-suffix, upos-sz-mirroralibstar1.bilivideo.com
-host-suffix, app.global.bilibili.com
-host-suffix, api.global.bilibili.com
+host-suffix, bstarstatic.com, proxy
+host-suffix, bilibili.tv, proxy
+host-suffix, biliintl.com, proxy
+host-suffix, upos-bstar1-mirrorakam.akamaized.net, proxy
+host-suffix, apm-misaka.biliapi.net, proxy
+host-suffix, p-bstarstatic.akamaized.net, proxy
+host-suffix, upos-bstar-mirrorakam.akamaized.net, proxy
+host-suffix, upos-sz-mirrorcosbstar1.bilivideo.com, proxy
+host-suffix, upos-sz-mirroralibstar1.bilivideo.com, proxy
+host-suffix, app.global.bilibili.com, proxy
+host-suffix, api.global.bilibili.com, proxy

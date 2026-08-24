@@ -1,10 +1,10 @@
-host-suffix, faradars.org
-host-suffix, git.ir
-host-suffix, learnby.ir
-host-suffix, maktabkhooneh.org
-host-suffix, newdars.com
-host-suffix, toplearn.com
-host-suffix, melotar.com
-host-suffix, done.ir
-host-suffix, iranlms.org
-host-suffix, webinarplus.online
+host-suffix, faradars.org, proxy
+host-suffix, git.ir, proxy
+host-suffix, learnby.ir, proxy
+host-suffix, maktabkhooneh.org, proxy
+host-suffix, newdars.com, proxy
+host-suffix, toplearn.com, proxy
+host-suffix, melotar.com, proxy
+host-suffix, done.ir, proxy
+host-suffix, iranlms.org, proxy
+host-suffix, webinarplus.online, proxy

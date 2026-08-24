@@ -1,31 +1,31 @@
-host-suffix, larkofficecdn.com
-host-suffix, larkofficepkg.com
-host-suffix, lark.cn
-host-suffix, larkcloud.com
-host-suffix, larkcloud.net
-host-suffix, larkfn.com
-host-suffix, larkmeetings.cn
-host-suffix, larkmeetings.com
-host-suffix, larkoffice.com
-host-suffix, thelarkcloud.com
-host-suffix, larkofficeapp-boe.com
-host-suffix, larkofficeapp-pre.com
-host-suffix, larkofficeapp.com
-host-suffix, larkofficeboe.com
-host-suffix, lark-passport-qa-sg.net
-host-suffix, statuslarkoffice.com
-host-suffix, larkrooms.cn
-host-suffix, larkofficepre.com
-host-suffix, larkofficeimg.com
-host-suffix, larkrooms.com
-host-suffix, larksuite-pre.com
-host-suffix, larksuite.com
-host-suffix, larkvc.com
-host-suffix, larksuiteimg.com
-host-suffix, larksuitecdn.com
-host-suffix, larksuiteimg-boe.com
-host-suffix, larksuiteimg-pre.com
-host-suffix, larksuite.com.ttdns2.com
-host-suffix, larksuite.com.ttdns1.com
-host-suffix, frontier-lark-lb-v3.lf.bytelb.net
-host-suffix, larkoffice.com.bytedns1.com
+host-suffix, larkofficecdn.com, proxy
+host-suffix, larkofficepkg.com, proxy
+host-suffix, lark.cn, proxy
+host-suffix, larkcloud.com, proxy
+host-suffix, larkcloud.net, proxy
+host-suffix, larkfn.com, proxy
+host-suffix, larkmeetings.cn, proxy
+host-suffix, larkmeetings.com, proxy
+host-suffix, larkoffice.com, proxy
+host-suffix, thelarkcloud.com, proxy
+host-suffix, larkofficeapp-boe.com, proxy
+host-suffix, larkofficeapp-pre.com, proxy
+host-suffix, larkofficeapp.com, proxy
+host-suffix, larkofficeboe.com, proxy
+host-suffix, lark-passport-qa-sg.net, proxy
+host-suffix, statuslarkoffice.com, proxy
+host-suffix, larkrooms.cn, proxy
+host-suffix, larkofficepre.com, proxy
+host-suffix, larkofficeimg.com, proxy
+host-suffix, larkrooms.com, proxy
+host-suffix, larksuite-pre.com, proxy
+host-suffix, larksuite.com, proxy
+host-suffix, larkvc.com, proxy
+host-suffix, larksuiteimg.com, proxy
+host-suffix, larksuitecdn.com, proxy
+host-suffix, larksuiteimg-boe.com, proxy
+host-suffix, larksuiteimg-pre.com, proxy
+host-suffix, larksuite.com.ttdns2.com, proxy
+host-suffix, larksuite.com.ttdns1.com, proxy
+host-suffix, frontier-lark-lb-v3.lf.bytelb.net, proxy
+host-suffix, larkoffice.com.bytedns1.com, proxy

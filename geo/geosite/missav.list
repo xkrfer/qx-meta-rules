@@ -1,7 +1,7 @@
-host-suffix, missav.ai
-host-suffix, missav.com
-host-suffix, missav.live
-host-suffix, missav.uno
-host-suffix, missav.vip
-host-suffix, missav.ws
-host-suffix, missav123.com
+host-suffix, missav.ai, proxy
+host-suffix, missav.com, proxy
+host-suffix, missav.live, proxy
+host-suffix, missav.uno, proxy
+host-suffix, missav.vip, proxy
+host-suffix, missav.ws, proxy
+host-suffix, missav123.com, proxy

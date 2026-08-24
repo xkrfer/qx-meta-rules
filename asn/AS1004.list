@@ -1,5 +1,5 @@
-ip-cidr, 209.112.88.0/24
-ip-cidr, 209.112.90.0/24
-ip6-cidr, 2602:fba3:302::/48
-ip6-cidr, 2602:fba3:401::/48
-ip6-cidr, 2602:fba3:402::/48
+ip-cidr, 209.112.88.0/24, proxy, no-resolve
+ip-cidr, 209.112.90.0/24, proxy, no-resolve
+ip6-cidr, 2602:fba3:302::/48, proxy, no-resolve
+ip6-cidr, 2602:fba3:401::/48, proxy, no-resolve
+ip6-cidr, 2602:fba3:402::/48, proxy, no-resolve

@@ -1,2 +1,2 @@
-host-suffix, nginx.com
-host-suffix, nginx.org
+host-suffix, nginx.com, proxy
+host-suffix, nginx.org, proxy

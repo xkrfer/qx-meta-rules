@@ -1,25 +1,25 @@
-host-suffix, theworld.cn
-host-suffix, woxihuan.com
-host-suffix, 360-g.net
-host-suffix, 360-game.net
-host-suffix, 360pay.cn
-host-suffix, 360sjyh.cn
-host-suffix, gamepack.cn
-host-suffix, qftexpay.cn
-host-suffix, qikoo.com
-host-suffix, qiku.com
-host-suffix, qikucdn.com
-host-suffix, starworldgames.com
-host-suffix, 360-g.cn
-host-suffix, wggames.cn
-host-suffix, 360-api.cn
-host-suffix, worldofship.cn
-host-suffix, worldoftank.cn
-host-suffix, worldoftanks.cn
-host-suffix, yiwanzhushou.com
-host-suffix, wotgame.cn
-host-suffix, wowsgame.cn
-host-suffix, warsaga.cn
-host-suffix, wztsy.cn
-host-suffix, wztsy.com
-host-suffix, worldoftanks.com.cn
+host-suffix, theworld.cn, proxy
+host-suffix, woxihuan.com, proxy
+host-suffix, 360-g.net, proxy
+host-suffix, 360-game.net, proxy
+host-suffix, 360pay.cn, proxy
+host-suffix, 360sjyh.cn, proxy
+host-suffix, gamepack.cn, proxy
+host-suffix, qftexpay.cn, proxy
+host-suffix, qikoo.com, proxy
+host-suffix, qiku.com, proxy
+host-suffix, qikucdn.com, proxy
+host-suffix, starworldgames.com, proxy
+host-suffix, 360-g.cn, proxy
+host-suffix, wggames.cn, proxy
+host-suffix, 360-api.cn, proxy
+host-suffix, worldofship.cn, proxy
+host-suffix, worldoftank.cn, proxy
+host-suffix, worldoftanks.cn, proxy
+host-suffix, yiwanzhushou.com, proxy
+host-suffix, wotgame.cn, proxy
+host-suffix, wowsgame.cn, proxy
+host-suffix, warsaga.cn, proxy
+host-suffix, wztsy.cn, proxy
+host-suffix, wztsy.com, proxy
+host-suffix, worldoftanks.com.cn, proxy

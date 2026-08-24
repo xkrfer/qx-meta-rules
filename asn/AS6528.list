@@ -1,17 +1,17 @@
-ip-cidr, 67.14.192.0/20
-ip-cidr, 67.14.210.0/23
-ip-cidr, 67.14.212.0/22
-ip-cidr, 67.14.216.0/23
-ip-cidr, 67.14.220.0/22
-ip-cidr, 67.213.193.0/24
-ip-cidr, 67.213.194.0/23
-ip-cidr, 67.213.196.0/22
-ip-cidr, 67.213.201.0/24
-ip-cidr, 67.213.202.0/24
-ip-cidr, 67.213.204.0/24
-ip-cidr, 67.213.206.0/23
-ip6-cidr, 2607:cd80:1000::/36
-ip6-cidr, 2607:cd80:2000::/35
-ip6-cidr, 2607:cd80:4000::/35
-ip6-cidr, 2607:cd80:6000::/36
-ip6-cidr, 2607:cd80:8000::/35
+ip-cidr, 67.14.192.0/20, proxy, no-resolve
+ip-cidr, 67.14.210.0/23, proxy, no-resolve
+ip-cidr, 67.14.212.0/22, proxy, no-resolve
+ip-cidr, 67.14.216.0/23, proxy, no-resolve
+ip-cidr, 67.14.220.0/22, proxy, no-resolve
+ip-cidr, 67.213.193.0/24, proxy, no-resolve
+ip-cidr, 67.213.194.0/23, proxy, no-resolve
+ip-cidr, 67.213.196.0/22, proxy, no-resolve
+ip-cidr, 67.213.201.0/24, proxy, no-resolve
+ip-cidr, 67.213.202.0/24, proxy, no-resolve
+ip-cidr, 67.213.204.0/24, proxy, no-resolve
+ip-cidr, 67.213.206.0/23, proxy, no-resolve
+ip6-cidr, 2607:cd80:1000::/36, proxy, no-resolve
+ip6-cidr, 2607:cd80:2000::/35, proxy, no-resolve
+ip6-cidr, 2607:cd80:4000::/35, proxy, no-resolve
+ip6-cidr, 2607:cd80:6000::/36, proxy, no-resolve
+ip6-cidr, 2607:cd80:8000::/35, proxy, no-resolve

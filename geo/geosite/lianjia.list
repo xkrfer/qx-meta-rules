@@ -1,5 +1,5 @@
-host-suffix, lianjia.com
-host-suffix, ljcdn.com
-host-suffix, beckyroom.com
-host-suffix, bkzhibo.com
-host-suffix, ke.com
+host-suffix, lianjia.com, proxy
+host-suffix, ljcdn.com, proxy
+host-suffix, beckyroom.com, proxy
+host-suffix, bkzhibo.com, proxy
+host-suffix, ke.com, proxy

@@ -1,40 +1,40 @@
-ip-cidr, 45.64.28.0/22
-ip-cidr, 103.224.192.0/22
-ip-cidr, 106.1.0.0/16
-ip-cidr, 118.232.0.0/15
-ip-cidr, 123.192.0.0/14
-ip-cidr, 180.176.0.0/15
-ip-cidr, 203.77.71.0/24
-ip-cidr, 211.76.112.0/20
-ip6-cidr, 2407:4d00::/35
-ip6-cidr, 2407:4d00:2000::/37
-ip6-cidr, 2407:4d00:2800::/38
-ip6-cidr, 2407:4d00:2c00::/45
-ip6-cidr, 2407:4d00:2c08::/48
-ip6-cidr, 2407:4d00:2c09::/50
-ip6-cidr, 2407:4d00:2c09:4000::/51
-ip6-cidr, 2407:4d00:2c09:6000::/52
-ip6-cidr, 2407:4d00:2c09:7000::/53
-ip6-cidr, 2407:4d00:2c09:7800::/55
-ip6-cidr, 2407:4d00:2c09:7a00::/56
-ip6-cidr, 2407:4d00:2c09:7b00::/57
-ip6-cidr, 2407:4d00:2c09:7b80::/58
-ip6-cidr, 2407:4d00:2c09:7bc0::/59
-ip6-cidr, 2407:4d00:2c09:7be0::/60
-ip6-cidr, 2407:4d00:2c09:7bf0::/62
-ip6-cidr, 2407:4d00:2c09:7bf4::/63
-ip6-cidr, 2407:4d00:2c09:7bf7::/64
-ip6-cidr, 2407:4d00:2c09:7bf8::/61
-ip6-cidr, 2407:4d00:2c09:7c00::/54
-ip6-cidr, 2407:4d00:2c09:8000::/49
-ip6-cidr, 2407:4d00:2c0a::/47
-ip6-cidr, 2407:4d00:2c0c::/46
-ip6-cidr, 2407:4d00:2c10::/44
-ip6-cidr, 2407:4d00:2c20::/43
-ip6-cidr, 2407:4d00:2c40::/42
-ip6-cidr, 2407:4d00:2c80::/41
-ip6-cidr, 2407:4d00:2d00::/40
-ip6-cidr, 2407:4d00:2e00::/39
-ip6-cidr, 2407:4d00:3000::/36
-ip6-cidr, 2407:4d00:4000::/34
-ip6-cidr, 2407:4d00:8000::/33
+ip-cidr, 45.64.28.0/22, proxy, no-resolve
+ip-cidr, 103.224.192.0/22, proxy, no-resolve
+ip-cidr, 106.1.0.0/16, proxy, no-resolve
+ip-cidr, 118.232.0.0/15, proxy, no-resolve
+ip-cidr, 123.192.0.0/14, proxy, no-resolve
+ip-cidr, 180.176.0.0/15, proxy, no-resolve
+ip-cidr, 203.77.71.0/24, proxy, no-resolve
+ip-cidr, 211.76.112.0/20, proxy, no-resolve
+ip6-cidr, 2407:4d00::/35, proxy, no-resolve
+ip6-cidr, 2407:4d00:2000::/37, proxy, no-resolve
+ip6-cidr, 2407:4d00:2800::/38, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c00::/45, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c08::/48, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09::/50, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:4000::/51, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:6000::/52, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7000::/53, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7800::/55, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7a00::/56, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7b00::/57, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7b80::/58, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7bc0::/59, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7be0::/60, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7bf0::/62, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7bf4::/63, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7bf7::/64, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7bf8::/61, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:7c00::/54, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c09:8000::/49, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c0a::/47, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c0c::/46, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c10::/44, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c20::/43, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c40::/42, proxy, no-resolve
+ip6-cidr, 2407:4d00:2c80::/41, proxy, no-resolve
+ip6-cidr, 2407:4d00:2d00::/40, proxy, no-resolve
+ip6-cidr, 2407:4d00:2e00::/39, proxy, no-resolve
+ip6-cidr, 2407:4d00:3000::/36, proxy, no-resolve
+ip6-cidr, 2407:4d00:4000::/34, proxy, no-resolve
+ip6-cidr, 2407:4d00:8000::/33, proxy, no-resolve

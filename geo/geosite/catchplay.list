@@ -1,2 +1,2 @@
-host-suffix, catchplay.com
-host-suffix, tra-ww000-cp.akamaized.net
+host-suffix, catchplay.com, proxy
+host-suffix, tra-ww000-cp.akamaized.net, proxy

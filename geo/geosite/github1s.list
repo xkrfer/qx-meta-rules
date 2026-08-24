@@ -1,2 +1,2 @@
-host-suffix, github1s.com
-host-suffix, sourcegraph.com
+host-suffix, github1s.com, proxy
+host-suffix, sourcegraph.com, proxy

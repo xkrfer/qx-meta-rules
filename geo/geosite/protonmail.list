@@ -1,9 +1,9 @@
-host-suffix, pm.me
-host-suffix, proton.me
-host-suffix, protonmail.ch
-host-suffix, protonmail.com
-host-suffix, protonstatus.com
-host-suffix, protontech.ch
-host-suffix, protonvpn.ch
-host-suffix, protonvpn.com
-host-suffix, protonweb.com
+host-suffix, pm.me, proxy
+host-suffix, proton.me, proxy
+host-suffix, protonmail.ch, proxy
+host-suffix, protonmail.com, proxy
+host-suffix, protonstatus.com, proxy
+host-suffix, protontech.ch, proxy
+host-suffix, protonvpn.ch, proxy
+host-suffix, protonvpn.com, proxy
+host-suffix, protonweb.com, proxy

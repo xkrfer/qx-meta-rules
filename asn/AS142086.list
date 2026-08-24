@@ -1,1 +1,1 @@
-ip6-cidr, 2001:253:220::/48
+ip6-cidr, 2001:253:220::/48, proxy, no-resolve

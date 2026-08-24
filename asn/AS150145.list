@@ -1,4 +1,4 @@
-ip-cidr, 27.21.224.0/19
-ip-cidr, 58.50.186.0/24
-ip6-cidr, 240e:105:f200::/40
-ip6-cidr, 240e:95d:1400::/38
+ip-cidr, 27.21.224.0/19, proxy, no-resolve
+ip-cidr, 58.50.186.0/24, proxy, no-resolve
+ip6-cidr, 240e:105:f200::/40, proxy, no-resolve
+ip6-cidr, 240e:95d:1400::/38, proxy, no-resolve

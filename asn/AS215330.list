@@ -1,5 +1,5 @@
-ip6-cidr, 2a11:77c3::/32
-ip6-cidr, 2a11:ab86::/32
-ip6-cidr, 2a12:e86::/32
-ip6-cidr, 2a12:bc87::/32
-ip6-cidr, 2a12:d803::/32
+ip6-cidr, 2a11:77c3::/32, proxy, no-resolve
+ip6-cidr, 2a11:ab86::/32, proxy, no-resolve
+ip6-cidr, 2a12:e86::/32, proxy, no-resolve
+ip6-cidr, 2a12:bc87::/32, proxy, no-resolve
+ip6-cidr, 2a12:d803::/32, proxy, no-resolve

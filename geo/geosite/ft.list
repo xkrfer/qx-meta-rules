@@ -1,22 +1,22 @@
-host-suffix, gisplanning.com
-host-suffix, globalriskregulator.com
-host-suffix, exec-appointments.com
-host-suffix, fdiintelligence.com
-host-suffix, financialadvisoriq.com
-host-suffix, ft.com
-host-suffix, ftadviser.com
-host-suffix, ftchinese.com
-host-suffix, ftiecla.com
-host-suffix, ignites.com
-host-suffix, excedo.com
-host-suffix, agendaweek.com
-host-suffix, fundfire.com
-host-suffix, ignitesasia.com
-host-suffix, igniteseurope.com
-host-suffix, thenextweb.com
-host-suffix, mandatewire.com
-host-suffix, pensions-expert.com
-host-suffix, pwmnet.com
-host-suffix, thebanker.com
-host-suffix, thebankerdatabase.com
-host-suffix, investorschronicle.co.uk
+host-suffix, gisplanning.com, proxy
+host-suffix, globalriskregulator.com, proxy
+host-suffix, exec-appointments.com, proxy
+host-suffix, fdiintelligence.com, proxy
+host-suffix, financialadvisoriq.com, proxy
+host-suffix, ft.com, proxy
+host-suffix, ftadviser.com, proxy
+host-suffix, ftchinese.com, proxy
+host-suffix, ftiecla.com, proxy
+host-suffix, ignites.com, proxy
+host-suffix, excedo.com, proxy
+host-suffix, agendaweek.com, proxy
+host-suffix, fundfire.com, proxy
+host-suffix, ignitesasia.com, proxy
+host-suffix, igniteseurope.com, proxy
+host-suffix, thenextweb.com, proxy
+host-suffix, mandatewire.com, proxy
+host-suffix, pensions-expert.com, proxy
+host-suffix, pwmnet.com, proxy
+host-suffix, thebanker.com, proxy
+host-suffix, thebankerdatabase.com, proxy
+host-suffix, investorschronicle.co.uk, proxy

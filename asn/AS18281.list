@@ -1,6 +1,6 @@
-ip-cidr, 124.66.192.0/20
-ip-cidr, 133.88.32.0/20
-ip-cidr, 157.5.32.0/20
-ip-cidr, 202.216.176.0/20
-ip-cidr, 202.224.16.0/20
-ip6-cidr, 2405:7000:2c00::/40
+ip-cidr, 124.66.192.0/20, proxy, no-resolve
+ip-cidr, 133.88.32.0/20, proxy, no-resolve
+ip-cidr, 157.5.32.0/20, proxy, no-resolve
+ip-cidr, 202.216.176.0/20, proxy, no-resolve
+ip-cidr, 202.224.16.0/20, proxy, no-resolve
+ip6-cidr, 2405:7000:2c00::/40, proxy, no-resolve

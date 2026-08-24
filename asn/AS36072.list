@@ -1,2 +1,2 @@
-ip-cidr, 66.150.28.0/22
-ip6-cidr, 2602:2c7::/40
+ip-cidr, 66.150.28.0/22, proxy, no-resolve
+ip6-cidr, 2602:2c7::/40, proxy, no-resolve

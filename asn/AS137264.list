@@ -1,4 +1,4 @@
-ip-cidr, 165.101.71.0/24
-ip6-cidr, 2406:840:fcf0::/46
-ip6-cidr, 2406:840:fcf4::/47
-ip6-cidr, 2406:840:fedd::/48
+ip-cidr, 165.101.71.0/24, proxy, no-resolve
+ip6-cidr, 2406:840:fcf0::/46, proxy, no-resolve
+ip6-cidr, 2406:840:fcf4::/47, proxy, no-resolve
+ip6-cidr, 2406:840:fedd::/48, proxy, no-resolve

@@ -1,20 +1,20 @@
-host-suffix, softbank
-host-suffix, sb-mobile.jp
-host-suffix, sb-telecom.net
-host-suffix, softbank-ipo.com
-host-suffix, softbank-jp.com
-host-suffix, softbank-robotics.com
-host-suffix, softbank-telecom.com
-host-suffix, softbank-telecom.net
-host-suffix, softbank.jp
-host-suffix, softbank.tv
-host-suffix, softbankbb.com
-host-suffix, softbankbb.net
-host-suffix, softbankci.com
-host-suffix, softbankhawksstore.jp
-host-suffix, softbankmobile.net
-host-suffix, softbankrobotics.com
-host-suffix, softbanktelecom.com
-host-suffix, softbankusa.net
-host-suffix, softbankventuresasia.com
-host-suffix, softbankworld.com
+host-suffix, softbank, proxy
+host-suffix, sb-mobile.jp, proxy
+host-suffix, sb-telecom.net, proxy
+host-suffix, softbank-ipo.com, proxy
+host-suffix, softbank-jp.com, proxy
+host-suffix, softbank-robotics.com, proxy
+host-suffix, softbank-telecom.com, proxy
+host-suffix, softbank-telecom.net, proxy
+host-suffix, softbank.jp, proxy
+host-suffix, softbank.tv, proxy
+host-suffix, softbankbb.com, proxy
+host-suffix, softbankbb.net, proxy
+host-suffix, softbankci.com, proxy
+host-suffix, softbankhawksstore.jp, proxy
+host-suffix, softbankmobile.net, proxy
+host-suffix, softbankrobotics.com, proxy
+host-suffix, softbanktelecom.com, proxy
+host-suffix, softbankusa.net, proxy
+host-suffix, softbankventuresasia.com, proxy
+host-suffix, softbankworld.com, proxy

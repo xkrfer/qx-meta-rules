@@ -1,74 +1,74 @@
-ip-cidr, 150.40.99.0/24
-ip-cidr, 185.177.230.0/24
-ip6-cidr, 2001:67c:5c0::/48
-ip6-cidr, 2a06:a002::/34
-ip6-cidr, 2a06:a002:4000::/41
-ip6-cidr, 2a06:a002:4080::/46
-ip6-cidr, 2a06:a002:4084::/48
-ip6-cidr, 2a06:a002:4086::/47
-ip6-cidr, 2a06:a002:4088::/45
-ip6-cidr, 2a06:a002:4090::/44
-ip6-cidr, 2a06:a002:40a0::/43
-ip6-cidr, 2a06:a002:40c0::/42
-ip6-cidr, 2a06:a002:4100::/40
-ip6-cidr, 2a06:a002:4200::/39
-ip6-cidr, 2a06:a002:4400::/38
-ip6-cidr, 2a06:a002:4800::/37
-ip6-cidr, 2a06:a002:5000::/36
-ip6-cidr, 2a06:a002:7000::/36
-ip6-cidr, 2a06:a002:8000::/35
-ip6-cidr, 2a06:a002:a000::/47
-ip6-cidr, 2a06:a002:a003::/48
-ip6-cidr, 2a06:a002:a004::/46
-ip6-cidr, 2a06:a002:a008::/45
-ip6-cidr, 2a06:a002:a010::/44
-ip6-cidr, 2a06:a002:a020::/43
-ip6-cidr, 2a06:a002:a040::/42
-ip6-cidr, 2a06:a002:a080::/41
-ip6-cidr, 2a06:a002:a100::/40
-ip6-cidr, 2a06:a002:a200::/39
-ip6-cidr, 2a06:a002:a400::/38
-ip6-cidr, 2a06:a002:a800::/37
-ip6-cidr, 2a06:a002:b000::/36
-ip6-cidr, 2a06:a002:c000::/35
-ip6-cidr, 2a06:a002:e000::/36
-ip6-cidr, 2a06:a002:f000::/37
-ip6-cidr, 2a06:a002:f800::/38
-ip6-cidr, 2a06:a002:fc00::/39
-ip6-cidr, 2a06:a002:fe00::/40
-ip6-cidr, 2a06:a002:ff00::/44
-ip6-cidr, 2a06:a002:ff20::/43
-ip6-cidr, 2a06:a002:ff40::/42
-ip6-cidr, 2a06:a002:ff80::/41
-ip6-cidr, 2a0b:4e07:c00::/43
-ip6-cidr, 2a0b:4e07:c20::/46
-ip6-cidr, 2a0b:4e07:c24::/48
-ip6-cidr, 2a0b:4e07:c26::/47
-ip6-cidr, 2a0b:4e07:c28::/45
-ip6-cidr, 2a0b:4e07:c30::/44
-ip6-cidr, 2a0b:4e07:c40::/42
-ip6-cidr, 2a0b:4e07:c80::/43
-ip6-cidr, 2a0b:4e07:ca0::/44
-ip6-cidr, 2a0b:4e07:cb0::/45
-ip6-cidr, 2a0b:4e07:cb8::/48
-ip6-cidr, 2a0b:4e07:cba::/47
-ip6-cidr, 2a0b:4e07:cbc::/46
-ip6-cidr, 2a0b:4e07:cc0::/42
-ip6-cidr, 2a0b:4e07:d00::/40
-ip6-cidr, 2a0b:4e07:e00::/39
-ip6-cidr, 2a0f:6284:30::/44
-ip6-cidr, 2a14:67c2:f00::/40
-ip6-cidr, 2a14:7583:e100::/44
-ip6-cidr, 2a14:7583:e110::/48
-ip6-cidr, 2a14:7583:e112::/47
-ip6-cidr, 2a14:7583:e114::/46
-ip6-cidr, 2a14:7583:e118::/45
-ip6-cidr, 2a14:7583:e120::/43
-ip6-cidr, 2a14:7583:e140::/42
-ip6-cidr, 2a14:7583:e180::/43
-ip6-cidr, 2a14:7583:e1a1::/48
-ip6-cidr, 2a14:7583:e1a2::/47
-ip6-cidr, 2a14:7583:e1a4::/46
-ip6-cidr, 2a14:7583:e1a8::/45
-ip6-cidr, 2a14:7583:e1b0::/44
-ip6-cidr, 2a14:7583:e1c0::/42
+ip-cidr, 150.40.99.0/24, proxy, no-resolve
+ip-cidr, 185.177.230.0/24, proxy, no-resolve
+ip6-cidr, 2001:67c:5c0::/48, proxy, no-resolve
+ip6-cidr, 2a06:a002::/34, proxy, no-resolve
+ip6-cidr, 2a06:a002:4000::/41, proxy, no-resolve
+ip6-cidr, 2a06:a002:4080::/46, proxy, no-resolve
+ip6-cidr, 2a06:a002:4084::/48, proxy, no-resolve
+ip6-cidr, 2a06:a002:4086::/47, proxy, no-resolve
+ip6-cidr, 2a06:a002:4088::/45, proxy, no-resolve
+ip6-cidr, 2a06:a002:4090::/44, proxy, no-resolve
+ip6-cidr, 2a06:a002:40a0::/43, proxy, no-resolve
+ip6-cidr, 2a06:a002:40c0::/42, proxy, no-resolve
+ip6-cidr, 2a06:a002:4100::/40, proxy, no-resolve
+ip6-cidr, 2a06:a002:4200::/39, proxy, no-resolve
+ip6-cidr, 2a06:a002:4400::/38, proxy, no-resolve
+ip6-cidr, 2a06:a002:4800::/37, proxy, no-resolve
+ip6-cidr, 2a06:a002:5000::/36, proxy, no-resolve
+ip6-cidr, 2a06:a002:7000::/36, proxy, no-resolve
+ip6-cidr, 2a06:a002:8000::/35, proxy, no-resolve
+ip6-cidr, 2a06:a002:a000::/47, proxy, no-resolve
+ip6-cidr, 2a06:a002:a003::/48, proxy, no-resolve
+ip6-cidr, 2a06:a002:a004::/46, proxy, no-resolve
+ip6-cidr, 2a06:a002:a008::/45, proxy, no-resolve
+ip6-cidr, 2a06:a002:a010::/44, proxy, no-resolve
+ip6-cidr, 2a06:a002:a020::/43, proxy, no-resolve
+ip6-cidr, 2a06:a002:a040::/42, proxy, no-resolve
+ip6-cidr, 2a06:a002:a080::/41, proxy, no-resolve
+ip6-cidr, 2a06:a002:a100::/40, proxy, no-resolve
+ip6-cidr, 2a06:a002:a200::/39, proxy, no-resolve
+ip6-cidr, 2a06:a002:a400::/38, proxy, no-resolve
+ip6-cidr, 2a06:a002:a800::/37, proxy, no-resolve
+ip6-cidr, 2a06:a002:b000::/36, proxy, no-resolve
+ip6-cidr, 2a06:a002:c000::/35, proxy, no-resolve
+ip6-cidr, 2a06:a002:e000::/36, proxy, no-resolve
+ip6-cidr, 2a06:a002:f000::/37, proxy, no-resolve
+ip6-cidr, 2a06:a002:f800::/38, proxy, no-resolve
+ip6-cidr, 2a06:a002:fc00::/39, proxy, no-resolve
+ip6-cidr, 2a06:a002:fe00::/40, proxy, no-resolve
+ip6-cidr, 2a06:a002:ff00::/44, proxy, no-resolve
+ip6-cidr, 2a06:a002:ff20::/43, proxy, no-resolve
+ip6-cidr, 2a06:a002:ff40::/42, proxy, no-resolve
+ip6-cidr, 2a06:a002:ff80::/41, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c00::/43, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c20::/46, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c24::/48, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c26::/47, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c28::/45, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c30::/44, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c40::/42, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:c80::/43, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:ca0::/44, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:cb0::/45, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:cb8::/48, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:cba::/47, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:cbc::/46, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:cc0::/42, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:d00::/40, proxy, no-resolve
+ip6-cidr, 2a0b:4e07:e00::/39, proxy, no-resolve
+ip6-cidr, 2a0f:6284:30::/44, proxy, no-resolve
+ip6-cidr, 2a14:67c2:f00::/40, proxy, no-resolve
+ip6-cidr, 2a14:7583:e100::/44, proxy, no-resolve
+ip6-cidr, 2a14:7583:e110::/48, proxy, no-resolve
+ip6-cidr, 2a14:7583:e112::/47, proxy, no-resolve
+ip6-cidr, 2a14:7583:e114::/46, proxy, no-resolve
+ip6-cidr, 2a14:7583:e118::/45, proxy, no-resolve
+ip6-cidr, 2a14:7583:e120::/43, proxy, no-resolve
+ip6-cidr, 2a14:7583:e140::/42, proxy, no-resolve
+ip6-cidr, 2a14:7583:e180::/43, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1a1::/48, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1a2::/47, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1a4::/46, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1a8::/45, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1b0::/44, proxy, no-resolve
+ip6-cidr, 2a14:7583:e1c0::/42, proxy, no-resolve

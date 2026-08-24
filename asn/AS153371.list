@@ -1,30 +1,30 @@
-ip-cidr, 23.130.4.0/24
-ip-cidr, 23.165.184.0/24
-ip-cidr, 92.113.116.0/23
-ip-cidr, 103.224.172.0/23
-ip-cidr, 104.234.36.0/23
-ip-cidr, 142.249.36.0/23
-ip-cidr, 142.249.39.0/24
-ip-cidr, 143.246.52.0/23
-ip-cidr, 149.112.116.0/24
-ip-cidr, 157.254.51.0/24
-ip-cidr, 160.191.40.0/23
-ip-cidr, 163.8.197.0/24
-ip-cidr, 163.8.207.0/24
-ip-cidr, 178.92.74.0/23
-ip-cidr, 185.255.198.0/24
-ip-cidr, 207.174.4.0/23
-ip-cidr, 207.174.6.0/24
-ip-cidr, 218.33.108.0/22
-ip6-cidr, 2001:df2:7cc0::/48
-ip6-cidr, 2401:b60:2c::/48
-ip6-cidr, 2401:b60:37::/48
-ip6-cidr, 2401:b60:38::/48
-ip6-cidr, 2401:ce20::/46
-ip6-cidr, 2401:ce20:4::/48
-ip6-cidr, 2401:ce20:6::/47
-ip6-cidr, 2401:ce20:8::/47
-ip6-cidr, 2401:ce20:10::/44
-ip6-cidr, 2602:f7b1::/45
-ip6-cidr, 2602:f7b1:8::/47
-ip6-cidr, 2602:f7b1:10::/44
+ip-cidr, 23.130.4.0/24, proxy, no-resolve
+ip-cidr, 23.165.184.0/24, proxy, no-resolve
+ip-cidr, 92.113.116.0/23, proxy, no-resolve
+ip-cidr, 103.224.172.0/23, proxy, no-resolve
+ip-cidr, 104.234.36.0/23, proxy, no-resolve
+ip-cidr, 142.249.36.0/23, proxy, no-resolve
+ip-cidr, 142.249.39.0/24, proxy, no-resolve
+ip-cidr, 143.246.52.0/23, proxy, no-resolve
+ip-cidr, 149.112.116.0/24, proxy, no-resolve
+ip-cidr, 157.254.51.0/24, proxy, no-resolve
+ip-cidr, 160.191.40.0/23, proxy, no-resolve
+ip-cidr, 163.8.197.0/24, proxy, no-resolve
+ip-cidr, 163.8.207.0/24, proxy, no-resolve
+ip-cidr, 178.92.74.0/23, proxy, no-resolve
+ip-cidr, 185.255.198.0/24, proxy, no-resolve
+ip-cidr, 207.174.4.0/23, proxy, no-resolve
+ip-cidr, 207.174.6.0/24, proxy, no-resolve
+ip-cidr, 218.33.108.0/22, proxy, no-resolve
+ip6-cidr, 2001:df2:7cc0::/48, proxy, no-resolve
+ip6-cidr, 2401:b60:2c::/48, proxy, no-resolve
+ip6-cidr, 2401:b60:37::/48, proxy, no-resolve
+ip6-cidr, 2401:b60:38::/48, proxy, no-resolve
+ip6-cidr, 2401:ce20::/46, proxy, no-resolve
+ip6-cidr, 2401:ce20:4::/48, proxy, no-resolve
+ip6-cidr, 2401:ce20:6::/47, proxy, no-resolve
+ip6-cidr, 2401:ce20:8::/47, proxy, no-resolve
+ip6-cidr, 2401:ce20:10::/44, proxy, no-resolve
+ip6-cidr, 2602:f7b1::/45, proxy, no-resolve
+ip6-cidr, 2602:f7b1:8::/47, proxy, no-resolve
+ip6-cidr, 2602:f7b1:10::/44, proxy, no-resolve

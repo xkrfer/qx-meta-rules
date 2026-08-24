@@ -1,6 +1,6 @@
-ip-cidr, 58.86.0.0/16
-ip-cidr, 61.63.0.0/18
-ip-cidr, 61.63.64.0/19
-ip-cidr, 61.67.128.0/17
-ip-cidr, 103.123.188.0/24
-ip6-cidr, 2400:df40::/32
+ip-cidr, 58.86.0.0/16, proxy, no-resolve
+ip-cidr, 61.63.0.0/18, proxy, no-resolve
+ip-cidr, 61.63.64.0/19, proxy, no-resolve
+ip-cidr, 61.67.128.0/17, proxy, no-resolve
+ip-cidr, 103.123.188.0/24, proxy, no-resolve
+ip6-cidr, 2400:df40::/32, proxy, no-resolve

@@ -1,21 +1,21 @@
-ip-cidr, 103.2.128.0/22
-ip-cidr, 115.69.224.0/21
-ip-cidr, 163.138.224.0/19
-ip-cidr, 220.150.192.0/21
-ip6-cidr, 2402:c800::/33
-ip6-cidr, 2402:c800:8000::/34
-ip6-cidr, 2402:c800:c000::/35
-ip6-cidr, 2402:c800:e000::/36
-ip6-cidr, 2402:c800:f000::/37
-ip6-cidr, 2402:c800:f800::/38
-ip6-cidr, 2402:c800:fc00::/39
-ip6-cidr, 2402:c800:fe00::/40
-ip6-cidr, 2402:c800:ff00::/41
-ip6-cidr, 2402:c800:ff80::/42
-ip6-cidr, 2402:c800:ffc0::/43
-ip6-cidr, 2402:c800:ffe0::/44
-ip6-cidr, 2402:c800:fff0::/48
-ip6-cidr, 2402:c800:fff2::/48
-ip6-cidr, 2402:c800:fff4::/47
-ip6-cidr, 2402:c800:fff7::/48
-ip6-cidr, 2402:c800:fff8::/45
+ip-cidr, 103.2.128.0/22, proxy, no-resolve
+ip-cidr, 115.69.224.0/21, proxy, no-resolve
+ip-cidr, 163.138.224.0/19, proxy, no-resolve
+ip-cidr, 220.150.192.0/21, proxy, no-resolve
+ip6-cidr, 2402:c800::/33, proxy, no-resolve
+ip6-cidr, 2402:c800:8000::/34, proxy, no-resolve
+ip6-cidr, 2402:c800:c000::/35, proxy, no-resolve
+ip6-cidr, 2402:c800:e000::/36, proxy, no-resolve
+ip6-cidr, 2402:c800:f000::/37, proxy, no-resolve
+ip6-cidr, 2402:c800:f800::/38, proxy, no-resolve
+ip6-cidr, 2402:c800:fc00::/39, proxy, no-resolve
+ip6-cidr, 2402:c800:fe00::/40, proxy, no-resolve
+ip6-cidr, 2402:c800:ff00::/41, proxy, no-resolve
+ip6-cidr, 2402:c800:ff80::/42, proxy, no-resolve
+ip6-cidr, 2402:c800:ffc0::/43, proxy, no-resolve
+ip6-cidr, 2402:c800:ffe0::/44, proxy, no-resolve
+ip6-cidr, 2402:c800:fff0::/48, proxy, no-resolve
+ip6-cidr, 2402:c800:fff2::/48, proxy, no-resolve
+ip6-cidr, 2402:c800:fff4::/47, proxy, no-resolve
+ip6-cidr, 2402:c800:fff7::/48, proxy, no-resolve
+ip6-cidr, 2402:c800:fff8::/45, proxy, no-resolve

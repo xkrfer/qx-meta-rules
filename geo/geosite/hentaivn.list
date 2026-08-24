@@ -1,4 +1,4 @@
-host-suffix, hentaivn.de
-host-suffix, hentaivn.la
-host-suffix, hentaivn.net
-host-suffix, htvncdn.net
+host-suffix, hentaivn.de, proxy
+host-suffix, hentaivn.la, proxy
+host-suffix, hentaivn.net, proxy
+host-suffix, htvncdn.net, proxy

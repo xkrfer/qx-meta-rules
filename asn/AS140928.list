@@ -1,3 +1,3 @@
-ip-cidr, 58.146.128.0/20
-ip-cidr, 59.189.0.0/16
-ip6-cidr, 2406:3000:d::/48
+ip-cidr, 58.146.128.0/20, proxy, no-resolve
+ip-cidr, 59.189.0.0/16, proxy, no-resolve
+ip6-cidr, 2406:3000:d::/48, proxy, no-resolve

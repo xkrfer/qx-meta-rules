@@ -1,4 +1,4 @@
-host-suffix, newcoder.com
-host-suffix, nowcoder.com
-host-suffix, nowcoder.net
-host-suffix, nowcoder.org
+host-suffix, newcoder.com, proxy
+host-suffix, nowcoder.com, proxy
+host-suffix, nowcoder.net, proxy
+host-suffix, nowcoder.org, proxy

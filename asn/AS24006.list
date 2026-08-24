@@ -1,2 +1,2 @@
-ip-cidr, 202.160.48.0/20
-ip6-cidr, 2400:b400::/32
+ip-cidr, 202.160.48.0/20, proxy, no-resolve
+ip6-cidr, 2400:b400::/32, proxy, no-resolve

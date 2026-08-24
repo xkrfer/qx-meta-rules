@@ -1,2 +1,2 @@
-ip-cidr, 155.131.0.0/16
-ip-cidr, 155.192.0.0/16
+ip-cidr, 155.131.0.0/16, proxy, no-resolve
+ip-cidr, 155.192.0.0/16, proxy, no-resolve

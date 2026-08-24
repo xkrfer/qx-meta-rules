@@ -1,1 +1,1 @@
-ip-cidr, 81.90.16.0/24
+ip-cidr, 81.90.16.0/24, proxy, no-resolve

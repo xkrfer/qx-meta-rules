@@ -1,2 +1,2 @@
-ip-cidr, 201.55.240.0/20
-ip6-cidr, 2801:80:280::/44
+ip-cidr, 201.55.240.0/20, proxy, no-resolve
+ip6-cidr, 2801:80:280::/44, proxy, no-resolve

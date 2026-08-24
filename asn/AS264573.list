@@ -1,2 +1,2 @@
-ip-cidr, 138.0.236.0/22
-ip6-cidr, 2804:21c8::/33
+ip-cidr, 138.0.236.0/22, proxy, no-resolve
+ip6-cidr, 2804:21c8::/33, proxy, no-resolve

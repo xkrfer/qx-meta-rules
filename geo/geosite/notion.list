@@ -1,7 +1,7 @@
-host-suffix, notion-static.com
-host-suffix, notion-status.com
-host-suffix, notion.com
-host-suffix, notion.new
-host-suffix, notion.site
-host-suffix, notion.so
-host-suffix, notionusercontent.com
+host-suffix, notion-static.com, proxy
+host-suffix, notion-status.com, proxy
+host-suffix, notion.com, proxy
+host-suffix, notion.new, proxy
+host-suffix, notion.site, proxy
+host-suffix, notion.so, proxy
+host-suffix, notionusercontent.com, proxy

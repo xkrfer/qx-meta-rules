@@ -1,6 +1,6 @@
-host-suffix, vfsco.com.cn
-host-suffix, volvo.cn
-host-suffix, volvo.com.cn
-host-suffix, volvogroup.cn
-host-suffix, volvogroup.com.cn
-host-suffix, volvotrucks.com.cn
+host-suffix, vfsco.com.cn, proxy
+host-suffix, volvo.cn, proxy
+host-suffix, volvo.com.cn, proxy
+host-suffix, volvogroup.cn, proxy
+host-suffix, volvogroup.com.cn, proxy
+host-suffix, volvotrucks.com.cn, proxy

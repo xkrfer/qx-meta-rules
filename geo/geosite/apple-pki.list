@@ -1,8 +1,8 @@
-host, certs-lb.apple.com.akadns.net
-host, certs.apple.com
-host, crl-lb.apple.com.akadns.net
-host, crl.apple.com
-host, ocsp.apple.com
-host, ocsp2.apple.com
-host, valid.apple.com
-host, valid.origin-apple.com.akadns.net
+host, certs-lb.apple.com.akadns.net, proxy
+host, certs.apple.com, proxy
+host, crl-lb.apple.com.akadns.net, proxy
+host, crl.apple.com, proxy
+host, ocsp.apple.com, proxy
+host, ocsp2.apple.com, proxy
+host, valid.apple.com, proxy
+host, valid.origin-apple.com.akadns.net, proxy

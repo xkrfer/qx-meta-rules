@@ -1,4 +1,4 @@
-host-suffix, bjyouth.net
-host-suffix, sqqnh.cn
-host-suffix, sqqnh.org
-host-suffix, bjyouth.gov.cn
+host-suffix, bjyouth.net, proxy
+host-suffix, sqqnh.cn, proxy
+host-suffix, sqqnh.org, proxy
+host-suffix, bjyouth.gov.cn, proxy

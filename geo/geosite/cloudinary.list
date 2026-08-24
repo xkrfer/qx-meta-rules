@@ -1,2 +1,2 @@
-host-suffix, cloudinary.com
-host-suffix, cloudinary.net
+host-suffix, cloudinary.com, proxy
+host-suffix, cloudinary.net, proxy

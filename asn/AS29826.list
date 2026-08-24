@@ -1,1 +1,1 @@
-ip-cidr, 205.135.160.0/20
+ip-cidr, 205.135.160.0/20, proxy, no-resolve

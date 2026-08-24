@@ -1,9 +1,9 @@
-ip-cidr, 69.9.170.0/26
-ip-cidr, 69.9.170.64/28
-ip-cidr, 69.9.170.80/29
-ip-cidr, 69.9.170.88/30
-ip-cidr, 69.9.170.92/32
-ip-cidr, 69.9.170.94/31
-ip-cidr, 69.9.170.96/27
-ip-cidr, 69.9.170.128/25
-ip-cidr, 69.9.171.0/24
+ip-cidr, 69.9.170.0/26, proxy, no-resolve
+ip-cidr, 69.9.170.64/28, proxy, no-resolve
+ip-cidr, 69.9.170.80/29, proxy, no-resolve
+ip-cidr, 69.9.170.88/30, proxy, no-resolve
+ip-cidr, 69.9.170.92/32, proxy, no-resolve
+ip-cidr, 69.9.170.94/31, proxy, no-resolve
+ip-cidr, 69.9.170.96/27, proxy, no-resolve
+ip-cidr, 69.9.170.128/25, proxy, no-resolve
+ip-cidr, 69.9.171.0/24, proxy, no-resolve

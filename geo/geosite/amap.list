@@ -1,16 +1,16 @@
-host-suffix, a-map.cn
-host-suffix, a-map.co
-host-suffix, a-map.link
-host-suffix, a-map.vip
-host-suffix, acloudrender.com
-host-suffix, amap.com
-host-suffix, amap.net
-host-suffix, amapauto.com
-host-suffix, anav.com
-host-suffix, autonavi.com
-host-suffix, gaode.com
-host-suffix, adashx.ut.amap.com
-host-suffix, dualstack-logs.amap.com
-host-suffix, logs.amap.com
-host-suffix, optimus-ads.amap.com
-host-suffix, v6-adashx.ut.amap.com
+host-suffix, a-map.cn, proxy
+host-suffix, a-map.co, proxy
+host-suffix, a-map.link, proxy
+host-suffix, a-map.vip, proxy
+host-suffix, acloudrender.com, proxy
+host-suffix, amap.com, proxy
+host-suffix, amap.net, proxy
+host-suffix, amapauto.com, proxy
+host-suffix, anav.com, proxy
+host-suffix, autonavi.com, proxy
+host-suffix, gaode.com, proxy
+host-suffix, adashx.ut.amap.com, proxy
+host-suffix, dualstack-logs.amap.com, proxy
+host-suffix, logs.amap.com, proxy
+host-suffix, optimus-ads.amap.com, proxy
+host-suffix, v6-adashx.ut.amap.com, proxy

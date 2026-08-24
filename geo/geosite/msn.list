@@ -1,21 +1,21 @@
-host-suffix, microsoftnews.cc
-host-suffix, microsoftnews.com
-host-suffix, microsoftnews.net
-host-suffix, microsoftnews.org
-host-suffix, microsoftnewsforkids.com
-host-suffix, microsoftnewsforkids.net
-host-suffix, microsoftnewsforkids.org
-host-suffix, microsoftnewskids.com
-host-suffix, microsoftnewskids.net
-host-suffix, microsoftnewskids.org
-host-suffix, msn.com
-host-suffix, msnewskids.com
-host-suffix, msnewskids.net
-host-suffix, msnewskids.org
-host-suffix, msnkids.com
-host-suffix, microsoftstart.com
-host-suffix, start.com
-host-suffix, microsoftnews.cn
-host-suffix, msn.cn
-host-suffix, browser.events.data.msn.cn
-host-suffix, browser.events.data.msn.com
+host-suffix, microsoftnews.cc, proxy
+host-suffix, microsoftnews.com, proxy
+host-suffix, microsoftnews.net, proxy
+host-suffix, microsoftnews.org, proxy
+host-suffix, microsoftnewsforkids.com, proxy
+host-suffix, microsoftnewsforkids.net, proxy
+host-suffix, microsoftnewsforkids.org, proxy
+host-suffix, microsoftnewskids.com, proxy
+host-suffix, microsoftnewskids.net, proxy
+host-suffix, microsoftnewskids.org, proxy
+host-suffix, msn.com, proxy
+host-suffix, msnewskids.com, proxy
+host-suffix, msnewskids.net, proxy
+host-suffix, msnewskids.org, proxy
+host-suffix, msnkids.com, proxy
+host-suffix, microsoftstart.com, proxy
+host-suffix, start.com, proxy
+host-suffix, microsoftnews.cn, proxy
+host-suffix, msn.cn, proxy
+host-suffix, browser.events.data.msn.cn, proxy
+host-suffix, browser.events.data.msn.com, proxy

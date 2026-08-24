@@ -1,4 +1,4 @@
-host-suffix, devcon.org
-host-suffix, ethereum.foundation
-host-suffix, ethereum.org
-host-suffix, etherscan.io
+host-suffix, devcon.org, proxy
+host-suffix, ethereum.foundation, proxy
+host-suffix, ethereum.org, proxy
+host-suffix, etherscan.io, proxy

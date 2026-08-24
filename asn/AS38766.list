@@ -1,2 +1,2 @@
-ip-cidr, 114.30.80.0/21
-ip6-cidr, 2403:ae00::/32
+ip-cidr, 114.30.80.0/21, proxy, no-resolve
+ip6-cidr, 2403:ae00::/32, proxy, no-resolve

@@ -1,35 +1,35 @@
-host-suffix, intuit
-host-suffix, quickbooks.com
-host-suffix, myproseries.com
-host-suffix, gopayments.com
-host-suffix, intuit-gopayment.com
-host-suffix, intuit.ca
-host-suffix, turbotax.com
-host-suffix, intuit.com
-host-suffix, turbo.com
-host-suffix, intuit.fr
-host-suffix, intuitaffiliate.com
-host-suffix, payroll.com
-host-suffix, intuitcdn.net
-host-suffix, intuitfullservicepayroll.com
-host-suffix, intuitinnovationday.com
-host-suffix, intuitlabs.com
-host-suffix, intuitpayments.com
-host-suffix, gopayment.com
-host-suffix, mailchimp.com
-host-suffix, intuitbenefits.com
-host-suffix, proseries.com
-host-suffix, quickbooksonline.com
-host-suffix, quickbooksenligne.ca
-host-suffix, quickbooks2000.com
-host-suffix, creditkarma.com
-host-suffix, quickbooks.in
-host-suffix, quickbooks.fr
-host-suffix, quickbooks.com.br
-host-suffix, quickbooks.com.au
-host-suffix, quickbooks.co.za
-host-suffix, quickbooks.co.uk
-host-suffix, quickbooksgetconnected.co.za
-host-suffix, quickbook.com.br
-host-suffix, intuit.com.au
-host-suffix, intuit.co.uk
+host-suffix, intuit, proxy
+host-suffix, quickbooks.com, proxy
+host-suffix, myproseries.com, proxy
+host-suffix, gopayments.com, proxy
+host-suffix, intuit-gopayment.com, proxy
+host-suffix, intuit.ca, proxy
+host-suffix, turbotax.com, proxy
+host-suffix, intuit.com, proxy
+host-suffix, turbo.com, proxy
+host-suffix, intuit.fr, proxy
+host-suffix, intuitaffiliate.com, proxy
+host-suffix, payroll.com, proxy
+host-suffix, intuitcdn.net, proxy
+host-suffix, intuitfullservicepayroll.com, proxy
+host-suffix, intuitinnovationday.com, proxy
+host-suffix, intuitlabs.com, proxy
+host-suffix, intuitpayments.com, proxy
+host-suffix, gopayment.com, proxy
+host-suffix, mailchimp.com, proxy
+host-suffix, intuitbenefits.com, proxy
+host-suffix, proseries.com, proxy
+host-suffix, quickbooksonline.com, proxy
+host-suffix, quickbooksenligne.ca, proxy
+host-suffix, quickbooks2000.com, proxy
+host-suffix, creditkarma.com, proxy
+host-suffix, quickbooks.in, proxy
+host-suffix, quickbooks.fr, proxy
+host-suffix, quickbooks.com.br, proxy
+host-suffix, quickbooks.com.au, proxy
+host-suffix, quickbooks.co.za, proxy
+host-suffix, quickbooks.co.uk, proxy
+host-suffix, quickbooksgetconnected.co.za, proxy
+host-suffix, quickbook.com.br, proxy
+host-suffix, intuit.com.au, proxy
+host-suffix, intuit.co.uk, proxy

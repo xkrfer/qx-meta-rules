@@ -1,3 +1,3 @@
-ip-cidr, 156.142.0.0/16
-ip-cidr, 199.244.223.0/24
-ip6-cidr, 2605:ae40::/32
+ip-cidr, 156.142.0.0/16, proxy, no-resolve
+ip-cidr, 199.244.223.0/24, proxy, no-resolve
+ip6-cidr, 2605:ae40::/32, proxy, no-resolve

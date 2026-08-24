@@ -1,1 +1,1 @@
-ip6-cidr, 240e:267:7000::/38
+ip6-cidr, 240e:267:7000::/38, proxy, no-resolve

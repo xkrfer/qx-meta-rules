@@ -1,15 +1,15 @@
-ip-cidr, 134.86.0.0/16
-ip-cidr, 137.202.0.0/16
-ip-cidr, 139.181.12.0/22
-ip-cidr, 139.181.17.0/24
-ip-cidr, 147.34.0.0/16
-ip-cidr, 192.94.36.0/24
-ip-cidr, 192.94.38.0/23
-ip6-cidr, 2620:107:f000::/41
-ip6-cidr, 2620:107:f080::/42
-ip6-cidr, 2620:107:f0c0::/43
-ip6-cidr, 2620:107:f0e0::/44
-ip6-cidr, 2620:107:f0f0::/45
-ip6-cidr, 2620:107:f0f8::/46
-ip6-cidr, 2620:107:f0fc::/47
-ip6-cidr, 2620:107:f0fe::/48
+ip-cidr, 134.86.0.0/16, proxy, no-resolve
+ip-cidr, 137.202.0.0/16, proxy, no-resolve
+ip-cidr, 139.181.12.0/22, proxy, no-resolve
+ip-cidr, 139.181.17.0/24, proxy, no-resolve
+ip-cidr, 147.34.0.0/16, proxy, no-resolve
+ip-cidr, 192.94.36.0/24, proxy, no-resolve
+ip-cidr, 192.94.38.0/23, proxy, no-resolve
+ip6-cidr, 2620:107:f000::/41, proxy, no-resolve
+ip6-cidr, 2620:107:f080::/42, proxy, no-resolve
+ip6-cidr, 2620:107:f0c0::/43, proxy, no-resolve
+ip6-cidr, 2620:107:f0e0::/44, proxy, no-resolve
+ip6-cidr, 2620:107:f0f0::/45, proxy, no-resolve
+ip6-cidr, 2620:107:f0f8::/46, proxy, no-resolve
+ip6-cidr, 2620:107:f0fc::/47, proxy, no-resolve
+ip6-cidr, 2620:107:f0fe::/48, proxy, no-resolve

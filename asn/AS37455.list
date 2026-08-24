@@ -1,2 +1,2 @@
-ip-cidr, 80.67.128.0/20
-ip-cidr, 197.242.184.0/21
+ip-cidr, 80.67.128.0/20, proxy, no-resolve
+ip-cidr, 197.242.184.0/21, proxy, no-resolve

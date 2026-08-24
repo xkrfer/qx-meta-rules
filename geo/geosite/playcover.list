@@ -1,2 +1,2 @@
-host-suffix, playcover.io
-host-suffix, playcover.workers.dev
+host-suffix, playcover.io, proxy
+host-suffix, playcover.workers.dev, proxy

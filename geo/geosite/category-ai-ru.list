@@ -1,12 +1,12 @@
-host-suffix, aiesa.ru
-host-suffix, copymonkey.app
-host-suffix, gerwin.io
-host-suffix, giga.chat
-host-suffix, gptunnel.ru
-host-suffix, polza.ai
-host-suffix, robotext.io
-host-suffix, rugpt.io
-host-suffix, tokenator.top
-host-suffix, alice.yandex.net
-host-suffix, alice.yandex.ru
-host-suffix, alicepro.yandex.ru
+host-suffix, aiesa.ru, proxy
+host-suffix, copymonkey.app, proxy
+host-suffix, gerwin.io, proxy
+host-suffix, giga.chat, proxy
+host-suffix, gptunnel.ru, proxy
+host-suffix, polza.ai, proxy
+host-suffix, robotext.io, proxy
+host-suffix, rugpt.io, proxy
+host-suffix, tokenator.top, proxy
+host-suffix, alice.yandex.net, proxy
+host-suffix, alice.yandex.ru, proxy
+host-suffix, alicepro.yandex.ru, proxy

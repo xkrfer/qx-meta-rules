@@ -1,18 +1,18 @@
-host-suffix, 189.cn
-host-suffix, 189smarthome.com
-host-suffix, 21cn.com
-host-suffix, bestpay.cn
-host-suffix, chinatelecom-h.com
-host-suffix, chntel.com
-host-suffix, dlife.cn
-host-suffix, play.cn
-host-suffix, vnet.cn
-host-suffix, bestpay.com.cn
-host-suffix, chinatelecom.com.cn
-host-suffix, chinatelecomglobal.com
-host-suffix, chinatelecomhk.com
-host-suffix, ctexcel.ca
-host-suffix, ctexcel.com
-host-suffix, ctexcel.com.hk
-host-suffix, ctexcel.fr
-host-suffix, ctexcel.us
+host-suffix, 189.cn, proxy
+host-suffix, 189smarthome.com, proxy
+host-suffix, 21cn.com, proxy
+host-suffix, bestpay.cn, proxy
+host-suffix, chinatelecom-h.com, proxy
+host-suffix, chntel.com, proxy
+host-suffix, dlife.cn, proxy
+host-suffix, play.cn, proxy
+host-suffix, vnet.cn, proxy
+host-suffix, bestpay.com.cn, proxy
+host-suffix, chinatelecom.com.cn, proxy
+host-suffix, chinatelecomglobal.com, proxy
+host-suffix, chinatelecomhk.com, proxy
+host-suffix, ctexcel.ca, proxy
+host-suffix, ctexcel.com, proxy
+host-suffix, ctexcel.com.hk, proxy
+host-suffix, ctexcel.fr, proxy
+host-suffix, ctexcel.us, proxy

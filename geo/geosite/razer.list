@@ -1,9 +1,9 @@
-host-suffix, razer.com
-host-suffix, razerofficial.com
-host-suffix, razersupport.com
-host-suffix, razerzone.jp
-host-suffix, respawnbyrazer.com
-host-suffix, rzr.to
-host-suffix, razerapi.com
-host-suffix, razersynapse.com
-host-suffix, razerzone.com
+host-suffix, razer.com, proxy
+host-suffix, razerofficial.com, proxy
+host-suffix, razersupport.com, proxy
+host-suffix, razerzone.jp, proxy
+host-suffix, respawnbyrazer.com, proxy
+host-suffix, rzr.to, proxy
+host-suffix, razerapi.com, proxy
+host-suffix, razersynapse.com, proxy
+host-suffix, razerzone.com, proxy

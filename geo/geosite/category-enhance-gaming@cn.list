@@ -1,6 +1,6 @@
-host-suffix, ldmnq.com
-host-suffix, lsplayer.com
-host-suffix, yeshen.com
-host-suffix, heavenlywind.cc
-host-suffix, steampp.net
-host-suffix, rpglogs.cn
+host-suffix, ldmnq.com, proxy
+host-suffix, lsplayer.com, proxy
+host-suffix, yeshen.com, proxy
+host-suffix, heavenlywind.cc, proxy
+host-suffix, steampp.net, proxy
+host-suffix, rpglogs.cn, proxy

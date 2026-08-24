@@ -1,5 +1,5 @@
-host-suffix, panasonic
-host-suffix, panasonic.com
-host-suffix, panasonic.jp
-host-suffix, technics.com
-host-suffix, panasonic.cn
+host-suffix, panasonic, proxy
+host-suffix, panasonic.com, proxy
+host-suffix, panasonic.jp, proxy
+host-suffix, technics.com, proxy
+host-suffix, panasonic.cn, proxy

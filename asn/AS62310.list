@@ -1,2 +1,2 @@
-ip-cidr, 77.220.248.0/21
-ip6-cidr, 2a02:2878:8000::/34
+ip-cidr, 77.220.248.0/21, proxy, no-resolve
+ip6-cidr, 2a02:2878:8000::/34, proxy, no-resolve

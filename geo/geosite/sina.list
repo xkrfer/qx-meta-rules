@@ -1,58 +1,58 @@
-host-suffix, sina
-host-suffix, weibo
-host-suffix, xn--9krt00a
-host-suffix, sinaimg.cn
-host-suffix, sinajs.cn
-host-suffix, picself.cn
-host-suffix, sina.cn
-host-suffix, sina.com
-host-suffix, xhaiwai.com
-host-suffix, sina.net
-host-suffix, sinaapp.com
-host-suffix, sinaedge.com
-host-suffix, 97973.com
-host-suffix, sinaimg.com
-host-suffix, krcom.cn
-host-suffix, sinajs.com
-host-suffix, t.cn
-host-suffix, videoself.cn
-host-suffix, wbimg.cn
-host-suffix, wbimg.com
-host-suffix, wcdn.cn
-host-suffix, weibo.cn
-host-suffix, weibo.com
-host-suffix, weibopay.com
-host-suffix, weibocdn.com
-host-suffix, weibo.com.cn
-host-suffix, sina.com.cn
-host-suffix, hk.weibo.com
-host-suffix, my.weibo.com
-host-suffix, overseas.weibo.com
-host-suffix, sg.weibo.com
-host-suffix, th.weibo.com
-host-suffix, tw.weibo.com
-host-suffix, us.weibo.com
-host-suffix, ad.sina.com.cn
-host-suffix, ad.us.sinaimg.cn
-host-suffix, adbox.sina.com.cn
-host-suffix, adimg.mobile.sina.cn
-host-suffix, adimg.uve.weibo.com
-host-suffix, ads.sina.com
-host-suffix, alitui.weibo.com
-host-suffix, beacon.sina.com.cn
-host-suffix, biz.weibo.com
-host-suffix, click.uve.mobile.sina.cn
-host-suffix, click.uve.weibo.com
-host-suffix, log.mix.sina.com.cn
-host-suffix, log.sina.cn
-host-suffix, log2.sina.cn
-host-suffix, mixer.sina.cn
-host-suffix, p4p.sina.com.cn
-host-suffix, rs.sinajs.cn
-host-suffix, sa.sina.cn
-host-suffix, sbeacon.sina.com.cn
-host-suffix, sdkclick.mobile.sina.cn
-host-suffix, slog.sina.cn
-host-suffix, slog.sina.com.cn
-host-suffix, wapwbclick.mobile.sina.cn
-host-suffix, wbclick.mobile.sina.cn
+host-suffix, sina, proxy
+host-suffix, weibo, proxy
+host-suffix, xn--9krt00a, proxy
+host-suffix, sinaimg.cn, proxy
+host-suffix, sinajs.cn, proxy
+host-suffix, picself.cn, proxy
+host-suffix, sina.cn, proxy
+host-suffix, sina.com, proxy
+host-suffix, xhaiwai.com, proxy
+host-suffix, sina.net, proxy
+host-suffix, sinaapp.com, proxy
+host-suffix, sinaedge.com, proxy
+host-suffix, 97973.com, proxy
+host-suffix, sinaimg.com, proxy
+host-suffix, krcom.cn, proxy
+host-suffix, sinajs.com, proxy
+host-suffix, t.cn, proxy
+host-suffix, videoself.cn, proxy
+host-suffix, wbimg.cn, proxy
+host-suffix, wbimg.com, proxy
+host-suffix, wcdn.cn, proxy
+host-suffix, weibo.cn, proxy
+host-suffix, weibo.com, proxy
+host-suffix, weibopay.com, proxy
+host-suffix, weibocdn.com, proxy
+host-suffix, weibo.com.cn, proxy
+host-suffix, sina.com.cn, proxy
+host-suffix, hk.weibo.com, proxy
+host-suffix, my.weibo.com, proxy
+host-suffix, overseas.weibo.com, proxy
+host-suffix, sg.weibo.com, proxy
+host-suffix, th.weibo.com, proxy
+host-suffix, tw.weibo.com, proxy
+host-suffix, us.weibo.com, proxy
+host-suffix, ad.sina.com.cn, proxy
+host-suffix, ad.us.sinaimg.cn, proxy
+host-suffix, adbox.sina.com.cn, proxy
+host-suffix, adimg.mobile.sina.cn, proxy
+host-suffix, adimg.uve.weibo.com, proxy
+host-suffix, ads.sina.com, proxy
+host-suffix, alitui.weibo.com, proxy
+host-suffix, beacon.sina.com.cn, proxy
+host-suffix, biz.weibo.com, proxy
+host-suffix, click.uve.mobile.sina.cn, proxy
+host-suffix, click.uve.weibo.com, proxy
+host-suffix, log.mix.sina.com.cn, proxy
+host-suffix, log.sina.cn, proxy
+host-suffix, log2.sina.cn, proxy
+host-suffix, mixer.sina.cn, proxy
+host-suffix, p4p.sina.com.cn, proxy
+host-suffix, rs.sinajs.cn, proxy
+host-suffix, sa.sina.cn, proxy
+host-suffix, sbeacon.sina.com.cn, proxy
+host-suffix, sdkclick.mobile.sina.cn, proxy
+host-suffix, slog.sina.cn, proxy
+host-suffix, slog.sina.com.cn, proxy
+host-suffix, wapwbclick.mobile.sina.cn, proxy
+host-suffix, wbclick.mobile.sina.cn, proxy

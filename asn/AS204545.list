@@ -1,2 +1,2 @@
-ip-cidr, 217.65.128.0/24
-ip6-cidr, 2a01:ec00::/29
+ip-cidr, 217.65.128.0/24, proxy, no-resolve
+ip6-cidr, 2a01:ec00::/29, proxy, no-resolve

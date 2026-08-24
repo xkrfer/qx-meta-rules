@@ -1,114 +1,114 @@
-host-suffix, digital-wb.ru
-host-suffix, digitalwb.ru
-host-suffix, etradebook.ru
-host-suffix, geobasket.ru
-host-suffix, mp.world
-host-suffix, onlyjobs.ru
-host-suffix, paywb.com
-host-suffix, paywb.ru
-host-suffix, russoutdoor.ru
-host-suffix, rwb.ru
-host-suffix, rwbautomation.ru
-host-suffix, rwbautomation.tech
-host-suffix, rwbgeo.ru
-host-suffix, vamzakaz.ru
-host-suffix, vsemrabota.ru
-host-suffix, warehouse.domains
-host-suffix, wb-bank.ru
-host-suffix, wb-basket.ru
-host-suffix, wb-cloud.ru
-host-suffix, wb-sale.ru
-host-suffix, wb.am
-host-suffix, wb.kg
-host-suffix, wb.kz
-host-suffix, wb.ru
-host-suffix, wbautomation.ru
-host-suffix, wbautomation.tech
-host-suffix, wbbasket.ru
-host-suffix, wbcontent.net
-host-suffix, wbdubna.ru
-host-suffix, wbkids.ru
-host-suffix, wbmail.ru
-host-suffix, wbmotivator.ru
-host-suffix, wbpay.ru
-host-suffix, wbr.by
-host-suffix, wbrep.ru
-host-suffix, wbstatic.net
-host-suffix, wbstatic.ru
-host-suffix, wbtek.ru
-host-suffix, wbwh.ru
-host-suffix, wbwh.tech
-host-suffix, wibes.com
-host-suffix, wibes.ru
-host-suffix, wildberries.am
-host-suffix, wildberries.by
-host-suffix, wildberries.es
-host-suffix, wildberries.eu
-host-suffix, wildberries.ge
-host-suffix, wildberries.kg
-host-suffix, wildberries.kz
-host-suffix, wildberries.lt
-host-suffix, wildberries.ru
-host-suffix, wildberries.tj
-host-suffix, wildberries.tm
-host-suffix, wildberries.uz
-host-suffix, xn--90ab.com
-host-suffix, velberis.ru
-host-suffix, vildberis.ru
-host-suffix, waildberies.ru
-host-suffix, waldberies.ru
-host-suffix, waldberis.ru
-host-suffix, walderis.ru
-host-suffix, wallberis.ru
-host-suffix, weildberries.ru
-host-suffix, welberris.ru
-host-suffix, weldberies.ru
-host-suffix, weldberres.ru
-host-suffix, weldberric.ru
-host-suffix, wellberes.ru
-host-suffix, wellberies.ru
-host-suffix, widberri.ru
-host-suffix, widberris.ru
-host-suffix, wieldberris.ru
-host-suffix, wilberes.ru
-host-suffix, wilberies.ru
-host-suffix, wilberris.ru
-host-suffix, wilberry.ru
-host-suffix, wildbaries.ru
-host-suffix, wildbarries.ru
-host-suffix, wildbeeries.ru
-host-suffix, wildberdes.ru
-host-suffix, wildberiss.ru
-host-suffix, wildberr.ru
-host-suffix, wildberriess.ru
-host-suffix, wildberrise.ru
-host-suffix, wildbiries.ru
-host-suffix, wildbirris.ru
-host-suffix, wildbress.ru
-host-suffix, wildbries.ru
-host-suffix, wildbrris.ru
-host-suffix, wildeberies.ru
-host-suffix, wildeberris.ru
-host-suffix, wiliberes.ru
-host-suffix, willberiess.ru
-host-suffix, willberis.ru
-host-suffix, wldberris.ru
-host-suffix, wolfberries.ru
-host-suffix, xn--80acbjgmges7ca.xn--p1ai
-host-suffix, xn--80acbjgsdq2cl.xn--p1ai
-host-suffix, wildberries.co.il
-host, ads-gate.wildberries.ru
-host, ads-media.wildberries.ru
-host, ads.wildberries.ru
-host, advert-api.wb.ru
-host, advert-api-sandbox.wb.ru
-host, advert-media-api.wb.ru
-host, advert-api.wildberries.ru
-host, advert-api-sandbox.wildberries.ru
-host, advert-media-api.wildberries.ru
-host, analytics-stage.wildberries.ru
-host, analytics.wildberries.ru
-host, marketing-info.wildberries.ru
-host, marketplace-sentry.wb.ru
-host, sentry.wb.ru
-host, web-analytics.wildberries.ru
+host-suffix, digital-wb.ru, proxy
+host-suffix, digitalwb.ru, proxy
+host-suffix, etradebook.ru, proxy
+host-suffix, geobasket.ru, proxy
+host-suffix, mp.world, proxy
+host-suffix, onlyjobs.ru, proxy
+host-suffix, paywb.com, proxy
+host-suffix, paywb.ru, proxy
+host-suffix, russoutdoor.ru, proxy
+host-suffix, rwb.ru, proxy
+host-suffix, rwbautomation.ru, proxy
+host-suffix, rwbautomation.tech, proxy
+host-suffix, rwbgeo.ru, proxy
+host-suffix, vamzakaz.ru, proxy
+host-suffix, vsemrabota.ru, proxy
+host-suffix, warehouse.domains, proxy
+host-suffix, wb-bank.ru, proxy
+host-suffix, wb-basket.ru, proxy
+host-suffix, wb-cloud.ru, proxy
+host-suffix, wb-sale.ru, proxy
+host-suffix, wb.am, proxy
+host-suffix, wb.kg, proxy
+host-suffix, wb.kz, proxy
+host-suffix, wb.ru, proxy
+host-suffix, wbautomation.ru, proxy
+host-suffix, wbautomation.tech, proxy
+host-suffix, wbbasket.ru, proxy
+host-suffix, wbcontent.net, proxy
+host-suffix, wbdubna.ru, proxy
+host-suffix, wbkids.ru, proxy
+host-suffix, wbmail.ru, proxy
+host-suffix, wbmotivator.ru, proxy
+host-suffix, wbpay.ru, proxy
+host-suffix, wbr.by, proxy
+host-suffix, wbrep.ru, proxy
+host-suffix, wbstatic.net, proxy
+host-suffix, wbstatic.ru, proxy
+host-suffix, wbtek.ru, proxy
+host-suffix, wbwh.ru, proxy
+host-suffix, wbwh.tech, proxy
+host-suffix, wibes.com, proxy
+host-suffix, wibes.ru, proxy
+host-suffix, wildberries.am, proxy
+host-suffix, wildberries.by, proxy
+host-suffix, wildberries.es, proxy
+host-suffix, wildberries.eu, proxy
+host-suffix, wildberries.ge, proxy
+host-suffix, wildberries.kg, proxy
+host-suffix, wildberries.kz, proxy
+host-suffix, wildberries.lt, proxy
+host-suffix, wildberries.ru, proxy
+host-suffix, wildberries.tj, proxy
+host-suffix, wildberries.tm, proxy
+host-suffix, wildberries.uz, proxy
+host-suffix, xn--90ab.com, proxy
+host-suffix, velberis.ru, proxy
+host-suffix, vildberis.ru, proxy
+host-suffix, waildberies.ru, proxy
+host-suffix, waldberies.ru, proxy
+host-suffix, waldberis.ru, proxy
+host-suffix, walderis.ru, proxy
+host-suffix, wallberis.ru, proxy
+host-suffix, weildberries.ru, proxy
+host-suffix, welberris.ru, proxy
+host-suffix, weldberies.ru, proxy
+host-suffix, weldberres.ru, proxy
+host-suffix, weldberric.ru, proxy
+host-suffix, wellberes.ru, proxy
+host-suffix, wellberies.ru, proxy
+host-suffix, widberri.ru, proxy
+host-suffix, widberris.ru, proxy
+host-suffix, wieldberris.ru, proxy
+host-suffix, wilberes.ru, proxy
+host-suffix, wilberies.ru, proxy
+host-suffix, wilberris.ru, proxy
+host-suffix, wilberry.ru, proxy
+host-suffix, wildbaries.ru, proxy
+host-suffix, wildbarries.ru, proxy
+host-suffix, wildbeeries.ru, proxy
+host-suffix, wildberdes.ru, proxy
+host-suffix, wildberiss.ru, proxy
+host-suffix, wildberr.ru, proxy
+host-suffix, wildberriess.ru, proxy
+host-suffix, wildberrise.ru, proxy
+host-suffix, wildbiries.ru, proxy
+host-suffix, wildbirris.ru, proxy
+host-suffix, wildbress.ru, proxy
+host-suffix, wildbries.ru, proxy
+host-suffix, wildbrris.ru, proxy
+host-suffix, wildeberies.ru, proxy
+host-suffix, wildeberris.ru, proxy
+host-suffix, wiliberes.ru, proxy
+host-suffix, willberiess.ru, proxy
+host-suffix, willberis.ru, proxy
+host-suffix, wldberris.ru, proxy
+host-suffix, wolfberries.ru, proxy
+host-suffix, xn--80acbjgmges7ca.xn--p1ai, proxy
+host-suffix, xn--80acbjgsdq2cl.xn--p1ai, proxy
+host-suffix, wildberries.co.il, proxy
+host, ads-gate.wildberries.ru, proxy
+host, ads-media.wildberries.ru, proxy
+host, ads.wildberries.ru, proxy
+host, advert-api.wb.ru, proxy
+host, advert-api-sandbox.wb.ru, proxy
+host, advert-media-api.wb.ru, proxy
+host, advert-api.wildberries.ru, proxy
+host, advert-api-sandbox.wildberries.ru, proxy
+host, advert-media-api.wildberries.ru, proxy
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketing-info.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy

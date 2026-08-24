@@ -1,6 +1,6 @@
-host-suffix, flyme.cn
-host-suffix, flyme.com
-host-suffix, flymeauto.com
-host-suffix, meizu.cn
-host-suffix, meizu.com
-host-suffix, mzres.com
+host-suffix, flyme.cn, proxy
+host-suffix, flyme.com, proxy
+host-suffix, flymeauto.com, proxy
+host-suffix, meizu.cn, proxy
+host-suffix, meizu.com, proxy
+host-suffix, mzres.com, proxy

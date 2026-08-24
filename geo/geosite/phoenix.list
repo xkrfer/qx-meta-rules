@@ -1,6 +1,6 @@
-host-suffix, fengcx.com
-host-suffix, ifeng.com
-host-suffix, ifengimg.com
-host-suffix, phoenixcenter.cn
-host-suffix, fengedu.com
-host-suffix, ifengweekly.com
+host-suffix, fengcx.com, proxy
+host-suffix, ifeng.com, proxy
+host-suffix, ifengimg.com, proxy
+host-suffix, phoenixcenter.cn, proxy
+host-suffix, fengedu.com, proxy
+host-suffix, ifengweekly.com, proxy

@@ -1,33 +1,33 @@
-ip-cidr, 27.0.184.0/22
-ip-cidr, 103.27.22.0/24
-ip-cidr, 116.0.35.0/24
-ip-cidr, 116.0.36.0/23
-ip-cidr, 116.0.39.0/24
-ip-cidr, 116.0.45.0/24
-ip-cidr, 116.0.48.0/22
-ip-cidr, 116.0.52.0/23
-ip-cidr, 116.0.54.0/24
-ip-cidr, 134.144.244.0/23
-ip-cidr, 156.149.208.0/20
-ip-cidr, 156.238.83.0/24
-ip-cidr, 175.111.0.0/24
-ip-cidr, 175.111.3.0/24
-ip-cidr, 175.111.4.0/23
-ip-cidr, 203.130.0.0/19
-ip6-cidr, 2001:fe8::/46
-ip6-cidr, 2001:fe8:9::/48
-ip6-cidr, 2001:fe8:10::/47
-ip6-cidr, 2001:fe8:48::/48
-ip6-cidr, 2001:fe8:4001::/48
-ip6-cidr, 2001:fe8:4002::/47
-ip6-cidr, 2001:fe8:4011::/48
-ip6-cidr, 2001:fe8:4100::/47
-ip6-cidr, 2001:fe8:5000::/45
-ip6-cidr, 2001:fe8:6000::/45
-ip6-cidr, 2001:fe8:8100::/47
-ip6-cidr, 2001:fe8:8110::/47
-ip6-cidr, 2001:fe8:8121::/48
-ip6-cidr, 2001:fe8:8130::/47
-ip6-cidr, 2001:fe8:9000::/48
-ip6-cidr, 2001:fe8:c001::/48
-ip6-cidr, 2001:fe8:c002::/48
+ip-cidr, 27.0.184.0/22, proxy, no-resolve
+ip-cidr, 103.27.22.0/24, proxy, no-resolve
+ip-cidr, 116.0.35.0/24, proxy, no-resolve
+ip-cidr, 116.0.36.0/23, proxy, no-resolve
+ip-cidr, 116.0.39.0/24, proxy, no-resolve
+ip-cidr, 116.0.45.0/24, proxy, no-resolve
+ip-cidr, 116.0.48.0/22, proxy, no-resolve
+ip-cidr, 116.0.52.0/23, proxy, no-resolve
+ip-cidr, 116.0.54.0/24, proxy, no-resolve
+ip-cidr, 134.144.244.0/23, proxy, no-resolve
+ip-cidr, 156.149.208.0/20, proxy, no-resolve
+ip-cidr, 156.238.83.0/24, proxy, no-resolve
+ip-cidr, 175.111.0.0/24, proxy, no-resolve
+ip-cidr, 175.111.3.0/24, proxy, no-resolve
+ip-cidr, 175.111.4.0/23, proxy, no-resolve
+ip-cidr, 203.130.0.0/19, proxy, no-resolve
+ip6-cidr, 2001:fe8::/46, proxy, no-resolve
+ip6-cidr, 2001:fe8:9::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:10::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:48::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:4001::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:4002::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:4011::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:4100::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:5000::/45, proxy, no-resolve
+ip6-cidr, 2001:fe8:6000::/45, proxy, no-resolve
+ip6-cidr, 2001:fe8:8100::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:8110::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:8121::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:8130::/47, proxy, no-resolve
+ip6-cidr, 2001:fe8:9000::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:c001::/48, proxy, no-resolve
+ip6-cidr, 2001:fe8:c002::/48, proxy, no-resolve

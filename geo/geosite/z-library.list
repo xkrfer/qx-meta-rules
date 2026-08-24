@@ -1,48 +1,48 @@
-host-suffix, bookshome.info
-host-suffix, 2lib.org
-host-suffix, 1lib.domains
-host-suffix, 1lib.education
-host-suffix, 1lib.eu
-host-suffix, 1lib.limited
-host-suffix, 1lib.pl
-host-suffix, 1lib.sk
-host-suffix, 1lib.to
-host-suffix, 1lib.cloud
-host-suffix, booksc.xyz
-host-suffix, 3lib.net
-host-suffix, art1lib.com
-host-suffix, b-ok.africa
-host-suffix, b-ok.asia
-host-suffix, b-ok.cc
-host-suffix, b-ok.global
-host-suffix, b-ok.org
-host-suffix, book4you.org
-host-suffix, bookfi.net
-host-suffix, booksc.eu
-host-suffix, booksc.me
-host-suffix, 1lib.cz
-host-suffix, booksc.org
-host-suffix, 1lib.tw
-host-suffix, bookshome.net
-host-suffix, bookshome.world
-host-suffix, de1lib.org
-host-suffix, zlibcdn2.com
-host-suffix, hk1lib.org
-host-suffix, libsolutions.app
-host-suffix, libsolutions.domains
-host-suffix, libsolutions.net
-host-suffix, ma1lib.org
-host-suffix, sg1lib.org
-host-suffix, singlelogin.app
-host-suffix, singlelogin.me
-host-suffix, singlelogin.re
-host-suffix, singlelogin.site
-host-suffix, z-lib.fm
-host-suffix, z-lib.gd
-host-suffix, z-lib.gl
-host-suffix, z-lib.org
-host-suffix, z-library.sk
-host-suffix, z-library.se
-host-suffix, zlib.life
-host-suffix, zlibcdn.com
-host-suffix, dln1.ncdn.ec
+host-suffix, bookshome.info, proxy
+host-suffix, 2lib.org, proxy
+host-suffix, 1lib.domains, proxy
+host-suffix, 1lib.education, proxy
+host-suffix, 1lib.eu, proxy
+host-suffix, 1lib.limited, proxy
+host-suffix, 1lib.pl, proxy
+host-suffix, 1lib.sk, proxy
+host-suffix, 1lib.to, proxy
+host-suffix, 1lib.cloud, proxy
+host-suffix, booksc.xyz, proxy
+host-suffix, 3lib.net, proxy
+host-suffix, art1lib.com, proxy
+host-suffix, b-ok.africa, proxy
+host-suffix, b-ok.asia, proxy
+host-suffix, b-ok.cc, proxy
+host-suffix, b-ok.global, proxy
+host-suffix, b-ok.org, proxy
+host-suffix, book4you.org, proxy
+host-suffix, bookfi.net, proxy
+host-suffix, booksc.eu, proxy
+host-suffix, booksc.me, proxy
+host-suffix, 1lib.cz, proxy
+host-suffix, booksc.org, proxy
+host-suffix, 1lib.tw, proxy
+host-suffix, bookshome.net, proxy
+host-suffix, bookshome.world, proxy
+host-suffix, de1lib.org, proxy
+host-suffix, zlibcdn2.com, proxy
+host-suffix, hk1lib.org, proxy
+host-suffix, libsolutions.app, proxy
+host-suffix, libsolutions.domains, proxy
+host-suffix, libsolutions.net, proxy
+host-suffix, ma1lib.org, proxy
+host-suffix, sg1lib.org, proxy
+host-suffix, singlelogin.app, proxy
+host-suffix, singlelogin.me, proxy
+host-suffix, singlelogin.re, proxy
+host-suffix, singlelogin.site, proxy
+host-suffix, z-lib.fm, proxy
+host-suffix, z-lib.gd, proxy
+host-suffix, z-lib.gl, proxy
+host-suffix, z-lib.org, proxy
+host-suffix, z-library.sk, proxy
+host-suffix, z-library.se, proxy
+host-suffix, zlib.life, proxy
+host-suffix, zlibcdn.com, proxy
+host-suffix, dln1.ncdn.ec, proxy

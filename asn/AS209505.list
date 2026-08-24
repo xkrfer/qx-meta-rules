@@ -1,23 +1,23 @@
-ip-cidr, 78.41.136.0/24
-ip-cidr, 185.250.9.0/24
-ip-cidr, 185.250.10.0/23
-ip-cidr, 212.60.144.0/24
-ip6-cidr, 2a0b:9400::/45
-ip6-cidr, 2a0b:9400:9::/48
-ip6-cidr, 2a0b:9400:a::/47
-ip6-cidr, 2a0b:9400:c::/46
-ip6-cidr, 2a0b:9400:10::/44
-ip6-cidr, 2a0b:9400:20::/43
-ip6-cidr, 2a0b:9400:40::/42
-ip6-cidr, 2a0b:9400:80::/41
-ip6-cidr, 2a0b:9400:100::/40
-ip6-cidr, 2a0b:9400:200::/39
-ip6-cidr, 2a0b:9400:400::/38
-ip6-cidr, 2a0b:9400:800::/37
-ip6-cidr, 2a0b:9400:1000::/36
-ip6-cidr, 2a0b:9400:2000::/35
-ip6-cidr, 2a0b:9400:4000::/34
-ip6-cidr, 2a0b:9400:8000::/33
-ip6-cidr, 2a0b:9401::/32
-ip6-cidr, 2a0b:9402::/31
-ip6-cidr, 2a13:3840:4000::/34
+ip-cidr, 78.41.136.0/24, proxy, no-resolve
+ip-cidr, 185.250.9.0/24, proxy, no-resolve
+ip-cidr, 185.250.10.0/23, proxy, no-resolve
+ip-cidr, 212.60.144.0/24, proxy, no-resolve
+ip6-cidr, 2a0b:9400::/45, proxy, no-resolve
+ip6-cidr, 2a0b:9400:9::/48, proxy, no-resolve
+ip6-cidr, 2a0b:9400:a::/47, proxy, no-resolve
+ip6-cidr, 2a0b:9400:c::/46, proxy, no-resolve
+ip6-cidr, 2a0b:9400:10::/44, proxy, no-resolve
+ip6-cidr, 2a0b:9400:20::/43, proxy, no-resolve
+ip6-cidr, 2a0b:9400:40::/42, proxy, no-resolve
+ip6-cidr, 2a0b:9400:80::/41, proxy, no-resolve
+ip6-cidr, 2a0b:9400:100::/40, proxy, no-resolve
+ip6-cidr, 2a0b:9400:200::/39, proxy, no-resolve
+ip6-cidr, 2a0b:9400:400::/38, proxy, no-resolve
+ip6-cidr, 2a0b:9400:800::/37, proxy, no-resolve
+ip6-cidr, 2a0b:9400:1000::/36, proxy, no-resolve
+ip6-cidr, 2a0b:9400:2000::/35, proxy, no-resolve
+ip6-cidr, 2a0b:9400:4000::/34, proxy, no-resolve
+ip6-cidr, 2a0b:9400:8000::/33, proxy, no-resolve
+ip6-cidr, 2a0b:9401::/32, proxy, no-resolve
+ip6-cidr, 2a0b:9402::/31, proxy, no-resolve
+ip6-cidr, 2a13:3840:4000::/34, proxy, no-resolve

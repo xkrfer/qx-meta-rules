@@ -1,2 +1,2 @@
-ip-cidr, 103.7.4.0/24
-ip6-cidr, 2400:ac20::/35
+ip-cidr, 103.7.4.0/24, proxy, no-resolve
+ip6-cidr, 2400:ac20::/35, proxy, no-resolve

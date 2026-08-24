@@ -1,54 +1,54 @@
-host, lolstatic-a.akamaihd.net
-host-suffix, leagueoflegends.com
-host-suffix, ulol.com
-host-suffix, historyofdota.org
-host-suffix, instituteofwar.org
-host-suffix, molesports.com
-host-suffix, rgpub.io
-host-suffix, riot-games.com
-host-suffix, riot.com
-host-suffix, riot.net
-host-suffix, riotcdn.net
-host-suffix, riotgames.com
-host-suffix, riotgames.info
-host-suffix, riotgames.jp
-host-suffix, riotgames.net
-host-suffix, riotgames.tv
-host-suffix, riotpin.com
-host-suffix, riotpoints.com
-host-suffix, rstatic.net
-host-suffix, supremacy.com
-host-suffix, supremacy.net
-host-suffix, championshipseriesleague.com
-host-suffix, lcsmerch.com
-host-suffix, leaguehighschool.com
-host-suffix, leagueoflegends.ca
-host-suffix, historyofdota.net
-host-suffix, historyofdota.com
-host-suffix, lolespor.com
-host-suffix, leagueoflegends.net
-host-suffix, leagueoflegends.org
-host-suffix, leagueoflegendsscripts.com
-host-suffix, leaguesharp.info
-host-suffix, leaguoflegends.com
-host-suffix, learnwithleague.com
-host-suffix, lol-europe.com
-host-suffix, lolclub.org
-host-suffix, leagueoflegends.kr
-host-suffix, lolesports.com
-host-suffix, lolfanart.net
-host-suffix, lolpcs.com
-host-suffix, lolstatic.com
-host-suffix, lolusercontent.com
-host-suffix, convrgencegame.com
-host-suffix, pvp.net
-host-suffix, pvp.tv
-host-suffix, leagueoflegends.info
-host-suffix, playvalorant.com
-host-suffix, riotforgegames.com
-host-suffix, ruinedking.com
-host-suffix, riotgames.co.kr
-host-suffix, leagueoflegends.co.kr
-host-suffix, lolshop.co.kr
-host-suffix, leagueoflegends.cn
-host-suffix, lpl.com.cn
+host, lolstatic-a.akamaihd.net, proxy
+host-suffix, leagueoflegends.com, proxy
+host-suffix, ulol.com, proxy
+host-suffix, historyofdota.org, proxy
+host-suffix, instituteofwar.org, proxy
+host-suffix, molesports.com, proxy
+host-suffix, rgpub.io, proxy
+host-suffix, riot-games.com, proxy
+host-suffix, riot.com, proxy
+host-suffix, riot.net, proxy
+host-suffix, riotcdn.net, proxy
+host-suffix, riotgames.com, proxy
+host-suffix, riotgames.info, proxy
+host-suffix, riotgames.jp, proxy
+host-suffix, riotgames.net, proxy
+host-suffix, riotgames.tv, proxy
+host-suffix, riotpin.com, proxy
+host-suffix, riotpoints.com, proxy
+host-suffix, rstatic.net, proxy
+host-suffix, supremacy.com, proxy
+host-suffix, supremacy.net, proxy
+host-suffix, championshipseriesleague.com, proxy
+host-suffix, lcsmerch.com, proxy
+host-suffix, leaguehighschool.com, proxy
+host-suffix, leagueoflegends.ca, proxy
+host-suffix, historyofdota.net, proxy
+host-suffix, historyofdota.com, proxy
+host-suffix, lolespor.com, proxy
+host-suffix, leagueoflegends.net, proxy
+host-suffix, leagueoflegends.org, proxy
+host-suffix, leagueoflegendsscripts.com, proxy
+host-suffix, leaguesharp.info, proxy
+host-suffix, leaguoflegends.com, proxy
+host-suffix, learnwithleague.com, proxy
+host-suffix, lol-europe.com, proxy
+host-suffix, lolclub.org, proxy
+host-suffix, leagueoflegends.kr, proxy
+host-suffix, lolesports.com, proxy
+host-suffix, lolfanart.net, proxy
+host-suffix, lolpcs.com, proxy
+host-suffix, lolstatic.com, proxy
+host-suffix, lolusercontent.com, proxy
+host-suffix, convrgencegame.com, proxy
+host-suffix, pvp.net, proxy
+host-suffix, pvp.tv, proxy
+host-suffix, leagueoflegends.info, proxy
+host-suffix, playvalorant.com, proxy
+host-suffix, riotforgegames.com, proxy
+host-suffix, ruinedking.com, proxy
+host-suffix, riotgames.co.kr, proxy
+host-suffix, leagueoflegends.co.kr, proxy
+host-suffix, lolshop.co.kr, proxy
+host-suffix, leagueoflegends.cn, proxy
+host-suffix, lpl.com.cn, proxy

@@ -1,3 +1,3 @@
-ip-cidr, 122.152.16.0/20
-ip-cidr, 210.236.96.0/20
-ip6-cidr, 2001:d50::/32
+ip-cidr, 122.152.16.0/20, proxy, no-resolve
+ip-cidr, 210.236.96.0/20, proxy, no-resolve
+ip6-cidr, 2001:d50::/32, proxy, no-resolve

@@ -1,19 +1,19 @@
-ip-cidr, 45.83.205.0/24
-ip-cidr, 185.229.33.0/24
-ip6-cidr, 2a07:e345::/39
-ip6-cidr, 2a07:e345:201::/48
-ip6-cidr, 2a07:e345:202::/47
-ip6-cidr, 2a07:e345:204::/46
-ip6-cidr, 2a07:e345:208::/45
-ip6-cidr, 2a07:e345:210::/44
-ip6-cidr, 2a07:e345:220::/43
-ip6-cidr, 2a07:e345:240::/42
-ip6-cidr, 2a07:e345:280::/41
-ip6-cidr, 2a07:e345:300::/40
-ip6-cidr, 2a07:e345:400::/38
-ip6-cidr, 2a07:e345:800::/37
-ip6-cidr, 2a07:e345:1000::/36
-ip6-cidr, 2a07:e345:2000::/35
-ip6-cidr, 2a07:e345:4000::/34
-ip6-cidr, 2a07:e345:8000::/33
-ip6-cidr, 2a0f:ff40::/32
+ip-cidr, 45.83.205.0/24, proxy, no-resolve
+ip-cidr, 185.229.33.0/24, proxy, no-resolve
+ip6-cidr, 2a07:e345::/39, proxy, no-resolve
+ip6-cidr, 2a07:e345:201::/48, proxy, no-resolve
+ip6-cidr, 2a07:e345:202::/47, proxy, no-resolve
+ip6-cidr, 2a07:e345:204::/46, proxy, no-resolve
+ip6-cidr, 2a07:e345:208::/45, proxy, no-resolve
+ip6-cidr, 2a07:e345:210::/44, proxy, no-resolve
+ip6-cidr, 2a07:e345:220::/43, proxy, no-resolve
+ip6-cidr, 2a07:e345:240::/42, proxy, no-resolve
+ip6-cidr, 2a07:e345:280::/41, proxy, no-resolve
+ip6-cidr, 2a07:e345:300::/40, proxy, no-resolve
+ip6-cidr, 2a07:e345:400::/38, proxy, no-resolve
+ip6-cidr, 2a07:e345:800::/37, proxy, no-resolve
+ip6-cidr, 2a07:e345:1000::/36, proxy, no-resolve
+ip6-cidr, 2a07:e345:2000::/35, proxy, no-resolve
+ip6-cidr, 2a07:e345:4000::/34, proxy, no-resolve
+ip6-cidr, 2a07:e345:8000::/33, proxy, no-resolve
+ip6-cidr, 2a0f:ff40::/32, proxy, no-resolve

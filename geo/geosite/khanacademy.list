@@ -1,2 +1,2 @@
-host-suffix, khanacademy.org
-host-suffix, kastatic.org
+host-suffix, khanacademy.org, proxy
+host-suffix, kastatic.org, proxy

@@ -1,6 +1,6 @@
-ip-cidr, 212.191.230.0/24
-ip-cidr, 212.191.233.0/24
-ip-cidr, 212.191.234.0/24
-ip-cidr, 212.191.236.0/24
-ip-cidr, 212.191.242.0/24
-ip6-cidr, 2001:b10:e000::/35
+ip-cidr, 212.191.230.0/24, proxy, no-resolve
+ip-cidr, 212.191.233.0/24, proxy, no-resolve
+ip-cidr, 212.191.234.0/24, proxy, no-resolve
+ip-cidr, 212.191.236.0/24, proxy, no-resolve
+ip-cidr, 212.191.242.0/24, proxy, no-resolve
+ip6-cidr, 2001:b10:e000::/35, proxy, no-resolve

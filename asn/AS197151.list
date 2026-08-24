@@ -1,1 +1,1 @@
-ip6-cidr, 2a05:4140:2000::/40
+ip6-cidr, 2a05:4140:2000::/40, proxy, no-resolve

@@ -1,2 +1,2 @@
-ip6-cidr, 2602:2a3::/48
-ip6-cidr, 2602:2a3:4::/48
+ip6-cidr, 2602:2a3::/48, proxy, no-resolve
+ip6-cidr, 2602:2a3:4::/48, proxy, no-resolve

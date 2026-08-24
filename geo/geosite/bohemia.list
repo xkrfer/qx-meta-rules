@@ -1,9 +1,9 @@
-host-suffix, arma3.com
-host-suffix, armaplatform.com
-host-suffix, bistudio.com
-host-suffix, bohemia.net
-host-suffix, dayz.com
-host-suffix, makearmanotwar.com
-host-suffix, silicagame.com
-host-suffix, vigorgame.com
-host-suffix, ylands.com
+host-suffix, arma3.com, proxy
+host-suffix, armaplatform.com, proxy
+host-suffix, bistudio.com, proxy
+host-suffix, bohemia.net, proxy
+host-suffix, dayz.com, proxy
+host-suffix, makearmanotwar.com, proxy
+host-suffix, silicagame.com, proxy
+host-suffix, vigorgame.com, proxy
+host-suffix, ylands.com, proxy

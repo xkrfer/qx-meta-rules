@@ -1,52 +1,52 @@
-host-suffix, click.hunantv.com
-host-suffix, da.hunantv.com
-host-suffix, da.mgtv.com
-host-suffix, log.hunantv.com
-host-suffix, log.v2.hunantv.com
-host-suffix, res.hunantv.com
-host, ads3-normal-hl.zijieapi.com
-host, ads3-normal.zijieapi.com
-host, ads5-normal-hl.zijieapi.com
-host, ads5-normal.zijieapi.com
-host, log3-applog-hl.fqnovel.com
-host, log3-applog.fqnovel.com
-host, log5-applog-hl.fqnovel.com
-host, log5-applog.fqnovel.com
-host, p3-ad-sign.byteimg.com
-host, p6-ad-sign.byteimg.com
-host, p9-ad-sign.byteimg.com
-host, rtlog3-applog-hl.fqnovel.com
-host, rtlog3-applog.fqnovel.com
-host, rtlog5-applog-hl.fqnovel.com
-host, rtlog5-applog.fqnovel.com
-host-suffix, adbkwai.com
-host-suffix, adkwai.com
-host-suffix, adukwai.com
-host-suffix, e.kuaishou.cn
-host-suffix, e.kuaishou.com
-host, log-sdk.gifshow.com
-host, wlog.kuaishou.com
-host, apilog-web.acfun.cn
-host-suffix, apple.www.letv.com
-host-suffix, ark.letv.com
-host-suffix, dc.letv.com
-host-suffix, g3.letv.com
-host-suffix, click.gamersky.com
-host-suffix, ja.gamersky.com
-host-suffix, ja1.gamersky.com
-host-suffix, ja2.gamersky.com
-host-suffix, wmbd.gamersky.com
-host-suffix, ad.tencentmusic.com
-host-suffix, adstats.tencentmusic.com
-host-suffix, monitor.music.qq.com
-host-suffix, report.tencentmusic.com
-host-suffix, stat.y.qq.com
-host-suffix, tmead.y.qq.com
-host-suffix, tmeadcomm.y.qq.com
-host-suffix, ads.service.kugou.com
-host-suffix, adserviceretry.kglink.cn
-host-suffix, adserviceretry.kugou.com
-host-suffix, adbehavior.ximalaya.com
-host-suffix, adse.wsa.ximalaya.com
-host-suffix, adse.ximalaya.com
-host-suffix, log-upload.mihoyo.com
+host-suffix, click.hunantv.com, proxy
+host-suffix, da.hunantv.com, proxy
+host-suffix, da.mgtv.com, proxy
+host-suffix, log.hunantv.com, proxy
+host-suffix, log.v2.hunantv.com, proxy
+host-suffix, res.hunantv.com, proxy
+host, ads3-normal-hl.zijieapi.com, proxy
+host, ads3-normal.zijieapi.com, proxy
+host, ads5-normal-hl.zijieapi.com, proxy
+host, ads5-normal.zijieapi.com, proxy
+host, log3-applog-hl.fqnovel.com, proxy
+host, log3-applog.fqnovel.com, proxy
+host, log5-applog-hl.fqnovel.com, proxy
+host, log5-applog.fqnovel.com, proxy
+host, p3-ad-sign.byteimg.com, proxy
+host, p6-ad-sign.byteimg.com, proxy
+host, p9-ad-sign.byteimg.com, proxy
+host, rtlog3-applog-hl.fqnovel.com, proxy
+host, rtlog3-applog.fqnovel.com, proxy
+host, rtlog5-applog-hl.fqnovel.com, proxy
+host, rtlog5-applog.fqnovel.com, proxy
+host-suffix, adbkwai.com, proxy
+host-suffix, adkwai.com, proxy
+host-suffix, adukwai.com, proxy
+host-suffix, e.kuaishou.cn, proxy
+host-suffix, e.kuaishou.com, proxy
+host, log-sdk.gifshow.com, proxy
+host, wlog.kuaishou.com, proxy
+host, apilog-web.acfun.cn, proxy
+host-suffix, apple.www.letv.com, proxy
+host-suffix, ark.letv.com, proxy
+host-suffix, dc.letv.com, proxy
+host-suffix, g3.letv.com, proxy
+host-suffix, click.gamersky.com, proxy
+host-suffix, ja.gamersky.com, proxy
+host-suffix, ja1.gamersky.com, proxy
+host-suffix, ja2.gamersky.com, proxy
+host-suffix, wmbd.gamersky.com, proxy
+host-suffix, ad.tencentmusic.com, proxy
+host-suffix, adstats.tencentmusic.com, proxy
+host-suffix, monitor.music.qq.com, proxy
+host-suffix, report.tencentmusic.com, proxy
+host-suffix, stat.y.qq.com, proxy
+host-suffix, tmead.y.qq.com, proxy
+host-suffix, tmeadcomm.y.qq.com, proxy
+host-suffix, ads.service.kugou.com, proxy
+host-suffix, adserviceretry.kglink.cn, proxy
+host-suffix, adserviceretry.kugou.com, proxy
+host-suffix, adbehavior.ximalaya.com, proxy
+host-suffix, adse.wsa.ximalaya.com, proxy
+host-suffix, adse.ximalaya.com, proxy
+host-suffix, log-upload.mihoyo.com, proxy

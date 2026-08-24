@@ -1,11 +1,11 @@
-ip-cidr, 193.3.56.0/24
-ip6-cidr, 2a10:c5c0::/32
-ip6-cidr, 2a10:c5c1:1ab0::/48
-ip6-cidr, 2a10:c5c1:1ab2::/48
-ip6-cidr, 2a10:c5c1:affe::/48
-ip6-cidr, 2a10:c5c1:beef::/48
-ip6-cidr, 2a10:c5c1:c0de::/48
-ip6-cidr, 2a10:c5c1:cafe::/48
-ip6-cidr, 2a10:c5c1:f016::/48
-ip6-cidr, 2a10:c5c1:f021::/48
-ip6-cidr, 2a10:c5c1:feed::/48
+ip-cidr, 193.3.56.0/24, proxy, no-resolve
+ip6-cidr, 2a10:c5c0::/32, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:1ab0::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:1ab2::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:affe::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:beef::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:c0de::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:cafe::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:f016::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:f021::/48, proxy, no-resolve
+ip6-cidr, 2a10:c5c1:feed::/48, proxy, no-resolve

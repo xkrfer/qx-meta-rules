@@ -1,2 +1,2 @@
-ip6-cidr, 2001:678:a5c::/48
-ip6-cidr, 2a0a:79c0:900::/44
+ip6-cidr, 2001:678:a5c::/48, proxy, no-resolve
+ip6-cidr, 2a0a:79c0:900::/44, proxy, no-resolve

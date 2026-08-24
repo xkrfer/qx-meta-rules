@@ -1,27 +1,27 @@
-host-suffix, samsung
-host-suffix, xn--cg4bki
-host-suffix, galaxyappstore.com
-host-suffix, galaxymobile.jp
-host-suffix, game-platform.net
-host-suffix, knoxemm.com
-host-suffix, ospserver.net
-host-suffix, samsung.com
-host-suffix, samsungapps.com
-host-suffix, samsungcloud.com
-host-suffix, samsungconsent.com
-host-suffix, samsungdm.com
-host-suffix, samsunggalaxyfriends.com
-host-suffix, samsunghealth.com
-host-suffix, samsungiotcloud.com
-host-suffix, samsungiots.com
-host-suffix, samsungknox.com
-host-suffix, samsungosp.com
-host-suffix, samsungqbe.com
-host-suffix, samsungrs.com
-host-suffix, smartthings.com
-host-suffix, samsung.com.cn
-host-suffix, samsungadhub.com
-host-suffix, samsungads.com
-host-suffix, samsungcloudcn.com
-host-suffix, samsungeshop.com.cn
-host-suffix, samsunghealthcn.com
+host-suffix, samsung, proxy
+host-suffix, xn--cg4bki, proxy
+host-suffix, galaxyappstore.com, proxy
+host-suffix, galaxymobile.jp, proxy
+host-suffix, game-platform.net, proxy
+host-suffix, knoxemm.com, proxy
+host-suffix, ospserver.net, proxy
+host-suffix, samsung.com, proxy
+host-suffix, samsungapps.com, proxy
+host-suffix, samsungcloud.com, proxy
+host-suffix, samsungconsent.com, proxy
+host-suffix, samsungdm.com, proxy
+host-suffix, samsunggalaxyfriends.com, proxy
+host-suffix, samsunghealth.com, proxy
+host-suffix, samsungiotcloud.com, proxy
+host-suffix, samsungiots.com, proxy
+host-suffix, samsungknox.com, proxy
+host-suffix, samsungosp.com, proxy
+host-suffix, samsungqbe.com, proxy
+host-suffix, samsungrs.com, proxy
+host-suffix, smartthings.com, proxy
+host-suffix, samsung.com.cn, proxy
+host-suffix, samsungadhub.com, proxy
+host-suffix, samsungads.com, proxy
+host-suffix, samsungcloudcn.com, proxy
+host-suffix, samsungeshop.com.cn, proxy
+host-suffix, samsunghealthcn.com, proxy

@@ -1,21 +1,21 @@
-host-suffix, activision.com
-host-suffix, callofduty.com
-host-suffix, callofdutyendowment.com
-host-suffix, callofdutyendowment.org
-host-suffix, callofdutyleague.com
-host-suffix, callofdutymobile.com
-host-suffix, crashbandicoot.com
-host-suffix, demonware.net
-host-suffix, highmoonstudios.com
-host-suffix, infinityward.com
-host-suffix, ravensoftware.com
-host-suffix, sekirothegame.com
-host-suffix, sierragames.com
-host-suffix, skylanders.com
-host-suffix, sledgehammergames.com
-host-suffix, solidstate.com
-host-suffix, spyrothedragon.com
-host-suffix, tonyhawk.com
-host-suffix, tonyhawkthegame.com
-host-suffix, treyarch.com
-host-suffix, worldseriesofwarzone.com
+host-suffix, activision.com, proxy
+host-suffix, callofduty.com, proxy
+host-suffix, callofdutyendowment.com, proxy
+host-suffix, callofdutyendowment.org, proxy
+host-suffix, callofdutyleague.com, proxy
+host-suffix, callofdutymobile.com, proxy
+host-suffix, crashbandicoot.com, proxy
+host-suffix, demonware.net, proxy
+host-suffix, highmoonstudios.com, proxy
+host-suffix, infinityward.com, proxy
+host-suffix, ravensoftware.com, proxy
+host-suffix, sekirothegame.com, proxy
+host-suffix, sierragames.com, proxy
+host-suffix, skylanders.com, proxy
+host-suffix, sledgehammergames.com, proxy
+host-suffix, solidstate.com, proxy
+host-suffix, spyrothedragon.com, proxy
+host-suffix, tonyhawk.com, proxy
+host-suffix, tonyhawkthegame.com, proxy
+host-suffix, treyarch.com, proxy
+host-suffix, worldseriesofwarzone.com, proxy

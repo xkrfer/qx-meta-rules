@@ -1,4 +1,4 @@
-ip-cidr, 15.12.64.0/21
-ip-cidr, 15.12.76.0/22
-ip-cidr, 15.12.80.0/20
-ip-cidr, 15.12.96.0/19
+ip-cidr, 15.12.64.0/21, proxy, no-resolve
+ip-cidr, 15.12.76.0/22, proxy, no-resolve
+ip-cidr, 15.12.80.0/20, proxy, no-resolve
+ip-cidr, 15.12.96.0/19, proxy, no-resolve

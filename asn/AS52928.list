@@ -1,5 +1,5 @@
-ip-cidr, 131.108.244.0/22
-ip-cidr, 167.250.100.0/22
-ip-cidr, 177.93.112.0/21
-ip-cidr, 177.185.64.0/19
-ip6-cidr, 2804:aec::/32
+ip-cidr, 131.108.244.0/22, proxy, no-resolve
+ip-cidr, 167.250.100.0/22, proxy, no-resolve
+ip-cidr, 177.93.112.0/21, proxy, no-resolve
+ip-cidr, 177.185.64.0/19, proxy, no-resolve
+ip6-cidr, 2804:aec::/32, proxy, no-resolve

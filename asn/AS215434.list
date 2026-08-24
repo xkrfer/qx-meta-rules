@@ -1,5 +1,5 @@
-ip6-cidr, 2a01:f0c0::/29
-ip6-cidr, 2a01:f340::/29
-ip6-cidr, 2a13:afc0::/29
-ip6-cidr, 2a14:61c0::/29
-ip6-cidr, 2a14:69c0::/29
+ip6-cidr, 2a01:f0c0::/29, proxy, no-resolve
+ip6-cidr, 2a01:f340::/29, proxy, no-resolve
+ip6-cidr, 2a13:afc0::/29, proxy, no-resolve
+ip6-cidr, 2a14:61c0::/29, proxy, no-resolve
+ip6-cidr, 2a14:69c0::/29, proxy, no-resolve

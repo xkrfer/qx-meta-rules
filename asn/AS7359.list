@@ -1,5 +1,5 @@
-ip-cidr, 148.156.128.0/21
-ip-cidr, 155.70.32.0/20
-ip-cidr, 155.70.96.0/19
-ip-cidr, 199.168.32.0/24
-ip6-cidr, 2001:428:b20::/48
+ip-cidr, 148.156.128.0/21, proxy, no-resolve
+ip-cidr, 155.70.32.0/20, proxy, no-resolve
+ip-cidr, 155.70.96.0/19, proxy, no-resolve
+ip-cidr, 199.168.32.0/24, proxy, no-resolve
+ip6-cidr, 2001:428:b20::/48, proxy, no-resolve

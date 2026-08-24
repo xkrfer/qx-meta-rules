@@ -1,12 +1,12 @@
-host, nix-community.github.io
-host-suffix, nix.dev
-host-suffix, nix.store
-host-suffix, nixcon.org
-host-suffix, nixcon2017.org
-host-suffix, nixlang.com
-host-suffix, nixos.org
-host-suffix, nixpkgs.org
-host-suffix, builtwithnix.org
-host-suffix, mynixos.com
-host-suffix, nix-community.org
-host-suffix, nixos.wiki
+host, nix-community.github.io, proxy
+host-suffix, nix.dev, proxy
+host-suffix, nix.store, proxy
+host-suffix, nixcon.org, proxy
+host-suffix, nixcon2017.org, proxy
+host-suffix, nixlang.com, proxy
+host-suffix, nixos.org, proxy
+host-suffix, nixpkgs.org, proxy
+host-suffix, builtwithnix.org, proxy
+host-suffix, mynixos.com, proxy
+host-suffix, nix-community.org, proxy
+host-suffix, nixos.wiki, proxy

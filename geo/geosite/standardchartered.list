@@ -1,4 +1,4 @@
-host, standchartbank.sc.omtrdc.net
-host, standchartbank.tt.omtrdc.net
-host-suffix, sc.com
-host-suffix, standardchartered.com
+host, standchartbank.sc.omtrdc.net, proxy
+host, standchartbank.tt.omtrdc.net, proxy
+host-suffix, sc.com, proxy
+host-suffix, standardchartered.com, proxy

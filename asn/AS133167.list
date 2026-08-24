@@ -1,5 +1,5 @@
-ip-cidr, 61.90.249.0/24
-ip-cidr, 110.170.151.0/24
-ip-cidr, 203.148.142.0/23
-ip-cidr, 203.148.182.0/24
-ip6-cidr, 2001:fb0:1035::/48
+ip-cidr, 61.90.249.0/24, proxy, no-resolve
+ip-cidr, 110.170.151.0/24, proxy, no-resolve
+ip-cidr, 203.148.142.0/23, proxy, no-resolve
+ip-cidr, 203.148.182.0/24, proxy, no-resolve
+ip6-cidr, 2001:fb0:1035::/48, proxy, no-resolve

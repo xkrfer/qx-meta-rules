@@ -1,35 +1,35 @@
-host, d1nu566dreq9vj.cloudfront.net
-host, d28odxiw1asdj8.cloudfront.net
-host, d31dormfno8pk4.cloudfront.net
-host, d3lh5kkip965lj.cloudfront.net
-host, d2v9yioq9zuuq2.cloudfront.net
-host, d2fg91fzjsrcv1.cloudfront.net
-host, d26rnz3bwp7rlk.cloudfront.net
-host, ddpjwstwtpszg.cloudfront.net
-host, d96jfp62lg3kj.cloudfront.net
-host, d1ugi9qonif2a2.cloudfront.net
-host, d2j7e8uopcv07.cloudfront.net
-host, d2be40xdoc0in8.cloudfront.net
-host, d1d0w7op819ely.cloudfront.net
-host, d1fijc56o1fzod.cloudfront.net
-host, dcb0z5ovq92mz.cloudfront.net
-host, d20g4xwarzxagx.cloudfront.net
-host, d3nwj80emtnjeo.cloudfront.net
-host, d3ucl0eqgl80l5.cloudfront.net
-host, dstnzhnatv9pz.cloudfront.net
-host, hb4bbbbb.pmhcjk.com
-host, nbbb1bb7.pmhcjk.com
-host, q676790b.pmhcjk.com
-host, agb9r0ad.qllfkl.com
-host-suffix, likee.com
-host-suffix, likeeapp.ru
-host-suffix, likeevideo.com
-host-suffix, likeevideo.ru
-host-suffix, like-video.com
-host-suffix, likee.video
-host-suffix, like.video
-host-suffix, bnxz.net
-host-suffix, bystys.tech
-host-suffix, owxd.xyz
-host-suffix, yucf.top
-host-suffix, uxzw.club
+host, d1nu566dreq9vj.cloudfront.net, proxy
+host, d28odxiw1asdj8.cloudfront.net, proxy
+host, d31dormfno8pk4.cloudfront.net, proxy
+host, d3lh5kkip965lj.cloudfront.net, proxy
+host, d2v9yioq9zuuq2.cloudfront.net, proxy
+host, d2fg91fzjsrcv1.cloudfront.net, proxy
+host, d26rnz3bwp7rlk.cloudfront.net, proxy
+host, ddpjwstwtpszg.cloudfront.net, proxy
+host, d96jfp62lg3kj.cloudfront.net, proxy
+host, d1ugi9qonif2a2.cloudfront.net, proxy
+host, d2j7e8uopcv07.cloudfront.net, proxy
+host, d2be40xdoc0in8.cloudfront.net, proxy
+host, d1d0w7op819ely.cloudfront.net, proxy
+host, d1fijc56o1fzod.cloudfront.net, proxy
+host, dcb0z5ovq92mz.cloudfront.net, proxy
+host, d20g4xwarzxagx.cloudfront.net, proxy
+host, d3nwj80emtnjeo.cloudfront.net, proxy
+host, d3ucl0eqgl80l5.cloudfront.net, proxy
+host, dstnzhnatv9pz.cloudfront.net, proxy
+host, hb4bbbbb.pmhcjk.com, proxy
+host, nbbb1bb7.pmhcjk.com, proxy
+host, q676790b.pmhcjk.com, proxy
+host, agb9r0ad.qllfkl.com, proxy
+host-suffix, likee.com, proxy
+host-suffix, likeeapp.ru, proxy
+host-suffix, likeevideo.com, proxy
+host-suffix, likeevideo.ru, proxy
+host-suffix, like-video.com, proxy
+host-suffix, likee.video, proxy
+host-suffix, like.video, proxy
+host-suffix, bnxz.net, proxy
+host-suffix, bystys.tech, proxy
+host-suffix, owxd.xyz, proxy
+host-suffix, yucf.top, proxy
+host-suffix, uxzw.club, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 198.136.162.0/23
-ip-cidr, 198.136.164.0/24
-ip6-cidr, 2620:31:2001::/48
-ip6-cidr, 2620:31:2007::/48
-ip6-cidr, 2620:31:200a::/48
+ip-cidr, 198.136.162.0/23, proxy, no-resolve
+ip-cidr, 198.136.164.0/24, proxy, no-resolve
+ip6-cidr, 2620:31:2001::/48, proxy, no-resolve
+ip6-cidr, 2620:31:2007::/48, proxy, no-resolve
+ip6-cidr, 2620:31:200a::/48, proxy, no-resolve

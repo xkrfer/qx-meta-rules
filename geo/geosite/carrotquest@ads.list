@@ -1,11 +1,11 @@
-host, api-eu.carrotquest.app
-host, api-eu.carrotquest.io
-host, api-ru.carrotquest.app
-host, api-ru.carrotquest.io
-host, api-secure.carrotquest.app
-host, api-secure.carrottrack.app
-host, api.carrotquest.app
-host, api.carrotquest.io
-host, api.carrottrack.app
-host, api.dashly.app
-host, api.dashlytrack.app
+host, api-eu.carrotquest.app, proxy
+host, api-eu.carrotquest.io, proxy
+host, api-ru.carrotquest.app, proxy
+host, api-ru.carrotquest.io, proxy
+host, api-secure.carrotquest.app, proxy
+host, api-secure.carrottrack.app, proxy
+host, api.carrotquest.app, proxy
+host, api.carrotquest.io, proxy
+host, api.carrottrack.app, proxy
+host, api.dashly.app, proxy
+host, api.dashlytrack.app, proxy

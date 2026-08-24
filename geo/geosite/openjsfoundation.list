@@ -1,13 +1,13 @@
-host, amp.akamaized.net
-host-suffix, openjsf.org
-host-suffix, amp.dev
-host-suffix, ampproject.com
-host-suffix, ampproject.net
-host-suffix, ampproject.org
-host-suffix, electronjs.org
-host-suffix, jquery.com
-host-suffix, jquerymobile.com
-host-suffix, jqueryui.com
-host-suffix, mochajs.org
-host-suffix, nodejs.org
-host, cdn.ampproject.org
+host, amp.akamaized.net, proxy
+host-suffix, openjsf.org, proxy
+host-suffix, amp.dev, proxy
+host-suffix, ampproject.com, proxy
+host-suffix, ampproject.net, proxy
+host-suffix, ampproject.org, proxy
+host-suffix, electronjs.org, proxy
+host-suffix, jquery.com, proxy
+host-suffix, jquerymobile.com, proxy
+host-suffix, jqueryui.com, proxy
+host-suffix, mochajs.org, proxy
+host-suffix, nodejs.org, proxy
+host, cdn.ampproject.org, proxy

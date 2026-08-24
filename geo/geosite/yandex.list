@@ -1,132 +1,132 @@
-host-suffix, yandex
-host-suffix, yandex.kz
-host-suffix, yandex.tj
-host-suffix, cabconnect.org
-host-suffix, clck.ru
-host-suffix, clstorage.net
-host-suffix, driveawaytaxi.org
-host-suffix, elama.ru
-host-suffix, gogettaxi.org
-host-suffix, goup.ai
-host-suffix, hayya.ae
-host-suffix, meteum.ai
-host-suffix, my-manager-account.com
-host-suffix, naydex.net
-host-suffix, realtyverif.ru
-host-suffix, rostaxi.org
-host-suffix, shedevrum.ai
-host-suffix, sourcecraft.dev
-host-suffix, static-storage.net
-host-suffix, support-uber.com
-host-suffix, taxiaid.org
-host-suffix, taxiguru.org
-host-suffix, taxitax.org
-host-suffix, turbopages.org
-host-suffix, ya.cc
-host-suffix, ya.ru
-host-suffix, yandex-bank.net
-host-suffix, yandex.lt
-host-suffix, yandex.aero
-host-suffix, yandex.asia
-host-suffix, yandex.az
-host-suffix, yandex.by
-host-suffix, yandex.cloud
-host-suffix, yandex.com
-host-suffix, yandex.de
-host-suffix, yandex.ee
-host-suffix, yandex.eu
-host-suffix, yandex.fi
-host-suffix, kinopoisk.ru
-host-suffix, yndx.net
-host-suffix, yandex.fr
-host-suffix, yandex.it
-host-suffix, yandex.jobs
-host-suffix, yandex.kg
-host-suffix, xn--d1acpjx3f.xn--p1ai
-host-suffix, yandex-team.ru
-host-suffix, berizaryad.ru
-host-suffix, yandex.pl
-host-suffix, yandex.mobi
-host-suffix, yandex.net
-host-suffix, yandex.org
-host-suffix, yandex.md
-host-suffix, yandex.ru
-host-suffix, yandex.st
-host-suffix, yandex.sx
-host-suffix, yandex.lv
-host-suffix, yandex.tm
-host-suffix, yandex.tr
-host-suffix, yandex.ua
-host-suffix, yandex.uz
-host-suffix, yandexadexchange.net
-host-suffix, yandexcloud.net
-host-suffix, yandexcom.net
-host-suffix, yandexgo.com
-host-suffix, yandexlyceum.ru
-host-suffix, yandexwebcache.net
-host-suffix, yandexwebcache.org
-host-suffix, yango-b2b.com
-host-suffix, yango-team.com
-host-suffix, yango-tech.com
-host-suffix, yango.africa
-host-suffix, yango.ao
-host-suffix, yango.bh
-host-suffix, yccdn.ru
-host-suffix, yastatic.net
-host-suffix, yastatic-net.ru
-host-suffix, yastat.net
-host-suffix, yangofellowship.com
-host-suffix, yango.com
-host-suffix, yango.fi
-host-suffix, yango.qa
-host-suffix, yango.taxi
-host-suffix, yango.tech
-host-suffix, yango.co.il
-host-suffix, yandex.com.ua
-host-suffix, yandex.com.tr
-host-suffix, yandex.com.ru
-host-suffix, yandex.com.ge
-host-suffix, yandex.com.am
-host-suffix, yandex.co.il
-host-suffix, adfox.ru
-host-suffix, adfox.yandex.ru
-host-suffix, admetrica.ru
-host-suffix, ads.yandex
-host-suffix, ads.yandex.ru
-host-suffix, adv.yandex.com
-host-suffix, adv.yandex.ru
-host-suffix, an.yandex.ru
-host-suffix, appmetrica.yandex.com
-host-suffix, appmetrica.yandex.net
-host-suffix, appmetrica.yandex.ru
-host-suffix, appmetrica.yango.com
-host-suffix, bs.yandex.ru
-host-suffix, clck.yandex.ru
-host-suffix, counter.yandex.ru
-host-suffix, mc.yandex.ru
-host-suffix, metrika.yandex.com
-host-suffix, metrika.yandex.net
-host-suffix, metrika.yandex.ru
-host-suffix, webvisor.com
-host-suffix, webvisor.org
-host-suffix, yabs.yandex.ru
-host-suffix, yads.tech
-host-suffix, yandex-metrica.ru
-host-suffix, yandexmetrica.com
-host-suffix, yango-ads.com
-host, adfstat.yandex.ru
-host, ads.yandex.com
-host, ads.yango.com
-host, adsdk.yandex.ru
-host, amc.yandex.ru
-host, analytics.mobile.yandex.net
-host, clck.yandex.com
-host, clck.yandex.net
-host, clck.yango.com
-host, informer.yandex.ru
-host, log.strm.yandex.ru
-host, mc.yandex.com
-host, mc.yandex.net
-host, mc.yango.com
-host, pixel.yandex.com
-host, report.ap.yandex-net.ru
+host-suffix, yandex, proxy
+host-suffix, yandex.kz, proxy
+host-suffix, yandex.tj, proxy
+host-suffix, cabconnect.org, proxy
+host-suffix, clck.ru, proxy
+host-suffix, clstorage.net, proxy
+host-suffix, driveawaytaxi.org, proxy
+host-suffix, elama.ru, proxy
+host-suffix, gogettaxi.org, proxy
+host-suffix, goup.ai, proxy
+host-suffix, hayya.ae, proxy
+host-suffix, meteum.ai, proxy
+host-suffix, my-manager-account.com, proxy
+host-suffix, naydex.net, proxy
+host-suffix, realtyverif.ru, proxy
+host-suffix, rostaxi.org, proxy
+host-suffix, shedevrum.ai, proxy
+host-suffix, sourcecraft.dev, proxy
+host-suffix, static-storage.net, proxy
+host-suffix, support-uber.com, proxy
+host-suffix, taxiaid.org, proxy
+host-suffix, taxiguru.org, proxy
+host-suffix, taxitax.org, proxy
+host-suffix, turbopages.org, proxy
+host-suffix, ya.cc, proxy
+host-suffix, ya.ru, proxy
+host-suffix, yandex-bank.net, proxy
+host-suffix, yandex.lt, proxy
+host-suffix, yandex.aero, proxy
+host-suffix, yandex.asia, proxy
+host-suffix, yandex.az, proxy
+host-suffix, yandex.by, proxy
+host-suffix, yandex.cloud, proxy
+host-suffix, yandex.com, proxy
+host-suffix, yandex.de, proxy
+host-suffix, yandex.ee, proxy
+host-suffix, yandex.eu, proxy
+host-suffix, yandex.fi, proxy
+host-suffix, kinopoisk.ru, proxy
+host-suffix, yndx.net, proxy
+host-suffix, yandex.fr, proxy
+host-suffix, yandex.it, proxy
+host-suffix, yandex.jobs, proxy
+host-suffix, yandex.kg, proxy
+host-suffix, xn--d1acpjx3f.xn--p1ai, proxy
+host-suffix, yandex-team.ru, proxy
+host-suffix, berizaryad.ru, proxy
+host-suffix, yandex.pl, proxy
+host-suffix, yandex.mobi, proxy
+host-suffix, yandex.net, proxy
+host-suffix, yandex.org, proxy
+host-suffix, yandex.md, proxy
+host-suffix, yandex.ru, proxy
+host-suffix, yandex.st, proxy
+host-suffix, yandex.sx, proxy
+host-suffix, yandex.lv, proxy
+host-suffix, yandex.tm, proxy
+host-suffix, yandex.tr, proxy
+host-suffix, yandex.ua, proxy
+host-suffix, yandex.uz, proxy
+host-suffix, yandexadexchange.net, proxy
+host-suffix, yandexcloud.net, proxy
+host-suffix, yandexcom.net, proxy
+host-suffix, yandexgo.com, proxy
+host-suffix, yandexlyceum.ru, proxy
+host-suffix, yandexwebcache.net, proxy
+host-suffix, yandexwebcache.org, proxy
+host-suffix, yango-b2b.com, proxy
+host-suffix, yango-team.com, proxy
+host-suffix, yango-tech.com, proxy
+host-suffix, yango.africa, proxy
+host-suffix, yango.ao, proxy
+host-suffix, yango.bh, proxy
+host-suffix, yccdn.ru, proxy
+host-suffix, yastatic.net, proxy
+host-suffix, yastatic-net.ru, proxy
+host-suffix, yastat.net, proxy
+host-suffix, yangofellowship.com, proxy
+host-suffix, yango.com, proxy
+host-suffix, yango.fi, proxy
+host-suffix, yango.qa, proxy
+host-suffix, yango.taxi, proxy
+host-suffix, yango.tech, proxy
+host-suffix, yango.co.il, proxy
+host-suffix, yandex.com.ua, proxy
+host-suffix, yandex.com.tr, proxy
+host-suffix, yandex.com.ru, proxy
+host-suffix, yandex.com.ge, proxy
+host-suffix, yandex.com.am, proxy
+host-suffix, yandex.co.il, proxy
+host-suffix, adfox.ru, proxy
+host-suffix, adfox.yandex.ru, proxy
+host-suffix, admetrica.ru, proxy
+host-suffix, ads.yandex, proxy
+host-suffix, ads.yandex.ru, proxy
+host-suffix, adv.yandex.com, proxy
+host-suffix, adv.yandex.ru, proxy
+host-suffix, an.yandex.ru, proxy
+host-suffix, appmetrica.yandex.com, proxy
+host-suffix, appmetrica.yandex.net, proxy
+host-suffix, appmetrica.yandex.ru, proxy
+host-suffix, appmetrica.yango.com, proxy
+host-suffix, bs.yandex.ru, proxy
+host-suffix, clck.yandex.ru, proxy
+host-suffix, counter.yandex.ru, proxy
+host-suffix, mc.yandex.ru, proxy
+host-suffix, metrika.yandex.com, proxy
+host-suffix, metrika.yandex.net, proxy
+host-suffix, metrika.yandex.ru, proxy
+host-suffix, webvisor.com, proxy
+host-suffix, webvisor.org, proxy
+host-suffix, yabs.yandex.ru, proxy
+host-suffix, yads.tech, proxy
+host-suffix, yandex-metrica.ru, proxy
+host-suffix, yandexmetrica.com, proxy
+host-suffix, yango-ads.com, proxy
+host, adfstat.yandex.ru, proxy
+host, ads.yandex.com, proxy
+host, ads.yango.com, proxy
+host, adsdk.yandex.ru, proxy
+host, amc.yandex.ru, proxy
+host, analytics.mobile.yandex.net, proxy
+host, clck.yandex.com, proxy
+host, clck.yandex.net, proxy
+host, clck.yango.com, proxy
+host, informer.yandex.ru, proxy
+host, log.strm.yandex.ru, proxy
+host, mc.yandex.com, proxy
+host, mc.yandex.net, proxy
+host, mc.yango.com, proxy
+host, pixel.yandex.com, proxy
+host, report.ap.yandex-net.ru, proxy

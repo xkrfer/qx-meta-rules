@@ -1,21 +1,21 @@
-host-suffix, a.market.xiaomi.com
-host-suffix, ad.intl.xiaomi.com
-host-suffix, ad.mi.com
-host-suffix, ad.xiaomi.com
-host-suffix, ad1.xiaomi.com
-host-suffix, admob.xiaomi.com
-host-suffix, adv.sec.intl.miui.com
-host-suffix, adv.sec.miui.com
-host-suffix, data.mistat.india.xiaomi.com
-host-suffix, data.mistat.intl.xiaomi.com
-host-suffix, data.mistat.rus.xiaomi.com
-host-suffix, data.mistat.xiaomi.com
-host-suffix, logupdate.avlyun.sec.miui.com
-host-suffix, misc.in.duokanbox.com
-host-suffix, sentry.d.mi.com
-host-suffix, sentry.d.xiaomi.net
-host-suffix, stats.music.xiaomi.com
-host-suffix, tjqonline.cn
-host-suffix, tracker.ai.xiaomi.com
-host-suffix, tracker.xiaomixiaoai.com
-host-suffix, tracking.miui.com
+host-suffix, a.market.xiaomi.com, proxy
+host-suffix, ad.intl.xiaomi.com, proxy
+host-suffix, ad.mi.com, proxy
+host-suffix, ad.xiaomi.com, proxy
+host-suffix, ad1.xiaomi.com, proxy
+host-suffix, admob.xiaomi.com, proxy
+host-suffix, adv.sec.intl.miui.com, proxy
+host-suffix, adv.sec.miui.com, proxy
+host-suffix, data.mistat.india.xiaomi.com, proxy
+host-suffix, data.mistat.intl.xiaomi.com, proxy
+host-suffix, data.mistat.rus.xiaomi.com, proxy
+host-suffix, data.mistat.xiaomi.com, proxy
+host-suffix, logupdate.avlyun.sec.miui.com, proxy
+host-suffix, misc.in.duokanbox.com, proxy
+host-suffix, sentry.d.mi.com, proxy
+host-suffix, sentry.d.xiaomi.net, proxy
+host-suffix, stats.music.xiaomi.com, proxy
+host-suffix, tjqonline.cn, proxy
+host-suffix, tracker.ai.xiaomi.com, proxy
+host-suffix, tracker.xiaomixiaoai.com, proxy
+host-suffix, tracking.miui.com, proxy

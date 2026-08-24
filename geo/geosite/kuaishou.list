@@ -1,40 +1,40 @@
-host-suffix, eckwai.com
-host-suffix, ecukwai.com
-host-suffix, gifshow.com
-host-suffix, inkuai.com
-host-suffix, inkwai.com
-host-suffix, ksapisrv.com
-host-suffix, kskwai.com
-host-suffix, kspkg.com
-host-suffix, kuaishou.cn
-host-suffix, kuaishou.com
-host-suffix, kuaishouapps.com
-host-suffix, kuaishoupay.com
-host-suffix, kuaishouzt.com
-host-suffix, kwaicdn.com
-host-suffix, kwaishop.com
-host-suffix, kwaixiaodian.com
-host-suffix, kwaiying.com
-host-suffix, kwaizt.com
-host-suffix, kwimgs.com
-host-suffix, mojidoc.com
-host-suffix, qingque.cn
-host-suffix, viviv.com
-host-suffix, wskwai.com
-host-suffix, wsukwai.com
-host-suffix, yximgs.com
-host-suffix, ac.fun
-host-suffix, acfun.cn
-host-suffix, acfun.net
-host-suffix, acfunchina.cn
-host-suffix, acfunchina.com
-host-suffix, acfunchina.net
-host-suffix, aixifan.com
-host-suffix, adbkwai.com
-host-suffix, adkwai.com
-host-suffix, adukwai.com
-host-suffix, e.kuaishou.cn
-host-suffix, e.kuaishou.com
-host, log-sdk.gifshow.com
-host, wlog.kuaishou.com
-host, apilog-web.acfun.cn
+host-suffix, eckwai.com, proxy
+host-suffix, ecukwai.com, proxy
+host-suffix, gifshow.com, proxy
+host-suffix, inkuai.com, proxy
+host-suffix, inkwai.com, proxy
+host-suffix, ksapisrv.com, proxy
+host-suffix, kskwai.com, proxy
+host-suffix, kspkg.com, proxy
+host-suffix, kuaishou.cn, proxy
+host-suffix, kuaishou.com, proxy
+host-suffix, kuaishouapps.com, proxy
+host-suffix, kuaishoupay.com, proxy
+host-suffix, kuaishouzt.com, proxy
+host-suffix, kwaicdn.com, proxy
+host-suffix, kwaishop.com, proxy
+host-suffix, kwaixiaodian.com, proxy
+host-suffix, kwaiying.com, proxy
+host-suffix, kwaizt.com, proxy
+host-suffix, kwimgs.com, proxy
+host-suffix, mojidoc.com, proxy
+host-suffix, qingque.cn, proxy
+host-suffix, viviv.com, proxy
+host-suffix, wskwai.com, proxy
+host-suffix, wsukwai.com, proxy
+host-suffix, yximgs.com, proxy
+host-suffix, ac.fun, proxy
+host-suffix, acfun.cn, proxy
+host-suffix, acfun.net, proxy
+host-suffix, acfunchina.cn, proxy
+host-suffix, acfunchina.com, proxy
+host-suffix, acfunchina.net, proxy
+host-suffix, aixifan.com, proxy
+host-suffix, adbkwai.com, proxy
+host-suffix, adkwai.com, proxy
+host-suffix, adukwai.com, proxy
+host-suffix, e.kuaishou.cn, proxy
+host-suffix, e.kuaishou.com, proxy
+host, log-sdk.gifshow.com, proxy
+host, wlog.kuaishou.com, proxy
+host, apilog-web.acfun.cn, proxy

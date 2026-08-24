@@ -1,2 +1,2 @@
-host-suffix, startupschool.org
-host-suffix, ycombinator.com
+host-suffix, startupschool.org, proxy
+host-suffix, ycombinator.com, proxy

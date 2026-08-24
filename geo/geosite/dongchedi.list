@@ -1,8 +1,8 @@
-host-suffix, dcarapi.com
-host-suffix, dcarimg.com
-host-suffix, dcarlive.com
-host-suffix, dcarstatic.com
-host-suffix, dcarvod.com
-host-suffix, dcdapp.com
-host-suffix, dongchedi.com
-host-suffix, dongchediapp.com
+host-suffix, dcarapi.com, proxy
+host-suffix, dcarimg.com, proxy
+host-suffix, dcarlive.com, proxy
+host-suffix, dcarstatic.com, proxy
+host-suffix, dcarvod.com, proxy
+host-suffix, dcdapp.com, proxy
+host-suffix, dongchedi.com, proxy
+host-suffix, dongchediapp.com, proxy

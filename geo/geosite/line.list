@@ -1,20 +1,20 @@
-host-suffix, linemobile.com
-host-suffix, lin.ee
-host-suffix, line-apps-beta.com
-host-suffix, line-apps-rc.com
-host-suffix, line-apps.com
-host-suffix, line-beta.me
-host-suffix, line-cdn.net
-host-suffix, line-scdn.net
-host-suffix, line.me
-host-suffix, line.biz
-host-suffix, linefriends.com
-host-suffix, linecorp.com
-host-suffix, nhncorp.jp
-host-suffix, linetv.tw
-host-suffix, linegame.jp
-host-suffix, gcld-line.com
-host-suffix, linemyshop.com
-host-suffix, lineshoppingseller.com
-host-suffix, linefriends.com.tw
-host-suffix, line.naver.jp
+host-suffix, linemobile.com, proxy
+host-suffix, lin.ee, proxy
+host-suffix, line-apps-beta.com, proxy
+host-suffix, line-apps-rc.com, proxy
+host-suffix, line-apps.com, proxy
+host-suffix, line-beta.me, proxy
+host-suffix, line-cdn.net, proxy
+host-suffix, line-scdn.net, proxy
+host-suffix, line.me, proxy
+host-suffix, line.biz, proxy
+host-suffix, linefriends.com, proxy
+host-suffix, linecorp.com, proxy
+host-suffix, nhncorp.jp, proxy
+host-suffix, linetv.tw, proxy
+host-suffix, linegame.jp, proxy
+host-suffix, gcld-line.com, proxy
+host-suffix, linemyshop.com, proxy
+host-suffix, lineshoppingseller.com, proxy
+host-suffix, linefriends.com.tw, proxy
+host-suffix, line.naver.jp, proxy

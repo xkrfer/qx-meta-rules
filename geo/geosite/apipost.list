@@ -1,2 +1,2 @@
-host-suffix, apipost.cn
-host-suffix, apipost.net
+host-suffix, apipost.cn, proxy
+host-suffix, apipost.net, proxy

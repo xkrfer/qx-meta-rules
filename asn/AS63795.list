@@ -1,2 +1,2 @@
-ip-cidr, 103.187.126.0/24
-ip6-cidr, 2400:7ce0:4000::/36
+ip-cidr, 103.187.126.0/24, proxy, no-resolve
+ip6-cidr, 2400:7ce0:4000::/36, proxy, no-resolve

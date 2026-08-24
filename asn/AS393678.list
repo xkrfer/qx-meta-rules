@@ -1,3 +1,3 @@
-ip-cidr, 66.92.30.0/24
-ip-cidr, 142.248.176.0/22
-ip6-cidr, 2602:f781::/36
+ip-cidr, 66.92.30.0/24, proxy, no-resolve
+ip-cidr, 142.248.176.0/22, proxy, no-resolve
+ip6-cidr, 2602:f781::/36, proxy, no-resolve

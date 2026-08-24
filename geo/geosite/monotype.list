@@ -1,14 +1,14 @@
-host, fontshop-prod-responsive-images.s3.amazonaws.com
-host-suffix, monotype.com
-host-suffix, monotypeimaging.com
-host-suffix, bitstream.com
-host-suffix, itcfonts.com
-host-suffix, linotype.com
-host-suffix, myfonts.com
-host-suffix, myfonts.net
-host-suffix, fontexplorerx.com
-host-suffix, fonts.com
-host-suffix, fonts.net
-host-suffix, fontbook.com
-host-suffix, fontshop.com
-host-suffix, fstopimages.com
+host, fontshop-prod-responsive-images.s3.amazonaws.com, proxy
+host-suffix, monotype.com, proxy
+host-suffix, monotypeimaging.com, proxy
+host-suffix, bitstream.com, proxy
+host-suffix, itcfonts.com, proxy
+host-suffix, linotype.com, proxy
+host-suffix, myfonts.com, proxy
+host-suffix, myfonts.net, proxy
+host-suffix, fontexplorerx.com, proxy
+host-suffix, fonts.com, proxy
+host-suffix, fonts.net, proxy
+host-suffix, fontbook.com, proxy
+host-suffix, fontshop.com, proxy
+host-suffix, fstopimages.com, proxy

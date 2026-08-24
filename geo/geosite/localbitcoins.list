@@ -1,2 +1,2 @@
-host-suffix, localbitcoins.com
-host-suffix, localbitcoinschain.com
+host-suffix, localbitcoins.com, proxy
+host-suffix, localbitcoinschain.com, proxy

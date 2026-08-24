@@ -1,4 +1,4 @@
-ip-cidr, 147.67.0.0/16
-ip-cidr, 158.166.0.0/15
-ip-cidr, 158.168.0.0/15
-ip6-cidr, 2a01:7080::/32
+ip-cidr, 147.67.0.0/16, proxy, no-resolve
+ip-cidr, 158.166.0.0/15, proxy, no-resolve
+ip-cidr, 158.168.0.0/15, proxy, no-resolve
+ip6-cidr, 2a01:7080::/32, proxy, no-resolve

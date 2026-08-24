@@ -1,4 +1,4 @@
-ip-cidr, 72.194.128.0/24
-ip-cidr, 104.254.52.0/22
-ip6-cidr, 2605:e380::/32
-ip6-cidr, 2620:8d:4000::/48
+ip-cidr, 72.194.128.0/24, proxy, no-resolve
+ip-cidr, 104.254.52.0/22, proxy, no-resolve
+ip6-cidr, 2605:e380::/32, proxy, no-resolve
+ip6-cidr, 2620:8d:4000::/48, proxy, no-resolve

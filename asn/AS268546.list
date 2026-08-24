@@ -1,8 +1,8 @@
-ip-cidr, 45.169.12.0/22
-ip-cidr, 45.187.120.0/22
-ip-cidr, 138.0.148.0/22
-ip6-cidr, 2804:52dc::/35
-ip6-cidr, 2804:52dc:3000::/36
-ip6-cidr, 2804:52dc:4000::/34
-ip6-cidr, 2804:52dc:8000::/36
-ip6-cidr, 2804:52dc:b000::/36
+ip-cidr, 45.169.12.0/22, proxy, no-resolve
+ip-cidr, 45.187.120.0/22, proxy, no-resolve
+ip-cidr, 138.0.148.0/22, proxy, no-resolve
+ip6-cidr, 2804:52dc::/35, proxy, no-resolve
+ip6-cidr, 2804:52dc:3000::/36, proxy, no-resolve
+ip6-cidr, 2804:52dc:4000::/34, proxy, no-resolve
+ip6-cidr, 2804:52dc:8000::/36, proxy, no-resolve
+ip6-cidr, 2804:52dc:b000::/36, proxy, no-resolve

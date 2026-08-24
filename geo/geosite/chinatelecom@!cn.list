@@ -1,7 +1,7 @@
-host-suffix, chinatelecomglobal.com
-host-suffix, chinatelecomhk.com
-host-suffix, ctexcel.ca
-host-suffix, ctexcel.com
-host-suffix, ctexcel.com.hk
-host-suffix, ctexcel.fr
-host-suffix, ctexcel.us
+host-suffix, chinatelecomglobal.com, proxy
+host-suffix, chinatelecomhk.com, proxy
+host-suffix, ctexcel.ca, proxy
+host-suffix, ctexcel.com, proxy
+host-suffix, ctexcel.com.hk, proxy
+host-suffix, ctexcel.fr, proxy
+host-suffix, ctexcel.us, proxy

@@ -1,1 +1,1 @@
-ip-cidr, 103.102.36.0/23
+ip-cidr, 103.102.36.0/23, proxy, no-resolve

@@ -1,3 +1,3 @@
-ip-cidr, 23.166.104.0/24
-ip-cidr, 169.128.108.0/22
-ip6-cidr, 2607:7d40::/32
+ip-cidr, 23.166.104.0/24, proxy, no-resolve
+ip-cidr, 169.128.108.0/22, proxy, no-resolve
+ip6-cidr, 2607:7d40::/32, proxy, no-resolve

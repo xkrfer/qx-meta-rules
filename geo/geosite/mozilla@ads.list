@@ -1,4 +1,4 @@
-host, ads-img.mozilla.org
-host, ads.mozilla.org
-host, incoming.telemetry.mozilla.org
-host, incoming-telemetry.thunderbird.net
+host, ads-img.mozilla.org, proxy
+host, ads.mozilla.org, proxy
+host, incoming.telemetry.mozilla.org, proxy
+host, incoming-telemetry.thunderbird.net, proxy

@@ -1,2 +1,2 @@
-host-suffix, fastlane.ci
-host-suffix, fastlane.tools
+host-suffix, fastlane.ci, proxy
+host-suffix, fastlane.tools, proxy

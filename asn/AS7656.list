@@ -1,5 +1,5 @@
-ip-cidr, 210.208.0.0/18
-ip-cidr, 210.208.64.0/21
-ip-cidr, 210.208.128.0/18
-ip-cidr, 210.209.0.0/18
-ip6-cidr, 2407:680:8000::/33
+ip-cidr, 210.208.0.0/18, proxy, no-resolve
+ip-cidr, 210.208.64.0/21, proxy, no-resolve
+ip-cidr, 210.208.128.0/18, proxy, no-resolve
+ip-cidr, 210.209.0.0/18, proxy, no-resolve
+ip6-cidr, 2407:680:8000::/33, proxy, no-resolve

@@ -1,4 +1,4 @@
-ip-cidr, 190.83.12.0/22
-ip6-cidr, 2803:2ae0::/39
-ip6-cidr, 2803:2ae0:200::/40
-ip6-cidr, 2803:2ae0:1400::/39
+ip-cidr, 190.83.12.0/22, proxy, no-resolve
+ip6-cidr, 2803:2ae0::/39, proxy, no-resolve
+ip6-cidr, 2803:2ae0:200::/40, proxy, no-resolve
+ip6-cidr, 2803:2ae0:1400::/39, proxy, no-resolve

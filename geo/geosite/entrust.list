@@ -1,10 +1,10 @@
-host-suffix, entrust.cn
-host-suffix, entrust.com
-host-suffix, entrust.net
-host-suffix, entrustdatacard.com
-host-suffix, affirmtrust.com
-host-suffix, atos.net
-host-suffix, myatos.net
-host-suffix, certificat2.com
-host-suffix, trendmicro.com
-host, www.entrust.cn
+host-suffix, entrust.cn, proxy
+host-suffix, entrust.com, proxy
+host-suffix, entrust.net, proxy
+host-suffix, entrustdatacard.com, proxy
+host-suffix, affirmtrust.com, proxy
+host-suffix, atos.net, proxy
+host-suffix, myatos.net, proxy
+host-suffix, certificat2.com, proxy
+host-suffix, trendmicro.com, proxy
+host, www.entrust.cn, proxy

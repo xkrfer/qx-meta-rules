@@ -1,14 +1,14 @@
-host-suffix, tvbanywhere.com
-host-suffix, bigbigshop.com
-host-suffix, encoretvb.com
-host-suffix, neigbuy.com
-host-suffix, tvb.com
-host-suffix, tvbusa.com
-host-suffix, tvbweekly.com
-host-suffix, mytvsuper.com
-host-suffix, tvb.com.au
-host-suffix, bigbigchannel.com.hk
-host-suffix, tvbanywhere.com.sg
-host-suffix, tvbeventpower.com.hk
-host-suffix, tvmedia.net.au
-host-suffix, tvbc.com.cn
+host-suffix, tvbanywhere.com, proxy
+host-suffix, bigbigshop.com, proxy
+host-suffix, encoretvb.com, proxy
+host-suffix, neigbuy.com, proxy
+host-suffix, tvb.com, proxy
+host-suffix, tvbusa.com, proxy
+host-suffix, tvbweekly.com, proxy
+host-suffix, mytvsuper.com, proxy
+host-suffix, tvb.com.au, proxy
+host-suffix, bigbigchannel.com.hk, proxy
+host-suffix, tvbanywhere.com.sg, proxy
+host-suffix, tvbeventpower.com.hk, proxy
+host-suffix, tvmedia.net.au, proxy
+host-suffix, tvbc.com.cn, proxy

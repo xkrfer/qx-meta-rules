@@ -1,7 +1,7 @@
-host-suffix, esp8266.cn
-host-suffix, espressif.cn
-host-suffix, esp8266.com.cn
-host-suffix, espressif.com.cn
-host-suffix, esp32.com
-host-suffix, esp8266.com
-host-suffix, espressif.com
+host-suffix, esp8266.cn, proxy
+host-suffix, espressif.cn, proxy
+host-suffix, esp8266.com.cn, proxy
+host-suffix, espressif.com.cn, proxy
+host-suffix, esp32.com, proxy
+host-suffix, esp8266.com, proxy
+host-suffix, espressif.com, proxy

@@ -1,49 +1,49 @@
-host-suffix, alibaba
-host-suffix, alipay
-host-suffix, anquan
-host-suffix, baidu
-host-suffix, citic
-host-suffix, cn
-host-suffix, icbc
-host-suffix, shouji
-host-suffix, sina
-host-suffix, sohu
-host-suffix, taobao
-host-suffix, tmall
-host-suffix, unicom
-host-suffix, weibo
-host-suffix, xihuan
-host-suffix, yun
-host-suffix, xn--9krt00a
-host-suffix, xn--fiqs8s
-host-suffix, xn--fiqz9s
-host-suffix, xn--zfr164b
-host-suffix, xn--55qw42g
-host-suffix, xn--55qx5d
-host-suffix, xn--io0a7i
-host-suffix, xn--ses554g
-host-suffix, xn--czru2d
-host-suffix, xn--hxt814e
-host-suffix, xn--fiq64b
-host-suffix, xn--czr694b
-host-suffix, xn--xhq521b
-host-suffix, xn--1qqw23a
-host-suffix, xn--vuq861b
-host-suffix, xn--kput3i
-host-suffix, xn--3ds443g
-host-suffix, xn--fiq228c5hs
-host-suffix, xn--3bst00m
-host-suffix, xn--6qq986b3xl
-host-suffix, xn--czrs0t
-host-suffix, xn--vhquv
-host-suffix, xn--fjq720a
-host-suffix, xn--unup4y
-host-suffix, xn--g2xx48c
-host-suffix, xn--imr513n
-host-suffix, xn--otu796d
-host-suffix, xn--9et52u
-host-suffix, xn--6frz82g
-host-suffix, xn--5tzm5g
-host-suffix, xn--8y0a063a
-host-suffix, xn--rhqv96g
-host-suffix, xn--nyqy26a
+host-suffix, alibaba, proxy
+host-suffix, alipay, proxy
+host-suffix, anquan, proxy
+host-suffix, baidu, proxy
+host-suffix, citic, proxy
+host-suffix, cn, proxy
+host-suffix, icbc, proxy
+host-suffix, shouji, proxy
+host-suffix, sina, proxy
+host-suffix, sohu, proxy
+host-suffix, taobao, proxy
+host-suffix, tmall, proxy
+host-suffix, unicom, proxy
+host-suffix, weibo, proxy
+host-suffix, xihuan, proxy
+host-suffix, yun, proxy
+host-suffix, xn--9krt00a, proxy
+host-suffix, xn--fiqs8s, proxy
+host-suffix, xn--fiqz9s, proxy
+host-suffix, xn--zfr164b, proxy
+host-suffix, xn--55qw42g, proxy
+host-suffix, xn--55qx5d, proxy
+host-suffix, xn--io0a7i, proxy
+host-suffix, xn--ses554g, proxy
+host-suffix, xn--czru2d, proxy
+host-suffix, xn--hxt814e, proxy
+host-suffix, xn--fiq64b, proxy
+host-suffix, xn--czr694b, proxy
+host-suffix, xn--xhq521b, proxy
+host-suffix, xn--1qqw23a, proxy
+host-suffix, xn--vuq861b, proxy
+host-suffix, xn--kput3i, proxy
+host-suffix, xn--3ds443g, proxy
+host-suffix, xn--fiq228c5hs, proxy
+host-suffix, xn--3bst00m, proxy
+host-suffix, xn--6qq986b3xl, proxy
+host-suffix, xn--czrs0t, proxy
+host-suffix, xn--vhquv, proxy
+host-suffix, xn--fjq720a, proxy
+host-suffix, xn--unup4y, proxy
+host-suffix, xn--g2xx48c, proxy
+host-suffix, xn--imr513n, proxy
+host-suffix, xn--otu796d, proxy
+host-suffix, xn--9et52u, proxy
+host-suffix, xn--6frz82g, proxy
+host-suffix, xn--5tzm5g, proxy
+host-suffix, xn--8y0a063a, proxy
+host-suffix, xn--rhqv96g, proxy
+host-suffix, xn--nyqy26a, proxy

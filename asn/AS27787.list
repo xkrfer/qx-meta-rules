@@ -1,5 +1,5 @@
-ip-cidr, 186.148.232.0/21
-ip-cidr, 190.227.12.0/24
-ip-cidr, 200.43.113.0/24
-ip-cidr, 200.107.96.0/20
-ip6-cidr, 2800:970::/32
+ip-cidr, 186.148.232.0/21, proxy, no-resolve
+ip-cidr, 190.227.12.0/24, proxy, no-resolve
+ip-cidr, 200.43.113.0/24, proxy, no-resolve
+ip-cidr, 200.107.96.0/20, proxy, no-resolve
+ip6-cidr, 2800:970::/32, proxy, no-resolve

@@ -1,2 +1,2 @@
-host-suffix, globalvoices.org
-host-suffix, globalvoicesonline.org
+host-suffix, globalvoices.org, proxy
+host-suffix, globalvoicesonline.org, proxy

@@ -1,12 +1,12 @@
-host-suffix, malayalamanorama.com
-host-suffix, manorama.com
-host-suffix, manoramanews.com
-host-suffix, manoramaonline.com
-host-suffix, manoramayearbook.in
-host-suffix, onmanorama.com
-host-suffix, radiomango.fm
-host-suffix, theman.in
-host-suffix, theweek.in
-host-suffix, vanitaonline.com
-host-suffix, vanitha.in
-host-suffix, vanithaveedu.com
+host-suffix, malayalamanorama.com, proxy
+host-suffix, manorama.com, proxy
+host-suffix, manoramanews.com, proxy
+host-suffix, manoramaonline.com, proxy
+host-suffix, manoramayearbook.in, proxy
+host-suffix, onmanorama.com, proxy
+host-suffix, radiomango.fm, proxy
+host-suffix, theman.in, proxy
+host-suffix, theweek.in, proxy
+host-suffix, vanitaonline.com, proxy
+host-suffix, vanitha.in, proxy
+host-suffix, vanithaveedu.com, proxy

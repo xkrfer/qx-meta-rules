@@ -1,7 +1,7 @@
-host-suffix, mypikpak.com
-host-suffix, mypikpak.net
-host-suffix, pickpackapp.com
-host-suffix, pikpak.io
-host-suffix, pikpak.me
-host-suffix, pikpakdrive.com
-host, o4504926511693824.ingest.sentry.io
+host-suffix, mypikpak.com, proxy
+host-suffix, mypikpak.net, proxy
+host-suffix, pickpackapp.com, proxy
+host-suffix, pikpak.io, proxy
+host-suffix, pikpak.me, proxy
+host-suffix, pikpakdrive.com, proxy
+host, o4504926511693824.ingest.sentry.io, proxy

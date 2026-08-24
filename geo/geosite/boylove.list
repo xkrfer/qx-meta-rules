@@ -1,5 +1,5 @@
-host-suffix, boylove.cc
-host-suffix, boylove.live
-host-suffix, boylove1.cc
-host-suffix, boyloves.cc
-host-suffix, fuhouse.club
+host-suffix, boylove.cc, proxy
+host-suffix, boylove.live, proxy
+host-suffix, boylove1.cc, proxy
+host-suffix, boyloves.cc, proxy
+host-suffix, fuhouse.club, proxy

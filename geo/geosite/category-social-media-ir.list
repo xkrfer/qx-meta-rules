@@ -1,11 +1,11 @@
-host-suffix, bale.ai
-host-suffix, eitaa.com
-host-suffix, eitaa.ir
-host-suffix, gap.im
-host-suffix, gaplication.com
-host-suffix, mizito.ir
-host-suffix, niniban.com
-host-suffix, ninisite.com
-host-suffix, rubika.ir
-host-suffix, splus.ir
-host-suffix, virasty.com
+host-suffix, bale.ai, proxy
+host-suffix, eitaa.com, proxy
+host-suffix, eitaa.ir, proxy
+host-suffix, gap.im, proxy
+host-suffix, gaplication.com, proxy
+host-suffix, mizito.ir, proxy
+host-suffix, niniban.com, proxy
+host-suffix, ninisite.com, proxy
+host-suffix, rubika.ir, proxy
+host-suffix, splus.ir, proxy
+host-suffix, virasty.com, proxy

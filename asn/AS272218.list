@@ -1,16 +1,16 @@
-ip6-cidr, 2804:83c4::/33
-ip6-cidr, 2804:83c4:8000::/48
-ip6-cidr, 2804:83c4:8008::/48
-ip6-cidr, 2804:83c4:800b::/48
-ip6-cidr, 2804:83c4:801c::/48
-ip6-cidr, 2804:83c4:a000::/40
-ip6-cidr, 2804:83c4:a200::/40
-ip6-cidr, 2804:83c4:a400::/39
-ip6-cidr, 2804:83c4:aa30::/44
-ip6-cidr, 2804:83c4:ad00::/40
-ip6-cidr, 2804:83c4:b500::/40
-ip6-cidr, 2804:83c4:b700::/40
-ip6-cidr, 2804:83c4:bb00::/40
-ip6-cidr, 2804:83c4:bd00::/40
-ip6-cidr, 2804:83c4:be00::/40
-ip6-cidr, 2804:83c4:c000::/34
+ip6-cidr, 2804:83c4::/33, proxy, no-resolve
+ip6-cidr, 2804:83c4:8000::/48, proxy, no-resolve
+ip6-cidr, 2804:83c4:8008::/48, proxy, no-resolve
+ip6-cidr, 2804:83c4:800b::/48, proxy, no-resolve
+ip6-cidr, 2804:83c4:801c::/48, proxy, no-resolve
+ip6-cidr, 2804:83c4:a000::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:a200::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:a400::/39, proxy, no-resolve
+ip6-cidr, 2804:83c4:aa30::/44, proxy, no-resolve
+ip6-cidr, 2804:83c4:ad00::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:b500::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:b700::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:bb00::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:bd00::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:be00::/40, proxy, no-resolve
+ip6-cidr, 2804:83c4:c000::/34, proxy, no-resolve

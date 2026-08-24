@@ -1,5 +1,5 @@
-host-suffix, focuschina.com
-host-suffix, made-in-china.com
-host-suffix, micstatic.com
-host-suffix, trademessenger.com
-host-suffix, vemic.com
+host-suffix, focuschina.com, proxy
+host-suffix, made-in-china.com, proxy
+host-suffix, micstatic.com, proxy
+host-suffix, trademessenger.com, proxy
+host-suffix, vemic.com, proxy

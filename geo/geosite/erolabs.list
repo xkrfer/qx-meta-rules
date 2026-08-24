@@ -1,13 +1,13 @@
-host-suffix, ero-labs.cloud
-host-suffix, ero-labs.com
-host-suffix, ero-labs.fun
-host-suffix, ero-labs.io
-host-suffix, ero-labs.net
-host-suffix, ero-labs.one
-host-suffix, ero-labs.online
-host-suffix, ero-labs.site
-host-suffix, erolabs.cloud
-host-suffix, erolabs.com
-host-suffix, erolabs.net
-host-suffix, erolabs.online
-host-suffix, erolabsshare.xyz
+host-suffix, ero-labs.cloud, proxy
+host-suffix, ero-labs.com, proxy
+host-suffix, ero-labs.fun, proxy
+host-suffix, ero-labs.io, proxy
+host-suffix, ero-labs.net, proxy
+host-suffix, ero-labs.one, proxy
+host-suffix, ero-labs.online, proxy
+host-suffix, ero-labs.site, proxy
+host-suffix, erolabs.cloud, proxy
+host-suffix, erolabs.com, proxy
+host-suffix, erolabs.net, proxy
+host-suffix, erolabs.online, proxy
+host-suffix, erolabsshare.xyz, proxy

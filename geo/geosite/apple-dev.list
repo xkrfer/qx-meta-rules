@@ -1,47 +1,47 @@
-host, notary-submissions-prod.s3-accelerate.amazonaws.com
-host, notary-submissions-prod.s3.us-west-2.amazonaws.com
-host, appleworldwidedeveloper.hb-api.omtrdc.net
-host, appleworldwidedeveloper.sc.omtrdc.net
-host, p-events-delivery.akamaized.net
-host-suffix, macruby.com
-host-suffix, macruby.net
-host-suffix, cups.org
-host-suffix, swift.org
-host-suffix, appleswift.com
-host-suffix, webobjects.com
-host-suffix, wpewebkit.org
-host-suffix, calendarserver.org
-host-suffix, foundationdb.org
-host-suffix, macruby.org
-host-suffix, apple-cloudkit.com
-host-suffix, webkit.org
-host-suffix, macosforge.org
-host-suffix, apple-mapkit.com
-host-suffix, webkitgtk.org
-host-suffix, carekit.org
-host-suffix, researchandcare.org
-host-suffix, researchkit.hk
-host-suffix, researchkit.net
-host-suffix, researchkit.org
-host-suffix, researchkit.tv
-host-suffix, servicetalk.io
-host-suffix, timestamp.apple.com
-host-suffix, playgrounds-cdn.apple.com
-host-suffix, developerservices2.apple.com
-host-suffix, devstreaming-cdn.apple.com
-host-suffix, devimages-cdn.apple.com
-host-suffix, developer.apple.com
-host, cdn.apple-mapkit.com
-host, cdn1.apple-mapkit.com
-host, cdn2.apple-mapkit.com
-host, cdn3.apple-mapkit.com
-host, cdn4.apple-mapkit.com
-host, cdn-cn.apple-mapkit.com
-host, cdn-cn1.apple-mapkit.com
-host, cdn-cn2.apple-mapkit.com
-host, cdn-cn3.apple-mapkit.com
-host, cdn-cn4.apple-mapkit.com
-host-suffix, researchkit.cn
-host-suffix, researchkit.com.cn
-host-suffix, swiftui.cn
-host-suffix, swiftui.com.cn
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, proxy
+host, appleworldwidedeveloper.hb-api.omtrdc.net, proxy
+host, appleworldwidedeveloper.sc.omtrdc.net, proxy
+host, p-events-delivery.akamaized.net, proxy
+host-suffix, macruby.com, proxy
+host-suffix, macruby.net, proxy
+host-suffix, cups.org, proxy
+host-suffix, swift.org, proxy
+host-suffix, appleswift.com, proxy
+host-suffix, webobjects.com, proxy
+host-suffix, wpewebkit.org, proxy
+host-suffix, calendarserver.org, proxy
+host-suffix, foundationdb.org, proxy
+host-suffix, macruby.org, proxy
+host-suffix, apple-cloudkit.com, proxy
+host-suffix, webkit.org, proxy
+host-suffix, macosforge.org, proxy
+host-suffix, apple-mapkit.com, proxy
+host-suffix, webkitgtk.org, proxy
+host-suffix, carekit.org, proxy
+host-suffix, researchandcare.org, proxy
+host-suffix, researchkit.hk, proxy
+host-suffix, researchkit.net, proxy
+host-suffix, researchkit.org, proxy
+host-suffix, researchkit.tv, proxy
+host-suffix, servicetalk.io, proxy
+host-suffix, timestamp.apple.com, proxy
+host-suffix, playgrounds-cdn.apple.com, proxy
+host-suffix, developerservices2.apple.com, proxy
+host-suffix, devstreaming-cdn.apple.com, proxy
+host-suffix, devimages-cdn.apple.com, proxy
+host-suffix, developer.apple.com, proxy
+host, cdn.apple-mapkit.com, proxy
+host, cdn1.apple-mapkit.com, proxy
+host, cdn2.apple-mapkit.com, proxy
+host, cdn3.apple-mapkit.com, proxy
+host, cdn4.apple-mapkit.com, proxy
+host, cdn-cn.apple-mapkit.com, proxy
+host, cdn-cn1.apple-mapkit.com, proxy
+host, cdn-cn2.apple-mapkit.com, proxy
+host, cdn-cn3.apple-mapkit.com, proxy
+host, cdn-cn4.apple-mapkit.com, proxy
+host-suffix, researchkit.cn, proxy
+host-suffix, researchkit.com.cn, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

@@ -1,13 +1,13 @@
-host-suffix, logitech.fr
-host-suffix, logicoolg.com
-host-suffix, logitech.biz
-host-suffix, logitech.com
-host-suffix, logi.com
-host-suffix, logitech.io
-host-suffix, logitechg.com
-host-suffix, logitechg.fr
-host-suffix, worldsfastestgamer.net
-host-suffix, logicool.co.jp
-host-suffix, logitech.com.cn
-host-suffix, logitechg.com.cn
-host-suffix, logitechio.com.cn
+host-suffix, logitech.fr, proxy
+host-suffix, logicoolg.com, proxy
+host-suffix, logitech.biz, proxy
+host-suffix, logitech.com, proxy
+host-suffix, logi.com, proxy
+host-suffix, logitech.io, proxy
+host-suffix, logitechg.com, proxy
+host-suffix, logitechg.fr, proxy
+host-suffix, worldsfastestgamer.net, proxy
+host-suffix, logicool.co.jp, proxy
+host-suffix, logitech.com.cn, proxy
+host-suffix, logitechg.com.cn, proxy
+host-suffix, logitechio.com.cn, proxy

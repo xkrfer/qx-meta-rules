@@ -1,4 +1,4 @@
-host-suffix, madshi.net
-host-suffix, madvr.com
-host-suffix, madvr.net
-host-suffix, madvrlabs.llc
+host-suffix, madshi.net, proxy
+host-suffix, madvr.com, proxy
+host-suffix, madvr.net, proxy
+host-suffix, madvrlabs.llc, proxy

@@ -1,1 +1,1 @@
-ip-cidr, 190.107.80.0/21
+ip-cidr, 190.107.80.0/21, proxy, no-resolve

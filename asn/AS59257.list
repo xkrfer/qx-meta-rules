@@ -1,43 +1,43 @@
-ip-cidr, 43.243.132.0/22
-ip-cidr, 45.116.232.0/22
-ip-cidr, 103.255.4.0/22
-ip-cidr, 111.119.168.0/22
-ip-cidr, 111.119.172.0/23
-ip-cidr, 111.119.174.0/24
-ip-cidr, 111.119.176.0/20
-ip-cidr, 117.134.222.0/23
-ip-cidr, 121.91.32.0/20
-ip-cidr, 121.91.48.0/21
-ip-cidr, 121.91.58.0/23
-ip-cidr, 203.189.224.0/22
-ip-cidr, 203.189.228.0/23
-ip-cidr, 203.189.230.0/24
-ip-cidr, 209.150.152.0/21
-ip-cidr, 223.123.0.0/19
-ip-cidr, 223.123.50.0/23
-ip-cidr, 223.123.52.0/22
-ip-cidr, 223.123.56.0/21
-ip-cidr, 223.123.64.0/23
-ip-cidr, 223.123.68.0/22
-ip-cidr, 223.123.72.0/22
-ip-cidr, 223.123.80.0/20
-ip-cidr, 223.123.96.0/22
-ip-cidr, 223.123.104.0/21
-ip-cidr, 223.123.112.0/21
-ip-cidr, 223.123.120.0/22
-ip6-cidr, 2402:ad80::/46
-ip6-cidr, 2402:ad80:4::/48
-ip6-cidr, 2402:ad80:10::/47
-ip6-cidr, 2402:ad80:12::/48
-ip6-cidr, 2402:ad80:20::/47
-ip6-cidr, 2402:ad80:22::/48
-ip6-cidr, 2402:ad80:60::/43
-ip6-cidr, 2402:ad80:80::/42
-ip6-cidr, 2402:ad80:f0::/44
-ip6-cidr, 2402:ad80:100::/42
-ip6-cidr, 2402:ad80:140::/44
-ip6-cidr, 2402:ad80:1b0::/44
-ip6-cidr, 2402:ad80:1f0::/44
-ip6-cidr, 2402:ad80:330::/44
-ip6-cidr, 2402:ad80:340::/42
-ip6-cidr, 2402:ad80:380::/44
+ip-cidr, 43.243.132.0/22, proxy, no-resolve
+ip-cidr, 45.116.232.0/22, proxy, no-resolve
+ip-cidr, 103.255.4.0/22, proxy, no-resolve
+ip-cidr, 111.119.168.0/22, proxy, no-resolve
+ip-cidr, 111.119.172.0/23, proxy, no-resolve
+ip-cidr, 111.119.174.0/24, proxy, no-resolve
+ip-cidr, 111.119.176.0/20, proxy, no-resolve
+ip-cidr, 117.134.222.0/23, proxy, no-resolve
+ip-cidr, 121.91.32.0/20, proxy, no-resolve
+ip-cidr, 121.91.48.0/21, proxy, no-resolve
+ip-cidr, 121.91.58.0/23, proxy, no-resolve
+ip-cidr, 203.189.224.0/22, proxy, no-resolve
+ip-cidr, 203.189.228.0/23, proxy, no-resolve
+ip-cidr, 203.189.230.0/24, proxy, no-resolve
+ip-cidr, 209.150.152.0/21, proxy, no-resolve
+ip-cidr, 223.123.0.0/19, proxy, no-resolve
+ip-cidr, 223.123.50.0/23, proxy, no-resolve
+ip-cidr, 223.123.52.0/22, proxy, no-resolve
+ip-cidr, 223.123.56.0/21, proxy, no-resolve
+ip-cidr, 223.123.64.0/23, proxy, no-resolve
+ip-cidr, 223.123.68.0/22, proxy, no-resolve
+ip-cidr, 223.123.72.0/22, proxy, no-resolve
+ip-cidr, 223.123.80.0/20, proxy, no-resolve
+ip-cidr, 223.123.96.0/22, proxy, no-resolve
+ip-cidr, 223.123.104.0/21, proxy, no-resolve
+ip-cidr, 223.123.112.0/21, proxy, no-resolve
+ip-cidr, 223.123.120.0/22, proxy, no-resolve
+ip6-cidr, 2402:ad80::/46, proxy, no-resolve
+ip6-cidr, 2402:ad80:4::/48, proxy, no-resolve
+ip6-cidr, 2402:ad80:10::/47, proxy, no-resolve
+ip6-cidr, 2402:ad80:12::/48, proxy, no-resolve
+ip6-cidr, 2402:ad80:20::/47, proxy, no-resolve
+ip6-cidr, 2402:ad80:22::/48, proxy, no-resolve
+ip6-cidr, 2402:ad80:60::/43, proxy, no-resolve
+ip6-cidr, 2402:ad80:80::/42, proxy, no-resolve
+ip6-cidr, 2402:ad80:f0::/44, proxy, no-resolve
+ip6-cidr, 2402:ad80:100::/42, proxy, no-resolve
+ip6-cidr, 2402:ad80:140::/44, proxy, no-resolve
+ip6-cidr, 2402:ad80:1b0::/44, proxy, no-resolve
+ip6-cidr, 2402:ad80:1f0::/44, proxy, no-resolve
+ip6-cidr, 2402:ad80:330::/44, proxy, no-resolve
+ip6-cidr, 2402:ad80:340::/42, proxy, no-resolve
+ip6-cidr, 2402:ad80:380::/44, proxy, no-resolve

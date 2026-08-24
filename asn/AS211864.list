@@ -1,2 +1,2 @@
-ip-cidr, 81.173.80.0/24
-ip6-cidr, 2602:fed2:7043::/48
+ip-cidr, 81.173.80.0/24, proxy, no-resolve
+ip6-cidr, 2602:fed2:7043::/48, proxy, no-resolve

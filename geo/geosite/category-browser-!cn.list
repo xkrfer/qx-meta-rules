@@ -1,35 +1,35 @@
-host, mozilla-ohttp.fastly-edge.com
-host, mozilla.map.fastly.net
-host-suffix, chrome
-host-suffix, netsurf-browser.org
-host-suffix, palemoon.org
-host-suffix, basilisk-browser.org
-host-suffix, brave.com
-host-suffix, bromite.org
-host-suffix, torproject.org
-host-suffix, cromite.org
-host-suffix, decentr.net
-host-suffix, opera.com
-host-suffix, floorp.app
-host-suffix, iridiumbrowser.de
-host-suffix, kiwibrowser.com
-host-suffix, kmeleonbrowser.org
-host-suffix, librewolf.net
-host-suffix, chromium.org
-host-suffix, minbrowser.org
-host-suffix, dothq.org
-host-suffix, chrome.com
-host-suffix, pulsebrowser.app
-host-suffix, qutebrowser.org
-host-suffix, vivaldi.com
-host-suffix, waterfox.net
-host-suffix, zen-browser.app
-host-suffix, ceno.app
-host-suffix, censorship.no
-host-suffix, epicbrowser.com
-host-suffix, extendfirefox.com
-host-suffix, firefox.com
-host-suffix, firefox.hu
-host-suffix, firefoxtweetmachine.com
-host-suffix, firefoxusercontent.com
-host-suffix, browser.kagi.com
+host, mozilla-ohttp.fastly-edge.com, proxy
+host, mozilla.map.fastly.net, proxy
+host-suffix, chrome, proxy
+host-suffix, netsurf-browser.org, proxy
+host-suffix, palemoon.org, proxy
+host-suffix, basilisk-browser.org, proxy
+host-suffix, brave.com, proxy
+host-suffix, bromite.org, proxy
+host-suffix, torproject.org, proxy
+host-suffix, cromite.org, proxy
+host-suffix, decentr.net, proxy
+host-suffix, opera.com, proxy
+host-suffix, floorp.app, proxy
+host-suffix, iridiumbrowser.de, proxy
+host-suffix, kiwibrowser.com, proxy
+host-suffix, kmeleonbrowser.org, proxy
+host-suffix, librewolf.net, proxy
+host-suffix, chromium.org, proxy
+host-suffix, minbrowser.org, proxy
+host-suffix, dothq.org, proxy
+host-suffix, chrome.com, proxy
+host-suffix, pulsebrowser.app, proxy
+host-suffix, qutebrowser.org, proxy
+host-suffix, vivaldi.com, proxy
+host-suffix, waterfox.net, proxy
+host-suffix, zen-browser.app, proxy
+host-suffix, ceno.app, proxy
+host-suffix, censorship.no, proxy
+host-suffix, epicbrowser.com, proxy
+host-suffix, extendfirefox.com, proxy
+host-suffix, firefox.com, proxy
+host-suffix, firefox.hu, proxy
+host-suffix, firefoxtweetmachine.com, proxy
+host-suffix, firefoxusercontent.com, proxy
+host-suffix, browser.kagi.com, proxy

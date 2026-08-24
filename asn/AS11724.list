@@ -1,5 +1,5 @@
-ip-cidr, 199.83.34.0/23
-ip-cidr, 199.83.36.0/24
-ip-cidr, 199.83.38.0/23
-ip-cidr, 199.83.40.0/23
-ip6-cidr, 2001:428:2001:701::/64
+ip-cidr, 199.83.34.0/23, proxy, no-resolve
+ip-cidr, 199.83.36.0/24, proxy, no-resolve
+ip-cidr, 199.83.38.0/23, proxy, no-resolve
+ip-cidr, 199.83.40.0/23, proxy, no-resolve
+ip6-cidr, 2001:428:2001:701::/64, proxy, no-resolve

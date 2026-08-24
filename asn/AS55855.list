@@ -1,1 +1,1 @@
-ip-cidr, 121.52.200.0/21
+ip-cidr, 121.52.200.0/21, proxy, no-resolve

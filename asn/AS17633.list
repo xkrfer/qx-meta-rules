@@ -1,5 +1,5 @@
-ip-cidr, 202.111.230.0/24
-ip-cidr, 202.111.247.0/24
-ip-cidr, 219.146.0.0/19
-ip6-cidr, 240e:e:a800::/37
-ip6-cidr, 240e:4e::/37
+ip-cidr, 202.111.230.0/24, proxy, no-resolve
+ip-cidr, 202.111.247.0/24, proxy, no-resolve
+ip-cidr, 219.146.0.0/19, proxy, no-resolve
+ip6-cidr, 240e:e:a800::/37, proxy, no-resolve
+ip6-cidr, 240e:4e::/37, proxy, no-resolve

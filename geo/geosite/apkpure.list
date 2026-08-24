@@ -1,6 +1,6 @@
-host-suffix, apkpure.com
-host-suffix, apkpure.net
-host-suffix, apkpures.xyz
-host-suffix, cdnpure.com
-host-suffix, pureapk.com
-host-suffix, winudf.com
+host-suffix, apkpure.com, proxy
+host-suffix, apkpure.net, proxy
+host-suffix, apkpures.xyz, proxy
+host-suffix, cdnpure.com, proxy
+host-suffix, pureapk.com, proxy
+host-suffix, winudf.com, proxy

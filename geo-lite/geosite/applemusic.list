@@ -1,9 +1,9 @@
-host-suffix, applemusic.com
-host-suffix, blobstore.apple.com
-host-suffix, music.apple.com
-host, aod-ssl.itunes.apple.com
-host, aod.itunes.apple.com
-host, audio-ssl.itunes.apple.com
-host, audio.itunes.apple.com
-host, mvod.itunes.apple.com
-host, streamingaudio.itunes.apple.com
+host-suffix, applemusic.com, proxy
+host-suffix, blobstore.apple.com, proxy
+host-suffix, music.apple.com, proxy
+host, aod-ssl.itunes.apple.com, proxy
+host, aod.itunes.apple.com, proxy
+host, audio-ssl.itunes.apple.com, proxy
+host, audio.itunes.apple.com, proxy
+host, mvod.itunes.apple.com, proxy
+host, streamingaudio.itunes.apple.com, proxy

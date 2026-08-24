@@ -1,9 +1,9 @@
-host-suffix, pimg.tw
-host-suffix, pixanalytics.com
-host-suffix, pixfs.net
-host-suffix, pixnet.cc
-host-suffix, pixnet.net
-host-suffix, pixnet.pro
-host-suffix, pixnet.tw
-host-suffix, pixplug.in
-host-suffix, pixinsight.com.tw
+host-suffix, pimg.tw, proxy
+host-suffix, pixanalytics.com, proxy
+host-suffix, pixfs.net, proxy
+host-suffix, pixnet.cc, proxy
+host-suffix, pixnet.net, proxy
+host-suffix, pixnet.pro, proxy
+host-suffix, pixnet.tw, proxy
+host-suffix, pixplug.in, proxy
+host-suffix, pixinsight.com.tw, proxy

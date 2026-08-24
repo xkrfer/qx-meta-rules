@@ -1,4 +1,4 @@
-host-suffix, ubuntu.com
-host-suffix, ubuntu.net
-host-suffix, ubuntuforums.org
-host-suffix, ubuntu-touch.io
+host-suffix, ubuntu.com, proxy
+host-suffix, ubuntu.net, proxy
+host-suffix, ubuntuforums.org, proxy
+host-suffix, ubuntu-touch.io, proxy

@@ -1,12 +1,12 @@
-host-suffix, doservice.com
-host-suffix, ele.me
-host-suffix, ele.to
-host-suffix, eleme.cn
-host-suffix, eleme.io
-host-suffix, elemecdn.cn
-host-suffix, elemecdn.com
-host-suffix, elenet.me
-host-suffix, fengniaojipei.net
-host-suffix, adashx.ut.ele.me
-host-suffix, h-adashx.ut.ele.me
-host-suffix, v6-adashx.ut.ele.me
+host-suffix, doservice.com, proxy
+host-suffix, ele.me, proxy
+host-suffix, ele.to, proxy
+host-suffix, eleme.cn, proxy
+host-suffix, eleme.io, proxy
+host-suffix, elemecdn.cn, proxy
+host-suffix, elemecdn.com, proxy
+host-suffix, elenet.me, proxy
+host-suffix, fengniaojipei.net, proxy
+host-suffix, adashx.ut.ele.me, proxy
+host-suffix, h-adashx.ut.ele.me, proxy
+host-suffix, v6-adashx.ut.ele.me, proxy

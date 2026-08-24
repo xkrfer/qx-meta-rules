@@ -1,7 +1,7 @@
-ip6-cidr, 2a0a:280:1d00::/48
-ip6-cidr, 2a0a:280:1d04::/48
-ip6-cidr, 2a0a:280:1d08::/48
-ip6-cidr, 2a0a:280:1d10::/48
-ip6-cidr, 2a0a:6040:f2c0::/48
-ip6-cidr, 2a0a:6040:f2e0::/48
-ip6-cidr, 2a0a:6040:f2e4::/48
+ip6-cidr, 2a0a:280:1d00::/48, proxy, no-resolve
+ip6-cidr, 2a0a:280:1d04::/48, proxy, no-resolve
+ip6-cidr, 2a0a:280:1d08::/48, proxy, no-resolve
+ip6-cidr, 2a0a:280:1d10::/48, proxy, no-resolve
+ip6-cidr, 2a0a:6040:f2c0::/48, proxy, no-resolve
+ip6-cidr, 2a0a:6040:f2e0::/48, proxy, no-resolve
+ip6-cidr, 2a0a:6040:f2e4::/48, proxy, no-resolve

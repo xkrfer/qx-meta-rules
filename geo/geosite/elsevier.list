@@ -1,14 +1,14 @@
-host-suffix, cell.com
-host-suffix, clinicalkey.com
-host-suffix, els-cdn.com
-host-suffix, elsevier-ae.com
-host-suffix, elsevier.com
-host-suffix, elsevier.io
-host-suffix, engineeringvillage.com
-host-suffix, evise.com
-host-suffix, fundinginstitutional.com
-host-suffix, knovel.com
-host-suffix, mendeley.com
-host-suffix, reaxys.com
-host-suffix, scival.com
-host-suffix, scopus.com
+host-suffix, cell.com, proxy
+host-suffix, clinicalkey.com, proxy
+host-suffix, els-cdn.com, proxy
+host-suffix, elsevier-ae.com, proxy
+host-suffix, elsevier.com, proxy
+host-suffix, elsevier.io, proxy
+host-suffix, engineeringvillage.com, proxy
+host-suffix, evise.com, proxy
+host-suffix, fundinginstitutional.com, proxy
+host-suffix, knovel.com, proxy
+host-suffix, mendeley.com, proxy
+host-suffix, reaxys.com, proxy
+host-suffix, scival.com, proxy
+host-suffix, scopus.com, proxy

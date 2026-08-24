@@ -1,20 +1,20 @@
-host-suffix, gofile.me
-host-suffix, quickconnect.to
-host-suffix, synology.com
-host-suffix, synologydownload.com
-host-suffix, synologyupdate.com
-host-suffix, diskstation.me
-host-suffix, dscloud.biz
-host-suffix, dscloud.me
-host-suffix, dscloud.mobi
-host-suffix, dsmynas.com
-host-suffix, dsmynas.net
-host-suffix, dsmynas.org
-host-suffix, familyds.com
-host-suffix, familyds.net
-host-suffix, familyds.org
-host-suffix, i234.me
-host-suffix, myds.me
-host-suffix, synology.me
-host-suffix, quickconnect.cn
-host-suffix, synology.cn
+host-suffix, gofile.me, proxy
+host-suffix, quickconnect.to, proxy
+host-suffix, synology.com, proxy
+host-suffix, synologydownload.com, proxy
+host-suffix, synologyupdate.com, proxy
+host-suffix, diskstation.me, proxy
+host-suffix, dscloud.biz, proxy
+host-suffix, dscloud.me, proxy
+host-suffix, dscloud.mobi, proxy
+host-suffix, dsmynas.com, proxy
+host-suffix, dsmynas.net, proxy
+host-suffix, dsmynas.org, proxy
+host-suffix, familyds.com, proxy
+host-suffix, familyds.net, proxy
+host-suffix, familyds.org, proxy
+host-suffix, i234.me, proxy
+host-suffix, myds.me, proxy
+host-suffix, synology.me, proxy
+host-suffix, quickconnect.cn, proxy
+host-suffix, synology.cn, proxy

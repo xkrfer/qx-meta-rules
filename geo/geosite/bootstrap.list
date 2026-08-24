@@ -1,2 +1,2 @@
-host-suffix, bootstrapcdn.com
-host-suffix, getbootstrap.com
+host-suffix, bootstrapcdn.com, proxy
+host-suffix, getbootstrap.com, proxy

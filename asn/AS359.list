@@ -1,2 +1,2 @@
-ip-cidr, 55.1.0.0/16
-ip6-cidr, 2608:c1aa:1100::/40
+ip-cidr, 55.1.0.0/16, proxy, no-resolve
+ip6-cidr, 2608:c1aa:1100::/40, proxy, no-resolve

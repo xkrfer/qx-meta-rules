@@ -1,5 +1,5 @@
-host-suffix, symauth.com
-host-suffix, symcb.com
-host-suffix, symcd.com
-host-suffix, pki.symantec.com
-host-suffix, ws.symantec.com
+host-suffix, symauth.com, proxy
+host-suffix, symcb.com, proxy
+host-suffix, symcd.com, proxy
+host-suffix, pki.symantec.com, proxy
+host-suffix, ws.symantec.com, proxy

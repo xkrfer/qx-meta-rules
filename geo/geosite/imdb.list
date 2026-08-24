@@ -1,5 +1,5 @@
-host-suffix, imdb
-host-suffix, boxofficemojo.com
-host-suffix, imdb.com
-host-suffix, imdb.to
-host-suffix, media-imdb.com
+host-suffix, imdb, proxy
+host-suffix, boxofficemojo.com, proxy
+host-suffix, imdb.com, proxy
+host-suffix, imdb.to, proxy
+host-suffix, media-imdb.com, proxy

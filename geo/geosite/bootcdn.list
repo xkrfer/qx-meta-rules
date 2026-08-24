@@ -1,4 +1,4 @@
-host-suffix, bootcdn.cn
-host-suffix, bootcdn.net
-host-suffix, bootcss.com
-host-suffix, phpcomposer.com
+host-suffix, bootcdn.cn, proxy
+host-suffix, bootcdn.net, proxy
+host-suffix, bootcss.com, proxy
+host-suffix, phpcomposer.com, proxy

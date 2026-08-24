@@ -1,2 +1,2 @@
-ip-cidr, 45.94.16.0/24
-ip6-cidr, 2001:913:9000::/36
+ip-cidr, 45.94.16.0/24, proxy, no-resolve
+ip6-cidr, 2001:913:9000::/36, proxy, no-resolve

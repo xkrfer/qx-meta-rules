@@ -1,6 +1,6 @@
-ip-cidr, 37.75.144.0/22
-ip-cidr, 37.75.149.0/24
-ip-cidr, 37.75.150.0/24
-ip-cidr, 185.173.56.0/24
-ip-cidr, 185.173.58.0/23
-ip-cidr, 194.165.131.0/24
+ip-cidr, 37.75.144.0/22, proxy, no-resolve
+ip-cidr, 37.75.149.0/24, proxy, no-resolve
+ip-cidr, 37.75.150.0/24, proxy, no-resolve
+ip-cidr, 185.173.56.0/24, proxy, no-resolve
+ip-cidr, 185.173.58.0/23, proxy, no-resolve
+ip-cidr, 194.165.131.0/24, proxy, no-resolve

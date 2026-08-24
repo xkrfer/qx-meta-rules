@@ -1,4 +1,4 @@
-ip-cidr, 91.132.8.0/22
-ip-cidr, 95.128.80.0/21
-ip-cidr, 185.190.124.0/22
-ip6-cidr, 2a09:b880::/29
+ip-cidr, 91.132.8.0/22, proxy, no-resolve
+ip-cidr, 95.128.80.0/21, proxy, no-resolve
+ip-cidr, 185.190.124.0/22, proxy, no-resolve
+ip6-cidr, 2a09:b880::/29, proxy, no-resolve

@@ -1,3 +1,3 @@
-host-suffix, adidas.cn
-host-suffix, adidas.com.cn
-host-suffix, adidasspecialtysports.cn
+host-suffix, adidas.cn, proxy
+host-suffix, adidas.com.cn, proxy
+host-suffix, adidasspecialtysports.cn, proxy

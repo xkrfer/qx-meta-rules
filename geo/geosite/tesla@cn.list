@@ -1,4 +1,4 @@
-host-suffix, tesla.cn
-host-suffix, tesla.com.cn
-host-suffix, teslamotors.cn
-host-suffix, teslamotors.com.cn
+host-suffix, tesla.cn, proxy
+host-suffix, tesla.com.cn, proxy
+host-suffix, teslamotors.cn, proxy
+host-suffix, teslamotors.com.cn, proxy

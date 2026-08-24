@@ -1,4 +1,4 @@
-host-suffix, udn.com
-host-suffix, udndata.com
-host-suffix, udnfunlife.com
-host-suffix, udn.com.tw
+host-suffix, udn.com, proxy
+host-suffix, udndata.com, proxy
+host-suffix, udnfunlife.com, proxy
+host-suffix, udn.com.tw, proxy

@@ -1,45 +1,45 @@
-host-suffix, abrha.net
-host-suffix, afranet.com
-host-suffix, arvancloud.com
-host-suffix, arvancloud.ir
-host-suffix, arzex.io
-host-suffix, asiatech.ir
-host-suffix, cafebazaar.ir
-host-suffix, cafebazaar.org
-host-suffix, datisnetwork.com
-host-suffix, download.ir
-host-suffix, downloadly.ir
-host-suffix, farsroid.com
-host-suffix, hiweb.ir
-host-suffix, ipnumberia.com
-host-suffix, irancell.ir
-host-suffix, iranmobile.org
-host-suffix, iranserver.com
-host-suffix, mci.ir
-host-suffix, mihanwebhost.com
-host-suffix, mobinnet.ir
-host-suffix, myket.ir
-host-suffix, neshanmap.ir
-host-suffix, p30download.com
-host-suffix, p30download.ir
-host-suffix, parsonline.com
-host-suffix, parspack.com
-host-suffix, pazhnetwork.com
-host-suffix, picofile.com
-host-suffix, pishgaman.net
-host-suffix, rightel.ir
-host-suffix, sarmayex.com
-host-suffix, sarzamindownload.com
-host-suffix, shatel.ir
-host-suffix, skyroom.online
-host-suffix, smshooshmand.com
-host-suffix, soft98.ir
-host-suffix, softgozar.com
-host-suffix, sotoon.ir
-host-suffix, taliya.ir
-host-suffix, tci.ir
-host-suffix, uplod.ir
-host-suffix, uupload.ir
-host-suffix, yasdl.com
-host-suffix, zhaket.com
-host-suffix, zoomit.ir
+host-suffix, abrha.net, proxy
+host-suffix, afranet.com, proxy
+host-suffix, arvancloud.com, proxy
+host-suffix, arvancloud.ir, proxy
+host-suffix, arzex.io, proxy
+host-suffix, asiatech.ir, proxy
+host-suffix, cafebazaar.ir, proxy
+host-suffix, cafebazaar.org, proxy
+host-suffix, datisnetwork.com, proxy
+host-suffix, download.ir, proxy
+host-suffix, downloadly.ir, proxy
+host-suffix, farsroid.com, proxy
+host-suffix, hiweb.ir, proxy
+host-suffix, ipnumberia.com, proxy
+host-suffix, irancell.ir, proxy
+host-suffix, iranmobile.org, proxy
+host-suffix, iranserver.com, proxy
+host-suffix, mci.ir, proxy
+host-suffix, mihanwebhost.com, proxy
+host-suffix, mobinnet.ir, proxy
+host-suffix, myket.ir, proxy
+host-suffix, neshanmap.ir, proxy
+host-suffix, p30download.com, proxy
+host-suffix, p30download.ir, proxy
+host-suffix, parsonline.com, proxy
+host-suffix, parspack.com, proxy
+host-suffix, pazhnetwork.com, proxy
+host-suffix, picofile.com, proxy
+host-suffix, pishgaman.net, proxy
+host-suffix, rightel.ir, proxy
+host-suffix, sarmayex.com, proxy
+host-suffix, sarzamindownload.com, proxy
+host-suffix, shatel.ir, proxy
+host-suffix, skyroom.online, proxy
+host-suffix, smshooshmand.com, proxy
+host-suffix, soft98.ir, proxy
+host-suffix, softgozar.com, proxy
+host-suffix, sotoon.ir, proxy
+host-suffix, taliya.ir, proxy
+host-suffix, tci.ir, proxy
+host-suffix, uplod.ir, proxy
+host-suffix, uupload.ir, proxy
+host-suffix, yasdl.com, proxy
+host-suffix, zhaket.com, proxy
+host-suffix, zoomit.ir, proxy

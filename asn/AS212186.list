@@ -1,4 +1,4 @@
-ip-cidr, 194.169.190.0/24
-ip-cidr, 194.169.193.0/24
-ip-cidr, 194.169.196.0/24
-ip-cidr, 194.169.213.0/24
+ip-cidr, 194.169.190.0/24, proxy, no-resolve
+ip-cidr, 194.169.193.0/24, proxy, no-resolve
+ip-cidr, 194.169.196.0/24, proxy, no-resolve
+ip-cidr, 194.169.213.0/24, proxy, no-resolve

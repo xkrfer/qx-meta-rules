@@ -1,8 +1,8 @@
-host-suffix, hihonor.cn
-host-suffix, hihonor.com
-host-suffix, hihonorcdn.com
-host-suffix, hihonorcloud.com
-host-suffix, honor.cn
-host-suffix, honor.com
-host-suffix, honorfile.com
-host-suffix, honor.com.cn
+host-suffix, hihonor.cn, proxy
+host-suffix, hihonor.com, proxy
+host-suffix, hihonorcdn.com, proxy
+host-suffix, hihonorcloud.com, proxy
+host-suffix, honor.cn, proxy
+host-suffix, honor.com, proxy
+host-suffix, honorfile.com, proxy
+host-suffix, honor.com.cn, proxy

@@ -1,25 +1,25 @@
-host, bilet.nspk.ru
-host, metro.spb.ru
-host, mos.transport.vtb.ru
-host, podorozhnik.spb.ru
-host, transport.mos.ru
-host, arenda.yandex.ru
-host, taxi.yandex.ru
-host-suffix, blablacar.ru
-host-suffix, avtovokzaly.ru
-host-suffix, greywallpass.com
-host-suffix, ostrovok.ru
-host-suffix, 2gis.ru
-host-suffix, otello.ru
-host-suffix, sber.ru
-host-suffix, gorodpay.ru
-host-suffix, rrtp.ru
-host-suffix, rzd-bonus.ru
-host-suffix, rzd.ru
-host-suffix, tutu.ru
-host-suffix, fasten.ru
-host-suffix, avs.io
-host-suffix, aviasales.ru
-host-suffix, aviasales.com
-host-suffix, mosmetro.ru
-host-suffix, mosmetro.tech
+host, bilet.nspk.ru, proxy
+host, metro.spb.ru, proxy
+host, mos.transport.vtb.ru, proxy
+host, podorozhnik.spb.ru, proxy
+host, transport.mos.ru, proxy
+host, arenda.yandex.ru, proxy
+host, taxi.yandex.ru, proxy
+host-suffix, blablacar.ru, proxy
+host-suffix, avtovokzaly.ru, proxy
+host-suffix, greywallpass.com, proxy
+host-suffix, ostrovok.ru, proxy
+host-suffix, 2gis.ru, proxy
+host-suffix, otello.ru, proxy
+host-suffix, sber.ru, proxy
+host-suffix, gorodpay.ru, proxy
+host-suffix, rrtp.ru, proxy
+host-suffix, rzd-bonus.ru, proxy
+host-suffix, rzd.ru, proxy
+host-suffix, tutu.ru, proxy
+host-suffix, fasten.ru, proxy
+host-suffix, avs.io, proxy
+host-suffix, aviasales.ru, proxy
+host-suffix, aviasales.com, proxy
+host-suffix, mosmetro.ru, proxy
+host-suffix, mosmetro.tech, proxy

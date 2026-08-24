@@ -1,2 +1,2 @@
-host, deribit.cdn.prismic.io
-host-suffix, deribit.com
+host, deribit.cdn.prismic.io, proxy
+host-suffix, deribit.com, proxy

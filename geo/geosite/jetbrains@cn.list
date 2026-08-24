@@ -1,2 +1,2 @@
-host-suffix, jetbrains.com.cn
-host-suffix, cdn.jetbrains.com
+host-suffix, jetbrains.com.cn, proxy
+host-suffix, cdn.jetbrains.com, proxy

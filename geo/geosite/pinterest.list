@@ -1,52 +1,52 @@
-host-suffix, pinterest.nz
-host-suffix, pinterest.ru
-host-suffix, pinterest.at
-host-suffix, pinterest.be
-host-suffix, pinterest.ca
-host-suffix, pinterest.ch
-host-suffix, pinterest.cl
-host-suffix, pinterest.co
-host-suffix, pinterestmail.com
-host-suffix, pinterest.vn
-host-suffix, pinterest.uk
-host-suffix, pinterest.tw
-host-suffix, pinterest.es
-host-suffix, pinterest.com
-host-suffix, pinterest.th
-host-suffix, pinterest.se
-host-suffix, pinterest.engineering
-host-suffix, pinterest.pt
-host-suffix, pinterest.ph
-host-suffix, pinterest.pe
-host-suffix, pin.it
-host-suffix, pinterest.nl
-host-suffix, pinterest.de
-host-suffix, pinterest.dk
-host-suffix, pinimg.com
-host-suffix, pinterest.ec
-host-suffix, pinterest.net
-host-suffix, pinterest.fr
-host-suffix, pinterest.hu
-host-suffix, pinterest.id
-host-suffix, pinterest.ie
-host-suffix, pinterest.in
-host-suffix, pinterest.info
-host-suffix, pinterest.it
-host-suffix, pinterest.jp
-host-suffix, pinterest.kr
-host-suffix, pinterest.mx
-host-suffix, pinterest.com.au
-host-suffix, pinterest.co.kr
-host-suffix, pinterest.com.uy
-host-suffix, pinterest.com.py
-host-suffix, pinterest.com.pe
-host-suffix, pinterest.co.uk
-host-suffix, pinterest.com.vn
-host-suffix, pinterest.com.ec
-host-suffix, pinterest.com.mx
-host-suffix, pinterest.co.nz
-host-suffix, pinterest.com.bo
-host-suffix, pinterest.co.in
-host-suffix, pinterest.co.at
-host-suffix, pinterest.map.fastly.net
-host-suffix, pinimg.com.cdn.cloudflare.net
+host-suffix, pinterest.nz, proxy
+host-suffix, pinterest.ru, proxy
+host-suffix, pinterest.at, proxy
+host-suffix, pinterest.be, proxy
+host-suffix, pinterest.ca, proxy
+host-suffix, pinterest.ch, proxy
+host-suffix, pinterest.cl, proxy
+host-suffix, pinterest.co, proxy
+host-suffix, pinterestmail.com, proxy
+host-suffix, pinterest.vn, proxy
+host-suffix, pinterest.uk, proxy
+host-suffix, pinterest.tw, proxy
+host-suffix, pinterest.es, proxy
+host-suffix, pinterest.com, proxy
+host-suffix, pinterest.th, proxy
+host-suffix, pinterest.se, proxy
+host-suffix, pinterest.engineering, proxy
+host-suffix, pinterest.pt, proxy
+host-suffix, pinterest.ph, proxy
+host-suffix, pinterest.pe, proxy
+host-suffix, pin.it, proxy
+host-suffix, pinterest.nl, proxy
+host-suffix, pinterest.de, proxy
+host-suffix, pinterest.dk, proxy
+host-suffix, pinimg.com, proxy
+host-suffix, pinterest.ec, proxy
+host-suffix, pinterest.net, proxy
+host-suffix, pinterest.fr, proxy
+host-suffix, pinterest.hu, proxy
+host-suffix, pinterest.id, proxy
+host-suffix, pinterest.ie, proxy
+host-suffix, pinterest.in, proxy
+host-suffix, pinterest.info, proxy
+host-suffix, pinterest.it, proxy
+host-suffix, pinterest.jp, proxy
+host-suffix, pinterest.kr, proxy
+host-suffix, pinterest.mx, proxy
+host-suffix, pinterest.com.au, proxy
+host-suffix, pinterest.co.kr, proxy
+host-suffix, pinterest.com.uy, proxy
+host-suffix, pinterest.com.py, proxy
+host-suffix, pinterest.com.pe, proxy
+host-suffix, pinterest.co.uk, proxy
+host-suffix, pinterest.com.vn, proxy
+host-suffix, pinterest.com.ec, proxy
+host-suffix, pinterest.com.mx, proxy
+host-suffix, pinterest.co.nz, proxy
+host-suffix, pinterest.com.bo, proxy
+host-suffix, pinterest.co.in, proxy
+host-suffix, pinterest.co.at, proxy
+host-suffix, pinterest.map.fastly.net, proxy
+host-suffix, pinimg.com.cdn.cloudflare.net, proxy

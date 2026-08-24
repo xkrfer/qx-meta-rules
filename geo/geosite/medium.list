@@ -1,2 +1,2 @@
-host-suffix, medium.com
-host-suffix, medium.systems
+host-suffix, medium.com, proxy
+host-suffix, medium.systems, proxy

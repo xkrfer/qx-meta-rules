@@ -1,2 +1,2 @@
-ip-cidr, 101.50.17.0/24
-ip6-cidr, 2402:9800:4001::/48
+ip-cidr, 101.50.17.0/24, proxy, no-resolve
+ip6-cidr, 2402:9800:4001::/48, proxy, no-resolve

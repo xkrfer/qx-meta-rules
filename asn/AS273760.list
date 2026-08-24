@@ -1,1 +1,1 @@
-ip6-cidr, 2804:8bcc::/32
+ip6-cidr, 2804:8bcc::/32, proxy, no-resolve

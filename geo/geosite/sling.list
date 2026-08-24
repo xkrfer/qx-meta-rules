@@ -1,5 +1,5 @@
-host-suffix, dishworld.com
-host-suffix, slinginternational.com
-host-suffix, sling.com
-host-suffix, movenetworks.com
-host-suffix, movetv.com
+host-suffix, dishworld.com, proxy
+host-suffix, slinginternational.com, proxy
+host-suffix, sling.com, proxy
+host-suffix, movenetworks.com, proxy
+host-suffix, movetv.com, proxy

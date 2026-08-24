@@ -1,67 +1,67 @@
-host-suffix, ctycdn.net
-host-suffix, ctyecx.cn
-host-suffix, cqctyiptv.cn
-host-suffix, ctacdn.cn
-host-suffix, ctaigw.cn
-host-suffix, ctbcdn.com
-host-suffix, ctcdn.cn
-host-suffix, ctcdnov.net
-host-suffix, ctcloudzos.cn
-host-suffix, ctcns.cn
-host-suffix, ctdcdn.com
-host-suffix, ctdns.cn
-host-suffix, ctdns.net
-host-suffix, ctecdn.cn
-host-suffix, ctecx.cn
-host-suffix, ctgcdn.com
-host-suffix, cthcdn.cn
-host-suffix, ctydoh.cn
-host-suffix, cthcdn.net
-host-suffix, ctlcdn.cn
-host-suffix, ctlcdn.com
-host-suffix, ctlcdn.net
-host-suffix, ctmcdn.cn
-host-suffix, ctovcdn.com
-host-suffix, ctrender.com
-host-suffix, ctwcdn.cn
-host-suffix, ctxcdn.cn
-host-suffix, ctxcdn.com
-host-suffix, ctxcdn.net
-host-suffix, ctxirang.cn
-host-suffix, ctxirang.com
-host-suffix, ctycdn.cn
-host-suffix, bjctyiptv.cn
-host-suffix, ctadns.cn
-host-suffix, cthcdn.com
-host-suffix, ynjtyiptv.cn
-host-suffix, ctyiptv.cn
-host-suffix, ctyun.cn
-host-suffix, ynctyiptv.cn
-host-suffix, snctyiptv.cn
-host-suffix, scctyiptv.cn
-host-suffix, ctyuncdn.cn
-host-suffix, ctyuncs.cn
-host-suffix, ctyuninner.com
-host-suffix, ctyunmds.cn
-host-suffix, ctyunwaf.cn
-host-suffix, ctyunwaf.com
-host-suffix, ctyunwaf1.com
-host-suffix, ctyunwaf3.cn
-host-suffix, ctyunxs.cn
-host-suffix, ctyunzos.cn
-host-suffix, ctzcdn.cn
-host-suffix, ctzcdn.com
-host-suffix, edgecloudx.cn
-host-suffix, faasapp.cn
-host-suffix, faasdev.cn
-host-suffix, fjctyiptv.cn
-host-suffix, gdctyiptv.cn
-host-suffix, gsctyiptv.cn
-host-suffix, gsjtyiptv.cn
-host-suffix, gzctyiptv.cn
-host-suffix, jsctyiptv.cn
-host-suffix, modelers.cn
-host-suffix, ctyun.com.cn
-host-suffix, ctycdn.net.cn
-host-suffix, ctdns.com.cn
-host-suffix, ctcdn.com.cn
+host-suffix, ctycdn.net, proxy
+host-suffix, ctyecx.cn, proxy
+host-suffix, cqctyiptv.cn, proxy
+host-suffix, ctacdn.cn, proxy
+host-suffix, ctaigw.cn, proxy
+host-suffix, ctbcdn.com, proxy
+host-suffix, ctcdn.cn, proxy
+host-suffix, ctcdnov.net, proxy
+host-suffix, ctcloudzos.cn, proxy
+host-suffix, ctcns.cn, proxy
+host-suffix, ctdcdn.com, proxy
+host-suffix, ctdns.cn, proxy
+host-suffix, ctdns.net, proxy
+host-suffix, ctecdn.cn, proxy
+host-suffix, ctecx.cn, proxy
+host-suffix, ctgcdn.com, proxy
+host-suffix, cthcdn.cn, proxy
+host-suffix, ctydoh.cn, proxy
+host-suffix, cthcdn.net, proxy
+host-suffix, ctlcdn.cn, proxy
+host-suffix, ctlcdn.com, proxy
+host-suffix, ctlcdn.net, proxy
+host-suffix, ctmcdn.cn, proxy
+host-suffix, ctovcdn.com, proxy
+host-suffix, ctrender.com, proxy
+host-suffix, ctwcdn.cn, proxy
+host-suffix, ctxcdn.cn, proxy
+host-suffix, ctxcdn.com, proxy
+host-suffix, ctxcdn.net, proxy
+host-suffix, ctxirang.cn, proxy
+host-suffix, ctxirang.com, proxy
+host-suffix, ctycdn.cn, proxy
+host-suffix, bjctyiptv.cn, proxy
+host-suffix, ctadns.cn, proxy
+host-suffix, cthcdn.com, proxy
+host-suffix, ynjtyiptv.cn, proxy
+host-suffix, ctyiptv.cn, proxy
+host-suffix, ctyun.cn, proxy
+host-suffix, ynctyiptv.cn, proxy
+host-suffix, snctyiptv.cn, proxy
+host-suffix, scctyiptv.cn, proxy
+host-suffix, ctyuncdn.cn, proxy
+host-suffix, ctyuncs.cn, proxy
+host-suffix, ctyuninner.com, proxy
+host-suffix, ctyunmds.cn, proxy
+host-suffix, ctyunwaf.cn, proxy
+host-suffix, ctyunwaf.com, proxy
+host-suffix, ctyunwaf1.com, proxy
+host-suffix, ctyunwaf3.cn, proxy
+host-suffix, ctyunxs.cn, proxy
+host-suffix, ctyunzos.cn, proxy
+host-suffix, ctzcdn.cn, proxy
+host-suffix, ctzcdn.com, proxy
+host-suffix, edgecloudx.cn, proxy
+host-suffix, faasapp.cn, proxy
+host-suffix, faasdev.cn, proxy
+host-suffix, fjctyiptv.cn, proxy
+host-suffix, gdctyiptv.cn, proxy
+host-suffix, gsctyiptv.cn, proxy
+host-suffix, gsjtyiptv.cn, proxy
+host-suffix, gzctyiptv.cn, proxy
+host-suffix, jsctyiptv.cn, proxy
+host-suffix, modelers.cn, proxy
+host-suffix, ctyun.com.cn, proxy
+host-suffix, ctycdn.net.cn, proxy
+host-suffix, ctdns.com.cn, proxy
+host-suffix, ctcdn.com.cn, proxy

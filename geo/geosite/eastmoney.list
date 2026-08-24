@@ -1,8 +1,8 @@
-host-suffix, 18.cn
-host-suffix, dfcfw.com
-host-suffix, eastmoney.com
-host-suffix, eastmoneyfutures.com
-host-suffix, 1234567.com.cn
-host-suffix, 18.com.cn
-host-suffix, guba.com.cn
-host-suffix, emsec.hk
+host-suffix, 18.cn, proxy
+host-suffix, dfcfw.com, proxy
+host-suffix, eastmoney.com, proxy
+host-suffix, eastmoneyfutures.com, proxy
+host-suffix, 1234567.com.cn, proxy
+host-suffix, 18.com.cn, proxy
+host-suffix, guba.com.cn, proxy
+host-suffix, emsec.hk, proxy

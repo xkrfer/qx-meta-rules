@@ -1,6 +1,6 @@
-host-suffix, braventures.com
-host-suffix, braveux.com
-host-suffix, compass.is
-host-suffix, fightforux.com
-host-suffix, forthebadge.com
-host-suffix, stockagainstphotography.com
+host-suffix, braventures.com, proxy
+host-suffix, braveux.com, proxy
+host-suffix, compass.is, proxy
+host-suffix, fightforux.com, proxy
+host-suffix, forthebadge.com, proxy
+host-suffix, stockagainstphotography.com, proxy

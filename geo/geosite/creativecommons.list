@@ -1,4 +1,4 @@
-host-suffix, ccstatic.org
-host-suffix, creativecommons.org
-host-suffix, creativecommons.engineering
-host-suffix, licensebuttons.net
+host-suffix, ccstatic.org, proxy
+host-suffix, creativecommons.org, proxy
+host-suffix, creativecommons.engineering, proxy
+host-suffix, licensebuttons.net, proxy

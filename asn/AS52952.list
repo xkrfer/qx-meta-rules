@@ -1,5 +1,5 @@
-ip-cidr, 177.22.16.0/20
-ip6-cidr, 2804:454:8::/48
-ip6-cidr, 2804:454:e::/47
-ip6-cidr, 2804:454:10::/44
-ip6-cidr, 2804:454:20::/43
+ip-cidr, 177.22.16.0/20, proxy, no-resolve
+ip6-cidr, 2804:454:8::/48, proxy, no-resolve
+ip6-cidr, 2804:454:e::/47, proxy, no-resolve
+ip6-cidr, 2804:454:10::/44, proxy, no-resolve
+ip6-cidr, 2804:454:20::/43, proxy, no-resolve

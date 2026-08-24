@@ -1,37 +1,37 @@
-host-suffix, xboxlive.cn
-host-suffix, bluearchive-cn.com
-host-suffix, legendofzelda.cn
-host-suffix, legendofzelda.com.cn
-host-suffix, miitomo.com.cn
-host-suffix, nintendolabo.cn
-host-suffix, nintendoswitch.cn
-host-suffix, nintendoswitch.com.cn
-host-suffix, supersmashbros.cn
-host-suffix, supersmashbros.com.cn
-host-suffix, xn--mts47c3w9b1qr.cn
-host-suffix, mariokart.cn
-host-suffix, mariokart.com.cn
-host-suffix, supermariobros.com.cn
-host-suffix, steamserver.net
-host-suffix, steamusercontent.com
-host-suffix, csgo.com.cn
-host-suffix, csgo.wmsj.cn
-host-suffix, dota2.com.cn
-host-suffix, dota2.wmsj.cn
-host-suffix, wmsjsteam.com
-host-suffix, client-update.queniuqe.com
-host-suffix, dl.steam.clngaa.com
-host-suffix, st.dl.bscstorage.net
-host-suffix, st.dl.eccdnx.com
-host-suffix, st.dl.pinyuncloud.com
-host-suffix, steampowered.com.8686c.com
-host-suffix, steamstatic.com.8686c.com
-host, alibaba.cdn.steampipe.steamcontent.com
-host, lv.queniujq.cn
-host, xz.pphimalayanrt.com
-host-suffix, steamchina.com
-host-suffix, gstore.val.manlaxy.com
-host, gog.qtlglb.com
-host-suffix, leagueoflegends.cn
-host-suffix, lpl.com.cn
-host-suffix, yostar.cn
+host-suffix, xboxlive.cn, proxy
+host-suffix, bluearchive-cn.com, proxy
+host-suffix, legendofzelda.cn, proxy
+host-suffix, legendofzelda.com.cn, proxy
+host-suffix, miitomo.com.cn, proxy
+host-suffix, nintendolabo.cn, proxy
+host-suffix, nintendoswitch.cn, proxy
+host-suffix, nintendoswitch.com.cn, proxy
+host-suffix, supersmashbros.cn, proxy
+host-suffix, supersmashbros.com.cn, proxy
+host-suffix, xn--mts47c3w9b1qr.cn, proxy
+host-suffix, mariokart.cn, proxy
+host-suffix, mariokart.com.cn, proxy
+host-suffix, supermariobros.com.cn, proxy
+host-suffix, steamserver.net, proxy
+host-suffix, steamusercontent.com, proxy
+host-suffix, csgo.com.cn, proxy
+host-suffix, csgo.wmsj.cn, proxy
+host-suffix, dota2.com.cn, proxy
+host-suffix, dota2.wmsj.cn, proxy
+host-suffix, wmsjsteam.com, proxy
+host-suffix, client-update.queniuqe.com, proxy
+host-suffix, dl.steam.clngaa.com, proxy
+host-suffix, st.dl.bscstorage.net, proxy
+host-suffix, st.dl.eccdnx.com, proxy
+host-suffix, st.dl.pinyuncloud.com, proxy
+host-suffix, steampowered.com.8686c.com, proxy
+host-suffix, steamstatic.com.8686c.com, proxy
+host, alibaba.cdn.steampipe.steamcontent.com, proxy
+host, lv.queniujq.cn, proxy
+host, xz.pphimalayanrt.com, proxy
+host-suffix, steamchina.com, proxy
+host-suffix, gstore.val.manlaxy.com, proxy
+host, gog.qtlglb.com, proxy
+host-suffix, leagueoflegends.cn, proxy
+host-suffix, lpl.com.cn, proxy
+host-suffix, yostar.cn, proxy

@@ -1,27 +1,27 @@
-ip-cidr, 78.17.187.0/24
-ip-cidr, 151.244.8.0/24
-ip-cidr, 185.159.237.0/24
-ip-cidr, 185.188.30.0/24
-ip-cidr, 185.218.192.0/23
-ip-cidr, 193.163.5.0/24
-ip6-cidr, 2a0b:a700::/29
-ip6-cidr, 2a0b:dbc0::/29
-ip6-cidr, 2a10:f2c0::/33
-ip6-cidr, 2a10:f2c0:8000::/35
-ip6-cidr, 2a10:f2c0:a000::/37
-ip6-cidr, 2a10:f2c0:a800::/39
-ip6-cidr, 2a10:f2c0:aa00::/41
-ip6-cidr, 2a10:f2c0:aa80::/43
-ip6-cidr, 2a10:f2c0:aaa0::/45
-ip6-cidr, 2a10:f2c0:aaa9::/48
-ip6-cidr, 2a10:f2c0:aaaa::/47
-ip6-cidr, 2a10:f2c0:aaac::/46
-ip6-cidr, 2a10:f2c0:aab0::/44
-ip6-cidr, 2a10:f2c0:aac0::/42
-ip6-cidr, 2a10:f2c0:ab00::/40
-ip6-cidr, 2a10:f2c0:ac00::/38
-ip6-cidr, 2a10:f2c0:b000::/36
-ip6-cidr, 2a10:f2c0:c000::/34
-ip6-cidr, 2a10:f2c1::/32
-ip6-cidr, 2a10:f2c2::/31
-ip6-cidr, 2a10:f2c4::/30
+ip-cidr, 78.17.187.0/24, proxy, no-resolve
+ip-cidr, 151.244.8.0/24, proxy, no-resolve
+ip-cidr, 185.159.237.0/24, proxy, no-resolve
+ip-cidr, 185.188.30.0/24, proxy, no-resolve
+ip-cidr, 185.218.192.0/23, proxy, no-resolve
+ip-cidr, 193.163.5.0/24, proxy, no-resolve
+ip6-cidr, 2a0b:a700::/29, proxy, no-resolve
+ip6-cidr, 2a0b:dbc0::/29, proxy, no-resolve
+ip6-cidr, 2a10:f2c0::/33, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:8000::/35, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:a000::/37, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:a800::/39, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aa00::/41, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aa80::/43, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aaa0::/45, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aaa9::/48, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aaaa::/47, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aaac::/46, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aab0::/44, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:aac0::/42, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:ab00::/40, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:ac00::/38, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:b000::/36, proxy, no-resolve
+ip6-cidr, 2a10:f2c0:c000::/34, proxy, no-resolve
+ip6-cidr, 2a10:f2c1::/32, proxy, no-resolve
+ip6-cidr, 2a10:f2c2::/31, proxy, no-resolve
+ip6-cidr, 2a10:f2c4::/30, proxy, no-resolve

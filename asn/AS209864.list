@@ -1,8 +1,8 @@
-ip-cidr, 44.10.4.0/24
-ip6-cidr, 2602:fc52:311::/48
-ip6-cidr, 2602:fc52:312::/48
-ip6-cidr, 2602:fc52:315::/48
-ip6-cidr, 2602:fed2:7101::/48
-ip6-cidr, 2605:f440:cafe::/48
-ip6-cidr, 2a06:e881:5501::/48
-ip6-cidr, 2a06:e881:5506::/48
+ip-cidr, 44.10.4.0/24, proxy, no-resolve
+ip6-cidr, 2602:fc52:311::/48, proxy, no-resolve
+ip6-cidr, 2602:fc52:312::/48, proxy, no-resolve
+ip6-cidr, 2602:fc52:315::/48, proxy, no-resolve
+ip6-cidr, 2602:fed2:7101::/48, proxy, no-resolve
+ip6-cidr, 2605:f440:cafe::/48, proxy, no-resolve
+ip6-cidr, 2a06:e881:5501::/48, proxy, no-resolve
+ip6-cidr, 2a06:e881:5506::/48, proxy, no-resolve

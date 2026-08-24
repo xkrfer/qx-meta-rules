@@ -1,30 +1,30 @@
-host-suffix, tuncommercialbank.com
-host-suffix, kbzpay.com
-host-suffix, agdbank.com
-host-suffix, ayabank.com
-host-suffix, ysx-mm.com
-host-suffix, yomabank.com
-host-suffix, ablmm.com
-host-suffix, nptsibinbank.com
-host-suffix, mmtourismbank.com
-host-suffix, kbzbank.com
-host-suffix, shwebank.com
-host-suffix, mabbank.com
-host-suffix, mwdbank.com
-host-suffix, mdbankpublic.com
-host-suffix, mobmyanmar.com
-host-suffix, firstprivatebank.com.mm
-host-suffix, mmbbank.com.mm
-host-suffix, mmftb.gov.mm
-host-suffix, mminsurance.gov.mm
-host-suffix, micb.gov.mm
-host-suffix, meb.gov.mm
-host-suffix, mcb.com.mm
-host-suffix, gbank.com.mm
-host-suffix, abank.com.mm
-host-suffix, smedevelopmentbank.com.mm
-host-suffix, chid.com.mm
-host-suffix, uab.com.mm
-host-suffix, waveomoney.com.mm
-host-suffix, cbm.com.mm
-host-suffix, cbbank.com.mm
+host-suffix, tuncommercialbank.com, proxy
+host-suffix, kbzpay.com, proxy
+host-suffix, agdbank.com, proxy
+host-suffix, ayabank.com, proxy
+host-suffix, ysx-mm.com, proxy
+host-suffix, yomabank.com, proxy
+host-suffix, ablmm.com, proxy
+host-suffix, nptsibinbank.com, proxy
+host-suffix, mmtourismbank.com, proxy
+host-suffix, kbzbank.com, proxy
+host-suffix, shwebank.com, proxy
+host-suffix, mabbank.com, proxy
+host-suffix, mwdbank.com, proxy
+host-suffix, mdbankpublic.com, proxy
+host-suffix, mobmyanmar.com, proxy
+host-suffix, firstprivatebank.com.mm, proxy
+host-suffix, mmbbank.com.mm, proxy
+host-suffix, mmftb.gov.mm, proxy
+host-suffix, mminsurance.gov.mm, proxy
+host-suffix, micb.gov.mm, proxy
+host-suffix, meb.gov.mm, proxy
+host-suffix, mcb.com.mm, proxy
+host-suffix, gbank.com.mm, proxy
+host-suffix, abank.com.mm, proxy
+host-suffix, smedevelopmentbank.com.mm, proxy
+host-suffix, chid.com.mm, proxy
+host-suffix, uab.com.mm, proxy
+host-suffix, waveomoney.com.mm, proxy
+host-suffix, cbm.com.mm, proxy
+host-suffix, cbbank.com.mm, proxy

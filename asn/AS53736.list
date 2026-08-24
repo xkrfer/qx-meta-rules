@@ -1,4 +1,4 @@
-ip-cidr, 192.146.154.0/23
-ip6-cidr, 2605:b640:1101::/48
-ip6-cidr, 2605:b640:1500::/44
-ip6-cidr, 2605:b640:1530::/44
+ip-cidr, 192.146.154.0/23, proxy, no-resolve
+ip6-cidr, 2605:b640:1101::/48, proxy, no-resolve
+ip6-cidr, 2605:b640:1500::/44, proxy, no-resolve
+ip6-cidr, 2605:b640:1530::/44, proxy, no-resolve

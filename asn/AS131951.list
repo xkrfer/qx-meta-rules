@@ -1,2 +1,2 @@
-ip-cidr, 133.88.31.0/24
-ip6-cidr, 2405:25c0:a100::/40
+ip-cidr, 133.88.31.0/24, proxy, no-resolve
+ip6-cidr, 2405:25c0:a100::/40, proxy, no-resolve

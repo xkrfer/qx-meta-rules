@@ -1,2 +1,2 @@
-ip6-cidr, 2804:92d4::/34
-ip6-cidr, 2804:92d4:4000::/35
+ip6-cidr, 2804:92d4::/34, proxy, no-resolve
+ip6-cidr, 2804:92d4:4000::/35, proxy, no-resolve

@@ -1,2 +1,2 @@
-ip-cidr, 201.182.133.0/24
-ip6-cidr, 2801:168:3::/48
+ip-cidr, 201.182.133.0/24, proxy, no-resolve
+ip6-cidr, 2801:168:3::/48, proxy, no-resolve

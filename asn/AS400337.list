@@ -1,58 +1,58 @@
-ip-cidr, 38.7.152.0/22
-ip-cidr, 38.51.144.0/22
-ip-cidr, 38.110.240.0/20
-ip-cidr, 163.245.160.0/24
-ip-cidr, 163.245.161.0/27
-ip-cidr, 163.245.161.32/31
-ip-cidr, 163.245.161.35/32
-ip-cidr, 163.245.161.36/30
-ip-cidr, 163.245.161.40/29
-ip-cidr, 163.245.161.48/28
-ip-cidr, 163.245.161.64/26
-ip-cidr, 163.245.161.128/25
-ip-cidr, 163.245.162.0/23
-ip-cidr, 163.245.164.0/23
-ip-cidr, 163.245.166.0/29
-ip-cidr, 163.245.166.9/32
-ip-cidr, 163.245.166.10/31
-ip-cidr, 163.245.166.12/30
-ip-cidr, 163.245.166.16/28
-ip-cidr, 163.245.166.32/27
-ip-cidr, 163.245.166.64/26
-ip-cidr, 163.245.166.128/25
-ip-cidr, 163.245.167.0/24
-ip-cidr, 163.245.168.0/21
-ip-cidr, 163.245.176.0/20
-ip-cidr, 206.225.31.0/24
-ip6-cidr, 2607:9740::/33
-ip6-cidr, 2607:9740:8000::/34
-ip6-cidr, 2607:9740:c000::/35
-ip6-cidr, 2607:9740:e000::/36
-ip6-cidr, 2607:9740:f000::/37
-ip6-cidr, 2607:9740:f800::/38
-ip6-cidr, 2607:9740:fc00::/39
-ip6-cidr, 2607:9740:fe00::/40
-ip6-cidr, 2607:9740:ff00::/46
-ip6-cidr, 2607:9740:ff04::/48
-ip6-cidr, 2607:9740:ff05::/49
-ip6-cidr, 2607:9740:ff05:8000::/50
-ip6-cidr, 2607:9740:ff05:c000::/51
-ip6-cidr, 2607:9740:ff05:e000::/53
-ip6-cidr, 2607:9740:ff05:e800::/56
-ip6-cidr, 2607:9740:ff05:e900::/57
-ip6-cidr, 2607:9740:ff05:e980::/58
-ip6-cidr, 2607:9740:ff05:e9c0::/62
-ip6-cidr, 2607:9740:ff05:e9c4::/63
-ip6-cidr, 2607:9740:ff05:e9c6::/64
-ip6-cidr, 2607:9740:ff05:e9c8::/61
-ip6-cidr, 2607:9740:ff05:e9d0::/60
-ip6-cidr, 2607:9740:ff05:e9e0::/59
-ip6-cidr, 2607:9740:ff05:ea00::/55
-ip6-cidr, 2607:9740:ff05:ec00::/54
-ip6-cidr, 2607:9740:ff05:f000::/52
-ip6-cidr, 2607:9740:ff06::/47
-ip6-cidr, 2607:9740:ff08::/45
-ip6-cidr, 2607:9740:ff10::/44
-ip6-cidr, 2607:9740:ff20::/43
-ip6-cidr, 2607:9740:ff40::/42
-ip6-cidr, 2607:9740:ff80::/41
+ip-cidr, 38.7.152.0/22, proxy, no-resolve
+ip-cidr, 38.51.144.0/22, proxy, no-resolve
+ip-cidr, 38.110.240.0/20, proxy, no-resolve
+ip-cidr, 163.245.160.0/24, proxy, no-resolve
+ip-cidr, 163.245.161.0/27, proxy, no-resolve
+ip-cidr, 163.245.161.32/31, proxy, no-resolve
+ip-cidr, 163.245.161.35/32, proxy, no-resolve
+ip-cidr, 163.245.161.36/30, proxy, no-resolve
+ip-cidr, 163.245.161.40/29, proxy, no-resolve
+ip-cidr, 163.245.161.48/28, proxy, no-resolve
+ip-cidr, 163.245.161.64/26, proxy, no-resolve
+ip-cidr, 163.245.161.128/25, proxy, no-resolve
+ip-cidr, 163.245.162.0/23, proxy, no-resolve
+ip-cidr, 163.245.164.0/23, proxy, no-resolve
+ip-cidr, 163.245.166.0/29, proxy, no-resolve
+ip-cidr, 163.245.166.9/32, proxy, no-resolve
+ip-cidr, 163.245.166.10/31, proxy, no-resolve
+ip-cidr, 163.245.166.12/30, proxy, no-resolve
+ip-cidr, 163.245.166.16/28, proxy, no-resolve
+ip-cidr, 163.245.166.32/27, proxy, no-resolve
+ip-cidr, 163.245.166.64/26, proxy, no-resolve
+ip-cidr, 163.245.166.128/25, proxy, no-resolve
+ip-cidr, 163.245.167.0/24, proxy, no-resolve
+ip-cidr, 163.245.168.0/21, proxy, no-resolve
+ip-cidr, 163.245.176.0/20, proxy, no-resolve
+ip-cidr, 206.225.31.0/24, proxy, no-resolve
+ip6-cidr, 2607:9740::/33, proxy, no-resolve
+ip6-cidr, 2607:9740:8000::/34, proxy, no-resolve
+ip6-cidr, 2607:9740:c000::/35, proxy, no-resolve
+ip6-cidr, 2607:9740:e000::/36, proxy, no-resolve
+ip6-cidr, 2607:9740:f000::/37, proxy, no-resolve
+ip6-cidr, 2607:9740:f800::/38, proxy, no-resolve
+ip6-cidr, 2607:9740:fc00::/39, proxy, no-resolve
+ip6-cidr, 2607:9740:fe00::/40, proxy, no-resolve
+ip6-cidr, 2607:9740:ff00::/46, proxy, no-resolve
+ip6-cidr, 2607:9740:ff04::/48, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05::/49, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:8000::/50, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:c000::/51, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e000::/53, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e800::/56, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e900::/57, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e980::/58, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9c0::/62, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9c4::/63, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9c6::/64, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9c8::/61, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9d0::/60, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:e9e0::/59, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:ea00::/55, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:ec00::/54, proxy, no-resolve
+ip6-cidr, 2607:9740:ff05:f000::/52, proxy, no-resolve
+ip6-cidr, 2607:9740:ff06::/47, proxy, no-resolve
+ip6-cidr, 2607:9740:ff08::/45, proxy, no-resolve
+ip6-cidr, 2607:9740:ff10::/44, proxy, no-resolve
+ip6-cidr, 2607:9740:ff20::/43, proxy, no-resolve
+ip6-cidr, 2607:9740:ff40::/42, proxy, no-resolve
+ip6-cidr, 2607:9740:ff80::/41, proxy, no-resolve

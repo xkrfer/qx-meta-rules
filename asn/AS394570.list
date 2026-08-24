@@ -1,2 +1,2 @@
-ip-cidr, 192.111.112.0/24
-ip6-cidr, 2607:c1c0::/32
+ip-cidr, 192.111.112.0/24, proxy, no-resolve
+ip6-cidr, 2607:c1c0::/32, proxy, no-resolve

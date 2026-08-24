@@ -1,7 +1,7 @@
-host-suffix, daogou.ai
-host-suffix, koudaitong.com
-host-suffix, quntuantuan.cn
-host-suffix, xinlingshou.com
-host-suffix, youzan.com
-host-suffix, youzanyun.com
-host-suffix, yzcdn.cn
+host-suffix, daogou.ai, proxy
+host-suffix, koudaitong.com, proxy
+host-suffix, quntuantuan.cn, proxy
+host-suffix, xinlingshou.com, proxy
+host-suffix, youzan.com, proxy
+host-suffix, youzanyun.com, proxy
+host-suffix, yzcdn.cn, proxy

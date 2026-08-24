@@ -1,7 +1,7 @@
-host-suffix, ajplus.net
-host-suffix, aljazeera.com
-host-suffix, aljazeera.net
-host-suffix, palestineremix.com
-host-suffix, sarajevopodopsadom.com
-host-suffix, srebrenica360.com
-host-suffix, syhacked.com
+host-suffix, ajplus.net, proxy
+host-suffix, aljazeera.com, proxy
+host-suffix, aljazeera.net, proxy
+host-suffix, palestineremix.com, proxy
+host-suffix, sarajevopodopsadom.com, proxy
+host-suffix, srebrenica360.com, proxy
+host-suffix, syhacked.com, proxy

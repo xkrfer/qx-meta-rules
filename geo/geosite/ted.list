@@ -1,2 +1,2 @@
-host-suffix, ted.com
-host-suffix, tedcdn.com
+host-suffix, ted.com, proxy
+host-suffix, tedcdn.com, proxy

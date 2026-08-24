@@ -1,7 +1,7 @@
-ip-cidr, 156.101.1.0/24
-ip-cidr, 156.101.8.0/23
-ip-cidr, 156.101.10.0/24
-ip-cidr, 156.101.32.0/23
-ip-cidr, 156.101.40.0/24
-ip-cidr, 156.101.190.0/23
-ip-cidr, 156.101.192.0/24
+ip-cidr, 156.101.1.0/24, proxy, no-resolve
+ip-cidr, 156.101.8.0/23, proxy, no-resolve
+ip-cidr, 156.101.10.0/24, proxy, no-resolve
+ip-cidr, 156.101.32.0/23, proxy, no-resolve
+ip-cidr, 156.101.40.0/24, proxy, no-resolve
+ip-cidr, 156.101.190.0/23, proxy, no-resolve
+ip-cidr, 156.101.192.0/24, proxy, no-resolve

@@ -1,2 +1,2 @@
-host-suffix, openweathermap.org
-host-suffix, openweather.co.uk
+host-suffix, openweathermap.org, proxy
+host-suffix, openweather.co.uk, proxy

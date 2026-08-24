@@ -1,2 +1,2 @@
-host-suffix, amazon-adsystem.com
-host-suffix, serving-sys.com
+host-suffix, amazon-adsystem.com, proxy
+host-suffix, serving-sys.com, proxy

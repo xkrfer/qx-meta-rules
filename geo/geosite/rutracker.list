@@ -1,9 +1,9 @@
-host-suffix, maintracker.org
-host-suffix, rutracker.cc
-host-suffix, rutracker.cr
-host-suffix, rutracker.me
-host-suffix, rutracker.net
-host-suffix, rutracker.nl
-host-suffix, rutracker.org
-host-suffix, rutracker.wiki
-host-suffix, rutrk.org
+host-suffix, maintracker.org, proxy
+host-suffix, rutracker.cc, proxy
+host-suffix, rutracker.cr, proxy
+host-suffix, rutracker.me, proxy
+host-suffix, rutracker.net, proxy
+host-suffix, rutracker.nl, proxy
+host-suffix, rutracker.org, proxy
+host-suffix, rutracker.wiki, proxy
+host-suffix, rutrk.org, proxy

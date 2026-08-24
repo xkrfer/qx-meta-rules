@@ -1,6 +1,6 @@
-host-suffix, zhihu.com
-host-suffix, zhimg.com
-host-suffix, laiyagushi.com
-host-suffix, vzuu.com
-host-suffix, crash2.zhihu.com
-host-suffix, zhihu-web-analytics.zhihu.com
+host-suffix, zhihu.com, proxy
+host-suffix, zhimg.com, proxy
+host-suffix, laiyagushi.com, proxy
+host-suffix, vzuu.com, proxy
+host-suffix, crash2.zhihu.com, proxy
+host-suffix, zhihu-web-analytics.zhihu.com, proxy

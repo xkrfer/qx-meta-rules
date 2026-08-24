@@ -1,8 +1,8 @@
-host-suffix, inte.sogou.com
-host-suffix, inte.sogoucdn.com
-host-suffix, lu.sogou.com
-host-suffix, lu.sogoucdn.com
-host-suffix, pb.i.sogou.com
-host-suffix, theta.sogoucdn.com
-host-suffix, uranus.sogou.com
-host-suffix, wuliao.epro.sogou.com
+host-suffix, inte.sogou.com, proxy
+host-suffix, inte.sogoucdn.com, proxy
+host-suffix, lu.sogou.com, proxy
+host-suffix, lu.sogoucdn.com, proxy
+host-suffix, pb.i.sogou.com, proxy
+host-suffix, theta.sogoucdn.com, proxy
+host-suffix, uranus.sogou.com, proxy
+host-suffix, wuliao.epro.sogou.com, proxy

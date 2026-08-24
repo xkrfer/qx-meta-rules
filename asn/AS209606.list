@@ -1,2 +1,2 @@
-ip6-cidr, 2a0e:b107:a52::/47
-ip6-cidr, 2a0e:b107:a5f::/48
+ip6-cidr, 2a0e:b107:a52::/47, proxy, no-resolve
+ip6-cidr, 2a0e:b107:a5f::/48, proxy, no-resolve

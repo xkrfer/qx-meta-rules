@@ -1,5 +1,5 @@
-ip-cidr, 103.174.210.0/24
-ip-cidr, 103.176.189.0/24
-ip-cidr, 122.99.126.0/23
-ip6-cidr, 2400:7060:10::/44
-ip6-cidr, 2400:7060:80::/44
+ip-cidr, 103.174.210.0/24, proxy, no-resolve
+ip-cidr, 103.176.189.0/24, proxy, no-resolve
+ip-cidr, 122.99.126.0/23, proxy, no-resolve
+ip6-cidr, 2400:7060:10::/44, proxy, no-resolve
+ip6-cidr, 2400:7060:80::/44, proxy, no-resolve

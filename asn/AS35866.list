@@ -1,2 +1,2 @@
-ip-cidr, 117.18.123.0/24
-ip6-cidr, 2602:f9ff::/42
+ip-cidr, 117.18.123.0/24, proxy, no-resolve
+ip6-cidr, 2602:f9ff::/42, proxy, no-resolve

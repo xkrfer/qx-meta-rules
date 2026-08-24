@@ -1,6 +1,6 @@
-host, copilot-proxy.githubusercontent.com
-host, copilot-workspace.githubnext.com
-host, copilotprodattachments.blob.core.windows.net
-host-suffix, githubcopilot.com
-host, copilot-telemetry-service.githubusercontent.com
-host, copilot-telemetry.githubusercontent.com
+host, copilot-proxy.githubusercontent.com, proxy
+host, copilot-workspace.githubnext.com, proxy
+host, copilotprodattachments.blob.core.windows.net, proxy
+host-suffix, githubcopilot.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy

@@ -1,6 +1,6 @@
-ip-cidr, 199.59.210.0/24
-ip6-cidr, 2602:ffa9::/48
-ip6-cidr, 2602:ffa9:68::/48
-ip6-cidr, 2602:ffa9:72::/47
-ip6-cidr, 2602:ffa9:db2::/48
-ip6-cidr, 2602:ffa9:f22::/47
+ip-cidr, 199.59.210.0/24, proxy, no-resolve
+ip6-cidr, 2602:ffa9::/48, proxy, no-resolve
+ip6-cidr, 2602:ffa9:68::/48, proxy, no-resolve
+ip6-cidr, 2602:ffa9:72::/47, proxy, no-resolve
+ip6-cidr, 2602:ffa9:db2::/48, proxy, no-resolve
+ip6-cidr, 2602:ffa9:f22::/47, proxy, no-resolve

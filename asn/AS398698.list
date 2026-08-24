@@ -1,4 +1,4 @@
-ip-cidr, 23.165.176.0/24
-ip6-cidr, 2605:eac0::/32
-ip6-cidr, 2a14:7583:5c00::/40
-ip6-cidr, 2a14:7583:5f00::/40
+ip-cidr, 23.165.176.0/24, proxy, no-resolve
+ip6-cidr, 2605:eac0::/32, proxy, no-resolve
+ip6-cidr, 2a14:7583:5c00::/40, proxy, no-resolve
+ip6-cidr, 2a14:7583:5f00::/40, proxy, no-resolve

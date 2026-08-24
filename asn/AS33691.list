@@ -1,2 +1,2 @@
-ip-cidr, 130.250.48.0/20
-ip6-cidr, 2607:1880:1500::/40
+ip-cidr, 130.250.48.0/20, proxy, no-resolve
+ip6-cidr, 2607:1880:1500::/40, proxy, no-resolve

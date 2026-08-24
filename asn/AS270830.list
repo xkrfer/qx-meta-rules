@@ -1,4 +1,4 @@
-ip-cidr, 189.14.120.0/22
-ip6-cidr, 2804:7210:100::/48
-ip6-cidr, 2804:7210:200::/46
-ip6-cidr, 2804:7210:204::/47
+ip-cidr, 189.14.120.0/22, proxy, no-resolve
+ip6-cidr, 2804:7210:100::/48, proxy, no-resolve
+ip6-cidr, 2804:7210:200::/46, proxy, no-resolve
+ip6-cidr, 2804:7210:204::/47, proxy, no-resolve

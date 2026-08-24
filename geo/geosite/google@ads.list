@@ -1,54 +1,54 @@
-host-suffix, 2mdn-cn.net
-host-suffix, 2mdn.net
-host-suffix, admob-cn.com
-host-suffix, admob.com
-host-suffix, adsense.com
-host-suffix, adsensecustomsearchads.com
-host-suffix, adsenseformobileapps.com
-host-suffix, adservice.google.com
-host-suffix, adtrafficquality.google
-host-suffix, advertisercommunity.com
-host-suffix, advertiserscommunity.com
-host-suffix, adwords-community.com
-host-suffix, adwords.com
-host-suffix, adwordsexpress.com
-host-suffix, analytics-alv.google.com
-host-suffix, app-ads-services.com
-host-suffix, app-analytics-services.com
-host-suffix, app-analytics-services-att.com
-host-suffix, app-measurement-cn.com
-host-suffix, app-measurement.com
-host-suffix, doubleclick-cn.net
-host-suffix, doubleclick.cn
-host-suffix, doubleclick.com
-host-suffix, doubleclick.net
-host-suffix, fcmatch.google.com
-host-suffix, google-analytics-cn.com
-host-suffix, google-analytics.com
-host-suffix, googleadapis.com
-host-suffix, googleadapis.l.google.com
-host-suffix, googleads-cn.com
-host-suffix, googleads.com
-host-suffix, googleadservices-cn.com
-host-suffix, googleadservices.com
-host-suffix, googleadsserving.cn
-host-suffix, googleanalytics.com
-host-suffix, googleoptimize-cn.com
-host-suffix, googleoptimize.com
-host-suffix, googlesyndication-cn.com
-host-suffix, googlesyndication.com
-host-suffix, googletagmanager-cn.com
-host-suffix, googletagmanager.com
-host-suffix, googletagservices-cn.com
-host-suffix, googletagservices.com
-host-suffix, googletraveladservices-cn.com
-host-suffix, googletraveladservices.com
-host-suffix, googlevads-cn.com
-host-suffix, mail-ads.google.com
-host-suffix, mobileads.google.com
-host-suffix, marketingplatform.google.com
-host-suffix, pagead.l.google.com
-host-suffix, partnerad.l.google.com
-host-suffix, urchin.com
-host, analytics.google.com
-host-suffix, ads.youtube.com
+host-suffix, 2mdn-cn.net, proxy
+host-suffix, 2mdn.net, proxy
+host-suffix, admob-cn.com, proxy
+host-suffix, admob.com, proxy
+host-suffix, adsense.com, proxy
+host-suffix, adsensecustomsearchads.com, proxy
+host-suffix, adsenseformobileapps.com, proxy
+host-suffix, adservice.google.com, proxy
+host-suffix, adtrafficquality.google, proxy
+host-suffix, advertisercommunity.com, proxy
+host-suffix, advertiserscommunity.com, proxy
+host-suffix, adwords-community.com, proxy
+host-suffix, adwords.com, proxy
+host-suffix, adwordsexpress.com, proxy
+host-suffix, analytics-alv.google.com, proxy
+host-suffix, app-ads-services.com, proxy
+host-suffix, app-analytics-services.com, proxy
+host-suffix, app-analytics-services-att.com, proxy
+host-suffix, app-measurement-cn.com, proxy
+host-suffix, app-measurement.com, proxy
+host-suffix, doubleclick-cn.net, proxy
+host-suffix, doubleclick.cn, proxy
+host-suffix, doubleclick.com, proxy
+host-suffix, doubleclick.net, proxy
+host-suffix, fcmatch.google.com, proxy
+host-suffix, google-analytics-cn.com, proxy
+host-suffix, google-analytics.com, proxy
+host-suffix, googleadapis.com, proxy
+host-suffix, googleadapis.l.google.com, proxy
+host-suffix, googleads-cn.com, proxy
+host-suffix, googleads.com, proxy
+host-suffix, googleadservices-cn.com, proxy
+host-suffix, googleadservices.com, proxy
+host-suffix, googleadsserving.cn, proxy
+host-suffix, googleanalytics.com, proxy
+host-suffix, googleoptimize-cn.com, proxy
+host-suffix, googleoptimize.com, proxy
+host-suffix, googlesyndication-cn.com, proxy
+host-suffix, googlesyndication.com, proxy
+host-suffix, googletagmanager-cn.com, proxy
+host-suffix, googletagmanager.com, proxy
+host-suffix, googletagservices-cn.com, proxy
+host-suffix, googletagservices.com, proxy
+host-suffix, googletraveladservices-cn.com, proxy
+host-suffix, googletraveladservices.com, proxy
+host-suffix, googlevads-cn.com, proxy
+host-suffix, mail-ads.google.com, proxy
+host-suffix, mobileads.google.com, proxy
+host-suffix, marketingplatform.google.com, proxy
+host-suffix, pagead.l.google.com, proxy
+host-suffix, partnerad.l.google.com, proxy
+host-suffix, urchin.com, proxy
+host, analytics.google.com, proxy
+host-suffix, ads.youtube.com, proxy

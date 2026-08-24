@@ -1,8 +1,8 @@
-ip-cidr, 147.160.161.0/32
-ip-cidr, 147.160.161.2/31
-ip-cidr, 147.160.161.4/30
-ip-cidr, 147.160.161.8/29
-ip-cidr, 147.160.161.16/28
-ip-cidr, 147.160.161.32/27
-ip-cidr, 147.160.161.64/26
-ip-cidr, 147.160.161.128/25
+ip-cidr, 147.160.161.0/32, proxy, no-resolve
+ip-cidr, 147.160.161.2/31, proxy, no-resolve
+ip-cidr, 147.160.161.4/30, proxy, no-resolve
+ip-cidr, 147.160.161.8/29, proxy, no-resolve
+ip-cidr, 147.160.161.16/28, proxy, no-resolve
+ip-cidr, 147.160.161.32/27, proxy, no-resolve
+ip-cidr, 147.160.161.64/26, proxy, no-resolve
+ip-cidr, 147.160.161.128/25, proxy, no-resolve

@@ -1,3 +1,3 @@
-ip-cidr, 12.164.113.0/24
-ip-cidr, 23.164.232.0/24
-ip6-cidr, 2602:f9f7::/40
+ip-cidr, 12.164.113.0/24, proxy, no-resolve
+ip-cidr, 23.164.232.0/24, proxy, no-resolve
+ip6-cidr, 2602:f9f7::/40, proxy, no-resolve

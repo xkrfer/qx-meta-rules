@@ -1,28 +1,28 @@
-host-suffix, bazar
-host-suffix, bbs
-host-suffix, chan
-host-suffix, coin
-host-suffix, cyb
-host-suffix, dyn
-host-suffix, emc
-host-suffix, epic
-host-suffix, free
-host-suffix, fur
-host-suffix, geek
-host-suffix, gopher
-host-suffix, indy
-host-suffix, ko
-host-suffix, ku
-host-suffix, lib
-host-suffix, libre
-host-suffix, neo
-host-suffix, null
-host-suffix, o
-host-suffix, oss
-host-suffix, oz
-host-suffix, parody
-host-suffix, pirate
-host-suffix, rm
-host-suffix, te
-host-suffix, ti
-host-suffix, uu
+host-suffix, bazar, proxy
+host-suffix, bbs, proxy
+host-suffix, chan, proxy
+host-suffix, coin, proxy
+host-suffix, cyb, proxy
+host-suffix, dyn, proxy
+host-suffix, emc, proxy
+host-suffix, epic, proxy
+host-suffix, free, proxy
+host-suffix, fur, proxy
+host-suffix, geek, proxy
+host-suffix, gopher, proxy
+host-suffix, indy, proxy
+host-suffix, ko, proxy
+host-suffix, ku, proxy
+host-suffix, lib, proxy
+host-suffix, libre, proxy
+host-suffix, neo, proxy
+host-suffix, null, proxy
+host-suffix, o, proxy
+host-suffix, oss, proxy
+host-suffix, oz, proxy
+host-suffix, parody, proxy
+host-suffix, pirate, proxy
+host-suffix, rm, proxy
+host-suffix, te, proxy
+host-suffix, ti, proxy
+host-suffix, uu, proxy

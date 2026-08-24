@@ -1,5 +1,5 @@
-ip-cidr, 177.125.56.0/22
-ip6-cidr, 2804:3bfc::/39
-ip6-cidr, 2804:3bfc:300::/40
-ip6-cidr, 2804:3bfc:400::/40
-ip6-cidr, 2804:3bfc:1100::/40
+ip-cidr, 177.125.56.0/22, proxy, no-resolve
+ip6-cidr, 2804:3bfc::/39, proxy, no-resolve
+ip6-cidr, 2804:3bfc:300::/40, proxy, no-resolve
+ip6-cidr, 2804:3bfc:400::/40, proxy, no-resolve
+ip6-cidr, 2804:3bfc:1100::/40, proxy, no-resolve

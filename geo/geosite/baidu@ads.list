@@ -1,51 +1,51 @@
-host-suffix, adscdn.baidu.com
-host-suffix, adx.xiaodutv.com
-host-suffix, afd.baidu.com
-host-suffix, afdconf.baidu.com
-host-suffix, baifen.music.baidu.com
-host-suffix, bzclk.baidu.com
-host-suffix, cb.baidu.com
-host-suffix, cbjs.baidu.com
-host-suffix, cm.baidu.com
-host-suffix, cpro.baidu.com
-host-suffix, cpro.baidustatic.com
-host-suffix, cpu.baidu.com
-host-suffix, cstm.baidu.com
-host-suffix, drmcmm.baidu.com
-host-suffix, duiwai.baidu.com
-host-suffix, dup.baidustatic.com
-host-suffix, eclick.baidu.com
-host-suffix, ecma.bdimg.com
-host-suffix, ecmb.bdimg.com
-host-suffix, ecmc.bdimg.com
-host-suffix, eduad.baidu.com
-host-suffix, eiv.baidu.com
-host-suffix, fclick.baidu.com
-host-suffix, fclog.baidu.com
-host-suffix, h2tcbox.baidu.com
-host-suffix, hao123union.baidu.com
-host-suffix, hm.baidu.com
-host-suffix, hmma.baidu.com
-host-suffix, imgstat.baidu.com
-host-suffix, iwanad.baidu.com
-host-suffix, miaowu.baidu.com
-host-suffix, mipcache.bdstatic.com
-host-suffix, mobads.baidu.com
-host-suffix, mobads-logs.baidu.com
-host-suffix, mobads-pre-config.cdn.bcebos.com
-host-suffix, mountain.zhidao.baidu.com
-host-suffix, nsclick.baidu.com
-host-suffix, nsclickvideo.baidu.com
-host-suffix, pimlog.baidu.com
-host-suffix, pos.baidu.com
-host-suffix, sclick.baidu.com
-host-suffix, spcode.baidu.com
-host-suffix, tcbox.baidu.com
-host-suffix, ubmcvideo.baidustatic.com
-host-suffix, union.baidu.com
-host-suffix, unionimage.baidu.com
-host-suffix, wangmeng.baidu.com
-host-suffix, wkctj.baidu.com
-host-suffix, wm.baidu.com
-host-suffix, zz.bdstatic.com
-host-suffix, syh.zybang.com
+host-suffix, adscdn.baidu.com, proxy
+host-suffix, adx.xiaodutv.com, proxy
+host-suffix, afd.baidu.com, proxy
+host-suffix, afdconf.baidu.com, proxy
+host-suffix, baifen.music.baidu.com, proxy
+host-suffix, bzclk.baidu.com, proxy
+host-suffix, cb.baidu.com, proxy
+host-suffix, cbjs.baidu.com, proxy
+host-suffix, cm.baidu.com, proxy
+host-suffix, cpro.baidu.com, proxy
+host-suffix, cpro.baidustatic.com, proxy
+host-suffix, cpu.baidu.com, proxy
+host-suffix, cstm.baidu.com, proxy
+host-suffix, drmcmm.baidu.com, proxy
+host-suffix, duiwai.baidu.com, proxy
+host-suffix, dup.baidustatic.com, proxy
+host-suffix, eclick.baidu.com, proxy
+host-suffix, ecma.bdimg.com, proxy
+host-suffix, ecmb.bdimg.com, proxy
+host-suffix, ecmc.bdimg.com, proxy
+host-suffix, eduad.baidu.com, proxy
+host-suffix, eiv.baidu.com, proxy
+host-suffix, fclick.baidu.com, proxy
+host-suffix, fclog.baidu.com, proxy
+host-suffix, h2tcbox.baidu.com, proxy
+host-suffix, hao123union.baidu.com, proxy
+host-suffix, hm.baidu.com, proxy
+host-suffix, hmma.baidu.com, proxy
+host-suffix, imgstat.baidu.com, proxy
+host-suffix, iwanad.baidu.com, proxy
+host-suffix, miaowu.baidu.com, proxy
+host-suffix, mipcache.bdstatic.com, proxy
+host-suffix, mobads.baidu.com, proxy
+host-suffix, mobads-logs.baidu.com, proxy
+host-suffix, mobads-pre-config.cdn.bcebos.com, proxy
+host-suffix, mountain.zhidao.baidu.com, proxy
+host-suffix, nsclick.baidu.com, proxy
+host-suffix, nsclickvideo.baidu.com, proxy
+host-suffix, pimlog.baidu.com, proxy
+host-suffix, pos.baidu.com, proxy
+host-suffix, sclick.baidu.com, proxy
+host-suffix, spcode.baidu.com, proxy
+host-suffix, tcbox.baidu.com, proxy
+host-suffix, ubmcvideo.baidustatic.com, proxy
+host-suffix, union.baidu.com, proxy
+host-suffix, unionimage.baidu.com, proxy
+host-suffix, wangmeng.baidu.com, proxy
+host-suffix, wkctj.baidu.com, proxy
+host-suffix, wm.baidu.com, proxy
+host-suffix, zz.bdstatic.com, proxy
+host-suffix, syh.zybang.com, proxy

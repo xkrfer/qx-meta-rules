@@ -1,2 +1,2 @@
-host-suffix, bitflyer.com
-host-suffix, bitflyer.jp
+host-suffix, bitflyer.com, proxy
+host-suffix, bitflyer.jp, proxy

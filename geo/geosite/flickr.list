@@ -1,5 +1,5 @@
-host-suffix, flickr
-host-suffix, flic.kr
-host-suffix, flickr.com
-host-suffix, flickr.net
-host-suffix, staticflickr.com
+host-suffix, flickr, proxy
+host-suffix, flic.kr, proxy
+host-suffix, flickr.com, proxy
+host-suffix, flickr.net, proxy
+host-suffix, staticflickr.com, proxy

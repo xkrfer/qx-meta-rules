@@ -1,18 +1,18 @@
-host, ad.ozone.ru
-host, adv.ozon.ru
-host, agency-adv.ozon.ru
-host, analytics-adv.ozon.ru
-host, beginners-adv.ozon.ru
-host, google-analytics-suite.ozon.ru
-host, loyalnost-adv.ozon.ru
-host, new-adv.ozon.ru
-host, prodvizhenie-adv.ozon.ru
-host, questions-adv.ozon.ru
-host, sentry.ozon.ru
-host, xapi.ozon.by
-host, xapi.ozon.com
-host, xapi.ozon.com.by
-host, xapi.ozon.com.kz
-host, xapi.ozon.kz
-host, xapi.ozon.ru
-host, xapi.ozonru.me
+host, ad.ozone.ru, proxy
+host, adv.ozon.ru, proxy
+host, agency-adv.ozon.ru, proxy
+host, analytics-adv.ozon.ru, proxy
+host, beginners-adv.ozon.ru, proxy
+host, google-analytics-suite.ozon.ru, proxy
+host, loyalnost-adv.ozon.ru, proxy
+host, new-adv.ozon.ru, proxy
+host, prodvizhenie-adv.ozon.ru, proxy
+host, questions-adv.ozon.ru, proxy
+host, sentry.ozon.ru, proxy
+host, xapi.ozon.by, proxy
+host, xapi.ozon.com, proxy
+host, xapi.ozon.com.by, proxy
+host, xapi.ozon.com.kz, proxy
+host, xapi.ozon.kz, proxy
+host, xapi.ozon.ru, proxy
+host, xapi.ozonru.me, proxy

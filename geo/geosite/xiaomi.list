@@ -1,73 +1,73 @@
-host-suffix, xiaomiprint.com
-host-suffix, miot-spec.org
-host-suffix, mi-fds.com
-host-suffix, mi-idc.com
-host-suffix, mi-img.com
-host-suffix, mi.com
-host-suffix, mieco.net
-host-suffix, mifile.cn
-host-suffix, mijia.tech
-host-suffix, mioffice.cn
-host-suffix, mitvos.com
-host-suffix, miui.com
-host-suffix, miwifi.com
-host-suffix, xiaomi.cn
-host-suffix, xiaomi.com
-host-suffix, xiaomi.net
-host-suffix, xiaomicp.com
-host-suffix, xiaomidns.cn
-host-suffix, xiaomidns.com
-host-suffix, xiaomidns.net
-host-suffix, xiaomiev.com
-host-suffix, xiaomisa.com
-host-suffix, xiaomiinc.com
-host-suffix, xiaomiinc.net
-host-suffix, xiaomimobile.com
-host-suffix, xiaominr.com
-host-suffix, mi-dun.com
-host-suffix, mgslb.com
-host-suffix, xiaomiinc.cn
-host-suffix, xiaomisa.net
-host-suffix, xiaomisa.org
-host-suffix, xiaomiwear.com
-host-suffix, xiaomixiaoai.com
-host-suffix, migames.com
-host-suffix, wali.com
-host-suffix, airstarfinance.net
-host-suffix, mipay.com
-host-suffix, duokan.com
-host-suffix, duokanbox.com
-host-suffix, xiaomiyoupin.com
-host-suffix, youpin.cn
-host-suffix, zmifi.com
-host-suffix, saxyit.com
-host-suffix, xiaomisa.cn
-host-suffix, miaibox.com
-host-suffix, xiaoaiassist.com
-host-suffix, xiaomimimo.com
-host-suffix, xiaomidns.com.cn
-host-suffix, xiaomiinc.com.cn
-host-suffix, youpin.com.cn
-host-suffix, c.mi.com
-host-suffix, global.market.xiaomi.com
-host-suffix, a.market.xiaomi.com
-host-suffix, ad.intl.xiaomi.com
-host-suffix, ad.mi.com
-host-suffix, ad.xiaomi.com
-host-suffix, ad1.xiaomi.com
-host-suffix, admob.xiaomi.com
-host-suffix, adv.sec.intl.miui.com
-host-suffix, adv.sec.miui.com
-host-suffix, data.mistat.india.xiaomi.com
-host-suffix, data.mistat.intl.xiaomi.com
-host-suffix, data.mistat.rus.xiaomi.com
-host-suffix, data.mistat.xiaomi.com
-host-suffix, logupdate.avlyun.sec.miui.com
-host-suffix, misc.in.duokanbox.com
-host-suffix, sentry.d.mi.com
-host-suffix, sentry.d.xiaomi.net
-host-suffix, stats.music.xiaomi.com
-host-suffix, tjqonline.cn
-host-suffix, tracker.ai.xiaomi.com
-host-suffix, tracker.xiaomixiaoai.com
-host-suffix, tracking.miui.com
+host-suffix, xiaomiprint.com, proxy
+host-suffix, miot-spec.org, proxy
+host-suffix, mi-fds.com, proxy
+host-suffix, mi-idc.com, proxy
+host-suffix, mi-img.com, proxy
+host-suffix, mi.com, proxy
+host-suffix, mieco.net, proxy
+host-suffix, mifile.cn, proxy
+host-suffix, mijia.tech, proxy
+host-suffix, mioffice.cn, proxy
+host-suffix, mitvos.com, proxy
+host-suffix, miui.com, proxy
+host-suffix, miwifi.com, proxy
+host-suffix, xiaomi.cn, proxy
+host-suffix, xiaomi.com, proxy
+host-suffix, xiaomi.net, proxy
+host-suffix, xiaomicp.com, proxy
+host-suffix, xiaomidns.cn, proxy
+host-suffix, xiaomidns.com, proxy
+host-suffix, xiaomidns.net, proxy
+host-suffix, xiaomiev.com, proxy
+host-suffix, xiaomisa.com, proxy
+host-suffix, xiaomiinc.com, proxy
+host-suffix, xiaomiinc.net, proxy
+host-suffix, xiaomimobile.com, proxy
+host-suffix, xiaominr.com, proxy
+host-suffix, mi-dun.com, proxy
+host-suffix, mgslb.com, proxy
+host-suffix, xiaomiinc.cn, proxy
+host-suffix, xiaomisa.net, proxy
+host-suffix, xiaomisa.org, proxy
+host-suffix, xiaomiwear.com, proxy
+host-suffix, xiaomixiaoai.com, proxy
+host-suffix, migames.com, proxy
+host-suffix, wali.com, proxy
+host-suffix, airstarfinance.net, proxy
+host-suffix, mipay.com, proxy
+host-suffix, duokan.com, proxy
+host-suffix, duokanbox.com, proxy
+host-suffix, xiaomiyoupin.com, proxy
+host-suffix, youpin.cn, proxy
+host-suffix, zmifi.com, proxy
+host-suffix, saxyit.com, proxy
+host-suffix, xiaomisa.cn, proxy
+host-suffix, miaibox.com, proxy
+host-suffix, xiaoaiassist.com, proxy
+host-suffix, xiaomimimo.com, proxy
+host-suffix, xiaomidns.com.cn, proxy
+host-suffix, xiaomiinc.com.cn, proxy
+host-suffix, youpin.com.cn, proxy
+host-suffix, c.mi.com, proxy
+host-suffix, global.market.xiaomi.com, proxy
+host-suffix, a.market.xiaomi.com, proxy
+host-suffix, ad.intl.xiaomi.com, proxy
+host-suffix, ad.mi.com, proxy
+host-suffix, ad.xiaomi.com, proxy
+host-suffix, ad1.xiaomi.com, proxy
+host-suffix, admob.xiaomi.com, proxy
+host-suffix, adv.sec.intl.miui.com, proxy
+host-suffix, adv.sec.miui.com, proxy
+host-suffix, data.mistat.india.xiaomi.com, proxy
+host-suffix, data.mistat.intl.xiaomi.com, proxy
+host-suffix, data.mistat.rus.xiaomi.com, proxy
+host-suffix, data.mistat.xiaomi.com, proxy
+host-suffix, logupdate.avlyun.sec.miui.com, proxy
+host-suffix, misc.in.duokanbox.com, proxy
+host-suffix, sentry.d.mi.com, proxy
+host-suffix, sentry.d.xiaomi.net, proxy
+host-suffix, stats.music.xiaomi.com, proxy
+host-suffix, tjqonline.cn, proxy
+host-suffix, tracker.ai.xiaomi.com, proxy
+host-suffix, tracker.xiaomixiaoai.com, proxy
+host-suffix, tracking.miui.com, proxy

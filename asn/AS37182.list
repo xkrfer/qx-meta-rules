@@ -1,2 +1,2 @@
-ip-cidr, 41.93.0.0/17
-ip6-cidr, 2c0f:f2e8::/32
+ip-cidr, 41.93.0.0/17, proxy, no-resolve
+ip6-cidr, 2c0f:f2e8::/32, proxy, no-resolve

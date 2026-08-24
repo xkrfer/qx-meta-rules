@@ -1,5 +1,5 @@
-host-suffix, apiauto.ru
-host-suffix, auto.ru
-host-suffix, autoru.me
-host-suffix, avto.ru
-host-suffix, cm.expert
+host-suffix, apiauto.ru, proxy
+host-suffix, auto.ru, proxy
+host-suffix, autoru.me, proxy
+host-suffix, avto.ru, proxy
+host-suffix, cm.expert, proxy

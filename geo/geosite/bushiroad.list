@@ -1,32 +1,32 @@
-host-suffix, d4dj-pj.com
-host-suffix, dreamorder.com
-host-suffix, bushi-navi.com
-host-suffix, bushimo.jp
-host-suffix, bushiroad-creative.com
-host-suffix, bushiroad-global-online-store.com
-host-suffix, bushiroad-move.com
-host-suffix, bushiroad-music.com
-host-suffix, argo-bdp.com
-host-suffix, bushiroad-works.com
-host-suffix, wwr-stardom.com
-host-suffix, bushiroad.com
-host-suffix, bushiroadgames.com
-host-suffix, cf-vanguard.com
-host-suffix, bang-dream.com
-host-suffix, comic-growl.com
-host-suffix, bushiroad-store.com
-host-suffix, comicbushi-web.com
-host-suffix, fc-buddyfight.com
-host-suffix, gamebiz.jp
-host-suffix, gekkan-bushi.com
-host-suffix, hibiki-cast.jp
-host-suffix, ws-tcg.com
-host-suffix, ws-blau.com
-host-suffix, njpw1972.com
-host-suffix, our-notes.jp
-host-suffix, rebirth-fy.com
-host-suffix, revuestarlight.com
-host-suffix, shadowverse-evolve.com
-host-suffix, njpw.co.jp
-host-suffix, hikosen.co.jp
-host-suffix, bushiroad.co.jp
+host-suffix, d4dj-pj.com, proxy
+host-suffix, dreamorder.com, proxy
+host-suffix, bushi-navi.com, proxy
+host-suffix, bushimo.jp, proxy
+host-suffix, bushiroad-creative.com, proxy
+host-suffix, bushiroad-global-online-store.com, proxy
+host-suffix, bushiroad-move.com, proxy
+host-suffix, bushiroad-music.com, proxy
+host-suffix, argo-bdp.com, proxy
+host-suffix, bushiroad-works.com, proxy
+host-suffix, wwr-stardom.com, proxy
+host-suffix, bushiroad.com, proxy
+host-suffix, bushiroadgames.com, proxy
+host-suffix, cf-vanguard.com, proxy
+host-suffix, bang-dream.com, proxy
+host-suffix, comic-growl.com, proxy
+host-suffix, bushiroad-store.com, proxy
+host-suffix, comicbushi-web.com, proxy
+host-suffix, fc-buddyfight.com, proxy
+host-suffix, gamebiz.jp, proxy
+host-suffix, gekkan-bushi.com, proxy
+host-suffix, hibiki-cast.jp, proxy
+host-suffix, ws-tcg.com, proxy
+host-suffix, ws-blau.com, proxy
+host-suffix, njpw1972.com, proxy
+host-suffix, our-notes.jp, proxy
+host-suffix, rebirth-fy.com, proxy
+host-suffix, revuestarlight.com, proxy
+host-suffix, shadowverse-evolve.com, proxy
+host-suffix, njpw.co.jp, proxy
+host-suffix, hikosen.co.jp, proxy
+host-suffix, bushiroad.co.jp, proxy

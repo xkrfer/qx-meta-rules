@@ -1,5 +1,5 @@
-host, gitlab-assets.oss-cn-hongkong.aliyuncs.com
-host-suffix, gitlab.com
-host-suffix, gitlab.io
-host-suffix, gitlab.net
-host-suffix, gitlab-static.net
+host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
+host-suffix, gitlab.com, proxy
+host-suffix, gitlab.io, proxy
+host-suffix, gitlab.net, proxy
+host-suffix, gitlab-static.net, proxy

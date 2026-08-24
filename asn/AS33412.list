@@ -1,13 +1,13 @@
-ip-cidr, 216.170.117.0/24
-ip6-cidr, 2602:fd86::/48
-ip6-cidr, 2602:fd86:2::/47
-ip6-cidr, 2602:fd86:4::/46
-ip6-cidr, 2602:fd86:8::/45
-ip6-cidr, 2602:fd86:10::/44
-ip6-cidr, 2602:fd86:20::/43
-ip6-cidr, 2602:fd86:40::/42
-ip6-cidr, 2602:fd86:80::/41
-ip6-cidr, 2602:fd86:100::/40
-ip6-cidr, 2602:fd86:200::/39
-ip6-cidr, 2602:fd86:400::/38
-ip6-cidr, 2602:fd86:800::/37
+ip-cidr, 216.170.117.0/24, proxy, no-resolve
+ip6-cidr, 2602:fd86::/48, proxy, no-resolve
+ip6-cidr, 2602:fd86:2::/47, proxy, no-resolve
+ip6-cidr, 2602:fd86:4::/46, proxy, no-resolve
+ip6-cidr, 2602:fd86:8::/45, proxy, no-resolve
+ip6-cidr, 2602:fd86:10::/44, proxy, no-resolve
+ip6-cidr, 2602:fd86:20::/43, proxy, no-resolve
+ip6-cidr, 2602:fd86:40::/42, proxy, no-resolve
+ip6-cidr, 2602:fd86:80::/41, proxy, no-resolve
+ip6-cidr, 2602:fd86:100::/40, proxy, no-resolve
+ip6-cidr, 2602:fd86:200::/39, proxy, no-resolve
+ip6-cidr, 2602:fd86:400::/38, proxy, no-resolve
+ip6-cidr, 2602:fd86:800::/37, proxy, no-resolve

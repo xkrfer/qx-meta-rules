@@ -1,10 +1,10 @@
-host-suffix, nico
-host-suffix, nico.ms
-host-suffix, nicochannel.jp
-host-suffix, nicodic.jp
-host-suffix, nicomanga.jp
-host-suffix, niconico.com
-host-suffix, nicoseiga.jp
-host-suffix, nicovideo.jp
-host-suffix, nimg.jp
-host-suffix, simg.jp
+host-suffix, nico, proxy
+host-suffix, nico.ms, proxy
+host-suffix, nicochannel.jp, proxy
+host-suffix, nicodic.jp, proxy
+host-suffix, nicomanga.jp, proxy
+host-suffix, niconico.com, proxy
+host-suffix, nicoseiga.jp, proxy
+host-suffix, nicovideo.jp, proxy
+host-suffix, nimg.jp, proxy
+host-suffix, simg.jp, proxy

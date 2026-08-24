@@ -1,4 +1,4 @@
-host-suffix, gimy.cc
-host-suffix, gimy.co
-host-suffix, gimy.to
-host-suffix, gimy.tv
+host-suffix, gimy.cc, proxy
+host-suffix, gimy.co, proxy
+host-suffix, gimy.to, proxy
+host-suffix, gimy.tv, proxy

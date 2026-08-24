@@ -1,142 +1,142 @@
-host-suffix, gov.ru
-host-suffix, government.ru
-host-suffix, gosuslugi.ru
-host-suffix, gu-st.ru
-host-suffix, emias.info
-host-suffix, mgfoms.ru
-host-suffix, edu-74.ru
-host-suffix, edu.ru
-host-suffix, edu22.info
-host-suffix, netschool.website
-host-suffix, ooc-school.ru
-host-suffix, prim-edu.ru
-host-suffix, ro-edu.ru
-host-suffix, tomedu.ru
-host-suffix, zabedu.ru
-host-suffix, cbr.ru
-host-suffix, cikrf.ru
-host-suffix, ebs.ru
-host-suffix, goskey.ru
-host-suffix, grfc.ru
-host-suffix, izbirkom.ru
-host-suffix, kremlin.ru
-host-suffix, mil.ru
-host-suffix, nalog.ru
-host-suffix, xn--80ajghhoc2aj1c8b.xn--p1ai
-host-suffix, xn--90aivcdt6dxbc.xn--p1ai
-host-suffix, xn--b1afabzvcegckfhg.xn--p1ai
-host-suffix, xn--d1acchc3adyj9k.xn--p1ai
-host-suffix, mos.ru
-host-suffix, mosreg.ru
-host-suffix, sevastopol.ru
-host-suffix, spb.ru
-host-suffix, adygeya.ru
-host-suffix, bashkiria.ru
-host-suffix, buryatia.ru
-host-suffix, cap.ru
-host-suffix, chuvashia.ru
-host-suffix, crimea.ru
-host-suffix, dagestan.ru
-host-suffix, e-yakutia.ru
-host-suffix, grozny.ru
-host-suffix, i-ola.ru
-host-suffix, izhevsk.ru
-host-suffix, kalmykia.ru
-host-suffix, karelia.ru
-host-suffix, kazan.ru
-host-suffix, kchgov.ru
-host-suffix, kchr.ru
-host-suffix, khakassia.ru
-host-suffix, mari-el.ru
-host-suffix, mari.ru
-host-suffix, mordovia.ru
-host-suffix, nalchik.ru
-host-suffix, ptz.ru
-host-suffix, rkomi.ru
-host-suffix, tatarstan.ru
-host-suffix, tuva.ru
-host-suffix, udm.ru
-host-suffix, udmurtia.ru
-host-suffix, ulan-ude.ru
-host-suffix, vladikavkaz.ru
-host-suffix, yakutia.ru
-host-suffix, altai.ru
-host-suffix, chita.ru
-host-suffix, kamchatka.ru
-host-suffix, khabarovsk.ru
-host-suffix, khv.ru
-host-suffix, krasnodar.su
-host-suffix, krasnoyarsk.ru
-host-suffix, kuban.ru
-host-suffix, marine.ru
-host-suffix, perm.ru
-host-suffix, stavropol.ru
-host-suffix, stv.ru
-host-suffix, vl.ru
-host-suffix, vladivostok.ru
-host-suffix, amur.ru
-host-suffix, arkhangelsk.ru
-host-suffix, astrakhan.ru
-host-suffix, belgorod.ru
-host-suffix, bir.ru
-host-suffix, bryansk.ru
-host-suffix, cbg.ru
-host-suffix, chel.ru
-host-suffix, chelyabinsk.ru
-host-suffix, ekburg.ru
-host-suffix, irk.ru
-host-suffix, irkutsk.ru
-host-suffix, ivanovo.ru
-host-suffix, jar.ru
-host-suffix, kaluga.ru
-host-suffix, kemerovo.ru
-host-suffix, kirov.ru
-host-suffix, koenig.ru
-host-suffix, kostroma.ru
-host-suffix, kurgan.ru
-host-suffix, kursk.ru
-host-suffix, lipetsk.ru
-host-suffix, magadan.ru
-host-suffix, murmansk.ru
-host-suffix, nn.ru
-host-suffix, nov.ru
-host-suffix, novosibirsk.ru
-host-suffix, nsk.ru
-host-suffix, omsk.ru
-host-suffix, orb.ru
-host-suffix, oryol.ru
-host-suffix, penza.ru
-host-suffix, psk.ru
-host-suffix, pskov.ru
-host-suffix, rnd.ru
-host-suffix, ryazan.ru
-host-suffix, sakhalin.ru
-host-suffix, samara.ru
-host-suffix, saratov.ru
-host-suffix, simbirsk.ru
-host-suffix, smolensk.ru
-host-suffix, tambov.ru
-host-suffix, tom.ru
-host-suffix, tomsk.ru
-host-suffix, tsaritsyn.ru
-host-suffix, tsk.ru
-host-suffix, tula.ru
-host-suffix, tver.ru
-host-suffix, tyumen.ru
-host-suffix, vladimir.ru
-host-suffix, vlg.ru
-host-suffix, volganet.net
-host-suffix, volgograd.ru
-host-suffix, vologda.ru
-host-suffix, voronezh.ru
-host-suffix, vrn.ru
-host-suffix, vyatka.ru
-host-suffix, xn--80acgfbsl1azdqr.xn--p1ai
-host-suffix, yaroslavl.ru
-host-suffix, yuzhno-sakhalinsk.ru
-host-suffix, chukotka.ru
-host-suffix, jamal.ru
-host-suffix, surgut.ru
-host-suffix, yamal.ru
-host-suffix, yanao.ru
-host-suffix, zdrav10.ru
+host-suffix, gov.ru, proxy
+host-suffix, government.ru, proxy
+host-suffix, gosuslugi.ru, proxy
+host-suffix, gu-st.ru, proxy
+host-suffix, emias.info, proxy
+host-suffix, mgfoms.ru, proxy
+host-suffix, edu-74.ru, proxy
+host-suffix, edu.ru, proxy
+host-suffix, edu22.info, proxy
+host-suffix, netschool.website, proxy
+host-suffix, ooc-school.ru, proxy
+host-suffix, prim-edu.ru, proxy
+host-suffix, ro-edu.ru, proxy
+host-suffix, tomedu.ru, proxy
+host-suffix, zabedu.ru, proxy
+host-suffix, cbr.ru, proxy
+host-suffix, cikrf.ru, proxy
+host-suffix, ebs.ru, proxy
+host-suffix, goskey.ru, proxy
+host-suffix, grfc.ru, proxy
+host-suffix, izbirkom.ru, proxy
+host-suffix, kremlin.ru, proxy
+host-suffix, mil.ru, proxy
+host-suffix, nalog.ru, proxy
+host-suffix, xn--80ajghhoc2aj1c8b.xn--p1ai, proxy
+host-suffix, xn--90aivcdt6dxbc.xn--p1ai, proxy
+host-suffix, xn--b1afabzvcegckfhg.xn--p1ai, proxy
+host-suffix, xn--d1acchc3adyj9k.xn--p1ai, proxy
+host-suffix, mos.ru, proxy
+host-suffix, mosreg.ru, proxy
+host-suffix, sevastopol.ru, proxy
+host-suffix, spb.ru, proxy
+host-suffix, adygeya.ru, proxy
+host-suffix, bashkiria.ru, proxy
+host-suffix, buryatia.ru, proxy
+host-suffix, cap.ru, proxy
+host-suffix, chuvashia.ru, proxy
+host-suffix, crimea.ru, proxy
+host-suffix, dagestan.ru, proxy
+host-suffix, e-yakutia.ru, proxy
+host-suffix, grozny.ru, proxy
+host-suffix, i-ola.ru, proxy
+host-suffix, izhevsk.ru, proxy
+host-suffix, kalmykia.ru, proxy
+host-suffix, karelia.ru, proxy
+host-suffix, kazan.ru, proxy
+host-suffix, kchgov.ru, proxy
+host-suffix, kchr.ru, proxy
+host-suffix, khakassia.ru, proxy
+host-suffix, mari-el.ru, proxy
+host-suffix, mari.ru, proxy
+host-suffix, mordovia.ru, proxy
+host-suffix, nalchik.ru, proxy
+host-suffix, ptz.ru, proxy
+host-suffix, rkomi.ru, proxy
+host-suffix, tatarstan.ru, proxy
+host-suffix, tuva.ru, proxy
+host-suffix, udm.ru, proxy
+host-suffix, udmurtia.ru, proxy
+host-suffix, ulan-ude.ru, proxy
+host-suffix, vladikavkaz.ru, proxy
+host-suffix, yakutia.ru, proxy
+host-suffix, altai.ru, proxy
+host-suffix, chita.ru, proxy
+host-suffix, kamchatka.ru, proxy
+host-suffix, khabarovsk.ru, proxy
+host-suffix, khv.ru, proxy
+host-suffix, krasnodar.su, proxy
+host-suffix, krasnoyarsk.ru, proxy
+host-suffix, kuban.ru, proxy
+host-suffix, marine.ru, proxy
+host-suffix, perm.ru, proxy
+host-suffix, stavropol.ru, proxy
+host-suffix, stv.ru, proxy
+host-suffix, vl.ru, proxy
+host-suffix, vladivostok.ru, proxy
+host-suffix, amur.ru, proxy
+host-suffix, arkhangelsk.ru, proxy
+host-suffix, astrakhan.ru, proxy
+host-suffix, belgorod.ru, proxy
+host-suffix, bir.ru, proxy
+host-suffix, bryansk.ru, proxy
+host-suffix, cbg.ru, proxy
+host-suffix, chel.ru, proxy
+host-suffix, chelyabinsk.ru, proxy
+host-suffix, ekburg.ru, proxy
+host-suffix, irk.ru, proxy
+host-suffix, irkutsk.ru, proxy
+host-suffix, ivanovo.ru, proxy
+host-suffix, jar.ru, proxy
+host-suffix, kaluga.ru, proxy
+host-suffix, kemerovo.ru, proxy
+host-suffix, kirov.ru, proxy
+host-suffix, koenig.ru, proxy
+host-suffix, kostroma.ru, proxy
+host-suffix, kurgan.ru, proxy
+host-suffix, kursk.ru, proxy
+host-suffix, lipetsk.ru, proxy
+host-suffix, magadan.ru, proxy
+host-suffix, murmansk.ru, proxy
+host-suffix, nn.ru, proxy
+host-suffix, nov.ru, proxy
+host-suffix, novosibirsk.ru, proxy
+host-suffix, nsk.ru, proxy
+host-suffix, omsk.ru, proxy
+host-suffix, orb.ru, proxy
+host-suffix, oryol.ru, proxy
+host-suffix, penza.ru, proxy
+host-suffix, psk.ru, proxy
+host-suffix, pskov.ru, proxy
+host-suffix, rnd.ru, proxy
+host-suffix, ryazan.ru, proxy
+host-suffix, sakhalin.ru, proxy
+host-suffix, samara.ru, proxy
+host-suffix, saratov.ru, proxy
+host-suffix, simbirsk.ru, proxy
+host-suffix, smolensk.ru, proxy
+host-suffix, tambov.ru, proxy
+host-suffix, tom.ru, proxy
+host-suffix, tomsk.ru, proxy
+host-suffix, tsaritsyn.ru, proxy
+host-suffix, tsk.ru, proxy
+host-suffix, tula.ru, proxy
+host-suffix, tver.ru, proxy
+host-suffix, tyumen.ru, proxy
+host-suffix, vladimir.ru, proxy
+host-suffix, vlg.ru, proxy
+host-suffix, volganet.net, proxy
+host-suffix, volgograd.ru, proxy
+host-suffix, vologda.ru, proxy
+host-suffix, voronezh.ru, proxy
+host-suffix, vrn.ru, proxy
+host-suffix, vyatka.ru, proxy
+host-suffix, xn--80acgfbsl1azdqr.xn--p1ai, proxy
+host-suffix, yaroslavl.ru, proxy
+host-suffix, yuzhno-sakhalinsk.ru, proxy
+host-suffix, chukotka.ru, proxy
+host-suffix, jamal.ru, proxy
+host-suffix, surgut.ru, proxy
+host-suffix, yamal.ru, proxy
+host-suffix, yanao.ru, proxy
+host-suffix, zdrav10.ru, proxy

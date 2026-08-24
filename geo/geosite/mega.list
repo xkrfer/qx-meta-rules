@@ -1,3 +1,3 @@
-host-suffix, mega.io
-host-suffix, mega.nz
-host-suffix, mega.co.nz
+host-suffix, mega.io, proxy
+host-suffix, mega.nz, proxy
+host-suffix, mega.co.nz, proxy

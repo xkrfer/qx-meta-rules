@@ -1,4 +1,4 @@
-host-suffix, nichost.ru
-host-suffix, nic.ru
-host-suffix, r01.ru
-host-suffix, sweb.ru
+host-suffix, nichost.ru, proxy
+host-suffix, nic.ru, proxy
+host-suffix, r01.ru, proxy
+host-suffix, sweb.ru, proxy

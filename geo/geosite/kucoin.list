@@ -1,2 +1,2 @@
-host-suffix, kucoin.com
-host-suffix, kucoin.plus
+host-suffix, kucoin.com, proxy
+host-suffix, kucoin.plus, proxy

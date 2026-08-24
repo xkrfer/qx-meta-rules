@@ -1,5 +1,5 @@
-ip-cidr, 152.114.248.0/21
-ip6-cidr, 2a14:c680:10::/44
-ip6-cidr, 2a14:c680:100::/40
-ip6-cidr, 2a14:c680:200::/39
-ip6-cidr, 2a14:c681::/32
+ip-cidr, 152.114.248.0/21, proxy, no-resolve
+ip6-cidr, 2a14:c680:10::/44, proxy, no-resolve
+ip6-cidr, 2a14:c680:100::/40, proxy, no-resolve
+ip6-cidr, 2a14:c680:200::/39, proxy, no-resolve
+ip6-cidr, 2a14:c681::/32, proxy, no-resolve

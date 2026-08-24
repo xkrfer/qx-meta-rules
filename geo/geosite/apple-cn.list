@@ -1,164 +1,164 @@
-host, a1.mzstatic.com
-host, a2.mzstatic.com
-host, a3.mzstatic.com
-host, a4.mzstatic.com
-host, a5.mzstatic.com
-host, adcdownload.apple.com.akadns.net
-host, adcdownload.apple.com
-host, amp-api-updates.apps.apple.com
-host, amp-api.media.apple.com
-host, app-site-association.cdn-apple.com
-host, appldnld.apple.com
-host, appldnld.g.aaplimg.com
-host, appleid.cdn-apple.com
-host, apps.apple.com
-host, apps.mzstatic.com
-host, bag-cdn.itunes-apple.com.akadns.net
-host, cdn-cn1.apple-mapkit.com
-host, cdn-cn2.apple-mapkit.com
-host, cdn-cn3.apple-mapkit.com
-host, cdn-cn4.apple-mapkit.com
-host, cdn.apple-mapkit.com
-host, cdn1.apple-mapkit.com
-host, cdn2.apple-mapkit.com
-host, cdn3.apple-mapkit.com
-host, cdn4.apple-mapkit.com
-host, cds-cdn.v.aaplimg.com
-host, cds.apple.com.akadns.net
-host, cds.apple.com
-host, cdsassets.apple.com
-host, certs.apple.com
-host, cl1-cdn.origin-apple.com.akadns.net
-host, cl1.apple.com
-host, cl2-cn.apple.com
-host, cl2.apple.com.edgekey.net.globalredir.akadns.net
-host, cl2.apple.com
-host, cl3-cdn.origin-apple.com.akadns.net
-host, cl3.apple.com
-host, cl4-cdn.origin-apple.com.akadns.net
-host, cl4-cn.apple.com
-host, cl4.apple.com
-host, cl5-cdn.origin-apple.com.akadns.net
-host, cl5.apple.com
-host, clientflow.apple.com.akadns.net
-host, clientflow.apple.com
-host, cn-smp-paymentservices.apple.com
-host, configuration.apple.com.akadns.net
-host, configuration.apple.com
-host, crl.apple.com
-host, cstat.apple.com
-host, cstat.cdn-apple.com
-host, dd-cdn.origin-apple.com.akadns.net
-host, dejavu.apple.com
-host, devimages-cdn.apple.com
-host, devstreaming-cdn.apple.com
-host, download.developer.apple.com
-host, experiments.apple.com
-host, gs-loc-cn.apple.com
-host, gs-loc.apple.com
-host, gsp10-ssl-cn.ls.apple.com
-host, gsp11-cn.ls.apple.com
-host, gsp12-cn.ls.apple.com
-host, gsp13-cn.ls.apple.com
-host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-host, gsp4-cn.ls.apple.com
-host, gsp5-cn.ls.apple.com
-host, gsp85-cn-ssl.ls.apple.com
-host, gspe19-2-cn-ssl.ls-apple.com.akadns.net
-host, gspe19-2-cn-ssl.ls.apple.com
-host, gspe19-cn-ssl.ls.apple.com
-host, gspe19-cn.ls-apple.com.akadns.net
-host, gspe19-cn.ls.apple.com
-host, gspe21-ssl.ls.apple.com
-host, gspe35-ssl.ls.apple.com
-host, gspe79-cn-ssl.ls.apple.com
-host, guzzoni-apple-com.v.aaplimg.com
-host, guzzoni.apple.com
-host, guzzoni.smoot.apple.com
-host, iadsdk.apple.com
-host, images.apple.com.edgekey.net.globalredir.akadns.net
-host, init-kt.apple.com
-host, init-p01md-lb.push-apple.com.akadns.net
-host, init-p01md.apple.com
-host, init-p01st-lb.push-apple.com.akadns.net
-host, init-p01st.push.apple.com
-host, init-s01st-lb.push-apple.com.akadns.net
-host, init-s01st.push.apple.com
-host, init.ess.apple.com
-host, iosapps.itunes.g.aaplimg.com
-host, ipcdn.apple.com
-host, iphone-ld.apple.com
-host, iphone-ld.origin-apple.com.akadns.net
-host, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-host, is1-ssl.mzstatic.com
-host, is1.mzstatic.com
-host, is2-ssl.mzstatic.com
-host, is2.mzstatic.com
-host, is3-ssl.mzstatic.com
-host, is3.mzstatic.com
-host, is4-ssl.mzstatic.com
-host, is4.mzstatic.com
-host, is5-ssl.mzstatic.com
-host, is5.mzstatic.com
-host, itunes-apple.com.akadns.net
-host, itunes.apple.com
-host, itunesconnect.apple.com
-host, mensura.cdn-apple.com
-host, mesu-cdn.apple.com.akadns.net
-host, mesu-china.apple.com.akadns.net
-host, mesu.apple.com
-host, ml.cdn-apple.com
-host, music.apple.com
-host, ocsp.apple.com
-host, ocsp2.apple.com
-host, oscdn.apple.com
-host, oscdn.origin-apple.com.akadns.net
-host, osxapps.itunes.g.aaplimg.com
-host, pancake.apple.com
-host, pba0.apple.com
-host, probe.siri.apple.com
-host, prod-support.apple-support.akadns.net
-host, publicassets.cdn-apple.com
-host, s.mzstatic.com
-host, seed-sequoia.siri.apple.com
-host, seed-swallow.siri.apple.com
-host, seed.siri.apple.com
-host, sequoia.apple.com
-host, sh-pod2-smp-device.apple.com
-host, shazam-insights.cdn-apple.com
-host, smp-device-content.apple.com
-host, static.gc.apple.com
-host, stocks-sparkline-lb.apple.com.akadns.net
-host, stocks-sparkline.apple.com
-host, store.apple.com.edgekey.net.globalredir.akadns.net
-host, store.apple.com.edgekey.net
-host, store.apple.com
-host, store.storeimages.apple.com.akadns.net
-host, store.storeimages.cdn-apple.com
-host, support-china.apple-support.akadns.net
-host, support.apple.com
-host, swallow-apple-com.v.aaplimg.com
-host, swallow.apple.com
-host, swcatalog-cdn.apple.com.akadns.net
-host, swcatalog.apple.com
-host, swcdn.apple.com
-host, swcdn.g.aaplimg.com
-host, swdist.apple.com.akadns.net
-host, swdist.apple.com
-host, swscan-cdn.apple.com.akadns.net
-host, swscan.apple.com
-host, sylvan.apple.com
-host, tj-pod1-smp-device.apple.com
-host, updates-http.cdn-apple.com.akadns.net
-host, updates-http.cdn-apple.com
-host, updates.cdn-apple.com
-host, valid.apple.com
-host, valid.origin-apple.com.akadns.net
-host, weather-data.apple.com.akadns.net
-host, weather-data.apple.com
-host, weather-map.apple.com
-host, weather-map2.apple.com
-host, weatherkit.apple.com
-host, www.apple.com.edgekey.net.globalredir.akadns.net
-host, www.apple.com
-host, xp.apple.com
+host, a1.mzstatic.com, proxy
+host, a2.mzstatic.com, proxy
+host, a3.mzstatic.com, proxy
+host, a4.mzstatic.com, proxy
+host, a5.mzstatic.com, proxy
+host, adcdownload.apple.com.akadns.net, proxy
+host, adcdownload.apple.com, proxy
+host, amp-api-updates.apps.apple.com, proxy
+host, amp-api.media.apple.com, proxy
+host, app-site-association.cdn-apple.com, proxy
+host, appldnld.apple.com, proxy
+host, appldnld.g.aaplimg.com, proxy
+host, appleid.cdn-apple.com, proxy
+host, apps.apple.com, proxy
+host, apps.mzstatic.com, proxy
+host, bag-cdn.itunes-apple.com.akadns.net, proxy
+host, cdn-cn1.apple-mapkit.com, proxy
+host, cdn-cn2.apple-mapkit.com, proxy
+host, cdn-cn3.apple-mapkit.com, proxy
+host, cdn-cn4.apple-mapkit.com, proxy
+host, cdn.apple-mapkit.com, proxy
+host, cdn1.apple-mapkit.com, proxy
+host, cdn2.apple-mapkit.com, proxy
+host, cdn3.apple-mapkit.com, proxy
+host, cdn4.apple-mapkit.com, proxy
+host, cds-cdn.v.aaplimg.com, proxy
+host, cds.apple.com.akadns.net, proxy
+host, cds.apple.com, proxy
+host, cdsassets.apple.com, proxy
+host, certs.apple.com, proxy
+host, cl1-cdn.origin-apple.com.akadns.net, proxy
+host, cl1.apple.com, proxy
+host, cl2-cn.apple.com, proxy
+host, cl2.apple.com.edgekey.net.globalredir.akadns.net, proxy
+host, cl2.apple.com, proxy
+host, cl3-cdn.origin-apple.com.akadns.net, proxy
+host, cl3.apple.com, proxy
+host, cl4-cdn.origin-apple.com.akadns.net, proxy
+host, cl4-cn.apple.com, proxy
+host, cl4.apple.com, proxy
+host, cl5-cdn.origin-apple.com.akadns.net, proxy
+host, cl5.apple.com, proxy
+host, clientflow.apple.com.akadns.net, proxy
+host, clientflow.apple.com, proxy
+host, cn-smp-paymentservices.apple.com, proxy
+host, configuration.apple.com.akadns.net, proxy
+host, configuration.apple.com, proxy
+host, crl.apple.com, proxy
+host, cstat.apple.com, proxy
+host, cstat.cdn-apple.com, proxy
+host, dd-cdn.origin-apple.com.akadns.net, proxy
+host, dejavu.apple.com, proxy
+host, devimages-cdn.apple.com, proxy
+host, devstreaming-cdn.apple.com, proxy
+host, download.developer.apple.com, proxy
+host, experiments.apple.com, proxy
+host, gs-loc-cn.apple.com, proxy
+host, gs-loc.apple.com, proxy
+host, gsp10-ssl-cn.ls.apple.com, proxy
+host, gsp11-cn.ls.apple.com, proxy
+host, gsp12-cn.ls.apple.com, proxy
+host, gsp13-cn.ls.apple.com, proxy
+host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, proxy
+host, gsp4-cn.ls.apple.com, proxy
+host, gsp5-cn.ls.apple.com, proxy
+host, gsp85-cn-ssl.ls.apple.com, proxy
+host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, proxy
+host, gspe19-2-cn-ssl.ls.apple.com, proxy
+host, gspe19-cn-ssl.ls.apple.com, proxy
+host, gspe19-cn.ls-apple.com.akadns.net, proxy
+host, gspe19-cn.ls.apple.com, proxy
+host, gspe21-ssl.ls.apple.com, proxy
+host, gspe35-ssl.ls.apple.com, proxy
+host, gspe79-cn-ssl.ls.apple.com, proxy
+host, guzzoni-apple-com.v.aaplimg.com, proxy
+host, guzzoni.apple.com, proxy
+host, guzzoni.smoot.apple.com, proxy
+host, iadsdk.apple.com, proxy
+host, images.apple.com.edgekey.net.globalredir.akadns.net, proxy
+host, init-kt.apple.com, proxy
+host, init-p01md-lb.push-apple.com.akadns.net, proxy
+host, init-p01md.apple.com, proxy
+host, init-p01st-lb.push-apple.com.akadns.net, proxy
+host, init-p01st.push.apple.com, proxy
+host, init-s01st-lb.push-apple.com.akadns.net, proxy
+host, init-s01st.push.apple.com, proxy
+host, init.ess.apple.com, proxy
+host, iosapps.itunes.g.aaplimg.com, proxy
+host, ipcdn.apple.com, proxy
+host, iphone-ld.apple.com, proxy
+host, iphone-ld.origin-apple.com.akadns.net, proxy
+host, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net, proxy
+host, is1-ssl.mzstatic.com, proxy
+host, is1.mzstatic.com, proxy
+host, is2-ssl.mzstatic.com, proxy
+host, is2.mzstatic.com, proxy
+host, is3-ssl.mzstatic.com, proxy
+host, is3.mzstatic.com, proxy
+host, is4-ssl.mzstatic.com, proxy
+host, is4.mzstatic.com, proxy
+host, is5-ssl.mzstatic.com, proxy
+host, is5.mzstatic.com, proxy
+host, itunes-apple.com.akadns.net, proxy
+host, itunes.apple.com, proxy
+host, itunesconnect.apple.com, proxy
+host, mensura.cdn-apple.com, proxy
+host, mesu-cdn.apple.com.akadns.net, proxy
+host, mesu-china.apple.com.akadns.net, proxy
+host, mesu.apple.com, proxy
+host, ml.cdn-apple.com, proxy
+host, music.apple.com, proxy
+host, ocsp.apple.com, proxy
+host, ocsp2.apple.com, proxy
+host, oscdn.apple.com, proxy
+host, oscdn.origin-apple.com.akadns.net, proxy
+host, osxapps.itunes.g.aaplimg.com, proxy
+host, pancake.apple.com, proxy
+host, pba0.apple.com, proxy
+host, probe.siri.apple.com, proxy
+host, prod-support.apple-support.akadns.net, proxy
+host, publicassets.cdn-apple.com, proxy
+host, s.mzstatic.com, proxy
+host, seed-sequoia.siri.apple.com, proxy
+host, seed-swallow.siri.apple.com, proxy
+host, seed.siri.apple.com, proxy
+host, sequoia.apple.com, proxy
+host, sh-pod2-smp-device.apple.com, proxy
+host, shazam-insights.cdn-apple.com, proxy
+host, smp-device-content.apple.com, proxy
+host, static.gc.apple.com, proxy
+host, stocks-sparkline-lb.apple.com.akadns.net, proxy
+host, stocks-sparkline.apple.com, proxy
+host, store.apple.com.edgekey.net.globalredir.akadns.net, proxy
+host, store.apple.com.edgekey.net, proxy
+host, store.apple.com, proxy
+host, store.storeimages.apple.com.akadns.net, proxy
+host, store.storeimages.cdn-apple.com, proxy
+host, support-china.apple-support.akadns.net, proxy
+host, support.apple.com, proxy
+host, swallow-apple-com.v.aaplimg.com, proxy
+host, swallow.apple.com, proxy
+host, swcatalog-cdn.apple.com.akadns.net, proxy
+host, swcatalog.apple.com, proxy
+host, swcdn.apple.com, proxy
+host, swcdn.g.aaplimg.com, proxy
+host, swdist.apple.com.akadns.net, proxy
+host, swdist.apple.com, proxy
+host, swscan-cdn.apple.com.akadns.net, proxy
+host, swscan.apple.com, proxy
+host, sylvan.apple.com, proxy
+host, tj-pod1-smp-device.apple.com, proxy
+host, updates-http.cdn-apple.com.akadns.net, proxy
+host, updates-http.cdn-apple.com, proxy
+host, updates.cdn-apple.com, proxy
+host, valid.apple.com, proxy
+host, valid.origin-apple.com.akadns.net, proxy
+host, weather-data.apple.com.akadns.net, proxy
+host, weather-data.apple.com, proxy
+host, weather-map.apple.com, proxy
+host, weather-map2.apple.com, proxy
+host, weatherkit.apple.com, proxy
+host, www.apple.com.edgekey.net.globalredir.akadns.net, proxy
+host, www.apple.com, proxy
+host, xp.apple.com, proxy

@@ -1,7 +1,7 @@
-host-suffix, famima.vn
-host-suffix, famifun.com.tw
-host-suffix, family.co.jp
-host-suffix, family.com.tw
-host-suffix, familymart.com.my
-host-suffix, familymart.com.ph
-host-suffix, familymart.com.cn
+host-suffix, famima.vn, proxy
+host-suffix, famifun.com.tw, proxy
+host-suffix, family.co.jp, proxy
+host-suffix, family.com.tw, proxy
+host-suffix, familymart.com.my, proxy
+host-suffix, familymart.com.ph, proxy
+host-suffix, familymart.com.cn, proxy

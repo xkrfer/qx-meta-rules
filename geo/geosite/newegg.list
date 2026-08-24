@@ -1,2 +1,2 @@
-host-suffix, newegg.com
-host-suffix, neweggimages.com
+host-suffix, newegg.com, proxy
+host-suffix, neweggimages.com, proxy

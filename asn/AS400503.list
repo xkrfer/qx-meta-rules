@@ -1,2 +1,2 @@
-ip-cidr, 23.133.56.0/23
-ip6-cidr, 2602:fbb4::/43
+ip-cidr, 23.133.56.0/23, proxy, no-resolve
+ip6-cidr, 2602:fbb4::/43, proxy, no-resolve

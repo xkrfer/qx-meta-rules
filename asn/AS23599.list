@@ -1,7 +1,7 @@
-ip-cidr, 1.18.123.0/24
-ip-cidr, 1.18.125.0/24
-ip-cidr, 1.18.126.0/24
-ip-cidr, 203.83.159.0/24
-ip6-cidr, 2001:dcc:4::/48
-ip6-cidr, 2001:dcc:401::/48
-ip6-cidr, 2001:dcc:403::/48
+ip-cidr, 1.18.123.0/24, proxy, no-resolve
+ip-cidr, 1.18.125.0/24, proxy, no-resolve
+ip-cidr, 1.18.126.0/24, proxy, no-resolve
+ip-cidr, 203.83.159.0/24, proxy, no-resolve
+ip6-cidr, 2001:dcc:4::/48, proxy, no-resolve
+ip6-cidr, 2001:dcc:401::/48, proxy, no-resolve
+ip6-cidr, 2001:dcc:403::/48, proxy, no-resolve

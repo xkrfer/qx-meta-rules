@@ -1,2 +1,2 @@
-ip-cidr, 103.117.38.0/24
-ip6-cidr, 2001:df1:acc0::/48
+ip-cidr, 103.117.38.0/24, proxy, no-resolve
+ip6-cidr, 2001:df1:acc0::/48, proxy, no-resolve

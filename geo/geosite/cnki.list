@@ -1,3 +1,3 @@
-host-suffix, cnki.net
-host-suffix, chndoi.org
-host-suffix, cnki.com.cn
+host-suffix, cnki.net, proxy
+host-suffix, chndoi.org, proxy
+host-suffix, cnki.com.cn, proxy

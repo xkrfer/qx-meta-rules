@@ -1,5 +1,5 @@
-ip-cidr, 38.191.210.0/23
-ip6-cidr, 2803:6550::/40
-ip6-cidr, 2803:6550:300::/40
-ip6-cidr, 2803:6550:500::/41
-ip6-cidr, 2803:6550:f80::/41
+ip-cidr, 38.191.210.0/23, proxy, no-resolve
+ip6-cidr, 2803:6550::/40, proxy, no-resolve
+ip6-cidr, 2803:6550:300::/40, proxy, no-resolve
+ip6-cidr, 2803:6550:500::/41, proxy, no-resolve
+ip6-cidr, 2803:6550:f80::/41, proxy, no-resolve

@@ -1,5 +1,5 @@
-host-suffix, hotstar.com
-host-suffix, hotstar-cdn.net
-host-suffix, hotstar-labs.com
-host-suffix, hotstarext.com
-host-suffix, hsprepack.akamaized.net
+host-suffix, hotstar.com, proxy
+host-suffix, hotstar-cdn.net, proxy
+host-suffix, hotstar-labs.com, proxy
+host-suffix, hotstarext.com, proxy
+host-suffix, hsprepack.akamaized.net, proxy

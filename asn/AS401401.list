@@ -1,1 +1,1 @@
-ip6-cidr, 2602:f7d8::/48
+ip6-cidr, 2602:f7d8::/48, proxy, no-resolve

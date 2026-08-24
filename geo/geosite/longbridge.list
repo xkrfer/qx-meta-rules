@@ -1,12 +1,12 @@
-host-suffix, longbridge.cloud
-host-suffix, longbridge.cn
-host-suffix, longbridge.com
-host-suffix, longbridge.global
-host-suffix, longbridge.hk
-host-suffix, longbridge.sg
-host-suffix, longbridgeapp.com
-host-suffix, longbridgehk.com
-host-suffix, longportapp.com
-host-suffix, lbctrl.com
-host-suffix, lbkrs.com
-host-suffix, wbrks.com
+host-suffix, longbridge.cloud, proxy
+host-suffix, longbridge.cn, proxy
+host-suffix, longbridge.com, proxy
+host-suffix, longbridge.global, proxy
+host-suffix, longbridge.hk, proxy
+host-suffix, longbridge.sg, proxy
+host-suffix, longbridgeapp.com, proxy
+host-suffix, longbridgehk.com, proxy
+host-suffix, longportapp.com, proxy
+host-suffix, lbctrl.com, proxy
+host-suffix, lbkrs.com, proxy
+host-suffix, wbrks.com, proxy

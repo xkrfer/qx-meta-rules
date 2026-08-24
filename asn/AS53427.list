@@ -1,4 +1,4 @@
-ip-cidr, 23.128.100.0/24
-ip-cidr, 38.246.87.0/24
-ip-cidr, 104.234.152.0/24
-ip6-cidr, 2602:fa91::/40
+ip-cidr, 23.128.100.0/24, proxy, no-resolve
+ip-cidr, 38.246.87.0/24, proxy, no-resolve
+ip-cidr, 104.234.152.0/24, proxy, no-resolve
+ip6-cidr, 2602:fa91::/40, proxy, no-resolve

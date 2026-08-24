@@ -1,1 +1,1 @@
-ip-cidr, 80.245.0.0/20
+ip-cidr, 80.245.0.0/20, proxy, no-resolve

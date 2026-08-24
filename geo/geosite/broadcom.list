@@ -1,105 +1,105 @@
-host, vmware.tt.omtrdc.net
-host-suffix, broadcom.com
-host-suffix, cfblob.com
-host-suffix, cloudchoose.com
-host-suffix, cloudvolumes.com
-host-suffix, cmpaas.com
-host-suffix, cpedge.com
-host-suffix, crit-staging.com
-host-suffix, experience-vmware.com
-host-suffix, gemfire.net
-host-suffix, geodesummit.com
-host-suffix, getboxer.com
-host-suffix, gitstar.com
-host-suffix, gitstar.net
-host-suffix, gopivotal.net
-host-suffix, greenplum.net
-host-suffix, hwslabs.com
-host-suffix, immidio.com
-host-suffix, itfromtheinside.com
-host-suffix, latamvmwareforum.com
-host-suffix, pivotalinitiative.com
-host-suffix, snapvolumes.com
-host-suffix, ssdevrd.com
-host-suffix, vcanedge.com
-host-suffix, vcloudair.net
-host-suffix, vfabric.net
-host-suffix, vidmpreview.com
-host-suffix, virsto.com
-host-suffix, virsto.net
-host-suffix, vmglobal.net
-host-suffix, vmmark.com
-host-suffix, vmtestdrive.com
-host-suffix, vmw.com
-host-suffix, vmware-cloudmanagement.com
-host-suffix, vmware-techcenter.com
-host-suffix, vmware.com
-host-suffix, vmware20mosaic.com
-host-suffix, vmwareausnews.com
-host-suffix, vmwarecertificationvideos.com
-host-suffix, vmwarecloud.com
-host-suffix, vmwaredemandcenter.com
-host-suffix, vmwareemeablog.com
-host-suffix, vmwaregrid.com
-host-suffix, vmwarehorizon.com
-host-suffix, vmwareidentity.com
-host-suffix, vmwarelearning.com
-host-suffix, vmwarelearningplatform.com
-host-suffix, vmwarestuff.com
-host-suffix, vmwareusergroupstore.com
-host-suffix, vmwareviewpoint.com
-host-suffix, vmwarevmc.com
-host-suffix, vmwdemo.com
-host-suffix, vmwgcomms.com
-host-suffix, vmwhorizonair.com
-host-suffix, vmwidm-ads.com
-host-suffix, vmwidm.com
-host-suffix, vmwlabconnect.com
-host-suffix, vmwlearningplatform.com
-host-suffix, vmworld.com
-host-suffix, vmworld2010.com
-host-suffix, vmworld2013.com
-host-suffix, vmwsalesrewards.com
-host-suffix, vmwservices.com
-host-suffix, vnware.net
-host-suffix, whychoosehorizon.com
-host-suffix, whychooseview.com
-host-suffix, whychoosevmwareeuc.com
-host-suffix, windowsuem.com
-host-suffix, workspaceair.com
-host-suffix, xlstudio.com
-host-suffix, avinetworks.com
-host-suffix, badaas.com
-host-suffix, bitnami.com
-host-suffix, bitnamiapp.com
-host-suffix, bitnamistudio.com
-host-suffix, dockerizer.com
-host-suffix, cloudcredibility.com
-host-suffix, cloudhealthtech.com
-host-suffix, cloudlive.com
-host-suffix, kubeacademy.com
-host-suffix, kubeapps.com
-host-suffix, nyansa.com
-host-suffix, velocloud.com
-host-suffix, gopivotal.com
-host-suffix, heptio.com
-host-suffix, aliveipc.com
-host-suffix, aliveitsm.com
-host-suffix, aliveprofiler.com
-host-suffix, alivercm.com
-host-suffix, aliverewind.com
-host-suffix, alivertsm.com
-host-suffix, alivevm.com
-host-suffix, alivevmax.com
-host-suffix, alivevue.com
-host-suffix, vsphere.com
-host-suffix, vsphere.net
-host-suffix, air-watch.com
-host-suffix, airwatchexpress.com
-host-suffix, airwatchqa.com
-host-suffix, getws1.com
-host-suffix, getwsone.com
-host-suffix, whatisairwatch.com
-host-suffix, whatisworkspaceone.com
-host-suffix, workspaceone.com
-host-suffix, heptio.cn
+host, vmware.tt.omtrdc.net, proxy
+host-suffix, broadcom.com, proxy
+host-suffix, cfblob.com, proxy
+host-suffix, cloudchoose.com, proxy
+host-suffix, cloudvolumes.com, proxy
+host-suffix, cmpaas.com, proxy
+host-suffix, cpedge.com, proxy
+host-suffix, crit-staging.com, proxy
+host-suffix, experience-vmware.com, proxy
+host-suffix, gemfire.net, proxy
+host-suffix, geodesummit.com, proxy
+host-suffix, getboxer.com, proxy
+host-suffix, gitstar.com, proxy
+host-suffix, gitstar.net, proxy
+host-suffix, gopivotal.net, proxy
+host-suffix, greenplum.net, proxy
+host-suffix, hwslabs.com, proxy
+host-suffix, immidio.com, proxy
+host-suffix, itfromtheinside.com, proxy
+host-suffix, latamvmwareforum.com, proxy
+host-suffix, pivotalinitiative.com, proxy
+host-suffix, snapvolumes.com, proxy
+host-suffix, ssdevrd.com, proxy
+host-suffix, vcanedge.com, proxy
+host-suffix, vcloudair.net, proxy
+host-suffix, vfabric.net, proxy
+host-suffix, vidmpreview.com, proxy
+host-suffix, virsto.com, proxy
+host-suffix, virsto.net, proxy
+host-suffix, vmglobal.net, proxy
+host-suffix, vmmark.com, proxy
+host-suffix, vmtestdrive.com, proxy
+host-suffix, vmw.com, proxy
+host-suffix, vmware-cloudmanagement.com, proxy
+host-suffix, vmware-techcenter.com, proxy
+host-suffix, vmware.com, proxy
+host-suffix, vmware20mosaic.com, proxy
+host-suffix, vmwareausnews.com, proxy
+host-suffix, vmwarecertificationvideos.com, proxy
+host-suffix, vmwarecloud.com, proxy
+host-suffix, vmwaredemandcenter.com, proxy
+host-suffix, vmwareemeablog.com, proxy
+host-suffix, vmwaregrid.com, proxy
+host-suffix, vmwarehorizon.com, proxy
+host-suffix, vmwareidentity.com, proxy
+host-suffix, vmwarelearning.com, proxy
+host-suffix, vmwarelearningplatform.com, proxy
+host-suffix, vmwarestuff.com, proxy
+host-suffix, vmwareusergroupstore.com, proxy
+host-suffix, vmwareviewpoint.com, proxy
+host-suffix, vmwarevmc.com, proxy
+host-suffix, vmwdemo.com, proxy
+host-suffix, vmwgcomms.com, proxy
+host-suffix, vmwhorizonair.com, proxy
+host-suffix, vmwidm-ads.com, proxy
+host-suffix, vmwidm.com, proxy
+host-suffix, vmwlabconnect.com, proxy
+host-suffix, vmwlearningplatform.com, proxy
+host-suffix, vmworld.com, proxy
+host-suffix, vmworld2010.com, proxy
+host-suffix, vmworld2013.com, proxy
+host-suffix, vmwsalesrewards.com, proxy
+host-suffix, vmwservices.com, proxy
+host-suffix, vnware.net, proxy
+host-suffix, whychoosehorizon.com, proxy
+host-suffix, whychooseview.com, proxy
+host-suffix, whychoosevmwareeuc.com, proxy
+host-suffix, windowsuem.com, proxy
+host-suffix, workspaceair.com, proxy
+host-suffix, xlstudio.com, proxy
+host-suffix, avinetworks.com, proxy
+host-suffix, badaas.com, proxy
+host-suffix, bitnami.com, proxy
+host-suffix, bitnamiapp.com, proxy
+host-suffix, bitnamistudio.com, proxy
+host-suffix, dockerizer.com, proxy
+host-suffix, cloudcredibility.com, proxy
+host-suffix, cloudhealthtech.com, proxy
+host-suffix, cloudlive.com, proxy
+host-suffix, kubeacademy.com, proxy
+host-suffix, kubeapps.com, proxy
+host-suffix, nyansa.com, proxy
+host-suffix, velocloud.com, proxy
+host-suffix, gopivotal.com, proxy
+host-suffix, heptio.com, proxy
+host-suffix, aliveipc.com, proxy
+host-suffix, aliveitsm.com, proxy
+host-suffix, aliveprofiler.com, proxy
+host-suffix, alivercm.com, proxy
+host-suffix, aliverewind.com, proxy
+host-suffix, alivertsm.com, proxy
+host-suffix, alivevm.com, proxy
+host-suffix, alivevmax.com, proxy
+host-suffix, alivevue.com, proxy
+host-suffix, vsphere.com, proxy
+host-suffix, vsphere.net, proxy
+host-suffix, air-watch.com, proxy
+host-suffix, airwatchexpress.com, proxy
+host-suffix, airwatchqa.com, proxy
+host-suffix, getws1.com, proxy
+host-suffix, getwsone.com, proxy
+host-suffix, whatisairwatch.com, proxy
+host-suffix, whatisworkspaceone.com, proxy
+host-suffix, workspaceone.com, proxy
+host-suffix, heptio.cn, proxy

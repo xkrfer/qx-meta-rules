@@ -1,5 +1,5 @@
-host-suffix, clarivate.com
-host-suffix, webofknowledge.com
-host-suffix, webofscience.com
-host-suffix, newisiknowledge.com
-host-suffix, isiknowledge.com
+host-suffix, clarivate.com, proxy
+host-suffix, webofknowledge.com, proxy
+host-suffix, webofscience.com, proxy
+host-suffix, newisiknowledge.com, proxy
+host-suffix, isiknowledge.com, proxy

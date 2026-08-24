@@ -1,26 +1,26 @@
-ip-cidr, 23.183.240.0/21
-ip-cidr, 104.152.140.0/24
-ip-cidr, 172.111.34.0/24
-ip-cidr, 205.220.224.0/24
-ip-cidr, 205.220.228.0/24
-ip-cidr, 205.220.230.0/23
-ip-cidr, 209.237.140.0/24
-ip6-cidr, 2600:3500::/37
-ip6-cidr, 2600:3500:800::/38
-ip6-cidr, 2600:3500:c00::/43
-ip6-cidr, 2600:3500:c22::/48
-ip6-cidr, 2600:3500:c24::/46
-ip6-cidr, 2600:3500:c28::/45
-ip6-cidr, 2600:3500:c30::/44
-ip6-cidr, 2600:3500:c40::/42
-ip6-cidr, 2600:3500:c80::/41
-ip6-cidr, 2600:3500:d00::/40
-ip6-cidr, 2600:3500:e00::/39
-ip6-cidr, 2600:3500:1000::/36
-ip6-cidr, 2600:3500:2000::/35
-ip6-cidr, 2600:3500:4000::/34
-ip6-cidr, 2600:3500:8000::/33
-ip6-cidr, 2600:3501::/32
-ip6-cidr, 2600:3502::/31
-ip6-cidr, 2600:3504::/30
-ip6-cidr, 2600:3508::/29
+ip-cidr, 23.183.240.0/21, proxy, no-resolve
+ip-cidr, 104.152.140.0/24, proxy, no-resolve
+ip-cidr, 172.111.34.0/24, proxy, no-resolve
+ip-cidr, 205.220.224.0/24, proxy, no-resolve
+ip-cidr, 205.220.228.0/24, proxy, no-resolve
+ip-cidr, 205.220.230.0/23, proxy, no-resolve
+ip-cidr, 209.237.140.0/24, proxy, no-resolve
+ip6-cidr, 2600:3500::/37, proxy, no-resolve
+ip6-cidr, 2600:3500:800::/38, proxy, no-resolve
+ip6-cidr, 2600:3500:c00::/43, proxy, no-resolve
+ip6-cidr, 2600:3500:c22::/48, proxy, no-resolve
+ip6-cidr, 2600:3500:c24::/46, proxy, no-resolve
+ip6-cidr, 2600:3500:c28::/45, proxy, no-resolve
+ip6-cidr, 2600:3500:c30::/44, proxy, no-resolve
+ip6-cidr, 2600:3500:c40::/42, proxy, no-resolve
+ip6-cidr, 2600:3500:c80::/41, proxy, no-resolve
+ip6-cidr, 2600:3500:d00::/40, proxy, no-resolve
+ip6-cidr, 2600:3500:e00::/39, proxy, no-resolve
+ip6-cidr, 2600:3500:1000::/36, proxy, no-resolve
+ip6-cidr, 2600:3500:2000::/35, proxy, no-resolve
+ip6-cidr, 2600:3500:4000::/34, proxy, no-resolve
+ip6-cidr, 2600:3500:8000::/33, proxy, no-resolve
+ip6-cidr, 2600:3501::/32, proxy, no-resolve
+ip6-cidr, 2600:3502::/31, proxy, no-resolve
+ip6-cidr, 2600:3504::/30, proxy, no-resolve
+ip6-cidr, 2600:3508::/29, proxy, no-resolve

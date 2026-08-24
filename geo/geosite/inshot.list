@@ -1,3 +1,3 @@
-host-suffix, inshot.cc
-host-suffix, inshot.com
-host-suffix, inshotapp.com
+host-suffix, inshot.cc, proxy
+host-suffix, inshot.com, proxy
+host-suffix, inshotapp.com, proxy

@@ -1,63 +1,63 @@
-host, nvidia.custhelp.com
-host, nvidia.tt.omtrdc.net
-host-suffix, nvidia.nl
-host-suffix, nvidiagrid.net
-host-suffix, geforce.com
-host-suffix, tegrazone.kr
-host-suffix, tegrazone.jp
-host-suffix, gputechconf.com
-host-suffix, tegrazone.com
-host-suffix, tegrazone.co
-host-suffix, gputechconf.eu
-host-suffix, gputechconf.in
-host-suffix, gputechconf.jp
-host-suffix, nvidia.asia
-host-suffix, nvidia.at
-host-suffix, nvidia.be
-host-suffix, nvidia.ch
-host-suffix, nvidia.cz
-host-suffix, shotwithgeforce.com
-host-suffix, nvidia.fr
-host-suffix, nvidiaforhp.com
-host-suffix, nvidia.tw
-host-suffix, nvidia.com
-host-suffix, nvidia.se
-host-suffix, nvidia.ru
-host-suffix, nvidia.ro
-host-suffix, nvidia.pl
-host-suffix, nvidia.no
-host-suffix, nvidia.mx
-host-suffix, nvidia.lu
-host-suffix, nvidia.jp
-host-suffix, nvidia.in
-host-suffix, nvidia.it
-host-suffix, nvidia.de
-host-suffix, nvidia.dk
-host-suffix, nvidia.es
-host-suffix, nvidia.eu
-host-suffix, nvidia.fi
-host-suffix, nvidia.co.at
-host-suffix, nvidia.com.ve
-host-suffix, nvidia.com.ua
-host-suffix, geforce.co.uk
-host-suffix, nvidia.com.tw
-host-suffix, nvidia.com.tr
-host-suffix, geforce.co.kr
-host-suffix, nvidia.com.pl
-host-suffix, nvidia.com.pe
-host-suffix, nvidia.com.mx
-host-suffix, nvidia.com.br
-host-suffix, nvidia.com.au
-host-suffix, nvidia.co.uk
-host-suffix, nvidia.co.kr
-host-suffix, nvidia.co.jp
-host-suffix, nvidia.co.in
-host-suffix, gputechconf.com.tw
-host-suffix, tegrazone.co.kr
-host-suffix, gputechconf.com.au
-host-suffix, gputechconf.co.kr
-host-suffix, geforce.com.tw
-host-suffix, geforce.cn
-host-suffix, gputechconf.cn
-host-suffix, nvidia.cn
-host, cn.download.nvidia.com
+host, nvidia.custhelp.com, proxy
+host, nvidia.tt.omtrdc.net, proxy
+host-suffix, nvidia.nl, proxy
+host-suffix, nvidiagrid.net, proxy
+host-suffix, geforce.com, proxy
+host-suffix, tegrazone.kr, proxy
+host-suffix, tegrazone.jp, proxy
+host-suffix, gputechconf.com, proxy
+host-suffix, tegrazone.com, proxy
+host-suffix, tegrazone.co, proxy
+host-suffix, gputechconf.eu, proxy
+host-suffix, gputechconf.in, proxy
+host-suffix, gputechconf.jp, proxy
+host-suffix, nvidia.asia, proxy
+host-suffix, nvidia.at, proxy
+host-suffix, nvidia.be, proxy
+host-suffix, nvidia.ch, proxy
+host-suffix, nvidia.cz, proxy
+host-suffix, shotwithgeforce.com, proxy
+host-suffix, nvidia.fr, proxy
+host-suffix, nvidiaforhp.com, proxy
+host-suffix, nvidia.tw, proxy
+host-suffix, nvidia.com, proxy
+host-suffix, nvidia.se, proxy
+host-suffix, nvidia.ru, proxy
+host-suffix, nvidia.ro, proxy
+host-suffix, nvidia.pl, proxy
+host-suffix, nvidia.no, proxy
+host-suffix, nvidia.mx, proxy
+host-suffix, nvidia.lu, proxy
+host-suffix, nvidia.jp, proxy
+host-suffix, nvidia.in, proxy
+host-suffix, nvidia.it, proxy
+host-suffix, nvidia.de, proxy
+host-suffix, nvidia.dk, proxy
+host-suffix, nvidia.es, proxy
+host-suffix, nvidia.eu, proxy
+host-suffix, nvidia.fi, proxy
+host-suffix, nvidia.co.at, proxy
+host-suffix, nvidia.com.ve, proxy
+host-suffix, nvidia.com.ua, proxy
+host-suffix, geforce.co.uk, proxy
+host-suffix, nvidia.com.tw, proxy
+host-suffix, nvidia.com.tr, proxy
+host-suffix, geforce.co.kr, proxy
+host-suffix, nvidia.com.pl, proxy
+host-suffix, nvidia.com.pe, proxy
+host-suffix, nvidia.com.mx, proxy
+host-suffix, nvidia.com.br, proxy
+host-suffix, nvidia.com.au, proxy
+host-suffix, nvidia.co.uk, proxy
+host-suffix, nvidia.co.kr, proxy
+host-suffix, nvidia.co.jp, proxy
+host-suffix, nvidia.co.in, proxy
+host-suffix, gputechconf.com.tw, proxy
+host-suffix, tegrazone.co.kr, proxy
+host-suffix, gputechconf.com.au, proxy
+host-suffix, gputechconf.co.kr, proxy
+host-suffix, geforce.com.tw, proxy
+host-suffix, geforce.cn, proxy
+host-suffix, gputechconf.cn, proxy
+host-suffix, nvidia.cn, proxy
+host, cn.download.nvidia.com, proxy

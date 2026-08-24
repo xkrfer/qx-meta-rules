@@ -1,131 +1,131 @@
-host-suffix, ovdinfo.legal
-host-suffix, 24.kg
-host-suffix, agents.media
-host-suffix, arbatmedia.kz
-host-suffix, ozodi.org
-host-suffix, astra.press
-host-suffix, azathabar.com
-host-suffix, azattyq.org
-host-suffix, bellingcat.com
-host-suffix, berlin-visual.com
-host-suffix, bihus.info
-host-suffix, blackseanews.net
-host-suffix, cherta.media
-host-suffix, chronicles.media
-host-suffix, colta.ru
-host-suffix, currenttime.tv
-host-suffix, cyxymu.info
-host-suffix, discours.io
-host-suffix, dovod.online
-host-suffix, doxa.team
-host-suffix, echofm.online
-host-suffix, ej.ru
-host-suffix, ekhokavkaza.com
-host-suffix, euronews.com
-host-suffix, euroradio.fm
-host-suffix, fn-volga.ru
-host-suffix, paperpaper.ru
-host-suffix, fortanga.org
-host-suffix, freeburyatia.org
-host-suffix, freemedia.io
-host-suffix, germania.one
-host-suffix, golosameriki.com
-host-suffix, grani.ru
-host-suffix, graniru.org
-host-suffix, groza.media
-host-suffix, holod.media
-host-suffix, hromadske.ua
-host-suffix, idelreal.org
-host-suffix, istories.media
-host-suffix, itsmycity.ru
-host-suffix, zona.media
-host-suffix, kasparov.ru
-host-suffix, kavkaz-uzel.eu
-host-suffix, kavkazr.com
-host-suffix, kedr.media
-host-suffix, korrespondent.net
-host-suffix, kovcheg.live
-host-suffix, krymr.com
-host-suffix, locals.md
-host-suffix, zerkalo.io
-host-suffix, zasekin.ru
-host-suffix, zahav.ru
-host-suffix, mediazona.ca
-host-suffix, meduza.io
-host-suffix, metla.press
-host-suffix, mignews.com
-host-suffix, newizv.ru
-host-suffix, newtimes.ru
-host-suffix, novaya.media
-host-suffix, novayagazeta.eu
-host-suffix, novayagazeta.ru
-host-suffix, openmedia.io
-host-suffix, opposition-news.com
-host-suffix, ovd.info
-host-suffix, arsvest.ru
-host-suffix, activatica.org
-host-suffix, fonge.org
-host-suffix, poligon.media
-host-suffix, polit.ru
-host-suffix, wonderzine.com
-host-suffix, pravda.com
-host-suffix, votvot.tv
-host-suffix, proekt.media
-host-suffix, prosleduet.media
-host-suffix, provereno.media
-host-suffix, vot-tak.tv
-host-suffix, radiosakharov.org
-host-suffix, rbc.ua
-host-suffix, realist.online
-host-suffix, republic.ru
-host-suffix, rferl.org
-host-suffix, roar-review.com
-host-suffix, rucriminal.info
-host-suffix, voanews.com
-host-suffix, vesma.today
-host-suffix, sakhalin.info
-host-suffix, semnasem.org
-host-suffix, severreal.org
-host-suffix, sibreal.org
-host-suffix, skat.media
-host-suffix, slavicsac.com
-host-suffix, snob.ru
-host-suffix, sobes.press
-host-suffix, sobesednik.com
-host-suffix, sobesednik.ru
-host-suffix, sobytiya.info
-host-suffix, sota.vision
-host-suffix, sotaproject.com
-host-suffix, spektr.press
-host-suffix, strana.news
-host-suffix, strana.today
-host-suffix, suspilne.media
-host-suffix, svoboda.org
-host-suffix, svtv-static.net
-host-suffix, svtv.org
-host-suffix, t-invariant.org
-host-suffix, tayga.info
-host-suffix, telegraf.news
-host-suffix, the-village.ru
-host-suffix, thebarentsobserver.com
-host-suffix, thebell.io
-host-suffix, theins.ru
-host-suffix, themoscowtimes.com
-host-suffix, thenewtab.io
-host-suffix, trv-science.ru
-host-suffix, tvrain.ru
-host-suffix, tvrain.tv
-host-suffix, unian.net
-host-suffix, unian.ua
-host-suffix, usa.one
-host-suffix, verstka.media
-host-suffix, rus.jauns.lv
-host-suffix, vesty.co.il
-host-suffix, rus.delfi.lv
-host-suffix, r4.err.ee
-host-suffix, pravda.com.ua
-host-suffix, portal.lviv.ua
-host-suffix, mbk-news.appspot.com
-host-suffix, interfax.com.ua
-host-suffix, cursorinfo.co.il
-host-suffix, 9tv.co.il
+host-suffix, ovdinfo.legal, proxy
+host-suffix, 24.kg, proxy
+host-suffix, agents.media, proxy
+host-suffix, arbatmedia.kz, proxy
+host-suffix, ozodi.org, proxy
+host-suffix, astra.press, proxy
+host-suffix, azathabar.com, proxy
+host-suffix, azattyq.org, proxy
+host-suffix, bellingcat.com, proxy
+host-suffix, berlin-visual.com, proxy
+host-suffix, bihus.info, proxy
+host-suffix, blackseanews.net, proxy
+host-suffix, cherta.media, proxy
+host-suffix, chronicles.media, proxy
+host-suffix, colta.ru, proxy
+host-suffix, currenttime.tv, proxy
+host-suffix, cyxymu.info, proxy
+host-suffix, discours.io, proxy
+host-suffix, dovod.online, proxy
+host-suffix, doxa.team, proxy
+host-suffix, echofm.online, proxy
+host-suffix, ej.ru, proxy
+host-suffix, ekhokavkaza.com, proxy
+host-suffix, euronews.com, proxy
+host-suffix, euroradio.fm, proxy
+host-suffix, fn-volga.ru, proxy
+host-suffix, paperpaper.ru, proxy
+host-suffix, fortanga.org, proxy
+host-suffix, freeburyatia.org, proxy
+host-suffix, freemedia.io, proxy
+host-suffix, germania.one, proxy
+host-suffix, golosameriki.com, proxy
+host-suffix, grani.ru, proxy
+host-suffix, graniru.org, proxy
+host-suffix, groza.media, proxy
+host-suffix, holod.media, proxy
+host-suffix, hromadske.ua, proxy
+host-suffix, idelreal.org, proxy
+host-suffix, istories.media, proxy
+host-suffix, itsmycity.ru, proxy
+host-suffix, zona.media, proxy
+host-suffix, kasparov.ru, proxy
+host-suffix, kavkaz-uzel.eu, proxy
+host-suffix, kavkazr.com, proxy
+host-suffix, kedr.media, proxy
+host-suffix, korrespondent.net, proxy
+host-suffix, kovcheg.live, proxy
+host-suffix, krymr.com, proxy
+host-suffix, locals.md, proxy
+host-suffix, zerkalo.io, proxy
+host-suffix, zasekin.ru, proxy
+host-suffix, zahav.ru, proxy
+host-suffix, mediazona.ca, proxy
+host-suffix, meduza.io, proxy
+host-suffix, metla.press, proxy
+host-suffix, mignews.com, proxy
+host-suffix, newizv.ru, proxy
+host-suffix, newtimes.ru, proxy
+host-suffix, novaya.media, proxy
+host-suffix, novayagazeta.eu, proxy
+host-suffix, novayagazeta.ru, proxy
+host-suffix, openmedia.io, proxy
+host-suffix, opposition-news.com, proxy
+host-suffix, ovd.info, proxy
+host-suffix, arsvest.ru, proxy
+host-suffix, activatica.org, proxy
+host-suffix, fonge.org, proxy
+host-suffix, poligon.media, proxy
+host-suffix, polit.ru, proxy
+host-suffix, wonderzine.com, proxy
+host-suffix, pravda.com, proxy
+host-suffix, votvot.tv, proxy
+host-suffix, proekt.media, proxy
+host-suffix, prosleduet.media, proxy
+host-suffix, provereno.media, proxy
+host-suffix, vot-tak.tv, proxy
+host-suffix, radiosakharov.org, proxy
+host-suffix, rbc.ua, proxy
+host-suffix, realist.online, proxy
+host-suffix, republic.ru, proxy
+host-suffix, rferl.org, proxy
+host-suffix, roar-review.com, proxy
+host-suffix, rucriminal.info, proxy
+host-suffix, voanews.com, proxy
+host-suffix, vesma.today, proxy
+host-suffix, sakhalin.info, proxy
+host-suffix, semnasem.org, proxy
+host-suffix, severreal.org, proxy
+host-suffix, sibreal.org, proxy
+host-suffix, skat.media, proxy
+host-suffix, slavicsac.com, proxy
+host-suffix, snob.ru, proxy
+host-suffix, sobes.press, proxy
+host-suffix, sobesednik.com, proxy
+host-suffix, sobesednik.ru, proxy
+host-suffix, sobytiya.info, proxy
+host-suffix, sota.vision, proxy
+host-suffix, sotaproject.com, proxy
+host-suffix, spektr.press, proxy
+host-suffix, strana.news, proxy
+host-suffix, strana.today, proxy
+host-suffix, suspilne.media, proxy
+host-suffix, svoboda.org, proxy
+host-suffix, svtv-static.net, proxy
+host-suffix, svtv.org, proxy
+host-suffix, t-invariant.org, proxy
+host-suffix, tayga.info, proxy
+host-suffix, telegraf.news, proxy
+host-suffix, the-village.ru, proxy
+host-suffix, thebarentsobserver.com, proxy
+host-suffix, thebell.io, proxy
+host-suffix, theins.ru, proxy
+host-suffix, themoscowtimes.com, proxy
+host-suffix, thenewtab.io, proxy
+host-suffix, trv-science.ru, proxy
+host-suffix, tvrain.ru, proxy
+host-suffix, tvrain.tv, proxy
+host-suffix, unian.net, proxy
+host-suffix, unian.ua, proxy
+host-suffix, usa.one, proxy
+host-suffix, verstka.media, proxy
+host-suffix, rus.jauns.lv, proxy
+host-suffix, vesty.co.il, proxy
+host-suffix, rus.delfi.lv, proxy
+host-suffix, r4.err.ee, proxy
+host-suffix, pravda.com.ua, proxy
+host-suffix, portal.lviv.ua, proxy
+host-suffix, mbk-news.appspot.com, proxy
+host-suffix, interfax.com.ua, proxy
+host-suffix, cursorinfo.co.il, proxy
+host-suffix, 9tv.co.il, proxy

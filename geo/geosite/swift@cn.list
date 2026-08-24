@@ -1,2 +1,2 @@
-host-suffix, swiftui.cn
-host-suffix, swiftui.com.cn
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

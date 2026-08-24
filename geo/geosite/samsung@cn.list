@@ -1,4 +1,4 @@
-host-suffix, samsung.com.cn
-host-suffix, samsungcloudcn.com
-host-suffix, samsungeshop.com.cn
-host-suffix, samsunghealthcn.com
+host-suffix, samsung.com.cn, proxy
+host-suffix, samsungcloudcn.com, proxy
+host-suffix, samsungeshop.com.cn, proxy
+host-suffix, samsunghealthcn.com, proxy

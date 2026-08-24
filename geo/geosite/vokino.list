@@ -1,22 +1,22 @@
-host-suffix, vokino.org
-host-suffix, vokino.pro
-host-suffix, vokino.tv
-host-suffix, 85b6b2.ws
-host-suffix, ashdi.vip
-host-suffix, cdn2cdn.com
-host-suffix, cdn2site.com
-host-suffix, cdnsqu.com
-host-suffix, cdntogo.net
-host-suffix, digital-cdn.net
-host-suffix, fotpro135alto.com
-host-suffix, interkh.com
-host-suffix, loadbox.ws
-host-suffix, showvid.ws
-host-suffix, rstprgapipt.com
-host-suffix, rtbcdn.cloud
-host-suffix, srvkp.com
-host-suffix, stream-balancer-allo-1.live
-host-suffix, stream-balancer-allo-1.site
-host-suffix, videobase.biz
-host-suffix, vkvideo.cloud
-host-suffix, werkecdn.me
+host-suffix, vokino.org, proxy
+host-suffix, vokino.pro, proxy
+host-suffix, vokino.tv, proxy
+host-suffix, 85b6b2.ws, proxy
+host-suffix, ashdi.vip, proxy
+host-suffix, cdn2cdn.com, proxy
+host-suffix, cdn2site.com, proxy
+host-suffix, cdnsqu.com, proxy
+host-suffix, cdntogo.net, proxy
+host-suffix, digital-cdn.net, proxy
+host-suffix, fotpro135alto.com, proxy
+host-suffix, interkh.com, proxy
+host-suffix, loadbox.ws, proxy
+host-suffix, showvid.ws, proxy
+host-suffix, rstprgapipt.com, proxy
+host-suffix, rtbcdn.cloud, proxy
+host-suffix, srvkp.com, proxy
+host-suffix, stream-balancer-allo-1.live, proxy
+host-suffix, stream-balancer-allo-1.site, proxy
+host-suffix, videobase.biz, proxy
+host-suffix, vkvideo.cloud, proxy
+host-suffix, werkecdn.me, proxy

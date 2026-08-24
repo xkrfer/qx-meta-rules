@@ -1,4 +1,4 @@
-ip-cidr, 44.32.69.0/24
-ip6-cidr, 2406:840:feed::/48
-ip6-cidr, 2a0e:aa06:400::/44
-ip6-cidr, 2a13:1802::/43
+ip-cidr, 44.32.69.0/24, proxy, no-resolve
+ip6-cidr, 2406:840:feed::/48, proxy, no-resolve
+ip6-cidr, 2a0e:aa06:400::/44, proxy, no-resolve
+ip6-cidr, 2a13:1802::/43, proxy, no-resolve

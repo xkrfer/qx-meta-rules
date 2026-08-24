@@ -1,47 +1,47 @@
-host, p3-novel.byteimg.com
-host, p6-novel.byteimg.com
-host-suffix, activity-zhendingtech.com
-host-suffix, changdunovel.com
-host-suffix, fanqiecopyright.com
-host-suffix, fanqienovel.com
-host-suffix, fanqieopen.com
-host-suffix, fanqieopenpic.com
-host-suffix, fanqieopenstatic.com
-host-suffix, fanqieopenvod.com
-host-suffix, fanqiesdk.com
-host-suffix, fanqiesdkpic.com
-host-suffix, fanqiesdkstatic.com
-host-suffix, fanqiesdkvod.com
-host-suffix, fqnovel-op.com
-host-suffix, fqnovel.com
-host-suffix, fqnovelim.com
-host-suffix, fqnovelop.com
-host-suffix, fqnovelpic.com
-host-suffix, fqnovelstatic.com
-host-suffix, fqnovelvod.com
-host-suffix, fqopenplatform.com
-host-suffix, ihaohaoxuexi.com
-host-suffix, muyewx.com
-host-suffix, novelfm.com
-host-suffix, novelfmpic.com
-host-suffix, novelfmstatic.com
-host-suffix, novelfmvod.com
-host-suffix, qznovel.com
-host-suffix, qznovelpic.com
-host-suffix, qznovelstatic.com
-host-suffix, qznovelvod.com
-host, ads3-normal-hl.zijieapi.com
-host, ads3-normal.zijieapi.com
-host, ads5-normal-hl.zijieapi.com
-host, ads5-normal.zijieapi.com
-host, log3-applog-hl.fqnovel.com
-host, log3-applog.fqnovel.com
-host, log5-applog-hl.fqnovel.com
-host, log5-applog.fqnovel.com
-host, p3-ad-sign.byteimg.com
-host, p6-ad-sign.byteimg.com
-host, p9-ad-sign.byteimg.com
-host, rtlog3-applog-hl.fqnovel.com
-host, rtlog3-applog.fqnovel.com
-host, rtlog5-applog-hl.fqnovel.com
-host, rtlog5-applog.fqnovel.com
+host, p3-novel.byteimg.com, proxy
+host, p6-novel.byteimg.com, proxy
+host-suffix, activity-zhendingtech.com, proxy
+host-suffix, changdunovel.com, proxy
+host-suffix, fanqiecopyright.com, proxy
+host-suffix, fanqienovel.com, proxy
+host-suffix, fanqieopen.com, proxy
+host-suffix, fanqieopenpic.com, proxy
+host-suffix, fanqieopenstatic.com, proxy
+host-suffix, fanqieopenvod.com, proxy
+host-suffix, fanqiesdk.com, proxy
+host-suffix, fanqiesdkpic.com, proxy
+host-suffix, fanqiesdkstatic.com, proxy
+host-suffix, fanqiesdkvod.com, proxy
+host-suffix, fqnovel-op.com, proxy
+host-suffix, fqnovel.com, proxy
+host-suffix, fqnovelim.com, proxy
+host-suffix, fqnovelop.com, proxy
+host-suffix, fqnovelpic.com, proxy
+host-suffix, fqnovelstatic.com, proxy
+host-suffix, fqnovelvod.com, proxy
+host-suffix, fqopenplatform.com, proxy
+host-suffix, ihaohaoxuexi.com, proxy
+host-suffix, muyewx.com, proxy
+host-suffix, novelfm.com, proxy
+host-suffix, novelfmpic.com, proxy
+host-suffix, novelfmstatic.com, proxy
+host-suffix, novelfmvod.com, proxy
+host-suffix, qznovel.com, proxy
+host-suffix, qznovelpic.com, proxy
+host-suffix, qznovelstatic.com, proxy
+host-suffix, qznovelvod.com, proxy
+host, ads3-normal-hl.zijieapi.com, proxy
+host, ads3-normal.zijieapi.com, proxy
+host, ads5-normal-hl.zijieapi.com, proxy
+host, ads5-normal.zijieapi.com, proxy
+host, log3-applog-hl.fqnovel.com, proxy
+host, log3-applog.fqnovel.com, proxy
+host, log5-applog-hl.fqnovel.com, proxy
+host, log5-applog.fqnovel.com, proxy
+host, p3-ad-sign.byteimg.com, proxy
+host, p6-ad-sign.byteimg.com, proxy
+host, p9-ad-sign.byteimg.com, proxy
+host, rtlog3-applog-hl.fqnovel.com, proxy
+host, rtlog3-applog.fqnovel.com, proxy
+host, rtlog5-applog-hl.fqnovel.com, proxy
+host, rtlog5-applog.fqnovel.com, proxy

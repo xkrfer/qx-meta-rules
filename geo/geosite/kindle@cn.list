@@ -1,3 +1,3 @@
-host-suffix, kindle.cn
-host-suffix, kindleoasis.cn
-host-suffix, kindleoasis.com.cn
+host-suffix, kindle.cn, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com.cn, proxy

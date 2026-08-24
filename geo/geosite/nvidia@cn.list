@@ -1,4 +1,4 @@
-host-suffix, geforce.cn
-host-suffix, gputechconf.cn
-host-suffix, nvidia.cn
-host, cn.download.nvidia.com
+host-suffix, geforce.cn, proxy
+host-suffix, gputechconf.cn, proxy
+host-suffix, nvidia.cn, proxy
+host, cn.download.nvidia.com, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 55.37.0.0/16
-ip-cidr, 55.84.0.0/16
-ip6-cidr, 2608:12b:4100::/40
-ip6-cidr, 2608:18b:5400::/40
-ip6-cidr, 2609:e000:4100::/40
+ip-cidr, 55.37.0.0/16, proxy, no-resolve
+ip-cidr, 55.84.0.0/16, proxy, no-resolve
+ip6-cidr, 2608:12b:4100::/40, proxy, no-resolve
+ip6-cidr, 2608:18b:5400::/40, proxy, no-resolve
+ip6-cidr, 2609:e000:4100::/40, proxy, no-resolve

@@ -1,5 +1,5 @@
-host-suffix, ximalaya.com
-host-suffix, xmcdn.com
-host-suffix, adbehavior.ximalaya.com
-host-suffix, adse.wsa.ximalaya.com
-host-suffix, adse.ximalaya.com
+host-suffix, ximalaya.com, proxy
+host-suffix, xmcdn.com, proxy
+host-suffix, adbehavior.ximalaya.com, proxy
+host-suffix, adse.wsa.ximalaya.com, proxy
+host-suffix, adse.ximalaya.com, proxy

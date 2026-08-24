@@ -1,1 +1,1 @@
-ip-cidr, 194.102.45.0/24
+ip-cidr, 194.102.45.0/24, proxy, no-resolve

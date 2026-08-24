@@ -1,98 +1,98 @@
-host-suffix, itunes.hk
-host-suffix, ituneslogin.net
-host-suffix, 12diasderegalosdeitunes.co
-host-suffix, wwwitunes.com
-host-suffix, iutunes.com
-host-suffix, itunesu.net
-host-suffix, 12diasderegalosdeitunes.com
-host-suffix, itunesu.com
-host-suffix, itunesstore.co
-host-suffix, 12diasdepresentesdeitunes.com
-host-suffix, itunes.com
-host-suffix, 12diasderegalosdeitunes.cr
-host-suffix, 12diasderegalosdeitunes.gt
-host-suffix, 12diasderegalosdeitunes.hn
-host-suffix, 12diasderegalosdeitunes.pe
-host-suffix, 12joursdecadeauxdeitunes.com
-host-suffix, itun.es
-host-suffix, itunbes.com
-host-suffix, ituneas.com
-host-suffix, itunes-radio.net
-host-suffix, itunes.ca
-host-suffix, itunes.co
-host-suffix, 12diasderegalosdeitunes.cl
-host-suffix, itunesradio.tw
-host-suffix, itunesradio.tv
-host-suffix, itunes.mx
-host-suffix, itunes.org
-host-suffix, itunes.rio
-host-suffix, itunes.us
-host-suffix, itunes12days.com
-host-suffix, itunesessentials.com
-host-suffix, itunesfestivals.com
-host-suffix, itunesiradio.com
-host-suffix, ituneslatino.com
-host-suffix, itunesradio.rio
-host-suffix, itunesmatch.com
-host-suffix, itunesparty.com
-host-suffix, itunesradio.com
-host-suffix, itunes.co.th
-host-suffix, 12diasderegalosdeitunes.com.ni
-host-suffix, 12diasderegalosdeitunes.com.ve
-host-suffix, 12diasderegalosdeitunes.com.hn
-host-suffix, 12diasderegalosdeitunes.com.co
-host-suffix, 12diasderegalosdeitunes.co.ve
-host-suffix, 12diasderegalosdeitunes.co.ni
-host-suffix, 12diasderegalosdeitunes.co.cr
-host-suffix, itunes.apple.com
-host-suffix, itunes-apple.com.akadns.net
-host-suffix, apple-itunes.cn
-host-suffix, itunes-apple.cn
-host-suffix, itunesapple.cn
-host-suffix, itunesradio.cn
-host-suffix, itunesradio.com.cn
-host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net
-host, amp-api-edge-lb.itunes-apple.com.akadns.net
-host, aod-ssl.itunes.apple.com
-host, aod.itunes.apple.com
-host, apptrailers.itunes.apple.com
-host, bag.itunes.apple.com
-host, bookkeeper.itunes.apple.com
-host, client-api.itunes.apple.com
-host, cma.itunes.apple.com
-host, downloaddispatch.itunes.apple.com
-host, entitlements-edge.itunes.apple.com
-host, fpinit.itunes.apple.com
-host, inappcheck-cn.itunes-apple.com.akadns.net
-host, inappcheck-lb.itunes-apple.com.akadns.net
-host, inappcheck.itunes.apple.com
-host, init.itunes.apple.com
-host, iosapps.itunes.apple.com
-host, misc-assets.itunes.apple.com
-host, mvod.itunes.apple.com
-host, myapp.itunes.apple.com
-host, np-edge.itunes.apple.com
-host, osxapps.itunes.apple.com
-host, pd-nk.itunes.apple.com
-host, pd.itunes.apple.com
-host, play-edge.itunes.apple.com
-host, play.itunes.apple.com
-host, podcasts.itunes.apple.com
-host, se-edge.itunes.apple.com
-host, se2.itunes.apple.com
-host, search.itunes.apple.com
-host, sf-api-token-service.itunes.apple.com
-host, sp.itunes.apple.com
-host, streamingaudio.itunes.apple.com
-host, su.itunes.apple.com
-host, sync.itunes.apple.com
-host, tf-feedback.itunes.apple.com
-host, universal-activity-service.itunes.apple.com
-host, upp.itunes.apple.com
-host, bag-cdn.itunes-apple.com.akadns.net
-host, iosapps.itunes.g.aaplimg.com
-host, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-host, itunes-apple.com.akadns.net
-host, itunes.apple.com
-host, itunesconnect.apple.com
-host, osxapps.itunes.g.aaplimg.com
+host-suffix, itunes.hk, proxy
+host-suffix, ituneslogin.net, proxy
+host-suffix, 12diasderegalosdeitunes.co, proxy
+host-suffix, wwwitunes.com, proxy
+host-suffix, iutunes.com, proxy
+host-suffix, itunesu.net, proxy
+host-suffix, 12diasderegalosdeitunes.com, proxy
+host-suffix, itunesu.com, proxy
+host-suffix, itunesstore.co, proxy
+host-suffix, 12diasdepresentesdeitunes.com, proxy
+host-suffix, itunes.com, proxy
+host-suffix, 12diasderegalosdeitunes.cr, proxy
+host-suffix, 12diasderegalosdeitunes.gt, proxy
+host-suffix, 12diasderegalosdeitunes.hn, proxy
+host-suffix, 12diasderegalosdeitunes.pe, proxy
+host-suffix, 12joursdecadeauxdeitunes.com, proxy
+host-suffix, itun.es, proxy
+host-suffix, itunbes.com, proxy
+host-suffix, ituneas.com, proxy
+host-suffix, itunes-radio.net, proxy
+host-suffix, itunes.ca, proxy
+host-suffix, itunes.co, proxy
+host-suffix, 12diasderegalosdeitunes.cl, proxy
+host-suffix, itunesradio.tw, proxy
+host-suffix, itunesradio.tv, proxy
+host-suffix, itunes.mx, proxy
+host-suffix, itunes.org, proxy
+host-suffix, itunes.rio, proxy
+host-suffix, itunes.us, proxy
+host-suffix, itunes12days.com, proxy
+host-suffix, itunesessentials.com, proxy
+host-suffix, itunesfestivals.com, proxy
+host-suffix, itunesiradio.com, proxy
+host-suffix, ituneslatino.com, proxy
+host-suffix, itunesradio.rio, proxy
+host-suffix, itunesmatch.com, proxy
+host-suffix, itunesparty.com, proxy
+host-suffix, itunesradio.com, proxy
+host-suffix, itunes.co.th, proxy
+host-suffix, 12diasderegalosdeitunes.com.ni, proxy
+host-suffix, 12diasderegalosdeitunes.com.ve, proxy
+host-suffix, 12diasderegalosdeitunes.com.hn, proxy
+host-suffix, 12diasderegalosdeitunes.com.co, proxy
+host-suffix, 12diasderegalosdeitunes.co.ve, proxy
+host-suffix, 12diasderegalosdeitunes.co.ni, proxy
+host-suffix, 12diasderegalosdeitunes.co.cr, proxy
+host-suffix, itunes.apple.com, proxy
+host-suffix, itunes-apple.com.akadns.net, proxy
+host-suffix, apple-itunes.cn, proxy
+host-suffix, itunes-apple.cn, proxy
+host-suffix, itunesapple.cn, proxy
+host-suffix, itunesradio.cn, proxy
+host-suffix, itunesradio.com.cn, proxy
+host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net, proxy
+host, amp-api-edge-lb.itunes-apple.com.akadns.net, proxy
+host, aod-ssl.itunes.apple.com, proxy
+host, aod.itunes.apple.com, proxy
+host, apptrailers.itunes.apple.com, proxy
+host, bag.itunes.apple.com, proxy
+host, bookkeeper.itunes.apple.com, proxy
+host, client-api.itunes.apple.com, proxy
+host, cma.itunes.apple.com, proxy
+host, downloaddispatch.itunes.apple.com, proxy
+host, entitlements-edge.itunes.apple.com, proxy
+host, fpinit.itunes.apple.com, proxy
+host, inappcheck-cn.itunes-apple.com.akadns.net, proxy
+host, inappcheck-lb.itunes-apple.com.akadns.net, proxy
+host, inappcheck.itunes.apple.com, proxy
+host, init.itunes.apple.com, proxy
+host, iosapps.itunes.apple.com, proxy
+host, misc-assets.itunes.apple.com, proxy
+host, mvod.itunes.apple.com, proxy
+host, myapp.itunes.apple.com, proxy
+host, np-edge.itunes.apple.com, proxy
+host, osxapps.itunes.apple.com, proxy
+host, pd-nk.itunes.apple.com, proxy
+host, pd.itunes.apple.com, proxy
+host, play-edge.itunes.apple.com, proxy
+host, play.itunes.apple.com, proxy
+host, podcasts.itunes.apple.com, proxy
+host, se-edge.itunes.apple.com, proxy
+host, se2.itunes.apple.com, proxy
+host, search.itunes.apple.com, proxy
+host, sf-api-token-service.itunes.apple.com, proxy
+host, sp.itunes.apple.com, proxy
+host, streamingaudio.itunes.apple.com, proxy
+host, su.itunes.apple.com, proxy
+host, sync.itunes.apple.com, proxy
+host, tf-feedback.itunes.apple.com, proxy
+host, universal-activity-service.itunes.apple.com, proxy
+host, upp.itunes.apple.com, proxy
+host, bag-cdn.itunes-apple.com.akadns.net, proxy
+host, iosapps.itunes.g.aaplimg.com, proxy
+host, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net, proxy
+host, itunes-apple.com.akadns.net, proxy
+host, itunes.apple.com, proxy
+host, itunesconnect.apple.com, proxy
+host, osxapps.itunes.g.aaplimg.com, proxy

@@ -1,1 +1,1 @@
-ip6-cidr, 240a:ee00::/28
+ip6-cidr, 240a:ee00::/28, proxy, no-resolve

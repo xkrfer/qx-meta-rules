@@ -1,16 +1,16 @@
-host-suffix, huijiwiki.com
-host-suffix, mcmod.cn
-host-suffix, jikipedia.com
-host-suffix, mbalib.com
-host-suffix, sec-wiki.com
-host-suffix, shidianbaike.com
-host-suffix, fgo.wiki
-host-suffix, chaz.fun
-host-suffix, allhistory.com
-host-suffix, huijistatic.com
-host-suffix, moegirl.org
-host-suffix, zdic.net
-host-suffix, pwsannong.com
-host-suffix, qiuwenbaike.cn
-host-suffix, qiuwen.wiki
-host-suffix, moegirl.org.cn
+host-suffix, huijiwiki.com, proxy
+host-suffix, mcmod.cn, proxy
+host-suffix, jikipedia.com, proxy
+host-suffix, mbalib.com, proxy
+host-suffix, sec-wiki.com, proxy
+host-suffix, shidianbaike.com, proxy
+host-suffix, fgo.wiki, proxy
+host-suffix, chaz.fun, proxy
+host-suffix, allhistory.com, proxy
+host-suffix, huijistatic.com, proxy
+host-suffix, moegirl.org, proxy
+host-suffix, zdic.net, proxy
+host-suffix, pwsannong.com, proxy
+host-suffix, qiuwenbaike.cn, proxy
+host-suffix, qiuwen.wiki, proxy
+host-suffix, moegirl.org.cn, proxy

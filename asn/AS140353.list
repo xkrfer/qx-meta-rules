@@ -1,4 +1,4 @@
-ip6-cidr, 240e:44d:3540::/42
-ip6-cidr, 240e:44d:3640::/42
-ip6-cidr, 240e:44d:3740::/42
-ip6-cidr, 240e:44d:3840::/42
+ip6-cidr, 240e:44d:3540::/42, proxy, no-resolve
+ip6-cidr, 240e:44d:3640::/42, proxy, no-resolve
+ip6-cidr, 240e:44d:3740::/42, proxy, no-resolve
+ip6-cidr, 240e:44d:3840::/42, proxy, no-resolve

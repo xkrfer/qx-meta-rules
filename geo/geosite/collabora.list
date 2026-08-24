@@ -1,4 +1,4 @@
-host-suffix, collabora.com
-host-suffix, collabora.org
-host-suffix, collaboraoffice.com
-host-suffix, collabora.co.uk
+host-suffix, collabora.com, proxy
+host-suffix, collabora.org, proxy
+host-suffix, collaboraoffice.com, proxy
+host-suffix, collabora.co.uk, proxy

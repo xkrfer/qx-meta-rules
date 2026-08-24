@@ -1,9 +1,9 @@
-ip-cidr, 91.213.242.0/24
-ip-cidr, 185.43.60.0/22
-ip-cidr, 185.137.252.0/23
-ip-cidr, 193.201.35.0/24
-ip-cidr, 193.201.37.0/24
-ip-cidr, 193.201.38.0/24
-ip-cidr, 193.201.43.0/24
-ip-cidr, 194.50.39.0/24
-ip6-cidr, 2a01:6960::/32
+ip-cidr, 91.213.242.0/24, proxy, no-resolve
+ip-cidr, 185.43.60.0/22, proxy, no-resolve
+ip-cidr, 185.137.252.0/23, proxy, no-resolve
+ip-cidr, 193.201.35.0/24, proxy, no-resolve
+ip-cidr, 193.201.37.0/24, proxy, no-resolve
+ip-cidr, 193.201.38.0/24, proxy, no-resolve
+ip-cidr, 193.201.43.0/24, proxy, no-resolve
+ip-cidr, 194.50.39.0/24, proxy, no-resolve
+ip6-cidr, 2a01:6960::/32, proxy, no-resolve

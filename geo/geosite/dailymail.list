@@ -1,17 +1,17 @@
-host-suffix, mailonsunday.ie
-host-suffix, mailonline.com
-host-suffix, thismon.ee
-host-suffix, dailymail.com
-host-suffix, mol.im
-host-suffix, dailymail.dk
-host-suffix, dailymailonline.com
-host-suffix, mailhealth.com
-host-suffix, dailym.ai
-host-suffix, mailonline.co.uk
-host-suffix, dmgmediaprivacy.co.uk
-host-suffix, mailonsunday.co.uk
-host-suffix, anm.co.uk
-host-suffix, metro.co.uk
-host-suffix, dailymail.com.au
-host-suffix, thisismoney.co.uk
-host-suffix, dailymail.co.uk
+host-suffix, mailonsunday.ie, proxy
+host-suffix, mailonline.com, proxy
+host-suffix, thismon.ee, proxy
+host-suffix, dailymail.com, proxy
+host-suffix, mol.im, proxy
+host-suffix, dailymail.dk, proxy
+host-suffix, dailymailonline.com, proxy
+host-suffix, mailhealth.com, proxy
+host-suffix, dailym.ai, proxy
+host-suffix, mailonline.co.uk, proxy
+host-suffix, dmgmediaprivacy.co.uk, proxy
+host-suffix, mailonsunday.co.uk, proxy
+host-suffix, anm.co.uk, proxy
+host-suffix, metro.co.uk, proxy
+host-suffix, dailymail.com.au, proxy
+host-suffix, thisismoney.co.uk, proxy
+host-suffix, dailymail.co.uk, proxy

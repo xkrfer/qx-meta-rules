@@ -1,8 +1,8 @@
-host-suffix, mob.com
-host-suffix, sharesdk.cn
-host-suffix, accuratead.cn
-host-suffix, dutils.com
-host-suffix, hiaiabc.com
-host-suffix, mobsdks.com
-host-suffix, tec73.com
-host-suffix, yksdks.com
+host-suffix, mob.com, proxy
+host-suffix, sharesdk.cn, proxy
+host-suffix, accuratead.cn, proxy
+host-suffix, dutils.com, proxy
+host-suffix, hiaiabc.com, proxy
+host-suffix, mobsdks.com, proxy
+host-suffix, tec73.com, proxy
+host-suffix, yksdks.com, proxy

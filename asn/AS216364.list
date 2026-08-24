@@ -1,1 +1,1 @@
-ip6-cidr, 2001:3300::/35
+ip6-cidr, 2001:3300::/35, proxy, no-resolve

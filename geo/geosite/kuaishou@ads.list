@@ -1,8 +1,8 @@
-host-suffix, adbkwai.com
-host-suffix, adkwai.com
-host-suffix, adukwai.com
-host-suffix, e.kuaishou.cn
-host-suffix, e.kuaishou.com
-host, log-sdk.gifshow.com
-host, wlog.kuaishou.com
-host, apilog-web.acfun.cn
+host-suffix, adbkwai.com, proxy
+host-suffix, adkwai.com, proxy
+host-suffix, adukwai.com, proxy
+host-suffix, e.kuaishou.cn, proxy
+host-suffix, e.kuaishou.com, proxy
+host, log-sdk.gifshow.com, proxy
+host, wlog.kuaishou.com, proxy
+host, apilog-web.acfun.cn, proxy

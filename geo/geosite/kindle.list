@@ -1,20 +1,20 @@
-host-suffix, kindle
-host-suffix, kindle.it
-host-suffix, kindleoasis.com
-host-suffix, kindle.com
-host-suffix, kindle.de
-host-suffix, kindle.es
-host-suffix, kindle.fr
-host-suffix, kindleproject.com
-host-suffix, kindle.in
-host-suffix, kindle.jp
-host-suffix, kindleoasisnews.com
-host-suffix, kindleoasis.info
-host-suffix, kindleoasis.jp
-host-suffix, kindleoasis.org
-host-suffix, kindleoasis.us
-host-suffix, kindle.co.jp
-host-suffix, kindle.co.uk
-host-suffix, kindle.cn
-host-suffix, kindleoasis.cn
-host-suffix, kindleoasis.com.cn
+host-suffix, kindle, proxy
+host-suffix, kindle.it, proxy
+host-suffix, kindleoasis.com, proxy
+host-suffix, kindle.com, proxy
+host-suffix, kindle.de, proxy
+host-suffix, kindle.es, proxy
+host-suffix, kindle.fr, proxy
+host-suffix, kindleproject.com, proxy
+host-suffix, kindle.in, proxy
+host-suffix, kindle.jp, proxy
+host-suffix, kindleoasisnews.com, proxy
+host-suffix, kindleoasis.info, proxy
+host-suffix, kindleoasis.jp, proxy
+host-suffix, kindleoasis.org, proxy
+host-suffix, kindleoasis.us, proxy
+host-suffix, kindle.co.jp, proxy
+host-suffix, kindle.co.uk, proxy
+host-suffix, kindle.cn, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com.cn, proxy

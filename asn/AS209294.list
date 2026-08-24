@@ -1,3 +1,3 @@
-ip-cidr, 44.31.212.0/24
-ip6-cidr, 2a01:e281:a400::/48
-ip6-cidr, 2a01:e281:a410::/44
+ip-cidr, 44.31.212.0/24, proxy, no-resolve
+ip6-cidr, 2a01:e281:a400::/48, proxy, no-resolve
+ip6-cidr, 2a01:e281:a410::/44, proxy, no-resolve

@@ -1,17 +1,17 @@
-ip-cidr, 139.104.112.0/24
-ip-cidr, 139.104.209.0/24
-ip-cidr, 139.104.210.0/23
-ip-cidr, 139.104.213.0/24
-ip-cidr, 139.104.214.0/23
-ip-cidr, 139.104.216.0/22
-ip-cidr, 139.104.220.0/23
-ip-cidr, 157.23.232.0/22
-ip-cidr, 157.23.236.0/24
-ip6-cidr, 2405:dc0:8009::/48
-ip6-cidr, 2405:dc0:800a::/48
-ip6-cidr, 2620:138:3008::/46
-ip6-cidr, 2620:138:300c::/47
-ip6-cidr, 2620:138:300e::/48
-ip6-cidr, 2620:138:3018::/46
-ip6-cidr, 2a0e:bbc0:8002::/47
-ip6-cidr, 2a0e:bbc0:8004::/47
+ip-cidr, 139.104.112.0/24, proxy, no-resolve
+ip-cidr, 139.104.209.0/24, proxy, no-resolve
+ip-cidr, 139.104.210.0/23, proxy, no-resolve
+ip-cidr, 139.104.213.0/24, proxy, no-resolve
+ip-cidr, 139.104.214.0/23, proxy, no-resolve
+ip-cidr, 139.104.216.0/22, proxy, no-resolve
+ip-cidr, 139.104.220.0/23, proxy, no-resolve
+ip-cidr, 157.23.232.0/22, proxy, no-resolve
+ip-cidr, 157.23.236.0/24, proxy, no-resolve
+ip6-cidr, 2405:dc0:8009::/48, proxy, no-resolve
+ip6-cidr, 2405:dc0:800a::/48, proxy, no-resolve
+ip6-cidr, 2620:138:3008::/46, proxy, no-resolve
+ip6-cidr, 2620:138:300c::/47, proxy, no-resolve
+ip6-cidr, 2620:138:300e::/48, proxy, no-resolve
+ip6-cidr, 2620:138:3018::/46, proxy, no-resolve
+ip6-cidr, 2a0e:bbc0:8002::/47, proxy, no-resolve
+ip6-cidr, 2a0e:bbc0:8004::/47, proxy, no-resolve

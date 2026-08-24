@@ -1,2 +1,2 @@
-host-suffix, fonts.com
-host-suffix, fonts.net
+host-suffix, fonts.com, proxy
+host-suffix, fonts.net, proxy

@@ -1,6 +1,6 @@
-ip-cidr, 175.12.0.0/17
-ip6-cidr, 240e:106:aa00::/39
-ip6-cidr, 240e:96a:4000::/36
-ip6-cidr, 240e:982:9b00::/40
-ip6-cidr, 240e:982:9d00::/40
-ip6-cidr, 240e:982:9e00::/40
+ip-cidr, 175.12.0.0/17, proxy, no-resolve
+ip6-cidr, 240e:106:aa00::/39, proxy, no-resolve
+ip6-cidr, 240e:96a:4000::/36, proxy, no-resolve
+ip6-cidr, 240e:982:9b00::/40, proxy, no-resolve
+ip6-cidr, 240e:982:9d00::/40, proxy, no-resolve
+ip6-cidr, 240e:982:9e00::/40, proxy, no-resolve

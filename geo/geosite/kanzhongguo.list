@@ -1,16 +1,16 @@
-host-suffix, es-visiontimes.com
-host-suffix, kannewyork.com
-host-suffix, kanzhongguo.com
-host-suffix, kanzhongguo.eu
-host-suffix, secretchina.com
-host-suffix, trithucvn.net
-host-suffix, trithucvn.org
-host-suffix, vct.news
-host-suffix, visiontimes.com
-host-suffix, visiontimes.de
-host-suffix, visiontimes.fr
-host-suffix, visiontimes.it
-host-suffix, visiontimes.net
-host-suffix, visiontimesjp.com
-host-suffix, vtvan.com
-host-suffix, watchinese.com
+host-suffix, es-visiontimes.com, proxy
+host-suffix, kannewyork.com, proxy
+host-suffix, kanzhongguo.com, proxy
+host-suffix, kanzhongguo.eu, proxy
+host-suffix, secretchina.com, proxy
+host-suffix, trithucvn.net, proxy
+host-suffix, trithucvn.org, proxy
+host-suffix, vct.news, proxy
+host-suffix, visiontimes.com, proxy
+host-suffix, visiontimes.de, proxy
+host-suffix, visiontimes.fr, proxy
+host-suffix, visiontimes.it, proxy
+host-suffix, visiontimes.net, proxy
+host-suffix, visiontimesjp.com, proxy
+host-suffix, vtvan.com, proxy
+host-suffix, watchinese.com, proxy

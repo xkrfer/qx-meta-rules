@@ -1,7 +1,7 @@
-host-suffix, aufit-air.com
-host-suffix, aux-global.com
-host-suffix, auxair.com
-host-suffix, auxcac.cn
-host-suffix, auxsmart.com
-host-suffix, sanxingelectric.com
-host-suffix, shinflow.com
+host-suffix, aufit-air.com, proxy
+host-suffix, aux-global.com, proxy
+host-suffix, auxair.com, proxy
+host-suffix, auxcac.cn, proxy
+host-suffix, auxsmart.com, proxy
+host-suffix, sanxingelectric.com, proxy
+host-suffix, shinflow.com, proxy

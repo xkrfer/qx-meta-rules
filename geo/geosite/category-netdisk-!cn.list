@@ -1,51 +1,51 @@
-host, paper-attachments.s3.amazonaws.com
-host-suffix, onedrive
-host-suffix, onedriveupdater
-host-suffix, dropboxinsiders.com
-host-suffix, usersdrive.com
-host-suffix, pikpak.me
-host-suffix, pikpakdrive.com
-host-suffix, 1024terabox.com
-host-suffix, bestclouddrive.com
-host-suffix, freeterabox.com
-host-suffix, nephobox.com
-host-suffix, terabox.com
-host-suffix, terabox1024.com
-host-suffix, teraboxcdn.com
-host-suffix, userdrive.org
-host-suffix, dropboxmail.com
-host-suffix, db.tt
-host-suffix, dropbox-dns.com
-host-suffix, dropbox.com
-host-suffix, dropbox.tech
-host-suffix, dropboxapi.com
-host-suffix, dropboxbusiness.com
-host-suffix, dropboxcaptcha.com
-host-suffix, dropboxforum.com
-host-suffix, dropboxforums.com
-host-suffix, pikpak.io
-host-suffix, mypikpak.com
-host-suffix, pickpackapp.com
-host-suffix, dropboxstatic.com
-host-suffix, dropboxusercontent.com
-host-suffix, getdropbox.com
-host-suffix, mega.io
-host-suffix, mega.nz
-host-suffix, 1drv.com
-host-suffix, dropboxpartners.com
-host-suffix, mypikpak.net
-host-suffix, sharepointonline.com
-host-suffix, microsoftpersonalcontent.com
-host-suffix, onedrive.com
-host-suffix, sharepoint.cn
-host-suffix, livefilestore.com
-host-suffix, sharepoint.com
-host-suffix, mega.co.nz
-host-suffix, storage.msn.com
-host-suffix, spoprod-a.akamaihd.net
-host-suffix, storage.live.com
-host-suffix, oneclient.sfx.ms
-host-suffix, photos.live.com
-host-suffix, onedrive.live.com
-host-suffix, skydrive.wns.windows.com
-host, o4504926511693824.ingest.sentry.io
+host, paper-attachments.s3.amazonaws.com, proxy
+host-suffix, onedrive, proxy
+host-suffix, onedriveupdater, proxy
+host-suffix, dropboxinsiders.com, proxy
+host-suffix, usersdrive.com, proxy
+host-suffix, pikpak.me, proxy
+host-suffix, pikpakdrive.com, proxy
+host-suffix, 1024terabox.com, proxy
+host-suffix, bestclouddrive.com, proxy
+host-suffix, freeterabox.com, proxy
+host-suffix, nephobox.com, proxy
+host-suffix, terabox.com, proxy
+host-suffix, terabox1024.com, proxy
+host-suffix, teraboxcdn.com, proxy
+host-suffix, userdrive.org, proxy
+host-suffix, dropboxmail.com, proxy
+host-suffix, db.tt, proxy
+host-suffix, dropbox-dns.com, proxy
+host-suffix, dropbox.com, proxy
+host-suffix, dropbox.tech, proxy
+host-suffix, dropboxapi.com, proxy
+host-suffix, dropboxbusiness.com, proxy
+host-suffix, dropboxcaptcha.com, proxy
+host-suffix, dropboxforum.com, proxy
+host-suffix, dropboxforums.com, proxy
+host-suffix, pikpak.io, proxy
+host-suffix, mypikpak.com, proxy
+host-suffix, pickpackapp.com, proxy
+host-suffix, dropboxstatic.com, proxy
+host-suffix, dropboxusercontent.com, proxy
+host-suffix, getdropbox.com, proxy
+host-suffix, mega.io, proxy
+host-suffix, mega.nz, proxy
+host-suffix, 1drv.com, proxy
+host-suffix, dropboxpartners.com, proxy
+host-suffix, mypikpak.net, proxy
+host-suffix, sharepointonline.com, proxy
+host-suffix, microsoftpersonalcontent.com, proxy
+host-suffix, onedrive.com, proxy
+host-suffix, sharepoint.cn, proxy
+host-suffix, livefilestore.com, proxy
+host-suffix, sharepoint.com, proxy
+host-suffix, mega.co.nz, proxy
+host-suffix, storage.msn.com, proxy
+host-suffix, spoprod-a.akamaihd.net, proxy
+host-suffix, storage.live.com, proxy
+host-suffix, oneclient.sfx.ms, proxy
+host-suffix, photos.live.com, proxy
+host-suffix, onedrive.live.com, proxy
+host-suffix, skydrive.wns.windows.com, proxy
+host, o4504926511693824.ingest.sentry.io, proxy

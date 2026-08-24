@@ -1,5 +1,5 @@
-ip-cidr, 80.251.16.0/21
-ip-cidr, 80.251.24.0/24
-ip-cidr, 80.251.26.0/23
-ip-cidr, 80.251.28.0/23
-ip-cidr, 80.251.30.0/24
+ip-cidr, 80.251.16.0/21, proxy, no-resolve
+ip-cidr, 80.251.24.0/24, proxy, no-resolve
+ip-cidr, 80.251.26.0/23, proxy, no-resolve
+ip-cidr, 80.251.28.0/23, proxy, no-resolve
+ip-cidr, 80.251.30.0/24, proxy, no-resolve

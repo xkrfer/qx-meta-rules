@@ -1,10 +1,10 @@
-host-suffix, dji.com
-host-suffix, dji.ink
-host-suffix, dji.net
-host-suffix, djicdn.com
-host-suffix, djigate.com
-host-suffix, djiits.com
-host-suffix, djiops.com
-host-suffix, djiservice.org
-host-suffix, skypixel.com
-host-suffix, robomaster.com
+host-suffix, dji.com, proxy
+host-suffix, dji.ink, proxy
+host-suffix, dji.net, proxy
+host-suffix, djicdn.com, proxy
+host-suffix, djigate.com, proxy
+host-suffix, djiits.com, proxy
+host-suffix, djiops.com, proxy
+host-suffix, djiservice.org, proxy
+host-suffix, skypixel.com, proxy
+host-suffix, robomaster.com, proxy

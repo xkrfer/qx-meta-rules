@@ -1,4 +1,4 @@
-ip6-cidr, 2401:5f20:f000::/48
-ip6-cidr, 2602:f7a7:21::/48
-ip6-cidr, 2602:faad:a1::/48
-ip6-cidr, 2a14:7581:6c69::/48
+ip6-cidr, 2401:5f20:f000::/48, proxy, no-resolve
+ip6-cidr, 2602:f7a7:21::/48, proxy, no-resolve
+ip6-cidr, 2602:faad:a1::/48, proxy, no-resolve
+ip6-cidr, 2a14:7581:6c69::/48, proxy, no-resolve

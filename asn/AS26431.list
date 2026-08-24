@@ -1,2 +1,2 @@
-ip-cidr, 203.31.160.0/24
-ip6-cidr, 2602:f666::/43
+ip-cidr, 203.31.160.0/24, proxy, no-resolve
+ip6-cidr, 2602:f666::/43, proxy, no-resolve

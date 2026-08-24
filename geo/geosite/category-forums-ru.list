@@ -1,10 +1,10 @@
-host-suffix, dtf.ru
-host-suffix, opennet.dev
-host-suffix, opennet.ru
-host-suffix, prodota.ru
-host-suffix, pikabu.ru
-host-suffix, tischenko.su
-host-suffix, vc.ru
-host-suffix, yapfiles.ru
-host-suffix, yaplakal.com
-host-suffix, yap.ru
+host-suffix, dtf.ru, proxy
+host-suffix, opennet.dev, proxy
+host-suffix, opennet.ru, proxy
+host-suffix, prodota.ru, proxy
+host-suffix, pikabu.ru, proxy
+host-suffix, tischenko.su, proxy
+host-suffix, vc.ru, proxy
+host-suffix, yapfiles.ru, proxy
+host-suffix, yaplakal.com, proxy
+host-suffix, yap.ru, proxy

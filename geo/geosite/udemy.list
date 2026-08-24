@@ -1,2 +1,2 @@
-host-suffix, udemy.com
-host-suffix, udemycdn.com
+host-suffix, udemy.com, proxy
+host-suffix, udemycdn.com, proxy

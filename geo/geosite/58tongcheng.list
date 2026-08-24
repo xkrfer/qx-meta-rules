@@ -1,42 +1,42 @@
-host-suffix, daojia.com
-host-suffix, diandao.org
-host-suffix, jxedt.com
-host-suffix, 58antenna.cn
-host-suffix, 58antenna.com
-host-suffix, ganjistatic1.com
-host-suffix, 58che.com
-host-suffix, 58control.cn
-host-suffix, 58corp.com
-host-suffix, 58dns.org
-host-suffix, 58lovepet.com
-host-suffix, 58uxd.com
-host-suffix, 58v5.cn
-host-suffix, 58xinghuo.cn
-host-suffix, 58xinghuo.com
-host-suffix, 58xueche.com
-host-suffix, anjuke.com
-host-suffix, anjukestatic.com
-host-suffix, chinahr.com
-host-suffix, chrstatic.com
-host-suffix, ganji.com
-host-suffix, 58.com
-host-suffix, 5858.com
-host-suffix, jxksw.net
-host-suffix, kgdc.cn
-host-suffix, kgtest.cn
-host-suffix, roomeet.cn
-host-suffix, 58ganji-corp.com
-host-suffix, xinchong.com
-host-suffix, xueche.com
-host-suffix, zhuancorp.com
-host-suffix, zhuaninc.com
-host-suffix, zhuanspirit.cn
-host-suffix, zhuanspirit.com
-host-suffix, zhuanstatic.com
-host-suffix, zhuanzhuan.com
-host-suffix, kaoshibao.com
-host-suffix, zaixiankaoshi.com
-host-suffix, 58ganji.com
-host-suffix, xgo-img.com.cn
-host-suffix, 58.com.cn
-host-suffix, 58cdn.com.cn
+host-suffix, daojia.com, proxy
+host-suffix, diandao.org, proxy
+host-suffix, jxedt.com, proxy
+host-suffix, 58antenna.cn, proxy
+host-suffix, 58antenna.com, proxy
+host-suffix, ganjistatic1.com, proxy
+host-suffix, 58che.com, proxy
+host-suffix, 58control.cn, proxy
+host-suffix, 58corp.com, proxy
+host-suffix, 58dns.org, proxy
+host-suffix, 58lovepet.com, proxy
+host-suffix, 58uxd.com, proxy
+host-suffix, 58v5.cn, proxy
+host-suffix, 58xinghuo.cn, proxy
+host-suffix, 58xinghuo.com, proxy
+host-suffix, 58xueche.com, proxy
+host-suffix, anjuke.com, proxy
+host-suffix, anjukestatic.com, proxy
+host-suffix, chinahr.com, proxy
+host-suffix, chrstatic.com, proxy
+host-suffix, ganji.com, proxy
+host-suffix, 58.com, proxy
+host-suffix, 5858.com, proxy
+host-suffix, jxksw.net, proxy
+host-suffix, kgdc.cn, proxy
+host-suffix, kgtest.cn, proxy
+host-suffix, roomeet.cn, proxy
+host-suffix, 58ganji-corp.com, proxy
+host-suffix, xinchong.com, proxy
+host-suffix, xueche.com, proxy
+host-suffix, zhuancorp.com, proxy
+host-suffix, zhuaninc.com, proxy
+host-suffix, zhuanspirit.cn, proxy
+host-suffix, zhuanspirit.com, proxy
+host-suffix, zhuanstatic.com, proxy
+host-suffix, zhuanzhuan.com, proxy
+host-suffix, kaoshibao.com, proxy
+host-suffix, zaixiankaoshi.com, proxy
+host-suffix, 58ganji.com, proxy
+host-suffix, xgo-img.com.cn, proxy
+host-suffix, 58.com.cn, proxy
+host-suffix, 58cdn.com.cn, proxy

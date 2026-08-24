@@ -1,1 +1,1 @@
-ip-cidr, 31.130.160.0/21
+ip-cidr, 31.130.160.0/21, proxy, no-resolve

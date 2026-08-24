@@ -1,40 +1,40 @@
-host-suffix, pegn.com
-host-suffix, globoplay.com
-host-suffix, valorinveste.com
-host-suffix, umsoplaneta.com
-host-suffix, techtudo.com
-host-suffix, revistapegn.com
-host-suffix, autoesporte.com
-host-suffix, revistaepoca.com
-host-suffix, globo.com
-host-suffix, gshow.com
-host-suffix, globorural.com.br
-host-suffix, epocanegocios.com.br
-host-suffix, globoradio.com.br
-host-suffix, globoreporter.com.br
-host-suffix, oglobo.com.br
-host-suffix, globo.com.br
-host-suffix, gshow.com.br
-host-suffix, infoglobo.com.br
-host-suffix, autoesporte.com.br
-host-suffix, oghost.com.br
-host-suffix, revistagalileu.com.br
-host-suffix, pegn.com.br
-host-suffix, radioglobo.com.br
-host-suffix, g1.com.br
-host-suffix, revistaepoca.com.br
-host-suffix, globoplay.com.br
-host-suffix, epoca.com.br
-host-suffix, revistapegn.com.br
-host-suffix, revistaquem.com.br
-host-suffix, revistavalor.com.br
-host-suffix, sgr.com.br
-host-suffix, cbn.com.br
-host-suffix, techtudo.com.br
-host-suffix, cartola.com.br
-host-suffix, umsoplaneta.com.br
-host-suffix, valor.com.br
-host-suffix, valoreconomico.com.br
-host-suffix, bhfm.com.br
-host-suffix, valorinveste.com.br
-host-suffix, xuxaverso.com.br
+host-suffix, pegn.com, proxy
+host-suffix, globoplay.com, proxy
+host-suffix, valorinveste.com, proxy
+host-suffix, umsoplaneta.com, proxy
+host-suffix, techtudo.com, proxy
+host-suffix, revistapegn.com, proxy
+host-suffix, autoesporte.com, proxy
+host-suffix, revistaepoca.com, proxy
+host-suffix, globo.com, proxy
+host-suffix, gshow.com, proxy
+host-suffix, globorural.com.br, proxy
+host-suffix, epocanegocios.com.br, proxy
+host-suffix, globoradio.com.br, proxy
+host-suffix, globoreporter.com.br, proxy
+host-suffix, oglobo.com.br, proxy
+host-suffix, globo.com.br, proxy
+host-suffix, gshow.com.br, proxy
+host-suffix, infoglobo.com.br, proxy
+host-suffix, autoesporte.com.br, proxy
+host-suffix, oghost.com.br, proxy
+host-suffix, revistagalileu.com.br, proxy
+host-suffix, pegn.com.br, proxy
+host-suffix, radioglobo.com.br, proxy
+host-suffix, g1.com.br, proxy
+host-suffix, revistaepoca.com.br, proxy
+host-suffix, globoplay.com.br, proxy
+host-suffix, epoca.com.br, proxy
+host-suffix, revistapegn.com.br, proxy
+host-suffix, revistaquem.com.br, proxy
+host-suffix, revistavalor.com.br, proxy
+host-suffix, sgr.com.br, proxy
+host-suffix, cbn.com.br, proxy
+host-suffix, techtudo.com.br, proxy
+host-suffix, cartola.com.br, proxy
+host-suffix, umsoplaneta.com.br, proxy
+host-suffix, valor.com.br, proxy
+host-suffix, valoreconomico.com.br, proxy
+host-suffix, bhfm.com.br, proxy
+host-suffix, valorinveste.com.br, proxy
+host-suffix, xuxaverso.com.br, proxy

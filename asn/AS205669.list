@@ -1,4 +1,4 @@
-ip-cidr, 89.234.160.0/21
-ip6-cidr, 2a00:5881:3040::/44
-ip6-cidr, 2a00:5881:3080::/44
-ip6-cidr, 2a00:5881:30c0::/44
+ip-cidr, 89.234.160.0/21, proxy, no-resolve
+ip6-cidr, 2a00:5881:3040::/44, proxy, no-resolve
+ip6-cidr, 2a00:5881:3080::/44, proxy, no-resolve
+ip6-cidr, 2a00:5881:30c0::/44, proxy, no-resolve

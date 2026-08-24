@@ -1,58 +1,58 @@
-host-suffix, lenovomm.com
-host-suffix, iprintworks.cn
-host-suffix, cftsupport.com
-host-suffix, ileapcloud.com
-host-suffix, lenovocloudos.com
-host-suffix, lenovo.cn
-host-suffix, lenovo.com
-host-suffix, lenovoeservice.com
-host-suffix, lxzjjt.cn
-host-suffix, lxzjjt.com
-host-suffix, thinkcloudlab.com
-host-suffix, thinkpad.com
-host-suffix, lenovopoc.com
-host-suffix, lenovofile.com
-host-suffix, filez.com
-host-suffix, bestrhy.com
-host-suffix, lecoo.com
-host-suffix, blurdev.com
-host-suffix, lx.run
-host-suffix, fm365.com
-host-suffix, idea123.cn
-host-suffix, zxsales.cn
-host-suffix, juhuiwan.com
-host-suffix, thinkprinter.net
-host-suffix, juhuiwan.net
-host-suffix, lenauth.com
-host-suffix, lenovogame.com
-host-suffix, lenovomm.cn
-host-suffix, baiying.cn
-host-suffix, lenovocust.cn
-host-suffix, chainedbox.com
-host-suffix, surepush.cn
-host-suffix, zui.cn
-host-suffix, zui.com
-host-suffix, zuk.cn
-host-suffix, zuk.com
-host-suffix, thinkprinter.cn
-host-suffix, lenovoprinter.net
-host-suffix, lx.pub
-host-suffix, lenovomobile.com
-host-suffix, cunchuhulian-ln.cn
-host-suffix, lenovonetapp.com
-host-suffix, dayin8.com
-host-suffix, lenovo.net
-host-suffix, lenovoimage.cn
-host-suffix, lenovoimage.com
-host-suffix, lenovoprinter.com
-host-suffix, lenovoprinter.com.cn
-host-suffix, lenovocare.com.cn
-host-suffix, zuk.com.cn
-host-suffix, thinkprinter.com.cn
-host-suffix, juhuiwan.com.cn
-host-suffix, jhwan.com.cn
-host-suffix, zhiliaowenda.com.cn
-host-suffix, lenovovip.com.cn
-host-suffix, lenovo.com.cn
-host-suffix, baiying.com.cn
-host-suffix, lenovo.com.cdn.cloudflare.net
+host-suffix, lenovomm.com, proxy
+host-suffix, iprintworks.cn, proxy
+host-suffix, cftsupport.com, proxy
+host-suffix, ileapcloud.com, proxy
+host-suffix, lenovocloudos.com, proxy
+host-suffix, lenovo.cn, proxy
+host-suffix, lenovo.com, proxy
+host-suffix, lenovoeservice.com, proxy
+host-suffix, lxzjjt.cn, proxy
+host-suffix, lxzjjt.com, proxy
+host-suffix, thinkcloudlab.com, proxy
+host-suffix, thinkpad.com, proxy
+host-suffix, lenovopoc.com, proxy
+host-suffix, lenovofile.com, proxy
+host-suffix, filez.com, proxy
+host-suffix, bestrhy.com, proxy
+host-suffix, lecoo.com, proxy
+host-suffix, blurdev.com, proxy
+host-suffix, lx.run, proxy
+host-suffix, fm365.com, proxy
+host-suffix, idea123.cn, proxy
+host-suffix, zxsales.cn, proxy
+host-suffix, juhuiwan.com, proxy
+host-suffix, thinkprinter.net, proxy
+host-suffix, juhuiwan.net, proxy
+host-suffix, lenauth.com, proxy
+host-suffix, lenovogame.com, proxy
+host-suffix, lenovomm.cn, proxy
+host-suffix, baiying.cn, proxy
+host-suffix, lenovocust.cn, proxy
+host-suffix, chainedbox.com, proxy
+host-suffix, surepush.cn, proxy
+host-suffix, zui.cn, proxy
+host-suffix, zui.com, proxy
+host-suffix, zuk.cn, proxy
+host-suffix, zuk.com, proxy
+host-suffix, thinkprinter.cn, proxy
+host-suffix, lenovoprinter.net, proxy
+host-suffix, lx.pub, proxy
+host-suffix, lenovomobile.com, proxy
+host-suffix, cunchuhulian-ln.cn, proxy
+host-suffix, lenovonetapp.com, proxy
+host-suffix, dayin8.com, proxy
+host-suffix, lenovo.net, proxy
+host-suffix, lenovoimage.cn, proxy
+host-suffix, lenovoimage.com, proxy
+host-suffix, lenovoprinter.com, proxy
+host-suffix, lenovoprinter.com.cn, proxy
+host-suffix, lenovocare.com.cn, proxy
+host-suffix, zuk.com.cn, proxy
+host-suffix, thinkprinter.com.cn, proxy
+host-suffix, juhuiwan.com.cn, proxy
+host-suffix, jhwan.com.cn, proxy
+host-suffix, zhiliaowenda.com.cn, proxy
+host-suffix, lenovovip.com.cn, proxy
+host-suffix, lenovo.com.cn, proxy
+host-suffix, baiying.com.cn, proxy
+host-suffix, lenovo.com.cdn.cloudflare.net, proxy

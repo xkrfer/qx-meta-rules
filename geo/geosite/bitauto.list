@@ -1,5 +1,5 @@
-host-suffix, bitauto.com
-host-suffix, bitautoimg.com
-host-suffix, cheyisou.com
-host-suffix, yiche.com
-host-suffix, yccdn.com
+host-suffix, bitauto.com, proxy
+host-suffix, bitautoimg.com, proxy
+host-suffix, cheyisou.com, proxy
+host-suffix, yiche.com, proxy
+host-suffix, yccdn.com, proxy

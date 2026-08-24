@@ -1,6 +1,6 @@
-ip-cidr, 64.127.64.0/20
-ip-cidr, 69.176.64.0/20
-ip-cidr, 72.9.192.0/19
-ip-cidr, 216.9.64.0/19
-ip-cidr, 216.27.192.0/18
-ip6-cidr, 2607:700::/32
+ip-cidr, 64.127.64.0/20, proxy, no-resolve
+ip-cidr, 69.176.64.0/20, proxy, no-resolve
+ip-cidr, 72.9.192.0/19, proxy, no-resolve
+ip-cidr, 216.9.64.0/19, proxy, no-resolve
+ip-cidr, 216.27.192.0/18, proxy, no-resolve
+ip6-cidr, 2607:700::/32, proxy, no-resolve

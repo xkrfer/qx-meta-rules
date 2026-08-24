@@ -1,5 +1,5 @@
-host-suffix, tianpeng.com
-host-suffix, zbj.com
-host-suffix, zbjdev.com
-host-suffix, zbjimg.com
-host-suffix, zhubajie.com
+host-suffix, tianpeng.com, proxy
+host-suffix, zbj.com, proxy
+host-suffix, zbjdev.com, proxy
+host-suffix, zbjimg.com, proxy
+host-suffix, zhubajie.com, proxy

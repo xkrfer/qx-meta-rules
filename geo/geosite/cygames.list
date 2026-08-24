@@ -1,5 +1,5 @@
-host-suffix, cygames.jp
-host-suffix, worldflipper.jp
-host-suffix, cygames.co.jp
-host-suffix, worldflipper.akamaized.net
-host-suffix, umamusume.akamaized.net
+host-suffix, cygames.jp, proxy
+host-suffix, worldflipper.jp, proxy
+host-suffix, cygames.co.jp, proxy
+host-suffix, worldflipper.akamaized.net, proxy
+host-suffix, umamusume.akamaized.net, proxy

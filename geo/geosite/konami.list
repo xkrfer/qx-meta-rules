@@ -1,19 +1,19 @@
-host-suffix, konamionline.com
-host-suffix, konamigaming.net
-host-suffix, kiwi.jp
-host-suffix, konamigaming.com
-host-suffix, yugioh-card.com
-host-suffix, konami.com
-host-suffix, konami.net
-host-suffix, konami.org
-host-suffix, kgisystems.com
-host-suffix, konamicrossmedia.com
-host-suffix, konami-igaming.online
-host-suffix, konamigaming.online
-host-suffix, 573.jp
-host-suffix, konamiopen.jp
-host-suffix, konamisportsclub.jp
-host-suffix, konamistyle.jp
-host-suffix, resella.jp
-host-suffix, resellablue.com
-host-suffix, konami.co.jp
+host-suffix, konamionline.com, proxy
+host-suffix, konamigaming.net, proxy
+host-suffix, kiwi.jp, proxy
+host-suffix, konamigaming.com, proxy
+host-suffix, yugioh-card.com, proxy
+host-suffix, konami.com, proxy
+host-suffix, konami.net, proxy
+host-suffix, konami.org, proxy
+host-suffix, kgisystems.com, proxy
+host-suffix, konamicrossmedia.com, proxy
+host-suffix, konami-igaming.online, proxy
+host-suffix, konamigaming.online, proxy
+host-suffix, 573.jp, proxy
+host-suffix, konamiopen.jp, proxy
+host-suffix, konamisportsclub.jp, proxy
+host-suffix, konamistyle.jp, proxy
+host-suffix, resella.jp, proxy
+host-suffix, resellablue.com, proxy
+host-suffix, konami.co.jp, proxy

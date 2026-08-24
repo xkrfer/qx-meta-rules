@@ -1,6 +1,6 @@
-ip-cidr, 44.32.192.0/24
-ip6-cidr, 2a14:7581:b40::/48
-ip6-cidr, 2a14:7581:b44::/48
-ip6-cidr, 2a14:7581:ba0::/48
-ip6-cidr, 2a14:7581:bbb::/48
-ip6-cidr, 2a14:7581:bcd::/48
+ip-cidr, 44.32.192.0/24, proxy, no-resolve
+ip6-cidr, 2a14:7581:b40::/48, proxy, no-resolve
+ip6-cidr, 2a14:7581:b44::/48, proxy, no-resolve
+ip6-cidr, 2a14:7581:ba0::/48, proxy, no-resolve
+ip6-cidr, 2a14:7581:bbb::/48, proxy, no-resolve
+ip6-cidr, 2a14:7581:bcd::/48, proxy, no-resolve

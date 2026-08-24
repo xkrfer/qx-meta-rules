@@ -1,11 +1,11 @@
-host-suffix, iflyink.com
-host-suffix, iflyrec.com
-host-suffix, iflysec.com
-host-suffix, iflytek.com
-host-suffix, voicecloud.cn
-host-suffix, xfyun.cn
-host-suffix, xunfei.cn
-host-suffix, ets100.com
-host-suffix, zhixue.com
-host-suffix, changyan.com
-host-suffix, xunfeixxj.com
+host-suffix, iflyink.com, proxy
+host-suffix, iflyrec.com, proxy
+host-suffix, iflysec.com, proxy
+host-suffix, iflytek.com, proxy
+host-suffix, voicecloud.cn, proxy
+host-suffix, xfyun.cn, proxy
+host-suffix, xunfei.cn, proxy
+host-suffix, ets100.com, proxy
+host-suffix, zhixue.com, proxy
+host-suffix, changyan.com, proxy
+host-suffix, xunfeixxj.com, proxy

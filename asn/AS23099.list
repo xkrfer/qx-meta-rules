@@ -1,3 +1,3 @@
-ip-cidr, 198.204.105.0/24
-ip-cidr, 204.63.198.0/23
-ip6-cidr, 2620:9:c000::/48
+ip-cidr, 198.204.105.0/24, proxy, no-resolve
+ip-cidr, 204.63.198.0/23, proxy, no-resolve
+ip6-cidr, 2620:9:c000::/48, proxy, no-resolve

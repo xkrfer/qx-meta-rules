@@ -1,2 +1,2 @@
-host-suffix, hongkongpost.gov.hk
-host-suffix, ecert.gov.hk
+host-suffix, hongkongpost.gov.hk, proxy
+host-suffix, ecert.gov.hk, proxy

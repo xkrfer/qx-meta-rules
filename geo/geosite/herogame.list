@@ -1,5 +1,5 @@
-host-suffix, hero.com
-host-suffix, herogame.com
-host-suffix, heroesports.com
-host-suffix, shyxhy.com
-host-suffix, yingxiong.com
+host-suffix, hero.com, proxy
+host-suffix, herogame.com, proxy
+host-suffix, heroesports.com, proxy
+host-suffix, shyxhy.com, proxy
+host-suffix, yingxiong.com, proxy

@@ -1,17 +1,17 @@
-host-suffix, pec.ir
-host-suffix, vandar.app
-host-suffix, behpardakht.com
-host-suffix, bitbarg.me
-host-suffix, iranicard.ir
-host-suffix, mydigipay.com
-host-suffix, pay.ir
-host-suffix, payping.ir
-host-suffix, asanpardakht.net
-host-suffix, zarinpal.com
-host-suffix, asanpardakht.com
-host-suffix, sep.ir
-host-suffix, shaparak.ir
-host-suffix, sadadpsp.ir
-host-suffix, vandar.io
-host-suffix, weswap.digital
-host-suffix, pep.co.ir
+host-suffix, pec.ir, proxy
+host-suffix, vandar.app, proxy
+host-suffix, behpardakht.com, proxy
+host-suffix, bitbarg.me, proxy
+host-suffix, iranicard.ir, proxy
+host-suffix, mydigipay.com, proxy
+host-suffix, pay.ir, proxy
+host-suffix, payping.ir, proxy
+host-suffix, asanpardakht.net, proxy
+host-suffix, zarinpal.com, proxy
+host-suffix, asanpardakht.com, proxy
+host-suffix, sep.ir, proxy
+host-suffix, shaparak.ir, proxy
+host-suffix, sadadpsp.ir, proxy
+host-suffix, vandar.io, proxy
+host-suffix, weswap.digital, proxy
+host-suffix, pep.co.ir, proxy

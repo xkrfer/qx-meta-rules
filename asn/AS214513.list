@@ -1,1 +1,1 @@
-ip6-cidr, 2a10:ccc3:ca74::/47
+ip6-cidr, 2a10:ccc3:ca74::/47, proxy, no-resolve

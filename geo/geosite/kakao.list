@@ -1,57 +1,57 @@
-host-suffix, kakaogamescorp.com
-host-suffix, starship-ent.com
-host-suffix, daumkakao.io
-host-suffix, kakao.com
-host-suffix, zigzag.kr
-host-suffix, kakaocdn.net
-host-suffix, kakaocorp.com
-host-suffix, kakaotalk.jp
-host-suffix, kgslb.com
-host-suffix, onkakao.net
-host-suffix, kakao.vc
-host-suffix, kakaobrain.com
-host-suffix, kakaoinvestment.com
-host-suffix, kakaomobility.com
-host-suffix, kakaopiccoma.com
-host-suffix, kakaobank.com
-host-suffix, kakaobank.io
-host-suffix, kakaobankcontent.com
-host-suffix, kakaoenterprise.com
-host-suffix, kakaocloud.com
-host-suffix, kakaoilaas.com
-host-suffix, 1thek.com
-host-suffix, posty.kr
-host-suffix, kakaostyle.com
-host-suffix, fashionbykakao.com
-host-suffix, dolphiners.com
-host-suffix, gleline.com
-host-suffix, kpinsurances.com
-host-suffix, daumcdn.net
-host-suffix, krosspictures.com
-host-suffix, kakaopaysec.com
-host-suffix, kakaopay.com
-host-suffix, pastahealth.com
-host-suffix, melon.com
-host-suffix, msoopent.com
-host-suffix, karechat.ai
-host-suffix, shownote.com
-host-suffix, kakaoent.com
-host-suffix, stuidok110.com
-host-suffix, vastenm.com
-host-suffix, zipcine.com
-host-suffix, daumpcbang.com
-host-suffix, daum.net
-host-suffix, kakaovx.com
-host-suffix, kakaohealthcare.com
-host-suffix, metabora.io
-host-suffix, sena.co.kr
-host-suffix, lionhearts.co.kr
-host-suffix, ootbstudio.co.kr
-host-suffix, megamon.co.kr
-host-suffix, logosfilm.co.kr
-host-suffix, jwide.co.kr
-host-suffix, istent.co.kr
-host-suffix, bhent.co.kr
-host-suffix, awesomeent.co.kr
-host-suffix, antenna.co.kr
-host-suffix, kakao.co.kr
+host-suffix, kakaogamescorp.com, proxy
+host-suffix, starship-ent.com, proxy
+host-suffix, daumkakao.io, proxy
+host-suffix, kakao.com, proxy
+host-suffix, zigzag.kr, proxy
+host-suffix, kakaocdn.net, proxy
+host-suffix, kakaocorp.com, proxy
+host-suffix, kakaotalk.jp, proxy
+host-suffix, kgslb.com, proxy
+host-suffix, onkakao.net, proxy
+host-suffix, kakao.vc, proxy
+host-suffix, kakaobrain.com, proxy
+host-suffix, kakaoinvestment.com, proxy
+host-suffix, kakaomobility.com, proxy
+host-suffix, kakaopiccoma.com, proxy
+host-suffix, kakaobank.com, proxy
+host-suffix, kakaobank.io, proxy
+host-suffix, kakaobankcontent.com, proxy
+host-suffix, kakaoenterprise.com, proxy
+host-suffix, kakaocloud.com, proxy
+host-suffix, kakaoilaas.com, proxy
+host-suffix, 1thek.com, proxy
+host-suffix, posty.kr, proxy
+host-suffix, kakaostyle.com, proxy
+host-suffix, fashionbykakao.com, proxy
+host-suffix, dolphiners.com, proxy
+host-suffix, gleline.com, proxy
+host-suffix, kpinsurances.com, proxy
+host-suffix, daumcdn.net, proxy
+host-suffix, krosspictures.com, proxy
+host-suffix, kakaopaysec.com, proxy
+host-suffix, kakaopay.com, proxy
+host-suffix, pastahealth.com, proxy
+host-suffix, melon.com, proxy
+host-suffix, msoopent.com, proxy
+host-suffix, karechat.ai, proxy
+host-suffix, shownote.com, proxy
+host-suffix, kakaoent.com, proxy
+host-suffix, stuidok110.com, proxy
+host-suffix, vastenm.com, proxy
+host-suffix, zipcine.com, proxy
+host-suffix, daumpcbang.com, proxy
+host-suffix, daum.net, proxy
+host-suffix, kakaovx.com, proxy
+host-suffix, kakaohealthcare.com, proxy
+host-suffix, metabora.io, proxy
+host-suffix, sena.co.kr, proxy
+host-suffix, lionhearts.co.kr, proxy
+host-suffix, ootbstudio.co.kr, proxy
+host-suffix, megamon.co.kr, proxy
+host-suffix, logosfilm.co.kr, proxy
+host-suffix, jwide.co.kr, proxy
+host-suffix, istent.co.kr, proxy
+host-suffix, bhent.co.kr, proxy
+host-suffix, awesomeent.co.kr, proxy
+host-suffix, antenna.co.kr, proxy
+host-suffix, kakao.co.kr, proxy

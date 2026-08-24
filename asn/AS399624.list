@@ -1,11 +1,11 @@
-ip6-cidr, 2602:f7a7::/44
-ip6-cidr, 2602:f7a7:11::/48
-ip6-cidr, 2602:f7a7:12::/47
-ip6-cidr, 2602:f7a7:14::/46
-ip6-cidr, 2602:f7a7:18::/45
-ip6-cidr, 2602:f7a7:22::/47
-ip6-cidr, 2602:f7a7:24::/46
-ip6-cidr, 2602:f7a7:28::/45
-ip6-cidr, 2602:f7a7:30::/44
-ip6-cidr, 2602:f7a7:40::/42
-ip6-cidr, 2602:f7a7:80::/41
+ip6-cidr, 2602:f7a7::/44, proxy, no-resolve
+ip6-cidr, 2602:f7a7:11::/48, proxy, no-resolve
+ip6-cidr, 2602:f7a7:12::/47, proxy, no-resolve
+ip6-cidr, 2602:f7a7:14::/46, proxy, no-resolve
+ip6-cidr, 2602:f7a7:18::/45, proxy, no-resolve
+ip6-cidr, 2602:f7a7:22::/47, proxy, no-resolve
+ip6-cidr, 2602:f7a7:24::/46, proxy, no-resolve
+ip6-cidr, 2602:f7a7:28::/45, proxy, no-resolve
+ip6-cidr, 2602:f7a7:30::/44, proxy, no-resolve
+ip6-cidr, 2602:f7a7:40::/42, proxy, no-resolve
+ip6-cidr, 2602:f7a7:80::/41, proxy, no-resolve

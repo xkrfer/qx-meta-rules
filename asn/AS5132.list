@@ -1,4 +1,4 @@
-ip6-cidr, 2001:480:a0::/47
-ip6-cidr, 2001:480:aa::/47
-ip6-cidr, 2001:480:b0::/48
-ip6-cidr, 2001:480:1801::/48
+ip6-cidr, 2001:480:a0::/47, proxy, no-resolve
+ip6-cidr, 2001:480:aa::/47, proxy, no-resolve
+ip6-cidr, 2001:480:b0::/48, proxy, no-resolve
+ip6-cidr, 2001:480:1801::/48, proxy, no-resolve

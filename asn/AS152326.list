@@ -1,2 +1,2 @@
-ip-cidr, 110.235.159.0/24
-ip6-cidr, 2400:6a80:8660::/45
+ip-cidr, 110.235.159.0/24, proxy, no-resolve
+ip6-cidr, 2400:6a80:8660::/45, proxy, no-resolve

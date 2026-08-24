@@ -1,9 +1,9 @@
-ip-cidr, 151.151.0.0/18
-ip-cidr, 151.151.64.0/19
-ip-cidr, 159.45.0.0/18
-ip-cidr, 159.45.160.0/19
-ip-cidr, 162.29.64.0/18
-ip-cidr, 171.72.194.0/23
-ip-cidr, 171.72.198.0/23
-ip6-cidr, 2620:160:e700::/44
-ip6-cidr, 2620:160:eb00::/44
+ip-cidr, 151.151.0.0/18, proxy, no-resolve
+ip-cidr, 151.151.64.0/19, proxy, no-resolve
+ip-cidr, 159.45.0.0/18, proxy, no-resolve
+ip-cidr, 159.45.160.0/19, proxy, no-resolve
+ip-cidr, 162.29.64.0/18, proxy, no-resolve
+ip-cidr, 171.72.194.0/23, proxy, no-resolve
+ip-cidr, 171.72.198.0/23, proxy, no-resolve
+ip6-cidr, 2620:160:e700::/44, proxy, no-resolve
+ip6-cidr, 2620:160:eb00::/44, proxy, no-resolve

@@ -1,2 +1,2 @@
-host-suffix, ipip.net
-host-suffix, myip.la
+host-suffix, ipip.net, proxy
+host-suffix, myip.la, proxy

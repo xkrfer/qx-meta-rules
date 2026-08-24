@@ -1,4 +1,4 @@
-host-suffix, dcard.cc
-host-suffix, dcard.io
-host-suffix, dcard.link
-host-suffix, dcard.tw
+host-suffix, dcard.cc, proxy
+host-suffix, dcard.io, proxy
+host-suffix, dcard.link, proxy
+host-suffix, dcard.tw, proxy

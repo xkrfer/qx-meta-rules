@@ -1,2 +1,2 @@
-ip-cidr, 38.224.29.0/24
-ip-cidr, 38.255.8.0/24
+ip-cidr, 38.224.29.0/24, proxy, no-resolve
+ip-cidr, 38.255.8.0/24, proxy, no-resolve

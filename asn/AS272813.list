@@ -1,4 +1,4 @@
-ip-cidr, 38.56.94.0/24
-ip-cidr, 38.135.4.0/24
-ip-cidr, 38.211.39.0/24
-ip6-cidr, 2803:8490::/32
+ip-cidr, 38.56.94.0/24, proxy, no-resolve
+ip-cidr, 38.135.4.0/24, proxy, no-resolve
+ip-cidr, 38.211.39.0/24, proxy, no-resolve
+ip6-cidr, 2803:8490::/32, proxy, no-resolve

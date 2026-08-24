@@ -1,68 +1,68 @@
-host-suffix, epochtimes.eu
-host-suffix, ntd.tv
-host-suffix, edninfo.com
-host-suffix, epoch.cloud
-host-suffix, velkaepocha.cz
-host-suffix, epochbase.com
-host-suffix, epochbuy.com
-host-suffix, epochcar.com
-host-suffix, epochhk.com
-host-suffix, epochmall.com
-host-suffix, epochmediagroup.com
-host-suffix, epochshop.com
-host-suffix, epochstories.com
-host-suffix, epochtime.com
-host-suffix, epochtimes-bg.com
-host-suffix, epochtimes-romania.com
-host-suffix, epochtimes.bg
-host-suffix, dajiyuan.com
-host-suffix, theepochtimessubscribe.com
-host-suffix, theepochtimes.com
-host-suffix, epochtimes.com
-host-suffix, renminbao.com
-host-suffix, persianepochtimes.com
-host-suffix, ntdvn.com
-host-suffix, ntdvideo.tw
-host-suffix, ntdtvla.com
-host-suffix, dajiyuan.eu
-host-suffix, epochtimes.cz
-host-suffix, ntdtv-dc.com
-host-suffix, epochtimes.fr
-host-suffix, epochtimes.it
-host-suffix, epochtimes.jp
-host-suffix, epochtimes.nl
-host-suffix, epochtimes.pl
-host-suffix, epochtimes.ru
-host-suffix, epochtimes.se
-host-suffix, epochtimeshk.org
-host-suffix, epochtimestr.com
-host-suffix, epochweek.com
-host-suffix, epochweekly.com
-host-suffix, erabaru.net
-host-suffix, etviet.com
-host-suffix, lagranepoca.com
-host-suffix, minghui.org
-host-suffix, ntd.com
-host-suffix, epochtimes.de
-host-suffix, ntdca.com
-host-suffix, ntdimg.com
-host-suffix, ntdtv.kr
-host-suffix, ntdtv.ca
-host-suffix, ntdtv.se
-host-suffix, ntdtv.ru
-host-suffix, ntdtv.com
-host-suffix, ntdtv.org
-host-suffix, ntdtv.fr
-host-suffix, ntdtv.jp
-host-suffix, epochtimes.co.il
-host-suffix, ntdtv.com.tw
-host-suffix, ntdtv.co.kr
-host-suffix, ntdtv.co.il
-host-suffix, epochtimes.com.ua
-host-suffix, epochtimes.com.tw
-host-suffix, epochtimes.com.sg
-host-suffix, epochtimes.com.br
-host-suffix, epochtimes.com.au
-host-suffix, epochtimes.co.uk
-host-suffix, epochtimes.co.kr
-host-suffix, epoch.org.il
+host-suffix, epochtimes.eu, proxy
+host-suffix, ntd.tv, proxy
+host-suffix, edninfo.com, proxy
+host-suffix, epoch.cloud, proxy
+host-suffix, velkaepocha.cz, proxy
+host-suffix, epochbase.com, proxy
+host-suffix, epochbuy.com, proxy
+host-suffix, epochcar.com, proxy
+host-suffix, epochhk.com, proxy
+host-suffix, epochmall.com, proxy
+host-suffix, epochmediagroup.com, proxy
+host-suffix, epochshop.com, proxy
+host-suffix, epochstories.com, proxy
+host-suffix, epochtime.com, proxy
+host-suffix, epochtimes-bg.com, proxy
+host-suffix, epochtimes-romania.com, proxy
+host-suffix, epochtimes.bg, proxy
+host-suffix, dajiyuan.com, proxy
+host-suffix, theepochtimessubscribe.com, proxy
+host-suffix, theepochtimes.com, proxy
+host-suffix, epochtimes.com, proxy
+host-suffix, renminbao.com, proxy
+host-suffix, persianepochtimes.com, proxy
+host-suffix, ntdvn.com, proxy
+host-suffix, ntdvideo.tw, proxy
+host-suffix, ntdtvla.com, proxy
+host-suffix, dajiyuan.eu, proxy
+host-suffix, epochtimes.cz, proxy
+host-suffix, ntdtv-dc.com, proxy
+host-suffix, epochtimes.fr, proxy
+host-suffix, epochtimes.it, proxy
+host-suffix, epochtimes.jp, proxy
+host-suffix, epochtimes.nl, proxy
+host-suffix, epochtimes.pl, proxy
+host-suffix, epochtimes.ru, proxy
+host-suffix, epochtimes.se, proxy
+host-suffix, epochtimeshk.org, proxy
+host-suffix, epochtimestr.com, proxy
+host-suffix, epochweek.com, proxy
+host-suffix, epochweekly.com, proxy
+host-suffix, erabaru.net, proxy
+host-suffix, etviet.com, proxy
+host-suffix, lagranepoca.com, proxy
+host-suffix, minghui.org, proxy
+host-suffix, ntd.com, proxy
+host-suffix, epochtimes.de, proxy
+host-suffix, ntdca.com, proxy
+host-suffix, ntdimg.com, proxy
+host-suffix, ntdtv.kr, proxy
+host-suffix, ntdtv.ca, proxy
+host-suffix, ntdtv.se, proxy
+host-suffix, ntdtv.ru, proxy
+host-suffix, ntdtv.com, proxy
+host-suffix, ntdtv.org, proxy
+host-suffix, ntdtv.fr, proxy
+host-suffix, ntdtv.jp, proxy
+host-suffix, epochtimes.co.il, proxy
+host-suffix, ntdtv.com.tw, proxy
+host-suffix, ntdtv.co.kr, proxy
+host-suffix, ntdtv.co.il, proxy
+host-suffix, epochtimes.com.ua, proxy
+host-suffix, epochtimes.com.tw, proxy
+host-suffix, epochtimes.com.sg, proxy
+host-suffix, epochtimes.com.br, proxy
+host-suffix, epochtimes.com.au, proxy
+host-suffix, epochtimes.co.uk, proxy
+host-suffix, epochtimes.co.kr, proxy
+host-suffix, epoch.org.il, proxy

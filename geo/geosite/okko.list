@@ -1,4 +1,4 @@
-host-suffix, okkoapi.tv
-host-suffix, playfamily.ru
-host-suffix, okko.sport
-host-suffix, okko.tv
+host-suffix, okkoapi.tv, proxy
+host-suffix, playfamily.ru, proxy
+host-suffix, okko.sport, proxy
+host-suffix, okko.tv, proxy

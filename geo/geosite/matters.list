@@ -1,4 +1,4 @@
-host-suffix, matters.news
-host-suffix, matters.one
-host-suffix, matters.town
-host-suffix, mattersprotocol.io
+host-suffix, matters.news, proxy
+host-suffix, matters.one, proxy
+host-suffix, matters.town, proxy
+host-suffix, mattersprotocol.io, proxy

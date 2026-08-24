@@ -1,2 +1,2 @@
-host-suffix, meduza.io
-host-suffix, meduza-flutter.firebaseapp.com
+host-suffix, meduza.io, proxy
+host-suffix, meduza-flutter.firebaseapp.com, proxy

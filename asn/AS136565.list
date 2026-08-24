@@ -1,4 +1,4 @@
-ip-cidr, 103.20.122.0/23
-ip6-cidr, 2405:2500:25::/48
-ip6-cidr, 2405:2500:26::/48
-ip6-cidr, 2405:2500:65::/48
+ip-cidr, 103.20.122.0/23, proxy, no-resolve
+ip6-cidr, 2405:2500:25::/48, proxy, no-resolve
+ip6-cidr, 2405:2500:26::/48, proxy, no-resolve
+ip6-cidr, 2405:2500:65::/48, proxy, no-resolve

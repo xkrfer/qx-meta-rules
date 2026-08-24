@@ -1,16 +1,16 @@
-host-suffix, businessinsider.jp
-host-suffix, businessinsider.mx
-host-suffix, insiderintelligence.com
-host-suffix, insider.com
-host-suffix, businessinsider.de
-host-suffix, businessinsider.es
-host-suffix, businessinsider.com
-host-suffix, businessinsider.fr
-host-suffix, insider-intelligence.com
-host-suffix, businessinsider.in
-host-suffix, businessinsider.my
-host-suffix, businessinsider.nl
-host-suffix, businessinsider.sg
-host-suffix, businessinsider.co.za
-host-suffix, businessinsider.com.pl
-host-suffix, businessinsider.com.au
+host-suffix, businessinsider.jp, proxy
+host-suffix, businessinsider.mx, proxy
+host-suffix, insiderintelligence.com, proxy
+host-suffix, insider.com, proxy
+host-suffix, businessinsider.de, proxy
+host-suffix, businessinsider.es, proxy
+host-suffix, businessinsider.com, proxy
+host-suffix, businessinsider.fr, proxy
+host-suffix, insider-intelligence.com, proxy
+host-suffix, businessinsider.in, proxy
+host-suffix, businessinsider.my, proxy
+host-suffix, businessinsider.nl, proxy
+host-suffix, businessinsider.sg, proxy
+host-suffix, businessinsider.co.za, proxy
+host-suffix, businessinsider.com.pl, proxy
+host-suffix, businessinsider.com.au, proxy

@@ -1,4 +1,4 @@
-host-suffix, ao3.org
-host-suffix, archiveofourown.org
-host-suffix, archiveofourown.com
-host-suffix, archiveofourown.net
+host-suffix, ao3.org, proxy
+host-suffix, archiveofourown.org, proxy
+host-suffix, archiveofourown.com, proxy
+host-suffix, archiveofourown.net, proxy

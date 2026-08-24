@@ -1,4 +1,4 @@
-host-suffix, codeium.com
-host-suffix, codeiumdata.com
-host-suffix, windsurf.build
-host-suffix, windsurf.com
+host-suffix, codeium.com, proxy
+host-suffix, codeiumdata.com, proxy
+host-suffix, windsurf.build, proxy
+host-suffix, windsurf.com, proxy

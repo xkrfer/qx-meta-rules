@@ -1,2 +1,2 @@
-host-suffix, liveperson.net
-host-suffix, lpsnmedia.net
+host-suffix, liveperson.net, proxy
+host-suffix, lpsnmedia.net, proxy

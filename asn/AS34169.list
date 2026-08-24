@@ -1,4 +1,4 @@
-ip-cidr, 81.30.130.0/23
-ip-cidr, 81.30.132.0/22
-ip-cidr, 83.142.120.0/21
-ip-cidr, 193.187.176.0/22
+ip-cidr, 81.30.130.0/23, proxy, no-resolve
+ip-cidr, 81.30.132.0/22, proxy, no-resolve
+ip-cidr, 83.142.120.0/21, proxy, no-resolve
+ip-cidr, 193.187.176.0/22, proxy, no-resolve

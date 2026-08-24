@@ -1,4 +1,4 @@
-ip-cidr, 77.111.244.0/22
-ip6-cidr, 2001:67c:198c::/48
-ip6-cidr, 2001:67c:2628::/48
-ip6-cidr, 2001:67c:2660::/48
+ip-cidr, 77.111.244.0/22, proxy, no-resolve
+ip6-cidr, 2001:67c:198c::/48, proxy, no-resolve
+ip6-cidr, 2001:67c:2628::/48, proxy, no-resolve
+ip6-cidr, 2001:67c:2660::/48, proxy, no-resolve

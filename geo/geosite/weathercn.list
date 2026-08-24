@@ -1,5 +1,5 @@
-host-suffix, hf-aw.cn
-host-suffix, hf-aw.com
-host-suffix, huafeng-accuweather.cn
-host-suffix, huafengaw.com
-host-suffix, weathercn.com
+host-suffix, hf-aw.cn, proxy
+host-suffix, hf-aw.com, proxy
+host-suffix, huafeng-accuweather.cn, proxy
+host-suffix, huafengaw.com, proxy
+host-suffix, weathercn.com, proxy

@@ -1,2 +1,2 @@
-host, geetest.datasink.sensorsdata.cn
-host-suffix, geetest.com
+host, geetest.datasink.sensorsdata.cn, proxy
+host-suffix, geetest.com, proxy

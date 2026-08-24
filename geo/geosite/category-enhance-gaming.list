@@ -1,18 +1,18 @@
-host-suffix, battleye.com
-host-suffix, bluestacks.com
-host-suffix, maa.plus
-host-suffix, prts.plus
-host-suffix, poi.moe
-host-suffix, thetrackernetwork.com
-host-suffix, tracker.gg
-host-suffix, tracker.network
-host-suffix, playcover.io
-host-suffix, fflogs.com
-host-suffix, rpglogs.com
-host-suffix, playcover.workers.dev
-host-suffix, ldmnq.com
-host-suffix, lsplayer.com
-host-suffix, yeshen.com
-host-suffix, heavenlywind.cc
-host-suffix, steampp.net
-host-suffix, rpglogs.cn
+host-suffix, battleye.com, proxy
+host-suffix, bluestacks.com, proxy
+host-suffix, maa.plus, proxy
+host-suffix, prts.plus, proxy
+host-suffix, poi.moe, proxy
+host-suffix, thetrackernetwork.com, proxy
+host-suffix, tracker.gg, proxy
+host-suffix, tracker.network, proxy
+host-suffix, playcover.io, proxy
+host-suffix, fflogs.com, proxy
+host-suffix, rpglogs.com, proxy
+host-suffix, playcover.workers.dev, proxy
+host-suffix, ldmnq.com, proxy
+host-suffix, lsplayer.com, proxy
+host-suffix, yeshen.com, proxy
+host-suffix, heavenlywind.cc, proxy
+host-suffix, steampp.net, proxy
+host-suffix, rpglogs.cn, proxy

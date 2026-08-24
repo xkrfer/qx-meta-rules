@@ -1,7 +1,7 @@
-host-suffix, fspcdn.com
-host-suffix, fun.tv
-host-suffix, funshion.com
-host-suffix, funshion.net
-host-suffix, ibidian.com
-host-suffix, jvcsmart.cn
-host-suffix, jvcsmart.com.cn
+host-suffix, fspcdn.com, proxy
+host-suffix, fun.tv, proxy
+host-suffix, funshion.com, proxy
+host-suffix, funshion.net, proxy
+host-suffix, ibidian.com, proxy
+host-suffix, jvcsmart.cn, proxy
+host-suffix, jvcsmart.com.cn, proxy

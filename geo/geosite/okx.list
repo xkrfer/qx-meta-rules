@@ -1,10 +1,10 @@
-host-suffix, okex.com
-host-suffix, okx-dns.com
-host-suffix, okx-dns1.com
-host-suffix, okx-dns2.com
-host-suffix, okx.ac
-host-suffix, okx.cab
-host-suffix, okx.com
-host-suffix, xlayer.tech
-host-suffix, okx.com.cdn.cloudflare.net
-host-suffix, oklink.com
+host-suffix, okex.com, proxy
+host-suffix, okx-dns.com, proxy
+host-suffix, okx-dns1.com, proxy
+host-suffix, okx-dns2.com, proxy
+host-suffix, okx.ac, proxy
+host-suffix, okx.cab, proxy
+host-suffix, okx.com, proxy
+host-suffix, xlayer.tech, proxy
+host-suffix, okx.com.cdn.cloudflare.net, proxy
+host-suffix, oklink.com, proxy

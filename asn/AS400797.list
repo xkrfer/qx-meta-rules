@@ -1,2 +1,2 @@
-ip-cidr, 130.250.137.0/24
-ip6-cidr, 2602:faf3::/48
+ip-cidr, 130.250.137.0/24, proxy, no-resolve
+ip6-cidr, 2602:faf3::/48, proxy, no-resolve

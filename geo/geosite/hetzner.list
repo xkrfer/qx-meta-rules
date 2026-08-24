@@ -1,15 +1,15 @@
-host-suffix, first-ns.de
-host-suffix, hetzner-cloud.de
-host-suffix, hetzner.cloud
-host-suffix, hetzner.com
-host-suffix, hetzner.company
-host-suffix, hetzner.de
-host-suffix, hetzner.social
-host-suffix, htznr.li
-host-suffix, second-ns.com
-host-suffix, second-ns.de
-host-suffix, your-objectstorage.com
-host-suffix, your-server.de
-host-suffix, your-storagebox.de
-host-suffix, your-storageshare.de
-host, sentry.hetzner.company
+host-suffix, first-ns.de, proxy
+host-suffix, hetzner-cloud.de, proxy
+host-suffix, hetzner.cloud, proxy
+host-suffix, hetzner.com, proxy
+host-suffix, hetzner.company, proxy
+host-suffix, hetzner.de, proxy
+host-suffix, hetzner.social, proxy
+host-suffix, htznr.li, proxy
+host-suffix, second-ns.com, proxy
+host-suffix, second-ns.de, proxy
+host-suffix, your-objectstorage.com, proxy
+host-suffix, your-server.de, proxy
+host-suffix, your-storagebox.de, proxy
+host-suffix, your-storageshare.de, proxy
+host, sentry.hetzner.company, proxy

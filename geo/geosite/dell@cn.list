@@ -1,7 +1,7 @@
-host-suffix, dell-brand.com
-host-suffix, dell.com.cn
-host-suffix, dell-alw.com
-host-suffix, dellemc.com.cn
-host-suffix, dellmobile.cn
-host-suffix, delltechnologies.com.cn
-host-suffix, platform.dell.com
+host-suffix, dell-brand.com, proxy
+host-suffix, dell.com.cn, proxy
+host-suffix, dell-alw.com, proxy
+host-suffix, dellemc.com.cn, proxy
+host-suffix, dellmobile.cn, proxy
+host-suffix, delltechnologies.com.cn, proxy
+host-suffix, platform.dell.com, proxy

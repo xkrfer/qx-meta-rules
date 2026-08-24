@@ -1,5 +1,5 @@
-ip-cidr, 27.254.141.0/24
-ip-cidr, 160.238.14.0/23
-ip-cidr, 202.157.149.0/24
-ip-cidr, 202.157.150.0/24
-ip6-cidr, 2402:6c20::/32
+ip-cidr, 27.254.141.0/24, proxy, no-resolve
+ip-cidr, 160.238.14.0/23, proxy, no-resolve
+ip-cidr, 202.157.149.0/24, proxy, no-resolve
+ip-cidr, 202.157.150.0/24, proxy, no-resolve
+ip6-cidr, 2402:6c20::/32, proxy, no-resolve

@@ -1,4 +1,4 @@
-ip-cidr, 96.126.70.0/24
-ip-cidr, 142.202.128.0/24
-ip6-cidr, 2602:fdd2::/38
-ip6-cidr, 2602:fdd2:800::/37
+ip-cidr, 96.126.70.0/24, proxy, no-resolve
+ip-cidr, 142.202.128.0/24, proxy, no-resolve
+ip6-cidr, 2602:fdd2::/38, proxy, no-resolve
+ip6-cidr, 2602:fdd2:800::/37, proxy, no-resolve

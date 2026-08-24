@@ -1,2 +1,2 @@
-host-suffix, techpowerup.com
-host-suffix, tpucdn.com
+host-suffix, techpowerup.com, proxy
+host-suffix, tpucdn.com, proxy

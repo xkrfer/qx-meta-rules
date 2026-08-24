@@ -1,5 +1,5 @@
-host-suffix, kurogame-service.com
-host-suffix, kurogame.net
-host-suffix, kurogames.net
-host-suffix, aki-game.net
-host-suffix, aki-game2.net
+host-suffix, kurogame-service.com, proxy
+host-suffix, kurogame.net, proxy
+host-suffix, kurogames.net, proxy
+host-suffix, aki-game.net, proxy
+host-suffix, aki-game2.net, proxy

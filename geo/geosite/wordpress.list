@@ -1,10 +1,10 @@
-host-suffix, videopress.com
-host-suffix, w.org
-host-suffix, wordcamp.org
-host-suffix, wordpress.com
-host-suffix, wordpress.net
-host-suffix, wordpress.org
-host-suffix, wordpress.tv
-host-suffix, wp-themes.com
-host-suffix, wp.com
-host-suffix, wpvip.com
+host-suffix, videopress.com, proxy
+host-suffix, w.org, proxy
+host-suffix, wordcamp.org, proxy
+host-suffix, wordpress.com, proxy
+host-suffix, wordpress.net, proxy
+host-suffix, wordpress.org, proxy
+host-suffix, wordpress.tv, proxy
+host-suffix, wp-themes.com, proxy
+host-suffix, wp.com, proxy
+host-suffix, wpvip.com, proxy

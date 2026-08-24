@@ -1,31 +1,31 @@
-host-suffix, cdnvideo.ru
-host-suffix, cdnvideohub.com
-host-suffix, kinescopecdn.net
-host-suffix, trbcdn.net
-host-suffix, kinorium.com
-host-suffix, 24h.tv
-host-suffix, amediateka.ru
-host-suffix, beeline.tv
-host-suffix, ivi.ru
-host-suffix, ivicdn.tv
-host-suffix, premier.one
-host-suffix, smotreshka.tv
-host-suffix, start.ru
-host-suffix, tvigle.ru
-host-suffix, viju.ru
-host-suffix, promodj.com
-host-suffix, okkoapi.tv
-host-suffix, playfamily.ru
-host-suffix, okko.sport
-host-suffix, okko.tv
-host-suffix, restream-media.net
-host-suffix, restream.ru
-host-suffix, more.tv
-host-suffix, wink.am
-host-suffix, wink.ru
-host-suffix, rutube.ru
-host-suffix, rutubelist.ru
-host-suffix, rtbcdn.ru
-host-suffix, rutube.sport
-host-suffix, kinopoisk.ru
-host-suffix, kinopoisk-ru.clstorage.net
+host-suffix, cdnvideo.ru, proxy
+host-suffix, cdnvideohub.com, proxy
+host-suffix, kinescopecdn.net, proxy
+host-suffix, trbcdn.net, proxy
+host-suffix, kinorium.com, proxy
+host-suffix, 24h.tv, proxy
+host-suffix, amediateka.ru, proxy
+host-suffix, beeline.tv, proxy
+host-suffix, ivi.ru, proxy
+host-suffix, ivicdn.tv, proxy
+host-suffix, premier.one, proxy
+host-suffix, smotreshka.tv, proxy
+host-suffix, start.ru, proxy
+host-suffix, tvigle.ru, proxy
+host-suffix, viju.ru, proxy
+host-suffix, promodj.com, proxy
+host-suffix, okkoapi.tv, proxy
+host-suffix, playfamily.ru, proxy
+host-suffix, okko.sport, proxy
+host-suffix, okko.tv, proxy
+host-suffix, restream-media.net, proxy
+host-suffix, restream.ru, proxy
+host-suffix, more.tv, proxy
+host-suffix, wink.am, proxy
+host-suffix, wink.ru, proxy
+host-suffix, rutube.ru, proxy
+host-suffix, rutubelist.ru, proxy
+host-suffix, rtbcdn.ru, proxy
+host-suffix, rutube.sport, proxy
+host-suffix, kinopoisk.ru, proxy
+host-suffix, kinopoisk-ru.clstorage.net, proxy

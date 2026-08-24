@@ -1,2 +1,2 @@
-ip-cidr, 55.45.0.0/16
-ip6-cidr, 2608:14b:5100::/40
+ip-cidr, 55.45.0.0/16, proxy, no-resolve
+ip6-cidr, 2608:14b:5100::/40, proxy, no-resolve

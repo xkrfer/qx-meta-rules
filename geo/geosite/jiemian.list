@@ -1,8 +1,8 @@
-host-suffix, cailianpress.com
-host-suffix, chinastarmarket.cn
-host-suffix, cls.cn
-host-suffix, jiemian.com
-host-suffix, jingpt.com
-host-suffix, lanjinger.com
-host-suffix, moer.cn
-host-suffix, jiemian.com.cn
+host-suffix, cailianpress.com, proxy
+host-suffix, chinastarmarket.cn, proxy
+host-suffix, cls.cn, proxy
+host-suffix, jiemian.com, proxy
+host-suffix, jingpt.com, proxy
+host-suffix, lanjinger.com, proxy
+host-suffix, moer.cn, proxy
+host-suffix, jiemian.com.cn, proxy

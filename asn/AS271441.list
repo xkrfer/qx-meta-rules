@@ -1,4 +1,4 @@
-ip-cidr, 181.233.92.0/24
-ip-cidr, 181.233.94.0/24
-ip6-cidr, 2804:7b94::/34
-ip6-cidr, 2804:7b94:8000::/34
+ip-cidr, 181.233.92.0/24, proxy, no-resolve
+ip-cidr, 181.233.94.0/24, proxy, no-resolve
+ip6-cidr, 2804:7b94::/34, proxy, no-resolve
+ip6-cidr, 2804:7b94:8000::/34, proxy, no-resolve

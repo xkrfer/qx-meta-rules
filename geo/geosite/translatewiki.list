@@ -1,2 +1,2 @@
-host-suffix, translatewiki.net
-host-suffix, translatewiki.org
+host-suffix, translatewiki.net, proxy
+host-suffix, translatewiki.org, proxy

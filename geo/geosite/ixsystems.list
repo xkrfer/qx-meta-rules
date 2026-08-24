@@ -1,2 +1,2 @@
-host-suffix, ixsystems.com
-host-suffix, truenas.com
+host-suffix, ixsystems.com, proxy
+host-suffix, truenas.com, proxy

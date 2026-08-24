@@ -1,29 +1,29 @@
-ip-cidr, 151.245.50.0/24
-ip6-cidr, 2a09:54c1::/32
-ip6-cidr, 2a0f:85c1:ba9::/48
-ip6-cidr, 2a0f:85c1:bb9::/48
-ip6-cidr, 2a14:7583:6000::/48
-ip6-cidr, 2a14:7583:6002::/47
-ip6-cidr, 2a14:7583:6004::/46
-ip6-cidr, 2a14:7583:6008::/45
-ip6-cidr, 2a14:7583:6010::/44
-ip6-cidr, 2a14:7583:6020::/43
-ip6-cidr, 2a14:7583:6040::/42
-ip6-cidr, 2a14:7583:6080::/41
-ip6-cidr, 2a14:7583:6100::/40
-ip6-cidr, 2a14:7583:6200::/39
-ip6-cidr, 2a14:7583:6400::/38
-ip6-cidr, 2a14:7583:6800::/40
-ip6-cidr, 2a14:7583:6900::/42
-ip6-cidr, 2a14:7583:6940::/43
-ip6-cidr, 2a14:7583:6960::/45
-ip6-cidr, 2a14:7583:6968::/48
-ip6-cidr, 2a14:7583:696a::/47
-ip6-cidr, 2a14:7583:696c::/46
-ip6-cidr, 2a14:7583:6970::/44
-ip6-cidr, 2a14:7583:6980::/41
-ip6-cidr, 2a14:7583:6a00::/39
-ip6-cidr, 2a14:7583:6c00::/38
-ip6-cidr, 2a14:7583:7000::/36
-ip6-cidr, 2a14:7586:b000::/36
-ip6-cidr, 2a14:7586:c000::/35
+ip-cidr, 151.245.50.0/24, proxy, no-resolve
+ip6-cidr, 2a09:54c1::/32, proxy, no-resolve
+ip6-cidr, 2a0f:85c1:ba9::/48, proxy, no-resolve
+ip6-cidr, 2a0f:85c1:bb9::/48, proxy, no-resolve
+ip6-cidr, 2a14:7583:6000::/48, proxy, no-resolve
+ip6-cidr, 2a14:7583:6002::/47, proxy, no-resolve
+ip6-cidr, 2a14:7583:6004::/46, proxy, no-resolve
+ip6-cidr, 2a14:7583:6008::/45, proxy, no-resolve
+ip6-cidr, 2a14:7583:6010::/44, proxy, no-resolve
+ip6-cidr, 2a14:7583:6020::/43, proxy, no-resolve
+ip6-cidr, 2a14:7583:6040::/42, proxy, no-resolve
+ip6-cidr, 2a14:7583:6080::/41, proxy, no-resolve
+ip6-cidr, 2a14:7583:6100::/40, proxy, no-resolve
+ip6-cidr, 2a14:7583:6200::/39, proxy, no-resolve
+ip6-cidr, 2a14:7583:6400::/38, proxy, no-resolve
+ip6-cidr, 2a14:7583:6800::/40, proxy, no-resolve
+ip6-cidr, 2a14:7583:6900::/42, proxy, no-resolve
+ip6-cidr, 2a14:7583:6940::/43, proxy, no-resolve
+ip6-cidr, 2a14:7583:6960::/45, proxy, no-resolve
+ip6-cidr, 2a14:7583:6968::/48, proxy, no-resolve
+ip6-cidr, 2a14:7583:696a::/47, proxy, no-resolve
+ip6-cidr, 2a14:7583:696c::/46, proxy, no-resolve
+ip6-cidr, 2a14:7583:6970::/44, proxy, no-resolve
+ip6-cidr, 2a14:7583:6980::/41, proxy, no-resolve
+ip6-cidr, 2a14:7583:6a00::/39, proxy, no-resolve
+ip6-cidr, 2a14:7583:6c00::/38, proxy, no-resolve
+ip6-cidr, 2a14:7583:7000::/36, proxy, no-resolve
+ip6-cidr, 2a14:7586:b000::/36, proxy, no-resolve
+ip6-cidr, 2a14:7586:c000::/35, proxy, no-resolve

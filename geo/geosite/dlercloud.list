@@ -1,4 +1,4 @@
-host-suffix, dlercloud.com
-host-suffix, dlercloud.org
-host-suffix, dlercloud.me
-host-suffix, dleris.best
+host-suffix, dlercloud.com, proxy
+host-suffix, dlercloud.org, proxy
+host-suffix, dlercloud.me, proxy
+host-suffix, dleris.best, proxy

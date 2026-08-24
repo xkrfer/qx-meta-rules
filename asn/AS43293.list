@@ -1,2 +1,2 @@
-ip-cidr, 77.93.64.0/20
-ip6-cidr, 2a01:350::/32
+ip-cidr, 77.93.64.0/20, proxy, no-resolve
+ip6-cidr, 2a01:350::/32, proxy, no-resolve

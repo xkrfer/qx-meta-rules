@@ -1,4 +1,4 @@
-ip6-cidr, 2a06:a005:1660::/44
-ip6-cidr, 2a06:a005:1c90::/44
-ip6-cidr, 2a0e:8f02:f04b::/48
-ip6-cidr, 2a0e:b107:1b94::/48
+ip6-cidr, 2a06:a005:1660::/44, proxy, no-resolve
+ip6-cidr, 2a06:a005:1c90::/44, proxy, no-resolve
+ip6-cidr, 2a0e:8f02:f04b::/48, proxy, no-resolve
+ip6-cidr, 2a0e:b107:1b94::/48, proxy, no-resolve

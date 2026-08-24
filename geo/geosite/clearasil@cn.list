@@ -1,2 +1,2 @@
-host-suffix, clearasil.cn
-host-suffix, clearasil.com.cn
+host-suffix, clearasil.cn, proxy
+host-suffix, clearasil.com.cn, proxy

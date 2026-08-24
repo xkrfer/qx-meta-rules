@@ -1,15 +1,15 @@
-host-suffix, openmidas.com
-host-suffix, qq.design
-host-suffix, qqgamedesign.com
-host-suffix, tencent-cloud.cn
-host-suffix, tencent-cloud.com
-host-suffix, tencent.design
-host-suffix, tencentcloud.com
-host-suffix, tjstats.com
-host-suffix, wegamedeveloper.com
-host-suffix, weixinbridge.com
-host-suffix, weui.io
-host-suffix, cnb.cool
-host-suffix, coding.me
-host-suffix, coding.net
-host-suffix, badjs.weixinbridge.com
+host-suffix, openmidas.com, proxy
+host-suffix, qq.design, proxy
+host-suffix, qqgamedesign.com, proxy
+host-suffix, tencent-cloud.cn, proxy
+host-suffix, tencent-cloud.com, proxy
+host-suffix, tencent.design, proxy
+host-suffix, tencentcloud.com, proxy
+host-suffix, tjstats.com, proxy
+host-suffix, wegamedeveloper.com, proxy
+host-suffix, weixinbridge.com, proxy
+host-suffix, weui.io, proxy
+host-suffix, cnb.cool, proxy
+host-suffix, coding.me, proxy
+host-suffix, coding.net, proxy
+host-suffix, badjs.weixinbridge.com, proxy

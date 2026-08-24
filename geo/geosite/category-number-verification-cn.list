@@ -1,6 +1,6 @@
-host, id6.me
-host, opencloud.wostore.cn
-host, hs.wosms.cn
-host, enrichgw.10010.com
-host, hap.10010.com
-host-suffix, cmpassport.com
+host, id6.me, proxy
+host, opencloud.wostore.cn, proxy
+host, hs.wosms.cn, proxy
+host, enrichgw.10010.com, proxy
+host, hap.10010.com, proxy
+host-suffix, cmpassport.com, proxy

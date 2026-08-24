@@ -1,19 +1,19 @@
-host-suffix, iraninsurance.ir
-host-suffix, mellatinsurance.com
-host-suffix, bimehasia.com
-host-suffix, karafarin-insurance.ir
-host-suffix, dana-insurance.com
-host-suffix, dayins.com
-host-suffix, hafezinsurance.ir
-host-suffix, tins.ir
-host-suffix, bimeh.com
-host-suffix, alborzinsurance.ir
-host-suffix, bimeonline.com
-host-suffix, novininsurance.com
-host-suffix, omid-insurance.ir
-host-suffix, parsianinsurance.ir
-host-suffix, razi-insurance.ir
-host-suffix, risc.ir
-host-suffix, sinainsurance.com
-host-suffix, tamin.ir
-host-suffix, ihio.gov.ir
+host-suffix, iraninsurance.ir, proxy
+host-suffix, mellatinsurance.com, proxy
+host-suffix, bimehasia.com, proxy
+host-suffix, karafarin-insurance.ir, proxy
+host-suffix, dana-insurance.com, proxy
+host-suffix, dayins.com, proxy
+host-suffix, hafezinsurance.ir, proxy
+host-suffix, tins.ir, proxy
+host-suffix, bimeh.com, proxy
+host-suffix, alborzinsurance.ir, proxy
+host-suffix, bimeonline.com, proxy
+host-suffix, novininsurance.com, proxy
+host-suffix, omid-insurance.ir, proxy
+host-suffix, parsianinsurance.ir, proxy
+host-suffix, razi-insurance.ir, proxy
+host-suffix, risc.ir, proxy
+host-suffix, sinainsurance.com, proxy
+host-suffix, tamin.ir, proxy
+host-suffix, ihio.gov.ir, proxy

@@ -1,6 +1,6 @@
-host-suffix, fedoraforum.org
-host-suffix, fedorainfracloud.org
-host-suffix, fedoramagazine.org
-host-suffix, fedorapeople.org
-host-suffix, fedoraproject.org
-host-suffix, getfedora.org
+host-suffix, fedoraforum.org, proxy
+host-suffix, fedorainfracloud.org, proxy
+host-suffix, fedoramagazine.org, proxy
+host-suffix, fedorapeople.org, proxy
+host-suffix, fedoraproject.org, proxy
+host-suffix, getfedora.org, proxy

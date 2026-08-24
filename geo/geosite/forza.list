@@ -1,5 +1,5 @@
-host, prodforza.blob.core.windows.net
-host-suffix, forza.net
-host-suffix, forzamotorsport.net
-host-suffix, forzaracingchampionship.com
-host-suffix, forzarc.com
+host, prodforza.blob.core.windows.net, proxy
+host-suffix, forza.net, proxy
+host-suffix, forzamotorsport.net, proxy
+host-suffix, forzaracingchampionship.com, proxy
+host-suffix, forzarc.com, proxy

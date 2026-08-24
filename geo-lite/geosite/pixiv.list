@@ -1,8 +1,8 @@
-host-suffix, booth.pm
-host-suffix, fanbox.cc
-host-suffix, pixiv.cat
-host-suffix, pixiv.co.jp
-host-suffix, pixiv.me
-host-suffix, pixiv.net
-host-suffix, pixiv.org
-host-suffix, pximg.net
+host-suffix, booth.pm, proxy
+host-suffix, fanbox.cc, proxy
+host-suffix, pixiv.cat, proxy
+host-suffix, pixiv.co.jp, proxy
+host-suffix, pixiv.me, proxy
+host-suffix, pixiv.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pximg.net, proxy

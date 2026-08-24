@@ -1,4 +1,4 @@
-ip-cidr, 91.233.42.0/23
-ip-cidr, 193.16.232.0/24
-ip-cidr, 194.26.226.0/24
-ip6-cidr, 2001:678:7a4::/48
+ip-cidr, 91.233.42.0/23, proxy, no-resolve
+ip-cidr, 193.16.232.0/24, proxy, no-resolve
+ip-cidr, 194.26.226.0/24, proxy, no-resolve
+ip6-cidr, 2001:678:7a4::/48, proxy, no-resolve

@@ -1,12 +1,12 @@
-host-suffix, esmarthealth.com
-host-suffix, hkcsl.com
-host-suffix, hkt-enterprise.com
-host-suffix, hkt-eye.com
-host-suffix, hkt.com
-host-suffix, hkteducation.com
-host-suffix, hktpremier.com
-host-suffix, hktshop.com
-host-suffix, netvigator.com
-host-suffix, uhub.com
-host-suffix, 1010.com.hk
-host-suffix, theclub.com.hk
+host-suffix, esmarthealth.com, proxy
+host-suffix, hkcsl.com, proxy
+host-suffix, hkt-enterprise.com, proxy
+host-suffix, hkt-eye.com, proxy
+host-suffix, hkt.com, proxy
+host-suffix, hkteducation.com, proxy
+host-suffix, hktpremier.com, proxy
+host-suffix, hktshop.com, proxy
+host-suffix, netvigator.com, proxy
+host-suffix, uhub.com, proxy
+host-suffix, 1010.com.hk, proxy
+host-suffix, theclub.com.hk, proxy

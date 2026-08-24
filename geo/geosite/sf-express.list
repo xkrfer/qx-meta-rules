@@ -1,15 +1,15 @@
-host-suffix, sf-financial.com
-host-suffix, sf.cn
-host-suffix, rongechain.com
-host-suffix, sf-airlines.com
-host-suffix, sf-cityrush.com
-host-suffix, sf-express.com
-host-suffix, ibobscs.com
-host-suffix, sf-saas.com
-host-suffix, feng1.com
-host-suffix, sfgy.org
-host-suffix, sf-international.com
-host-suffix, sfbuy.com
-host-suffix, sfcar.hk
-host-suffix, sffix.cn
-host-suffix, sf-tech.com.cn
+host-suffix, sf-financial.com, proxy
+host-suffix, sf.cn, proxy
+host-suffix, rongechain.com, proxy
+host-suffix, sf-airlines.com, proxy
+host-suffix, sf-cityrush.com, proxy
+host-suffix, sf-express.com, proxy
+host-suffix, ibobscs.com, proxy
+host-suffix, sf-saas.com, proxy
+host-suffix, feng1.com, proxy
+host-suffix, sfgy.org, proxy
+host-suffix, sf-international.com, proxy
+host-suffix, sfbuy.com, proxy
+host-suffix, sfcar.hk, proxy
+host-suffix, sffix.cn, proxy
+host-suffix, sf-tech.com.cn, proxy

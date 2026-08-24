@@ -1,2 +1,2 @@
-host-suffix, debian.org
-host-suffix, dotdeb.org
+host-suffix, debian.org, proxy
+host-suffix, dotdeb.org, proxy

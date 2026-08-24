@@ -1,5 +1,5 @@
-host-suffix, chinaunicom.com.hk
-host-suffix, chinaunicomglobal.com
-host-suffix, cuguplus.com
-host-suffix, cuniq.com
-host-suffix, cuniq.sg
+host-suffix, chinaunicom.com.hk, proxy
+host-suffix, chinaunicomglobal.com, proxy
+host-suffix, cuguplus.com, proxy
+host-suffix, cuniq.com, proxy
+host-suffix, cuniq.sg, proxy

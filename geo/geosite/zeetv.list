@@ -1,9 +1,9 @@
-host-suffix, z5.app
-host-suffix, z5.com
-host-suffix, zee5.com
-host-suffix, zee5.in
-host-suffix, zee5.tv
-host-suffix, zeebioskop.com
-host-suffix, zeetv.com
-host-suffix, zeeuk.com
-host-suffix, zeetv.co.uk
+host-suffix, z5.app, proxy
+host-suffix, z5.com, proxy
+host-suffix, zee5.com, proxy
+host-suffix, zee5.in, proxy
+host-suffix, zee5.tv, proxy
+host-suffix, zeebioskop.com, proxy
+host-suffix, zeetv.com, proxy
+host-suffix, zeeuk.com, proxy
+host-suffix, zeetv.co.uk, proxy

@@ -1,4 +1,4 @@
-host-suffix, mycloudnas.com
-host-suffix, myqnapcloud.cn
-host-suffix, qlinkto.cn
-host-suffix, qnap.com.cn
+host-suffix, mycloudnas.com, proxy
+host-suffix, myqnapcloud.cn, proxy
+host-suffix, qlinkto.cn, proxy
+host-suffix, qnap.com.cn, proxy

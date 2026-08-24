@@ -1,2 +1,2 @@
-ip-cidr, 200.219.154.0/23
-ip6-cidr, 2001:12f8:4::/47
+ip-cidr, 200.219.154.0/23, proxy, no-resolve
+ip6-cidr, 2001:12f8:4::/47, proxy, no-resolve

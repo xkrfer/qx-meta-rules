@@ -1,4 +1,4 @@
-host-suffix, arcraiders.com
-host-suffix, embark-studios.com
-host-suffix, embark.games
-host-suffix, reachthefinals.com
+host-suffix, arcraiders.com, proxy
+host-suffix, embark-studios.com, proxy
+host-suffix, embark.games, proxy
+host-suffix, reachthefinals.com, proxy

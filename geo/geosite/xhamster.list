@@ -1,19 +1,19 @@
-host, widgets.stripst.com
-host-suffix, freexh.blog
-host-suffix, freexh.live
-host-suffix, netxh.blog
-host-suffix, xhamster.com
-host-suffix, xhamster.desi
-host-suffix, xhamster.xxx
-host-suffix, xhamster18.com
-host-suffix, xhamster18.desi
-host-suffix, xhamster19.com
-host-suffix, xhamster2.com
-host-suffix, xhamster3.com
-host-suffix, xhamsterlive.com
-host-suffix, xhapp.live
-host-suffix, xhcdn.com
-host-suffix, xhnews.live
-host-suffix, xhpingcdn.com
-host-suffix, xhreal5.com
-host-suffix, collector.xhamster.com
+host, widgets.stripst.com, proxy
+host-suffix, freexh.blog, proxy
+host-suffix, freexh.live, proxy
+host-suffix, netxh.blog, proxy
+host-suffix, xhamster.com, proxy
+host-suffix, xhamster.desi, proxy
+host-suffix, xhamster.xxx, proxy
+host-suffix, xhamster18.com, proxy
+host-suffix, xhamster18.desi, proxy
+host-suffix, xhamster19.com, proxy
+host-suffix, xhamster2.com, proxy
+host-suffix, xhamster3.com, proxy
+host-suffix, xhamsterlive.com, proxy
+host-suffix, xhapp.live, proxy
+host-suffix, xhcdn.com, proxy
+host-suffix, xhnews.live, proxy
+host-suffix, xhpingcdn.com, proxy
+host-suffix, xhreal5.com, proxy
+host-suffix, collector.xhamster.com, proxy

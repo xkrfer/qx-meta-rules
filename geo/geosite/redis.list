@@ -1,2 +1,2 @@
-host-suffix, redis.io
-host-suffix, redislabs.com
+host-suffix, redis.io, proxy
+host-suffix, redislabs.com, proxy

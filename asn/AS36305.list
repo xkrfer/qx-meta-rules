@@ -1,4 +1,4 @@
-ip-cidr, 184.94.160.0/20
-ip-cidr, 192.111.31.0/24
-ip-cidr, 198.98.224.0/20
-ip6-cidr, 2604:e20::/32
+ip-cidr, 184.94.160.0/20, proxy, no-resolve
+ip-cidr, 192.111.31.0/24, proxy, no-resolve
+ip-cidr, 198.98.224.0/20, proxy, no-resolve
+ip6-cidr, 2604:e20::/32, proxy, no-resolve

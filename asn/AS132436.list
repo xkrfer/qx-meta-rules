@@ -1,5 +1,5 @@
-ip-cidr, 103.73.36.0/22
-ip-cidr, 103.77.176.0/24
-ip-cidr, 192.232.60.0/23
-ip6-cidr, 2406:ea80:100::/40
-ip6-cidr, 2406:ea80:200::/40
+ip-cidr, 103.73.36.0/22, proxy, no-resolve
+ip-cidr, 103.77.176.0/24, proxy, no-resolve
+ip-cidr, 192.232.60.0/23, proxy, no-resolve
+ip6-cidr, 2406:ea80:100::/40, proxy, no-resolve
+ip6-cidr, 2406:ea80:200::/40, proxy, no-resolve

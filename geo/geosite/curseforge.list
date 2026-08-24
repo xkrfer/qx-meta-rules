@@ -1,2 +1,2 @@
-host-suffix, curseforge.com
-host-suffix, forgecdn.net
+host-suffix, curseforge.com, proxy
+host-suffix, forgecdn.net, proxy

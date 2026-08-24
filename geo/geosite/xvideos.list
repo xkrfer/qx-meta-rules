@@ -1,5 +1,5 @@
-host-suffix, xv-ru.com
-host-suffix, xvideos-ar.com
-host-suffix, xvideos-cdn.com
-host-suffix, xvideos-india.com
-host-suffix, xvideos.com
+host-suffix, xv-ru.com, proxy
+host-suffix, xvideos-ar.com, proxy
+host-suffix, xvideos-cdn.com, proxy
+host-suffix, xvideos-india.com, proxy
+host-suffix, xvideos.com, proxy

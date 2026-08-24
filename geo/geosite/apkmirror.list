@@ -1,2 +1,2 @@
-host, apkmirror.disqus.com
-host-suffix, apkmirror.com
+host, apkmirror.disqus.com, proxy
+host-suffix, apkmirror.com, proxy

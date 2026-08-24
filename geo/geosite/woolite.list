@@ -1,7 +1,7 @@
-host-suffix, woolite.ca
-host-suffix, woolite.com
-host-suffix, woolite.pl
-host-suffix, woolite.us
-host-suffix, woolitecarpet.com
-host-suffix, woolite.cn
-host-suffix, woolite.com.cn
+host-suffix, woolite.ca, proxy
+host-suffix, woolite.com, proxy
+host-suffix, woolite.pl, proxy
+host-suffix, woolite.us, proxy
+host-suffix, woolitecarpet.com, proxy
+host-suffix, woolite.cn, proxy
+host-suffix, woolite.com.cn, proxy

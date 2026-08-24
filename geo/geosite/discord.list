@@ -1,28 +1,28 @@
-host, discord-attachments-uploads-prd.storage.googleapis.com
-host, hammerandchisel.ssl.zendesk.com
-host-suffix, dis.gd
-host-suffix, discord.co
-host-suffix, discord.com
-host-suffix, discord.design
-host-suffix, discord.dev
-host-suffix, discord.gg
-host-suffix, discord.gift
-host-suffix, discord.gifts
-host-suffix, discord.media
-host-suffix, discord.new
-host-suffix, discord.store
-host-suffix, discord.tools
-host-suffix, discord-activities.com
-host-suffix, discordactivities.com
-host-suffix, discordapp.com
-host-suffix, discordapp.net
-host-suffix, discordmerch.com
-host-suffix, discordpartygames.com
-host-suffix, discordsays.com
-host-suffix, discordstatus.com
-host-suffix, airhorn.solutions
-host-suffix, airhornbot.com
-host-suffix, bigbeans.solutions
-host-suffix, watchanimeattheoffice.com
-host-suffix, discordapp.io
-host-suffix, discordcdn.com
+host, discord-attachments-uploads-prd.storage.googleapis.com, proxy
+host, hammerandchisel.ssl.zendesk.com, proxy
+host-suffix, dis.gd, proxy
+host-suffix, discord.co, proxy
+host-suffix, discord.com, proxy
+host-suffix, discord.design, proxy
+host-suffix, discord.dev, proxy
+host-suffix, discord.gg, proxy
+host-suffix, discord.gift, proxy
+host-suffix, discord.gifts, proxy
+host-suffix, discord.media, proxy
+host-suffix, discord.new, proxy
+host-suffix, discord.store, proxy
+host-suffix, discord.tools, proxy
+host-suffix, discord-activities.com, proxy
+host-suffix, discordactivities.com, proxy
+host-suffix, discordapp.com, proxy
+host-suffix, discordapp.net, proxy
+host-suffix, discordmerch.com, proxy
+host-suffix, discordpartygames.com, proxy
+host-suffix, discordsays.com, proxy
+host-suffix, discordstatus.com, proxy
+host-suffix, airhorn.solutions, proxy
+host-suffix, airhornbot.com, proxy
+host-suffix, bigbeans.solutions, proxy
+host-suffix, watchanimeattheoffice.com, proxy
+host-suffix, discordapp.io, proxy
+host-suffix, discordcdn.com, proxy

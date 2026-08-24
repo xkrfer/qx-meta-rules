@@ -1,10 +1,10 @@
-host-suffix, gongqingyun.cn
-host-suffix, jzfz.net
-host-suffix, sumkoo.cn
-host-suffix, sumkoo.com
-host-suffix, sumkoo.net
-host-suffix, veeqi.net
-host-suffix, wenmingban.com
-host-suffix, zhiyuanhe.cn
-host-suffix, zhiyuanyun.com.cn
-host-suffix, zyhe.com.cn
+host-suffix, gongqingyun.cn, proxy
+host-suffix, jzfz.net, proxy
+host-suffix, sumkoo.cn, proxy
+host-suffix, sumkoo.com, proxy
+host-suffix, sumkoo.net, proxy
+host-suffix, veeqi.net, proxy
+host-suffix, wenmingban.com, proxy
+host-suffix, zhiyuanhe.cn, proxy
+host-suffix, zhiyuanyun.com.cn, proxy
+host-suffix, zyhe.com.cn, proxy

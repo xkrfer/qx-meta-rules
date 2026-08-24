@@ -1,4 +1,4 @@
-host-suffix, miot-spec.org
-host-suffix, account.xiaomi.com
-host-suffix, cn-ha.mqtt.io.mi.com
-host-suffix, ha.api.io.mi.com
+host-suffix, miot-spec.org, proxy
+host-suffix, account.xiaomi.com, proxy
+host-suffix, cn-ha.mqtt.io.mi.com, proxy
+host-suffix, ha.api.io.mi.com, proxy

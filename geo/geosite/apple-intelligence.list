@@ -1,5 +1,5 @@
-host, apple-relay.apple.com
-host, apple-relay.cloudflare.com
-host, apple-relay.fastly-edge.com
-host, apple-relay.mask.apple-dns.net
-host, gspe1-ssl.ls.apple.com
+host, apple-relay.apple.com, proxy
+host, apple-relay.cloudflare.com, proxy
+host, apple-relay.fastly-edge.com, proxy
+host, apple-relay.mask.apple-dns.net, proxy
+host, gspe1-ssl.ls.apple.com, proxy

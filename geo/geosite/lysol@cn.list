@@ -1,2 +1,2 @@
-host-suffix, lysol.cn
-host-suffix, lysol.com.cn
+host-suffix, lysol.cn, proxy
+host-suffix, lysol.com.cn, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 45.71.64.0/22
-ip6-cidr, 2804:4440:1000::/48
-ip6-cidr, 2804:4440:9000::/41
-ip6-cidr, 2804:4440:9f00::/48
-ip6-cidr, 2804:4440:a000::/41
+ip-cidr, 45.71.64.0/22, proxy, no-resolve
+ip6-cidr, 2804:4440:1000::/48, proxy, no-resolve
+ip6-cidr, 2804:4440:9000::/41, proxy, no-resolve
+ip6-cidr, 2804:4440:9f00::/48, proxy, no-resolve
+ip6-cidr, 2804:4440:a000::/41, proxy, no-resolve

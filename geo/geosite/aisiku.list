@@ -1,14 +1,14 @@
-host-suffix, learnywhere.cn
-host-suffix, bbdc.cn
-host-suffix, beingfine.cn
-host-suffix, 1tyy.cn
-host-suffix, qtyy.cn
-host-suffix, coolab.top
-host-suffix, is-cool.cn
-host-suffix, qlisten.cn
-host-suffix, langeasy.cn
-host-suffix, beingfine.com.cn
-host-suffix, langeasy.com.cn
-host-suffix, learnywhere.com.cn
-host-suffix, is-cool.com.cn
-host-suffix, bubei.com.cn
+host-suffix, learnywhere.cn, proxy
+host-suffix, bbdc.cn, proxy
+host-suffix, beingfine.cn, proxy
+host-suffix, 1tyy.cn, proxy
+host-suffix, qtyy.cn, proxy
+host-suffix, coolab.top, proxy
+host-suffix, is-cool.cn, proxy
+host-suffix, qlisten.cn, proxy
+host-suffix, langeasy.cn, proxy
+host-suffix, beingfine.com.cn, proxy
+host-suffix, langeasy.com.cn, proxy
+host-suffix, learnywhere.com.cn, proxy
+host-suffix, is-cool.com.cn, proxy
+host-suffix, bubei.com.cn, proxy

@@ -1,195 +1,195 @@
-host-suffix, b-cdn.net
-host-suffix, bunny.net
-host-suffix, bunnycdn.com
-host-suffix, cdnjs.com
-host-suffix, esm.sh
-host-suffix, gcdn.co
-host-suffix, gcore.com
-host-suffix, gcore.pro
-host-suffix, delvenetworks.com
-host-suffix, limelight.com
-host-suffix, lldns.net
-host-suffix, llnw-trials.com
-host-suffix, llnw.com
-host-suffix, llnw.net
-host-suffix, llnwd.net
-host-suffix, llnwi.net
-host-suffix, pagecdn.com
-host-suffix, pagecdn.io
-host-suffix, fastly-edge.com
-host-suffix, fastly-terrarium.com
-host-suffix, fastly.com
-host-suffix, fastly.io
-host-suffix, fastly.net
-host-suffix, fastlylabs.com
-host-suffix, fastlylb.net
-host-suffix, esm.run
-host-suffix, jsdelivr.com
-host-suffix, jsdelivr.net
-host-suffix, quantil.com
-host-suffix, stackpath.com
-host-suffix, stackpath.dev
-host-suffix, vrcdn.cloud
-host-suffix, vrcdn.live
-host-suffix, vrcdn.video
-host-suffix, ak1.net
-host-suffix, aka-ai.com
-host-suffix, aka-ai.net
-host-suffix, akacrypto.net
-host-suffix, akadeem.net
-host-suffix, akadns.com
-host-suffix, akadns.net
-host-suffix, akadns6.net
-host-suffix, akaeai.com
-host-suffix, akafms.net
-host-suffix, akagtm.org
-host-suffix, akahost.net
-host-suffix, akaint.net
-host-suffix, akam.net
-host-suffix, akamaa.com
-host-suffix, akamah.com
-host-suffix, akamak.com
-host-suffix, akamam.com
-host-suffix, akamai-access.com
-host-suffix, akamai-access.net
-host-suffix, akamai-cdn.com
-host-suffix, akamai-platform-internal.net
-host-suffix, akamai-platform-staging.com
-host-suffix, akamai-platform.net
-host-suffix, akamai-regression.net
-host-suffix, akamai-staging.net
-host-suffix, akamai-sucks.net
-host-suffix, akamai-thailand.com
-host-suffix, akamai-thailand.net
-host-suffix, akamai-trials.com
-host-suffix, akamai.net
-host-suffix, akamaiedge.net
-host-suffix, akamaientrypoint.net
-host-suffix, akamaietpcnctest.com
-host-suffix, akamaietpcompromisedcnctest.com
-host-suffix, akamaietpcompromisedmalwaretest.com
-host-suffix, akamaietpmalwaretest.com
-host-suffix, akamaietpphishingtest.com
-host-suffix, akamaihd-staging.net
-host-suffix, akamaihd.com
-host-suffix, akamaihd.net
-host-suffix, akamaimagicmath.net
-host-suffix, akamainewzealand.com
-host-suffix, akamaiphillipines.com
-host-suffix, akamaiphillipines.net
-host-suffix, akamaitech.com
-host-suffix, akamaitech.net
-host-suffix, akamaitechnologies.com
-host-suffix, akamaitechnologies.net
-host-suffix, akamaisingapore.net
-host-suffix, akamaistream.net
-host-suffix, akamaized-staging.net
-host-suffix, akamaized.net
-host-suffix, akamaizercentral.com
-host-suffix, akamci.com
-host-suffix, akami.com
-host-suffix, akami.net
-host-suffix, akamii.com
-host-suffix, akamqi.com
-host-suffix, akastream.com
-host-suffix, akastream.net
-host-suffix, akatns.net
-host-suffix, akstat.io
-host-suffix, edgekey.net
-host-suffix, edgesuite.net
-host-suffix, iamakamai.com
-host-suffix, iamakamai.net
-host-suffix, soasta-dswb.com
-host-suffix, srtcdn.net
-host-suffix, cdn77.com
-host-suffix, cdn77.org
-host-suffix, argotunnel.com
-host-suffix, browser.run
-host-suffix, cfargotunnel.com
-host-suffix, cfdata.org
-host-suffix, cfl.re
-host-suffix, cloudflare-dns.com
-host-suffix, cloudflare-ech.com
-host-suffix, cloudflare-esni.com
-host-suffix, cloudflare-gateway.com
-host-suffix, cloudflare-quic.com
-host-suffix, cloudflare-terms-of-service-abuse.com
-host-suffix, cloudflare.app
-host-suffix, cloudflare.com
-host-suffix, cloudflare.dev
-host-suffix, cloudflare.net
-host-suffix, cloudflare.pay
-host-suffix, cloudflare.tv
-host-suffix, cloudflareaccess.com
-host-suffix, cloudflareapps.com
-host-suffix, cloudflarebolt.com
-host-suffix, cloudflarebrowser.com
-host-suffix, cloudflarechallenge.com
-host-suffix, cloudflareclient.com
-host-suffix, cloudflarecp.com
-host-suffix, cloudflareinsights.com
-host-suffix, cloudflareok.com
-host-suffix, cloudflarepartners.com
-host-suffix, cloudflareportal.com
-host-suffix, cloudflarepreview.com
-host-suffix, cloudflareregistrar.com
-host-suffix, cloudflareresearch.com
-host-suffix, cloudflareresolve.com
-host-suffix, cloudflaressl.com
-host-suffix, cloudflarestatus.com
-host-suffix, cloudflarestorage.com
-host-suffix, cloudflarestream.com
-host-suffix, cloudflaresupport.com
-host-suffix, cloudflaretest.com
-host-suffix, cloudflarewarp.com
-host-suffix, cloudflareworkers.com
-host-suffix, encryptedsni.com
-host-suffix, every1dns.net
-host-suffix, foundationdns.com
-host-suffix, foundationdns.net
-host-suffix, foundationdns.org
-host-suffix, imagedelivery.net
-host-suffix, isbgpsafeyet.com
-host-suffix, pacloudflare.com
-host-suffix, pages.dev
-host-suffix, r2.dev
-host-suffix, trycloudflare.com
-host-suffix, videodelivery.net
-host-suffix, warp.plus
-host-suffix, workers.dev
-host-suffix, cf-ipfs.com
-host-suffix, cloudflare-ipfs.com
-host-suffix, imgix.com
-host-suffix, imgix.net
-host-suffix, akamai.co.kr
-host-suffix, one.one.one
-host-suffix, accdn.com.cn
-host-suffix, akadns88.net
-host-suffix, akadns99.net
-host-suffix, akamai.com
-host-suffix, akcdn.com.cn
-host-suffix, aptdn.net
-host-suffix, edgekey88.net
-host-suffix, janrain.biz
-host-suffix, janrainservices.com
-host-suffix, skycdn.com.cn
-host-suffix, tl88.net
-host-suffix, cf-china.info
-host-suffix, cf-ns.com
-host-suffix, cf-ns.net
-host-suffix, cf-ns.site
-host-suffix, cf-ns.tech
-host-suffix, cftest5.cn
-host-suffix, cftest6.cn
-host-suffix, cftest7.com
-host-suffix, cftest8.com
-host-suffix, cloudflare-cn.com
-host-suffix, cloudflareanycast.net
-host-suffix, cloudflarechina.cn
-host-suffix, cloudflarecn.net
-host-suffix, cloudflareglobal.net
-host-suffix, cloudflareinsights-cn.com
-host-suffix, cloudflareperf.com
-host-suffix, cloudflareprod.com
-host-suffix, cloudflarestaging.com
-host-suffix, cloudflarestoragegw.com
+host-suffix, b-cdn.net, proxy
+host-suffix, bunny.net, proxy
+host-suffix, bunnycdn.com, proxy
+host-suffix, cdnjs.com, proxy
+host-suffix, esm.sh, proxy
+host-suffix, gcdn.co, proxy
+host-suffix, gcore.com, proxy
+host-suffix, gcore.pro, proxy
+host-suffix, delvenetworks.com, proxy
+host-suffix, limelight.com, proxy
+host-suffix, lldns.net, proxy
+host-suffix, llnw-trials.com, proxy
+host-suffix, llnw.com, proxy
+host-suffix, llnw.net, proxy
+host-suffix, llnwd.net, proxy
+host-suffix, llnwi.net, proxy
+host-suffix, pagecdn.com, proxy
+host-suffix, pagecdn.io, proxy
+host-suffix, fastly-edge.com, proxy
+host-suffix, fastly-terrarium.com, proxy
+host-suffix, fastly.com, proxy
+host-suffix, fastly.io, proxy
+host-suffix, fastly.net, proxy
+host-suffix, fastlylabs.com, proxy
+host-suffix, fastlylb.net, proxy
+host-suffix, esm.run, proxy
+host-suffix, jsdelivr.com, proxy
+host-suffix, jsdelivr.net, proxy
+host-suffix, quantil.com, proxy
+host-suffix, stackpath.com, proxy
+host-suffix, stackpath.dev, proxy
+host-suffix, vrcdn.cloud, proxy
+host-suffix, vrcdn.live, proxy
+host-suffix, vrcdn.video, proxy
+host-suffix, ak1.net, proxy
+host-suffix, aka-ai.com, proxy
+host-suffix, aka-ai.net, proxy
+host-suffix, akacrypto.net, proxy
+host-suffix, akadeem.net, proxy
+host-suffix, akadns.com, proxy
+host-suffix, akadns.net, proxy
+host-suffix, akadns6.net, proxy
+host-suffix, akaeai.com, proxy
+host-suffix, akafms.net, proxy
+host-suffix, akagtm.org, proxy
+host-suffix, akahost.net, proxy
+host-suffix, akaint.net, proxy
+host-suffix, akam.net, proxy
+host-suffix, akamaa.com, proxy
+host-suffix, akamah.com, proxy
+host-suffix, akamak.com, proxy
+host-suffix, akamam.com, proxy
+host-suffix, akamai-access.com, proxy
+host-suffix, akamai-access.net, proxy
+host-suffix, akamai-cdn.com, proxy
+host-suffix, akamai-platform-internal.net, proxy
+host-suffix, akamai-platform-staging.com, proxy
+host-suffix, akamai-platform.net, proxy
+host-suffix, akamai-regression.net, proxy
+host-suffix, akamai-staging.net, proxy
+host-suffix, akamai-sucks.net, proxy
+host-suffix, akamai-thailand.com, proxy
+host-suffix, akamai-thailand.net, proxy
+host-suffix, akamai-trials.com, proxy
+host-suffix, akamai.net, proxy
+host-suffix, akamaiedge.net, proxy
+host-suffix, akamaientrypoint.net, proxy
+host-suffix, akamaietpcnctest.com, proxy
+host-suffix, akamaietpcompromisedcnctest.com, proxy
+host-suffix, akamaietpcompromisedmalwaretest.com, proxy
+host-suffix, akamaietpmalwaretest.com, proxy
+host-suffix, akamaietpphishingtest.com, proxy
+host-suffix, akamaihd-staging.net, proxy
+host-suffix, akamaihd.com, proxy
+host-suffix, akamaihd.net, proxy
+host-suffix, akamaimagicmath.net, proxy
+host-suffix, akamainewzealand.com, proxy
+host-suffix, akamaiphillipines.com, proxy
+host-suffix, akamaiphillipines.net, proxy
+host-suffix, akamaitech.com, proxy
+host-suffix, akamaitech.net, proxy
+host-suffix, akamaitechnologies.com, proxy
+host-suffix, akamaitechnologies.net, proxy
+host-suffix, akamaisingapore.net, proxy
+host-suffix, akamaistream.net, proxy
+host-suffix, akamaized-staging.net, proxy
+host-suffix, akamaized.net, proxy
+host-suffix, akamaizercentral.com, proxy
+host-suffix, akamci.com, proxy
+host-suffix, akami.com, proxy
+host-suffix, akami.net, proxy
+host-suffix, akamii.com, proxy
+host-suffix, akamqi.com, proxy
+host-suffix, akastream.com, proxy
+host-suffix, akastream.net, proxy
+host-suffix, akatns.net, proxy
+host-suffix, akstat.io, proxy
+host-suffix, edgekey.net, proxy
+host-suffix, edgesuite.net, proxy
+host-suffix, iamakamai.com, proxy
+host-suffix, iamakamai.net, proxy
+host-suffix, soasta-dswb.com, proxy
+host-suffix, srtcdn.net, proxy
+host-suffix, cdn77.com, proxy
+host-suffix, cdn77.org, proxy
+host-suffix, argotunnel.com, proxy
+host-suffix, browser.run, proxy
+host-suffix, cfargotunnel.com, proxy
+host-suffix, cfdata.org, proxy
+host-suffix, cfl.re, proxy
+host-suffix, cloudflare-dns.com, proxy
+host-suffix, cloudflare-ech.com, proxy
+host-suffix, cloudflare-esni.com, proxy
+host-suffix, cloudflare-gateway.com, proxy
+host-suffix, cloudflare-quic.com, proxy
+host-suffix, cloudflare-terms-of-service-abuse.com, proxy
+host-suffix, cloudflare.app, proxy
+host-suffix, cloudflare.com, proxy
+host-suffix, cloudflare.dev, proxy
+host-suffix, cloudflare.net, proxy
+host-suffix, cloudflare.pay, proxy
+host-suffix, cloudflare.tv, proxy
+host-suffix, cloudflareaccess.com, proxy
+host-suffix, cloudflareapps.com, proxy
+host-suffix, cloudflarebolt.com, proxy
+host-suffix, cloudflarebrowser.com, proxy
+host-suffix, cloudflarechallenge.com, proxy
+host-suffix, cloudflareclient.com, proxy
+host-suffix, cloudflarecp.com, proxy
+host-suffix, cloudflareinsights.com, proxy
+host-suffix, cloudflareok.com, proxy
+host-suffix, cloudflarepartners.com, proxy
+host-suffix, cloudflareportal.com, proxy
+host-suffix, cloudflarepreview.com, proxy
+host-suffix, cloudflareregistrar.com, proxy
+host-suffix, cloudflareresearch.com, proxy
+host-suffix, cloudflareresolve.com, proxy
+host-suffix, cloudflaressl.com, proxy
+host-suffix, cloudflarestatus.com, proxy
+host-suffix, cloudflarestorage.com, proxy
+host-suffix, cloudflarestream.com, proxy
+host-suffix, cloudflaresupport.com, proxy
+host-suffix, cloudflaretest.com, proxy
+host-suffix, cloudflarewarp.com, proxy
+host-suffix, cloudflareworkers.com, proxy
+host-suffix, encryptedsni.com, proxy
+host-suffix, every1dns.net, proxy
+host-suffix, foundationdns.com, proxy
+host-suffix, foundationdns.net, proxy
+host-suffix, foundationdns.org, proxy
+host-suffix, imagedelivery.net, proxy
+host-suffix, isbgpsafeyet.com, proxy
+host-suffix, pacloudflare.com, proxy
+host-suffix, pages.dev, proxy
+host-suffix, r2.dev, proxy
+host-suffix, trycloudflare.com, proxy
+host-suffix, videodelivery.net, proxy
+host-suffix, warp.plus, proxy
+host-suffix, workers.dev, proxy
+host-suffix, cf-ipfs.com, proxy
+host-suffix, cloudflare-ipfs.com, proxy
+host-suffix, imgix.com, proxy
+host-suffix, imgix.net, proxy
+host-suffix, akamai.co.kr, proxy
+host-suffix, one.one.one, proxy
+host-suffix, accdn.com.cn, proxy
+host-suffix, akadns88.net, proxy
+host-suffix, akadns99.net, proxy
+host-suffix, akamai.com, proxy
+host-suffix, akcdn.com.cn, proxy
+host-suffix, aptdn.net, proxy
+host-suffix, edgekey88.net, proxy
+host-suffix, janrain.biz, proxy
+host-suffix, janrainservices.com, proxy
+host-suffix, skycdn.com.cn, proxy
+host-suffix, tl88.net, proxy
+host-suffix, cf-china.info, proxy
+host-suffix, cf-ns.com, proxy
+host-suffix, cf-ns.net, proxy
+host-suffix, cf-ns.site, proxy
+host-suffix, cf-ns.tech, proxy
+host-suffix, cftest5.cn, proxy
+host-suffix, cftest6.cn, proxy
+host-suffix, cftest7.com, proxy
+host-suffix, cftest8.com, proxy
+host-suffix, cloudflare-cn.com, proxy
+host-suffix, cloudflareanycast.net, proxy
+host-suffix, cloudflarechina.cn, proxy
+host-suffix, cloudflarecn.net, proxy
+host-suffix, cloudflareglobal.net, proxy
+host-suffix, cloudflareinsights-cn.com, proxy
+host-suffix, cloudflareperf.com, proxy
+host-suffix, cloudflareprod.com, proxy
+host-suffix, cloudflarestaging.com, proxy
+host-suffix, cloudflarestoragegw.com, proxy

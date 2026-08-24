@@ -1,9 +1,9 @@
-host-suffix, 47gyosei.jp
-host-suffix, 47news.jp
-host-suffix, kyodo-d.info
-host-suffix, kyodo-d.jp
-host-suffix, kyodoimages.jp
-host-suffix, kyodonews.jp
-host-suffix, kyodonews.net
-host-suffix, newsmart.jp
-host-suffix, nna.jp
+host-suffix, 47gyosei.jp, proxy
+host-suffix, 47news.jp, proxy
+host-suffix, kyodo-d.info, proxy
+host-suffix, kyodo-d.jp, proxy
+host-suffix, kyodoimages.jp, proxy
+host-suffix, kyodonews.jp, proxy
+host-suffix, kyodonews.net, proxy
+host-suffix, newsmart.jp, proxy
+host-suffix, nna.jp, proxy

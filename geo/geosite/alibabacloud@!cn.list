@@ -1,8 +1,8 @@
-host-suffix, alibabacloud.co.in
-host-suffix, alibabacloud.com
-host-suffix, alibabacloud.com.au
-host-suffix, alibabacloud.com.hk
-host-suffix, alibabacloud.com.my
-host-suffix, alibabacloud.com.sg
-host-suffix, alibabacloud.com.tw
-host-suffix, alicloud.com
+host-suffix, alibabacloud.co.in, proxy
+host-suffix, alibabacloud.com, proxy
+host-suffix, alibabacloud.com.au, proxy
+host-suffix, alibabacloud.com.hk, proxy
+host-suffix, alibabacloud.com.my, proxy
+host-suffix, alibabacloud.com.sg, proxy
+host-suffix, alibabacloud.com.tw, proxy
+host-suffix, alicloud.com, proxy

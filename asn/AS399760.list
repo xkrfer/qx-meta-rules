@@ -1,5 +1,5 @@
-ip-cidr, 45.45.148.0/24
-ip6-cidr, 2602:fc62:a::/47
-ip6-cidr, 2602:fc62:c::/47
-ip6-cidr, 2602:fc62:ee::/47
-ip6-cidr, 2602:fc62:fe::/47
+ip-cidr, 45.45.148.0/24, proxy, no-resolve
+ip6-cidr, 2602:fc62:a::/47, proxy, no-resolve
+ip6-cidr, 2602:fc62:c::/47, proxy, no-resolve
+ip6-cidr, 2602:fc62:ee::/47, proxy, no-resolve
+ip6-cidr, 2602:fc62:fe::/47, proxy, no-resolve

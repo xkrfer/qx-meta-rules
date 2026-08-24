@@ -1,2 +1,2 @@
-ip6-cidr, 2605:b00::/42
-ip6-cidr, 2605:b00:800::/42
+ip6-cidr, 2605:b00::/42, proxy, no-resolve
+ip6-cidr, 2605:b00:800::/42, proxy, no-resolve

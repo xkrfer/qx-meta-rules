@@ -1,2 +1,2 @@
-ip-cidr, 103.150.32.0/23
-ip6-cidr, 2405:fa40::/32
+ip-cidr, 103.150.32.0/23, proxy, no-resolve
+ip6-cidr, 2405:fa40::/32, proxy, no-resolve

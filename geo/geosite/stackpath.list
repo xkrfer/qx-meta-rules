@@ -1,2 +1,2 @@
-host-suffix, stackpath.com
-host-suffix, stackpath.dev
+host-suffix, stackpath.com, proxy
+host-suffix, stackpath.dev, proxy

@@ -1,10 +1,10 @@
-host-suffix, e.mindbox.ru
-host-suffix, g.mindbox.ru
-host-suffix, s.mindbox.ru
-host, api-js.mindbox.ru
-host, api-ru.mindbox.cloud
-host, api-staging.mindbox.ru
-host, api.mindbox.cloud
-host, api.mindbox.ru
-host, sentry.mindbox.ru
-host, sentry.popmechanic.ru
+host-suffix, e.mindbox.ru, proxy
+host-suffix, g.mindbox.ru, proxy
+host-suffix, s.mindbox.ru, proxy
+host, api-js.mindbox.ru, proxy
+host, api-ru.mindbox.cloud, proxy
+host, api-staging.mindbox.ru, proxy
+host, api.mindbox.cloud, proxy
+host, api.mindbox.ru, proxy
+host, sentry.mindbox.ru, proxy
+host, sentry.popmechanic.ru, proxy

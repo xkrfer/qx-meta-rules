@@ -1,15 +1,15 @@
-ip-cidr, 103.86.195.0/24
-ip-cidr, 103.111.13.0/24
-ip-cidr, 103.159.128.0/24
-ip-cidr, 103.185.226.0/23
-ip-cidr, 123.136.28.0/24
-ip-cidr, 157.15.121.0/24
-ip-cidr, 220.152.114.0/24
-ip6-cidr, 2400:6ae0::/32
-ip6-cidr, 2400:c640:80::/47
-ip6-cidr, 2404:4580:10::/46
-ip6-cidr, 2404:4580:14::/47
-ip6-cidr, 2404:4580:16::/48
-ip6-cidr, 2404:4580:18::/45
-ip6-cidr, 2404:4580:20::/46
-ip6-cidr, 2404:7e00:501::/48
+ip-cidr, 103.86.195.0/24, proxy, no-resolve
+ip-cidr, 103.111.13.0/24, proxy, no-resolve
+ip-cidr, 103.159.128.0/24, proxy, no-resolve
+ip-cidr, 103.185.226.0/23, proxy, no-resolve
+ip-cidr, 123.136.28.0/24, proxy, no-resolve
+ip-cidr, 157.15.121.0/24, proxy, no-resolve
+ip-cidr, 220.152.114.0/24, proxy, no-resolve
+ip6-cidr, 2400:6ae0::/32, proxy, no-resolve
+ip6-cidr, 2400:c640:80::/47, proxy, no-resolve
+ip6-cidr, 2404:4580:10::/46, proxy, no-resolve
+ip6-cidr, 2404:4580:14::/47, proxy, no-resolve
+ip6-cidr, 2404:4580:16::/48, proxy, no-resolve
+ip6-cidr, 2404:4580:18::/45, proxy, no-resolve
+ip6-cidr, 2404:4580:20::/46, proxy, no-resolve
+ip6-cidr, 2404:7e00:501::/48, proxy, no-resolve

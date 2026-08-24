@@ -1,2 +1,2 @@
-ip6-cidr, 2803:6b90::/43
-ip6-cidr, 2803:6b90:100::/40
+ip6-cidr, 2803:6b90::/43, proxy, no-resolve
+ip6-cidr, 2803:6b90:100::/40, proxy, no-resolve

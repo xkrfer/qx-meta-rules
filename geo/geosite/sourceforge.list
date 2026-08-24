@@ -1,4 +1,4 @@
-host-suffix, sourceforge.com
-host-suffix, sourceforge.net
-host-suffix, sf.net
-host-suffix, fsdn.com
+host-suffix, sourceforge.com, proxy
+host-suffix, sourceforge.net, proxy
+host-suffix, sf.net, proxy
+host-suffix, fsdn.com, proxy

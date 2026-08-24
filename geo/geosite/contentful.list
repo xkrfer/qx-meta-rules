@@ -1,2 +1,2 @@
-host-suffix, contentful.com
-host-suffix, ctfassets.net
+host-suffix, contentful.com, proxy
+host-suffix, ctfassets.net, proxy

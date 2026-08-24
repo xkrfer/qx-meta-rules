@@ -1,3 +1,3 @@
-host-suffix, sharepoint.cn
-host-suffix, sharepoint.com
-host-suffix, sharepointonline.com
+host-suffix, sharepoint.cn, proxy
+host-suffix, sharepoint.com, proxy
+host-suffix, sharepointonline.com, proxy

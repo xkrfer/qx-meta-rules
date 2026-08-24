@@ -1,8 +1,8 @@
-ip-cidr, 38.156.92.0/23
-ip-cidr, 38.199.16.0/23
-ip-cidr, 38.199.28.0/22
-ip6-cidr, 2803:6090:2000::/43
-ip6-cidr, 2803:6090:2020::/46
-ip6-cidr, 2803:6090:202c::/46
-ip6-cidr, 2803:6090:caaa::/48
-ip6-cidr, 2803:6090:cad0::/48
+ip-cidr, 38.156.92.0/23, proxy, no-resolve
+ip-cidr, 38.199.16.0/23, proxy, no-resolve
+ip-cidr, 38.199.28.0/22, proxy, no-resolve
+ip6-cidr, 2803:6090:2000::/43, proxy, no-resolve
+ip6-cidr, 2803:6090:2020::/46, proxy, no-resolve
+ip6-cidr, 2803:6090:202c::/46, proxy, no-resolve
+ip6-cidr, 2803:6090:caaa::/48, proxy, no-resolve
+ip6-cidr, 2803:6090:cad0::/48, proxy, no-resolve

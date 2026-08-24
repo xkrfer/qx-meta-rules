@@ -1,3 +1,3 @@
-host-suffix, fly.dev
-host-suffix, fly.io
-host-suffix, flyio.net
+host-suffix, fly.dev, proxy
+host-suffix, fly.io, proxy
+host-suffix, flyio.net, proxy

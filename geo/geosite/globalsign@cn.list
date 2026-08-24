@@ -1,7 +1,7 @@
-host-suffix, alphassl.com
-host-suffix, easy-signing.com
-host-suffix, globalsign.cn
-host-suffix, globalsign.com
-host-suffix, globalsigncdn.com
-host, cdn.globalsigncdn.com.cdn.cloudflare.net
-host, crl.globalsign.net
+host-suffix, alphassl.com, proxy
+host-suffix, easy-signing.com, proxy
+host-suffix, globalsign.cn, proxy
+host-suffix, globalsign.com, proxy
+host-suffix, globalsigncdn.com, proxy
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, proxy
+host, crl.globalsign.net, proxy

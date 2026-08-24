@@ -1,7 +1,7 @@
-host, hellofontpreview.oss-cn-beijing.aliyuncs.com
-host, hellowebfonts.oss-cn-beijing.aliyuncs.com
-host-suffix, hanyi.com
-host-suffix, hellofont.cn
-host-suffix, hellowebfont.com
-host-suffix, hanyi.com.cn
-host-suffix, fontstar.com.cn
+host, hellofontpreview.oss-cn-beijing.aliyuncs.com, proxy
+host, hellowebfonts.oss-cn-beijing.aliyuncs.com, proxy
+host-suffix, hanyi.com, proxy
+host-suffix, hellofont.cn, proxy
+host-suffix, hellowebfont.com, proxy
+host-suffix, hanyi.com.cn, proxy
+host-suffix, fontstar.com.cn, proxy

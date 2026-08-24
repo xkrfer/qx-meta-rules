@@ -1,6 +1,6 @@
-ip6-cidr, 2401:f860:7::/48
-ip6-cidr, 2401:f860:b::/48
-ip6-cidr, 2401:f860:f6::/48
-ip6-cidr, 2406:840:9600::/44
-ip6-cidr, 2406:840:9620::/44
-ip6-cidr, 2a0c:9a40:89c0::/48
+ip6-cidr, 2401:f860:7::/48, proxy, no-resolve
+ip6-cidr, 2401:f860:b::/48, proxy, no-resolve
+ip6-cidr, 2401:f860:f6::/48, proxy, no-resolve
+ip6-cidr, 2406:840:9600::/44, proxy, no-resolve
+ip6-cidr, 2406:840:9620::/44, proxy, no-resolve
+ip6-cidr, 2a0c:9a40:89c0::/48, proxy, no-resolve

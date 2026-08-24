@@ -1,27 +1,27 @@
-ip-cidr, 44.125.0.0/24
-ip-cidr, 66.132.182.0/23
-ip-cidr, 72.14.124.0/23
-ip-cidr, 104.152.128.0/22
-ip-cidr, 130.250.104.0/24
-ip-cidr, 130.250.110.0/27
-ip-cidr, 130.250.110.32/28
-ip-cidr, 130.250.110.48/29
-ip-cidr, 130.250.110.56/30
-ip-cidr, 130.250.110.61/32
-ip-cidr, 130.250.110.62/31
-ip-cidr, 130.250.110.64/26
-ip-cidr, 130.250.110.128/25
-ip-cidr, 130.250.111.0/24
-ip-cidr, 208.76.92.0/23
-ip-cidr, 208.76.94.0/24
-ip-cidr, 208.76.95.0/27
-ip-cidr, 208.76.95.32/28
-ip-cidr, 208.76.95.48/29
-ip-cidr, 208.76.95.56/30
-ip-cidr, 208.76.95.61/32
-ip-cidr, 208.76.95.62/31
-ip-cidr, 208.76.95.64/26
-ip-cidr, 208.76.95.128/25
-ip-cidr, 208.101.206.0/24
-ip-cidr, 208.101.224.0/23
-ip6-cidr, 2602:fea1::/36
+ip-cidr, 44.125.0.0/24, proxy, no-resolve
+ip-cidr, 66.132.182.0/23, proxy, no-resolve
+ip-cidr, 72.14.124.0/23, proxy, no-resolve
+ip-cidr, 104.152.128.0/22, proxy, no-resolve
+ip-cidr, 130.250.104.0/24, proxy, no-resolve
+ip-cidr, 130.250.110.0/27, proxy, no-resolve
+ip-cidr, 130.250.110.32/28, proxy, no-resolve
+ip-cidr, 130.250.110.48/29, proxy, no-resolve
+ip-cidr, 130.250.110.56/30, proxy, no-resolve
+ip-cidr, 130.250.110.61/32, proxy, no-resolve
+ip-cidr, 130.250.110.62/31, proxy, no-resolve
+ip-cidr, 130.250.110.64/26, proxy, no-resolve
+ip-cidr, 130.250.110.128/25, proxy, no-resolve
+ip-cidr, 130.250.111.0/24, proxy, no-resolve
+ip-cidr, 208.76.92.0/23, proxy, no-resolve
+ip-cidr, 208.76.94.0/24, proxy, no-resolve
+ip-cidr, 208.76.95.0/27, proxy, no-resolve
+ip-cidr, 208.76.95.32/28, proxy, no-resolve
+ip-cidr, 208.76.95.48/29, proxy, no-resolve
+ip-cidr, 208.76.95.56/30, proxy, no-resolve
+ip-cidr, 208.76.95.61/32, proxy, no-resolve
+ip-cidr, 208.76.95.62/31, proxy, no-resolve
+ip-cidr, 208.76.95.64/26, proxy, no-resolve
+ip-cidr, 208.76.95.128/25, proxy, no-resolve
+ip-cidr, 208.101.206.0/24, proxy, no-resolve
+ip-cidr, 208.101.224.0/23, proxy, no-resolve
+ip6-cidr, 2602:fea1::/36, proxy, no-resolve

@@ -1,2 +1,2 @@
-host-suffix, accuweather.com
-host-suffix, awxcdn.com
+host-suffix, accuweather.com, proxy
+host-suffix, awxcdn.com, proxy

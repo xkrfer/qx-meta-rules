@@ -1,1 +1,1 @@
-ip-cidr, 180.95.16.0/20
+ip-cidr, 180.95.16.0/20, proxy, no-resolve

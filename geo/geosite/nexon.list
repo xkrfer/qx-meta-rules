@@ -1,6 +1,6 @@
-host-suffix, nexon.com
-host-suffix, nexon.io
-host-suffix, nexon.net
-host-suffix, nexon.co.jp
-host-suffix, nexoncdn.co.kr
-host-suffix, nexongames.co.kr
+host-suffix, nexon.com, proxy
+host-suffix, nexon.io, proxy
+host-suffix, nexon.net, proxy
+host-suffix, nexon.co.jp, proxy
+host-suffix, nexoncdn.co.kr, proxy
+host-suffix, nexongames.co.kr, proxy

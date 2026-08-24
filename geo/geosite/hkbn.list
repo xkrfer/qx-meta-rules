@@ -1,6 +1,6 @@
-host-suffix, csifund.org
-host-suffix, hkbn.net
-host-suffix, hkbnes.net
-host-suffix, jos.com
-host-suffix, hkbn.com.hk
-host-suffix, speedtest.com.hk
+host-suffix, csifund.org, proxy
+host-suffix, hkbn.net, proxy
+host-suffix, hkbnes.net, proxy
+host-suffix, jos.com, proxy
+host-suffix, hkbn.com.hk, proxy
+host-suffix, speedtest.com.hk, proxy

@@ -1,6 +1,6 @@
-ip-cidr, 137.165.0.0/16
-ip-cidr, 204.225.173.0/24
-ip6-cidr, 2001:470:ed::/48
-ip6-cidr, 2602:811:3000::/44
-ip6-cidr, 2606:6b40:fff1::/48
-ip6-cidr, 2606:6b40:fff2::/48
+ip-cidr, 137.165.0.0/16, proxy, no-resolve
+ip-cidr, 204.225.173.0/24, proxy, no-resolve
+ip6-cidr, 2001:470:ed::/48, proxy, no-resolve
+ip6-cidr, 2602:811:3000::/44, proxy, no-resolve
+ip6-cidr, 2606:6b40:fff1::/48, proxy, no-resolve
+ip6-cidr, 2606:6b40:fff2::/48, proxy, no-resolve

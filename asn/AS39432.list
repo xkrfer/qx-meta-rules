@@ -1,2 +1,2 @@
-ip-cidr, 62.220.149.0/24
-ip6-cidr, 2001:78a::/40
+ip-cidr, 62.220.149.0/24, proxy, no-resolve
+ip6-cidr, 2001:78a::/40, proxy, no-resolve

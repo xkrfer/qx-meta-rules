@@ -1,4 +1,4 @@
-host-suffix, zuoyebang.cc
-host-suffix, zuoyebang.com
-host-suffix, zybang.com
-host-suffix, syh.zybang.com
+host-suffix, zuoyebang.cc, proxy
+host-suffix, zuoyebang.com, proxy
+host-suffix, zybang.com, proxy
+host-suffix, syh.zybang.com, proxy

@@ -1,2 +1,2 @@
-ip-cidr, 159.93.0.0/16
-ip6-cidr, 2a05:81c0::/29
+ip-cidr, 159.93.0.0/16, proxy, no-resolve
+ip6-cidr, 2a05:81c0::/29, proxy, no-resolve

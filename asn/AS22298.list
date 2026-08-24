@@ -1,1 +1,1 @@
-ip6-cidr, 2a05:a200::/48
+ip6-cidr, 2a05:a200::/48, proxy, no-resolve

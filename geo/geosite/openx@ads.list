@@ -1,5 +1,5 @@
-host-suffix, openx.net
-host-suffix, openxadexchange.com
-host-suffix, openxcdn.net
-host-suffix, openxenterprise.com
-host-suffix, openxmarket.asia
+host-suffix, openx.net, proxy
+host-suffix, openxadexchange.com, proxy
+host-suffix, openxcdn.net, proxy
+host-suffix, openxenterprise.com, proxy
+host-suffix, openxmarket.asia, proxy

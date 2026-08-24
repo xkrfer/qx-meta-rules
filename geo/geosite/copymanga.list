@@ -1,7 +1,7 @@
-host-suffix, 2025copy.com
-host-suffix, copy-manga.com
-host-suffix, copy20.com
-host-suffix, copy2000.online
-host-suffix, mangacopy.com
-host-suffix, mangafuna.xyz
-host-suffix, mangafunb.fun
+host-suffix, 2025copy.com, proxy
+host-suffix, copy-manga.com, proxy
+host-suffix, copy20.com, proxy
+host-suffix, copy2000.online, proxy
+host-suffix, mangacopy.com, proxy
+host-suffix, mangafuna.xyz, proxy
+host-suffix, mangafunb.fun, proxy

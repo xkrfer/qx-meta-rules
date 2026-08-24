@@ -1,8 +1,8 @@
-host-suffix, libgen.life
-host-suffix, libgen.fun
-host-suffix, library.lol
-host-suffix, libgen.is
-host-suffix, libgen.me
-host-suffix, libgen.rs
-host-suffix, libgen.st
-host-suffix, gen.lib.rus.ec
+host-suffix, libgen.life, proxy
+host-suffix, libgen.fun, proxy
+host-suffix, library.lol, proxy
+host-suffix, libgen.is, proxy
+host-suffix, libgen.me, proxy
+host-suffix, libgen.rs, proxy
+host-suffix, libgen.st, proxy
+host-suffix, gen.lib.rus.ec, proxy

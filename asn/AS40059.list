@@ -1,1 +1,1 @@
-ip-cidr, 199.204.224.0/22
+ip-cidr, 199.204.224.0/22, proxy, no-resolve

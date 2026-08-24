@@ -1,6 +1,6 @@
-ip-cidr, 103.119.178.0/24
-ip-cidr, 103.133.180.0/24
-ip-cidr, 103.135.130.0/23
-ip-cidr, 103.251.43.0/24
-ip-cidr, 144.16.177.0/24
-ip6-cidr, 2001:df7:9100::/48
+ip-cidr, 103.119.178.0/24, proxy, no-resolve
+ip-cidr, 103.133.180.0/24, proxy, no-resolve
+ip-cidr, 103.135.130.0/23, proxy, no-resolve
+ip-cidr, 103.251.43.0/24, proxy, no-resolve
+ip-cidr, 144.16.177.0/24, proxy, no-resolve
+ip6-cidr, 2001:df7:9100::/48, proxy, no-resolve

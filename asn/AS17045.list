@@ -1,1 +1,1 @@
-ip6-cidr, 2605:84c0:48::/46
+ip6-cidr, 2605:84c0:48::/46, proxy, no-resolve

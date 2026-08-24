@@ -1,9 +1,9 @@
-host-suffix, genshinimpact.com
-host-suffix, honkaiimpact3.com
-host-suffix, honkaistarrail.com
-host-suffix, hoyo.link
-host-suffix, hoyolab.com
-host-suffix, hoyoverse.com
-host-suffix, n0vadesktop.com
-host-suffix, zenlesszonezero.com
-host-suffix, log-upload-os.hoyoverse.com
+host-suffix, genshinimpact.com, proxy
+host-suffix, honkaiimpact3.com, proxy
+host-suffix, honkaistarrail.com, proxy
+host-suffix, hoyo.link, proxy
+host-suffix, hoyolab.com, proxy
+host-suffix, hoyoverse.com, proxy
+host-suffix, n0vadesktop.com, proxy
+host-suffix, zenlesszonezero.com, proxy
+host-suffix, log-upload-os.hoyoverse.com, proxy

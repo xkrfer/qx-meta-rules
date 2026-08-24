@@ -1,2 +1,2 @@
-host-suffix, softether.org
-host-suffix, softether-download.com
+host-suffix, softether.org, proxy
+host-suffix, softether-download.com, proxy

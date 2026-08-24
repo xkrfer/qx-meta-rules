@@ -1,17 +1,17 @@
-ip-cidr, 206.63.128.0/22
-ip-cidr, 206.63.133.0/24
-ip-cidr, 206.63.134.0/23
-ip-cidr, 206.63.136.0/22
-ip-cidr, 208.122.32.0/20
-ip-cidr, 208.122.48.0/21
-ip-cidr, 208.122.56.0/22
-ip6-cidr, 2604:e700:1::/48
-ip6-cidr, 2604:e700:2::/47
-ip6-cidr, 2604:e700:4::/46
-ip6-cidr, 2604:e700:8::/45
-ip6-cidr, 2604:e700:10::/45
-ip6-cidr, 2604:e700:18::/46
-ip6-cidr, 2604:e700:1c::/47
-ip6-cidr, 2604:e700:1f::/48
-ip6-cidr, 2604:e700:20::/46
-ip6-cidr, 2604:e700:24::/48
+ip-cidr, 206.63.128.0/22, proxy, no-resolve
+ip-cidr, 206.63.133.0/24, proxy, no-resolve
+ip-cidr, 206.63.134.0/23, proxy, no-resolve
+ip-cidr, 206.63.136.0/22, proxy, no-resolve
+ip-cidr, 208.122.32.0/20, proxy, no-resolve
+ip-cidr, 208.122.48.0/21, proxy, no-resolve
+ip-cidr, 208.122.56.0/22, proxy, no-resolve
+ip6-cidr, 2604:e700:1::/48, proxy, no-resolve
+ip6-cidr, 2604:e700:2::/47, proxy, no-resolve
+ip6-cidr, 2604:e700:4::/46, proxy, no-resolve
+ip6-cidr, 2604:e700:8::/45, proxy, no-resolve
+ip6-cidr, 2604:e700:10::/45, proxy, no-resolve
+ip6-cidr, 2604:e700:18::/46, proxy, no-resolve
+ip6-cidr, 2604:e700:1c::/47, proxy, no-resolve
+ip6-cidr, 2604:e700:1f::/48, proxy, no-resolve
+ip6-cidr, 2604:e700:20::/46, proxy, no-resolve
+ip6-cidr, 2604:e700:24::/48, proxy, no-resolve

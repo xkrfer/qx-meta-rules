@@ -1,3 +1,3 @@
-host-suffix, twilio.com
-host-suffix, twilio.jp
-host-suffix, tytch.com
+host-suffix, twilio.com, proxy
+host-suffix, twilio.jp, proxy
+host-suffix, tytch.com, proxy

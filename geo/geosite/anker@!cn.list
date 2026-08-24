@@ -1,7 +1,7 @@
-host-suffix, anker-in.com
-host-suffix, anker.com
-host-suffix, ankersolix.com
-host-suffix, eufy.com
-host-suffix, eufylife.com
-host-suffix, eufymake.com
-host-suffix, soundcore.com
+host-suffix, anker-in.com, proxy
+host-suffix, anker.com, proxy
+host-suffix, ankersolix.com, proxy
+host-suffix, eufy.com, proxy
+host-suffix, eufylife.com, proxy
+host-suffix, eufymake.com, proxy
+host-suffix, soundcore.com, proxy

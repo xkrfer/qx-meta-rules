@@ -1,2 +1,2 @@
-ip-cidr, 76.76.14.0/24
-ip6-cidr, 2602:809:8000::/44
+ip-cidr, 76.76.14.0/24, proxy, no-resolve
+ip6-cidr, 2602:809:8000::/44, proxy, no-resolve

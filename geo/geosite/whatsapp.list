@@ -1,13 +1,13 @@
-host-suffix, wa.me
-host-suffix, whatsapp-plus.info
-host-suffix, whatsapp-plus.me
-host-suffix, whatsapp-plus.net
-host-suffix, whatsapp.cc
-host-suffix, whatsapp.com
-host-suffix, whatsapp.info
-host-suffix, whatsapp.net
-host-suffix, whatsapp.org
-host-suffix, whatsapp.tv
-host-suffix, whatsappbrand.com
-host-suffix, graph.whatsapp.com
-host-suffix, graph.whatsapp.net
+host-suffix, wa.me, proxy
+host-suffix, whatsapp-plus.info, proxy
+host-suffix, whatsapp-plus.me, proxy
+host-suffix, whatsapp-plus.net, proxy
+host-suffix, whatsapp.cc, proxy
+host-suffix, whatsapp.com, proxy
+host-suffix, whatsapp.info, proxy
+host-suffix, whatsapp.net, proxy
+host-suffix, whatsapp.org, proxy
+host-suffix, whatsapp.tv, proxy
+host-suffix, whatsappbrand.com, proxy
+host-suffix, graph.whatsapp.com, proxy
+host-suffix, graph.whatsapp.net, proxy

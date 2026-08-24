@@ -1,17 +1,17 @@
-host, gamedownloads-rockstargames-com.akamaized.net
-host, media-rockstargames-com.akamaized.net
-host, videos-rockstargames-com.akamaized.net
-host-suffix, take2games.com
-host-suffix, 2k.com
-host-suffix, 2kcoretech.online
-host-suffix, 2kct.onl
-host-suffix, 2kgames.com
-host-suffix, 2ksports.com
-host-suffix, 2kweb.online
-host-suffix, rockstargames.com
-host-suffix, rockstarnorth.com
-host-suffix, rsg.ms
-host-suffix, rsg.sc
-host-suffix, zynga.com
-host-suffix, zyngaplayersupport.com
-host-suffix, zyngapoker.com
+host, gamedownloads-rockstargames-com.akamaized.net, proxy
+host, media-rockstargames-com.akamaized.net, proxy
+host, videos-rockstargames-com.akamaized.net, proxy
+host-suffix, take2games.com, proxy
+host-suffix, 2k.com, proxy
+host-suffix, 2kcoretech.online, proxy
+host-suffix, 2kct.onl, proxy
+host-suffix, 2kgames.com, proxy
+host-suffix, 2ksports.com, proxy
+host-suffix, 2kweb.online, proxy
+host-suffix, rockstargames.com, proxy
+host-suffix, rockstarnorth.com, proxy
+host-suffix, rsg.ms, proxy
+host-suffix, rsg.sc, proxy
+host-suffix, zynga.com, proxy
+host-suffix, zyngaplayersupport.com, proxy
+host-suffix, zyngapoker.com, proxy

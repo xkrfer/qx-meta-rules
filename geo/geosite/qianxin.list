@@ -1,7 +1,7 @@
-host-suffix, 95015.com
-host-suffix, qianxin.com
-host-suffix, qianxincdn.com
-host-suffix, seclab.online
-host-suffix, tianshucup.com
-host-suffix, ceati.org.cn
-host-suffix, datacon.org.cn
+host-suffix, 95015.com, proxy
+host-suffix, qianxin.com, proxy
+host-suffix, qianxincdn.com, proxy
+host-suffix, seclab.online, proxy
+host-suffix, tianshucup.com, proxy
+host-suffix, ceati.org.cn, proxy
+host-suffix, datacon.org.cn, proxy

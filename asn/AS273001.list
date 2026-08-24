@@ -1,6 +1,6 @@
-ip-cidr, 45.65.136.0/22
-ip6-cidr, 2803:a5c0:4000::/36
-ip6-cidr, 2803:a5c0:6200::/40
-ip6-cidr, 2803:a5c0:6400::/40
-ip6-cidr, 2803:a5c0:6600::/40
-ip6-cidr, 2803:a5c0:8200::/40
+ip-cidr, 45.65.136.0/22, proxy, no-resolve
+ip6-cidr, 2803:a5c0:4000::/36, proxy, no-resolve
+ip6-cidr, 2803:a5c0:6200::/40, proxy, no-resolve
+ip6-cidr, 2803:a5c0:6400::/40, proxy, no-resolve
+ip6-cidr, 2803:a5c0:6600::/40, proxy, no-resolve
+ip6-cidr, 2803:a5c0:8200::/40, proxy, no-resolve

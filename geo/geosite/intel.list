@@ -1,287 +1,287 @@
-host-suffix, intel.wf
-host-suffix, intel.lc
-host-suffix, intel.af
-host-suffix, intel.ag
-host-suffix, intel.ai
-host-suffix, intel.ar
-host-suffix, intel.at
-host-suffix, intel.az
-host-suffix, intel.ba
-host-suffix, intel.bg
-host-suffix, intel.bh
-host-suffix, intel.bi
-host-suffix, intel.bo
-host-suffix, intel.bs
-host-suffix, intel.by
-host-suffix, intel.ca
-host-suffix, intel.cc
-host-suffix, intel.cg
-host-suffix, intel.ch
-host-suffix, intel.cl
-host-suffix, intel.cm
-host-suffix, intel.co
-host-suffix, intel.com
-host-suffix, intel.cr
-host-suffix, intel.cu
-host-suffix, intel.cz
-host-suffix, intel.de
-host-suffix, ospray.org
-host-suffix, ospray.net
-host-suffix, clearlinux.org
-host-suffix, acpica.com
-host-suffix, universalscalablefirmware.org
-host-suffix, snap-telemetry.io
-host-suffix, renderingtoolkit.org
-host-suffix, openvinotoolkit.org
-host-suffix, openvino.ai
-host-suffix, opendroneid.org
-host-suffix, opencas.io
-host-suffix, oneapi.io
-host-suffix, oneapi.com
-host-suffix, intellinuxgraphics.net
-host-suffix, intellinuxgraphics.com
-host-suffix, hyperscan.io
-host-suffix, 01.org
-host-suffix, barefootnetworks.com
-host-suffix, xscale.com
-host-suffix, xn--ztsq84g.cn
-host-suffix, xeon.com
-host-suffix, vpro.net
-host-suffix, vpro.com
-host-suffix, intel.dev
-host-suffix, intel.dk
-host-suffix, intel.dz
-host-suffix, intel.ec
-host-suffix, intel.ee
-host-suffix, intel.eg
-host-suffix, intel.es
-host-suffix, intel.eu
-host-suffix, intel.fi
-host-suffix, intel.fr
-host-suffix, intel.ga
-host-suffix, intel.gd
-host-suffix, intel.ge
-host-suffix, intel.gg
-host-suffix, intel.gl
-host-suffix, intel.gm
-host-suffix, intel.gr
-host-suffix, intel.gs
-host-suffix, intel.gt
-host-suffix, intel.gy
-host-suffix, intel.hk
-host-suffix, intel.hn
-host-suffix, intel.ht
-host-suffix, intel.hu
-host-suffix, intel.id
-host-suffix, intel.ie
-host-suffix, intel.in
-host-suffix, intel.io
-host-suffix, intel.it
-host-suffix, intel.je
-host-suffix, intel.jo
-host-suffix, intel.jp
-host-suffix, intel.ke
-host-suffix, intel.la
-host-suffix, intel.yt
-host-suffix, intel.lk
-host-suffix, intel.lt
-host-suffix, intel.lu
-host-suffix, intel.ly
-host-suffix, intel.ma
-host-suffix, intel.md
-host-suffix, intel.me
-host-suffix, intel.mg
-host-suffix, intel.mk
-host-suffix, intel.mn
-host-suffix, intel.mp
-host-suffix, intel.ac
-host-suffix, intel.mu
-host-suffix, intel.mw
-host-suffix, intel.mx
-host-suffix, intel.my
-host-suffix, intel.ng
-host-suffix, intel.nl
-host-suffix, intel.nu
-host-suffix, intel.nz
-host-suffix, intel.pa
-host-suffix, intel.pe
-host-suffix, intel.ph
-host-suffix, intel.pl
-host-suffix, intel.pn
-host-suffix, intel.re
-host-suffix, intel.ro
-host-suffix, intel.ru
-host-suffix, intel.rw
-host-suffix, intel.sa
-host-suffix, intel.sc
-host-suffix, intel.se
-host-suffix, intel.sg
-host-suffix, intel.si
-host-suffix, intel.sk
-host-suffix, intel.sn
-host-suffix, intel.sr
-host-suffix, intel.st
-host-suffix, intel.sv
-host-suffix, intel.sx
-host-suffix, intel.sy
-host-suffix, intel.tf
-host-suffix, intel.tj
-host-suffix, intel.tl
-host-suffix, intel.tm
-host-suffix, intel.tn
-host-suffix, intel.tt
-host-suffix, intel.tv
-host-suffix, intel.tw
-host-suffix, intel.ua
-host-suffix, intel.uk
-host-suffix, intel.us
-host-suffix, intel.uy
-host-suffix, intel.uz
-host-suffix, intel.vg
-host-suffix, intel.vn
-host-suffix, intel.vu
-host-suffix, intel.mt
-host-suffix, intel.ae
-host-suffix, exploreintel.com
-host-suffix, vokevr.com
-host-suffix, trustedanalytics.net
-host-suffix, trustedanalytics.com
-host-suffix, thunderbolttechnology.net
-host-suffix, altera.com
-host-suffix, alteraforum.com
-host-suffix, buyaltera.com
-host-suffix, celeron.com
-host-suffix, celeron.net
-host-suffix, centrino.com
-host-suffix, centrino.net
-host-suffix, chips.com
-host-suffix, cilk.com
-host-suffix, cilk.net
-host-suffix, cloudinsights.com
-host-suffix, clusterconnection.com
-host-suffix, comm-verse.com
-host-suffix, coreduo.com
-host-suffix, coreextreme.com
-host-suffix, crosswalk-project.com
-host-suffix, crosswalk-project.net
-host-suffix, dml-lang.org
-host-suffix, doceapower.com
-host-suffix, easic.com
-host-suffix, enpirion.com
-host-suffix, exascale-tech.com
-host-suffix, threadingbuildingblocks.org
-host-suffix, gordonmoore.com
-host-suffix, granulate.io
-host-suffix, hackharassment.com
-host-suffix, insidefilms.com
-host-suffix, insight.tech
-host-suffix, intc.com
-host-suffix, intel-research.net
-host-suffix, intel-university-collaboration.net
-host-suffix, intelamericasstore.com
-host-suffix, intelapacstore.com
-host-suffix, intelatom.net
-host-suffix, intelcapital.com
-host-suffix, intelcapital.net
-host-suffix, intelcloudbuilders.com
-host-suffix, intelcloudfinder.com
-host-suffix, intelemeastore.com
-host-suffix, inteleventexpress.com
-host-suffix, intelforchange.com
-host-suffix, intelfreepress.com
-host-suffix, intelgo.net
-host-suffix, intelinsight.com
-host-suffix, inteliotmarketplace.com
-host-suffix, intell.com
-host-suffix, intellearningseries.com
-host-suffix, intellinuxwireless.net
-host-suffix, intelnervana.com
-host-suffix, intelplay.com
-host-suffix, intelquark.com
-host-suffix, intelrealsense.cn
-host-suffix, intelrealsense.com
-host-suffix, intelrealsense.net
-host-suffix, intelreimbursement.com
-host-suffix, intelrxt.com
-host-suffix, intelsalestraining.com
-host-suffix, intelsecurity.com
-host-suffix, intelserveredge.com
-host-suffix, intelsoftwarenetwork.com
-host-suffix, intelstore.com
-host-suffix, inteltechnologyprovider.com
-host-suffix, intelvmwarecybersecurity.com
-host-suffix, itnel.com
-host-suffix, latencytop.com
-host-suffix, lookinside.com
-host-suffix, makebettercode.com
-host-suffix, makesenseofdata.com
-host-suffix, meccontroller.com
-host-suffix, movidius.com
-host-suffix, movidius.net
-host-suffix, movidius.org
-host-suffix, nervanasys.com
-host-suffix, nevex.com
-host-suffix, nextgenerationcenter.com
-host-suffix, niosii.com
-host-suffix, niosii.net
-host-suffix, omekinteractive.com
-host-suffix, omnitek.tv
-host-suffix, openamt.com
-host-suffix, optanedifference.com
-host-suffix, passwordday.org
-host-suffix, pc.com
-host-suffix, pentium.com
-host-suffix, pentium.net
-host-suffix, pintool.com
-host-suffix, pmem.org
-host-suffix, pmem.us
-host-suffix, poweredbyintel.com
-host-suffix, projectcircuitbreaker.com
-host-suffix, reconinstruments.com
-host-suffix, reconjet.com
-host-suffix, researchintel.com
-host-suffix, saffrontech.com
-host-suffix, sensorynetworks.com
-host-suffix, sigopt.com
-host-suffix, silicon-mobility.com
-host-suffix, siliconmobility.com
-host-suffix, siport.com
-host-suffix, smart-edge.com
-host-suffix, smart-edge.info
-host-suffix, smart-edge.io
-host-suffix, smart-edge.net
-host-suffix, smart-edge.org
-host-suffix, smart-edge.systems
-host-suffix, smartedge.info
-host-suffix, storageclassmemory.io
-host-suffix, storageclassmemory.org
-host-suffix, theintelstore.com
-host-suffix, intel.com.au
-host-suffix, intel.co.jp
-host-suffix, intel.com.ve
-host-suffix, intel.com.uy
-host-suffix, intel.com.cn
-host-suffix, intel.com.py
-host-suffix, intel.com.pr
-host-suffix, intel.com.ph
-host-suffix, intel.com.pe
-host-suffix, intel.com.my
-host-suffix, intel.com.mx
-host-suffix, intel.com.jm
-host-suffix, altera.co.jp
-host-suffix, intel.com.hk
-host-suffix, intel.com.tw
-host-suffix, intel.com.ec
-host-suffix, intel.com.br
-host-suffix, intel.com.bo
-host-suffix, intel.com.co
-host-suffix, intel.com.ar
-host-suffix, intel.co.za
-host-suffix, intel.co.uk
-host-suffix, intel.co.kr
-host-suffix, intel.com.tr
-host-suffix, intel.co.il
-host-suffix, intel.co.id
-host-suffix, intel.co.cr
-host-suffix, intel.co.ae
-host-suffix, intel.cn
+host-suffix, intel.wf, proxy
+host-suffix, intel.lc, proxy
+host-suffix, intel.af, proxy
+host-suffix, intel.ag, proxy
+host-suffix, intel.ai, proxy
+host-suffix, intel.ar, proxy
+host-suffix, intel.at, proxy
+host-suffix, intel.az, proxy
+host-suffix, intel.ba, proxy
+host-suffix, intel.bg, proxy
+host-suffix, intel.bh, proxy
+host-suffix, intel.bi, proxy
+host-suffix, intel.bo, proxy
+host-suffix, intel.bs, proxy
+host-suffix, intel.by, proxy
+host-suffix, intel.ca, proxy
+host-suffix, intel.cc, proxy
+host-suffix, intel.cg, proxy
+host-suffix, intel.ch, proxy
+host-suffix, intel.cl, proxy
+host-suffix, intel.cm, proxy
+host-suffix, intel.co, proxy
+host-suffix, intel.com, proxy
+host-suffix, intel.cr, proxy
+host-suffix, intel.cu, proxy
+host-suffix, intel.cz, proxy
+host-suffix, intel.de, proxy
+host-suffix, ospray.org, proxy
+host-suffix, ospray.net, proxy
+host-suffix, clearlinux.org, proxy
+host-suffix, acpica.com, proxy
+host-suffix, universalscalablefirmware.org, proxy
+host-suffix, snap-telemetry.io, proxy
+host-suffix, renderingtoolkit.org, proxy
+host-suffix, openvinotoolkit.org, proxy
+host-suffix, openvino.ai, proxy
+host-suffix, opendroneid.org, proxy
+host-suffix, opencas.io, proxy
+host-suffix, oneapi.io, proxy
+host-suffix, oneapi.com, proxy
+host-suffix, intellinuxgraphics.net, proxy
+host-suffix, intellinuxgraphics.com, proxy
+host-suffix, hyperscan.io, proxy
+host-suffix, 01.org, proxy
+host-suffix, barefootnetworks.com, proxy
+host-suffix, xscale.com, proxy
+host-suffix, xn--ztsq84g.cn, proxy
+host-suffix, xeon.com, proxy
+host-suffix, vpro.net, proxy
+host-suffix, vpro.com, proxy
+host-suffix, intel.dev, proxy
+host-suffix, intel.dk, proxy
+host-suffix, intel.dz, proxy
+host-suffix, intel.ec, proxy
+host-suffix, intel.ee, proxy
+host-suffix, intel.eg, proxy
+host-suffix, intel.es, proxy
+host-suffix, intel.eu, proxy
+host-suffix, intel.fi, proxy
+host-suffix, intel.fr, proxy
+host-suffix, intel.ga, proxy
+host-suffix, intel.gd, proxy
+host-suffix, intel.ge, proxy
+host-suffix, intel.gg, proxy
+host-suffix, intel.gl, proxy
+host-suffix, intel.gm, proxy
+host-suffix, intel.gr, proxy
+host-suffix, intel.gs, proxy
+host-suffix, intel.gt, proxy
+host-suffix, intel.gy, proxy
+host-suffix, intel.hk, proxy
+host-suffix, intel.hn, proxy
+host-suffix, intel.ht, proxy
+host-suffix, intel.hu, proxy
+host-suffix, intel.id, proxy
+host-suffix, intel.ie, proxy
+host-suffix, intel.in, proxy
+host-suffix, intel.io, proxy
+host-suffix, intel.it, proxy
+host-suffix, intel.je, proxy
+host-suffix, intel.jo, proxy
+host-suffix, intel.jp, proxy
+host-suffix, intel.ke, proxy
+host-suffix, intel.la, proxy
+host-suffix, intel.yt, proxy
+host-suffix, intel.lk, proxy
+host-suffix, intel.lt, proxy
+host-suffix, intel.lu, proxy
+host-suffix, intel.ly, proxy
+host-suffix, intel.ma, proxy
+host-suffix, intel.md, proxy
+host-suffix, intel.me, proxy
+host-suffix, intel.mg, proxy
+host-suffix, intel.mk, proxy
+host-suffix, intel.mn, proxy
+host-suffix, intel.mp, proxy
+host-suffix, intel.ac, proxy
+host-suffix, intel.mu, proxy
+host-suffix, intel.mw, proxy
+host-suffix, intel.mx, proxy
+host-suffix, intel.my, proxy
+host-suffix, intel.ng, proxy
+host-suffix, intel.nl, proxy
+host-suffix, intel.nu, proxy
+host-suffix, intel.nz, proxy
+host-suffix, intel.pa, proxy
+host-suffix, intel.pe, proxy
+host-suffix, intel.ph, proxy
+host-suffix, intel.pl, proxy
+host-suffix, intel.pn, proxy
+host-suffix, intel.re, proxy
+host-suffix, intel.ro, proxy
+host-suffix, intel.ru, proxy
+host-suffix, intel.rw, proxy
+host-suffix, intel.sa, proxy
+host-suffix, intel.sc, proxy
+host-suffix, intel.se, proxy
+host-suffix, intel.sg, proxy
+host-suffix, intel.si, proxy
+host-suffix, intel.sk, proxy
+host-suffix, intel.sn, proxy
+host-suffix, intel.sr, proxy
+host-suffix, intel.st, proxy
+host-suffix, intel.sv, proxy
+host-suffix, intel.sx, proxy
+host-suffix, intel.sy, proxy
+host-suffix, intel.tf, proxy
+host-suffix, intel.tj, proxy
+host-suffix, intel.tl, proxy
+host-suffix, intel.tm, proxy
+host-suffix, intel.tn, proxy
+host-suffix, intel.tt, proxy
+host-suffix, intel.tv, proxy
+host-suffix, intel.tw, proxy
+host-suffix, intel.ua, proxy
+host-suffix, intel.uk, proxy
+host-suffix, intel.us, proxy
+host-suffix, intel.uy, proxy
+host-suffix, intel.uz, proxy
+host-suffix, intel.vg, proxy
+host-suffix, intel.vn, proxy
+host-suffix, intel.vu, proxy
+host-suffix, intel.mt, proxy
+host-suffix, intel.ae, proxy
+host-suffix, exploreintel.com, proxy
+host-suffix, vokevr.com, proxy
+host-suffix, trustedanalytics.net, proxy
+host-suffix, trustedanalytics.com, proxy
+host-suffix, thunderbolttechnology.net, proxy
+host-suffix, altera.com, proxy
+host-suffix, alteraforum.com, proxy
+host-suffix, buyaltera.com, proxy
+host-suffix, celeron.com, proxy
+host-suffix, celeron.net, proxy
+host-suffix, centrino.com, proxy
+host-suffix, centrino.net, proxy
+host-suffix, chips.com, proxy
+host-suffix, cilk.com, proxy
+host-suffix, cilk.net, proxy
+host-suffix, cloudinsights.com, proxy
+host-suffix, clusterconnection.com, proxy
+host-suffix, comm-verse.com, proxy
+host-suffix, coreduo.com, proxy
+host-suffix, coreextreme.com, proxy
+host-suffix, crosswalk-project.com, proxy
+host-suffix, crosswalk-project.net, proxy
+host-suffix, dml-lang.org, proxy
+host-suffix, doceapower.com, proxy
+host-suffix, easic.com, proxy
+host-suffix, enpirion.com, proxy
+host-suffix, exascale-tech.com, proxy
+host-suffix, threadingbuildingblocks.org, proxy
+host-suffix, gordonmoore.com, proxy
+host-suffix, granulate.io, proxy
+host-suffix, hackharassment.com, proxy
+host-suffix, insidefilms.com, proxy
+host-suffix, insight.tech, proxy
+host-suffix, intc.com, proxy
+host-suffix, intel-research.net, proxy
+host-suffix, intel-university-collaboration.net, proxy
+host-suffix, intelamericasstore.com, proxy
+host-suffix, intelapacstore.com, proxy
+host-suffix, intelatom.net, proxy
+host-suffix, intelcapital.com, proxy
+host-suffix, intelcapital.net, proxy
+host-suffix, intelcloudbuilders.com, proxy
+host-suffix, intelcloudfinder.com, proxy
+host-suffix, intelemeastore.com, proxy
+host-suffix, inteleventexpress.com, proxy
+host-suffix, intelforchange.com, proxy
+host-suffix, intelfreepress.com, proxy
+host-suffix, intelgo.net, proxy
+host-suffix, intelinsight.com, proxy
+host-suffix, inteliotmarketplace.com, proxy
+host-suffix, intell.com, proxy
+host-suffix, intellearningseries.com, proxy
+host-suffix, intellinuxwireless.net, proxy
+host-suffix, intelnervana.com, proxy
+host-suffix, intelplay.com, proxy
+host-suffix, intelquark.com, proxy
+host-suffix, intelrealsense.cn, proxy
+host-suffix, intelrealsense.com, proxy
+host-suffix, intelrealsense.net, proxy
+host-suffix, intelreimbursement.com, proxy
+host-suffix, intelrxt.com, proxy
+host-suffix, intelsalestraining.com, proxy
+host-suffix, intelsecurity.com, proxy
+host-suffix, intelserveredge.com, proxy
+host-suffix, intelsoftwarenetwork.com, proxy
+host-suffix, intelstore.com, proxy
+host-suffix, inteltechnologyprovider.com, proxy
+host-suffix, intelvmwarecybersecurity.com, proxy
+host-suffix, itnel.com, proxy
+host-suffix, latencytop.com, proxy
+host-suffix, lookinside.com, proxy
+host-suffix, makebettercode.com, proxy
+host-suffix, makesenseofdata.com, proxy
+host-suffix, meccontroller.com, proxy
+host-suffix, movidius.com, proxy
+host-suffix, movidius.net, proxy
+host-suffix, movidius.org, proxy
+host-suffix, nervanasys.com, proxy
+host-suffix, nevex.com, proxy
+host-suffix, nextgenerationcenter.com, proxy
+host-suffix, niosii.com, proxy
+host-suffix, niosii.net, proxy
+host-suffix, omekinteractive.com, proxy
+host-suffix, omnitek.tv, proxy
+host-suffix, openamt.com, proxy
+host-suffix, optanedifference.com, proxy
+host-suffix, passwordday.org, proxy
+host-suffix, pc.com, proxy
+host-suffix, pentium.com, proxy
+host-suffix, pentium.net, proxy
+host-suffix, pintool.com, proxy
+host-suffix, pmem.org, proxy
+host-suffix, pmem.us, proxy
+host-suffix, poweredbyintel.com, proxy
+host-suffix, projectcircuitbreaker.com, proxy
+host-suffix, reconinstruments.com, proxy
+host-suffix, reconjet.com, proxy
+host-suffix, researchintel.com, proxy
+host-suffix, saffrontech.com, proxy
+host-suffix, sensorynetworks.com, proxy
+host-suffix, sigopt.com, proxy
+host-suffix, silicon-mobility.com, proxy
+host-suffix, siliconmobility.com, proxy
+host-suffix, siport.com, proxy
+host-suffix, smart-edge.com, proxy
+host-suffix, smart-edge.info, proxy
+host-suffix, smart-edge.io, proxy
+host-suffix, smart-edge.net, proxy
+host-suffix, smart-edge.org, proxy
+host-suffix, smart-edge.systems, proxy
+host-suffix, smartedge.info, proxy
+host-suffix, storageclassmemory.io, proxy
+host-suffix, storageclassmemory.org, proxy
+host-suffix, theintelstore.com, proxy
+host-suffix, intel.com.au, proxy
+host-suffix, intel.co.jp, proxy
+host-suffix, intel.com.ve, proxy
+host-suffix, intel.com.uy, proxy
+host-suffix, intel.com.cn, proxy
+host-suffix, intel.com.py, proxy
+host-suffix, intel.com.pr, proxy
+host-suffix, intel.com.ph, proxy
+host-suffix, intel.com.pe, proxy
+host-suffix, intel.com.my, proxy
+host-suffix, intel.com.mx, proxy
+host-suffix, intel.com.jm, proxy
+host-suffix, altera.co.jp, proxy
+host-suffix, intel.com.hk, proxy
+host-suffix, intel.com.tw, proxy
+host-suffix, intel.com.ec, proxy
+host-suffix, intel.com.br, proxy
+host-suffix, intel.com.bo, proxy
+host-suffix, intel.com.co, proxy
+host-suffix, intel.com.ar, proxy
+host-suffix, intel.co.za, proxy
+host-suffix, intel.co.uk, proxy
+host-suffix, intel.co.kr, proxy
+host-suffix, intel.com.tr, proxy
+host-suffix, intel.co.il, proxy
+host-suffix, intel.co.id, proxy
+host-suffix, intel.co.cr, proxy
+host-suffix, intel.co.ae, proxy
+host-suffix, intel.cn, proxy

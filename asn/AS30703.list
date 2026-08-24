@@ -1,1 +1,1 @@
-ip-cidr, 139.127.0.0/16
+ip-cidr, 139.127.0.0/16, proxy, no-resolve

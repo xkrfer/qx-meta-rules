@@ -1,25 +1,25 @@
-ip-cidr, 66.241.64.0/21
-ip-cidr, 66.241.72.0/22
-ip-cidr, 66.241.76.0/24
-ip-cidr, 66.241.77.0/25
-ip-cidr, 66.241.77.128/26
-ip-cidr, 66.241.77.192/27
-ip-cidr, 66.241.77.224/28
-ip-cidr, 66.241.77.240/31
-ip-cidr, 66.241.77.242/32
-ip-cidr, 66.241.77.244/30
-ip-cidr, 66.241.77.248/29
-ip-cidr, 66.241.78.0/23
-ip-cidr, 66.241.80.0/21
-ip-cidr, 66.241.88.0/22
-ip-cidr, 66.241.92.0/23
-ip-cidr, 66.241.94.0/24
-ip-cidr, 66.241.95.0/25
-ip-cidr, 66.241.95.128/31
-ip-cidr, 66.241.95.131/32
-ip-cidr, 66.241.95.132/30
-ip-cidr, 66.241.95.136/29
-ip-cidr, 66.241.95.144/28
-ip-cidr, 66.241.95.160/27
-ip-cidr, 66.241.95.192/26
-ip-cidr, 207.55.232.0/21
+ip-cidr, 66.241.64.0/21, proxy, no-resolve
+ip-cidr, 66.241.72.0/22, proxy, no-resolve
+ip-cidr, 66.241.76.0/24, proxy, no-resolve
+ip-cidr, 66.241.77.0/25, proxy, no-resolve
+ip-cidr, 66.241.77.128/26, proxy, no-resolve
+ip-cidr, 66.241.77.192/27, proxy, no-resolve
+ip-cidr, 66.241.77.224/28, proxy, no-resolve
+ip-cidr, 66.241.77.240/31, proxy, no-resolve
+ip-cidr, 66.241.77.242/32, proxy, no-resolve
+ip-cidr, 66.241.77.244/30, proxy, no-resolve
+ip-cidr, 66.241.77.248/29, proxy, no-resolve
+ip-cidr, 66.241.78.0/23, proxy, no-resolve
+ip-cidr, 66.241.80.0/21, proxy, no-resolve
+ip-cidr, 66.241.88.0/22, proxy, no-resolve
+ip-cidr, 66.241.92.0/23, proxy, no-resolve
+ip-cidr, 66.241.94.0/24, proxy, no-resolve
+ip-cidr, 66.241.95.0/25, proxy, no-resolve
+ip-cidr, 66.241.95.128/31, proxy, no-resolve
+ip-cidr, 66.241.95.131/32, proxy, no-resolve
+ip-cidr, 66.241.95.132/30, proxy, no-resolve
+ip-cidr, 66.241.95.136/29, proxy, no-resolve
+ip-cidr, 66.241.95.144/28, proxy, no-resolve
+ip-cidr, 66.241.95.160/27, proxy, no-resolve
+ip-cidr, 66.241.95.192/26, proxy, no-resolve
+ip-cidr, 207.55.232.0/21, proxy, no-resolve

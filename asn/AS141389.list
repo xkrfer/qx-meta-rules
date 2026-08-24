@@ -1,4 +1,4 @@
-ip-cidr, 103.158.14.0/23
-ip-cidr, 154.196.132.0/24
-ip-cidr, 154.196.246.0/23
-ip6-cidr, 2406:ac40::/32
+ip-cidr, 103.158.14.0/23, proxy, no-resolve
+ip-cidr, 154.196.132.0/24, proxy, no-resolve
+ip-cidr, 154.196.246.0/23, proxy, no-resolve
+ip6-cidr, 2406:ac40::/32, proxy, no-resolve

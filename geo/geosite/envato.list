@@ -1,4 +1,4 @@
-host-suffix, envato-static.com
-host-suffix, envato.com
-host-suffix, envatousercontent.com
-host-suffix, themeforest.net
+host-suffix, envato-static.com, proxy
+host-suffix, envato.com, proxy
+host-suffix, envatousercontent.com, proxy
+host-suffix, themeforest.net, proxy

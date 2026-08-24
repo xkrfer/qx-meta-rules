@@ -1,6 +1,6 @@
-ip-cidr, 131.100.128.0/22
-ip-cidr, 138.94.112.0/22
-ip-cidr, 170.81.244.0/22
-ip-cidr, 177.125.24.0/22
-ip-cidr, 186.233.220.0/22
-ip6-cidr, 2804:bdc::/32
+ip-cidr, 131.100.128.0/22, proxy, no-resolve
+ip-cidr, 138.94.112.0/22, proxy, no-resolve
+ip-cidr, 170.81.244.0/22, proxy, no-resolve
+ip-cidr, 177.125.24.0/22, proxy, no-resolve
+ip-cidr, 186.233.220.0/22, proxy, no-resolve
+ip6-cidr, 2804:bdc::/32, proxy, no-resolve

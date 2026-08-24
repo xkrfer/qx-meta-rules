@@ -1,1 +1,1 @@
-ip6-cidr, 2a14:67c3:180::/44
+ip6-cidr, 2a14:67c3:180::/44, proxy, no-resolve

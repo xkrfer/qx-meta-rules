@@ -1,5 +1,5 @@
-ip-cidr, 181.189.44.0/22
-ip6-cidr, 2804:7a8c:baba::/48
-ip6-cidr, 2804:7a8c:beba::/48
-ip6-cidr, 2804:7a8c:cccc::/48
-ip6-cidr, 2804:7a8c:dddd::/48
+ip-cidr, 181.189.44.0/22, proxy, no-resolve
+ip6-cidr, 2804:7a8c:baba::/48, proxy, no-resolve
+ip6-cidr, 2804:7a8c:beba::/48, proxy, no-resolve
+ip6-cidr, 2804:7a8c:cccc::/48, proxy, no-resolve
+ip6-cidr, 2804:7a8c:dddd::/48, proxy, no-resolve

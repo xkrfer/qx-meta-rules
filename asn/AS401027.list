@@ -1,2 +1,2 @@
-ip-cidr, 23.157.56.0/24
-ip6-cidr, 2602:fa6c::/40
+ip-cidr, 23.157.56.0/24, proxy, no-resolve
+ip6-cidr, 2602:fa6c::/40, proxy, no-resolve

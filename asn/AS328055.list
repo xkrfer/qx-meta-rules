@@ -1,4 +1,4 @@
-ip-cidr, 169.255.176.0/22
-ip6-cidr, 2c0f:4100::/35
-ip6-cidr, 2c0f:4100:2000::/36
-ip6-cidr, 2c0f:4100:8000::/35
+ip-cidr, 169.255.176.0/22, proxy, no-resolve
+ip6-cidr, 2c0f:4100::/35, proxy, no-resolve
+ip6-cidr, 2c0f:4100:2000::/36, proxy, no-resolve
+ip6-cidr, 2c0f:4100:8000::/35, proxy, no-resolve

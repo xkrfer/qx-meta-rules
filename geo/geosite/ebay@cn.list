@@ -1,37 +1,37 @@
-host-suffix, adcommerce.cn
-host-suffix, appforebay.cn
-host-suffix, connectcommerce.cn
-host-suffix, connectcommerce.com.cn
-host-suffix, connectedcommerce.cn
-host-suffix, cyber-bay.cn
-host-suffix, cyber-bay.com.cn
-host-suffix, ebay.cn
-host-suffix, ebay.com.cn
-host-suffix, ebay.net.cn
-host-suffix, ebay.org.cn
-host-suffix, ebay.yn.cn
-host-suffix, ebay.zj.cn
-host-suffix, ebayadvertising.cn
-host-suffix, ebayclassifieds.cn
-host-suffix, ebayclassifieds.com.cn
-host-suffix, ebaydesc.cn
-host-suffix, ebaydesc.com.cn
-host-suffix, ebaydns.cn
-host-suffix, ebayenterprise.cn
-host-suffix, ebayenterprise.com.cn
-host-suffix, ebaymotors.cn
-host-suffix, ebaymotors.com.cn
-host-suffix, ebaypedia.cn
-host-suffix, ebaypedia.com.cn
-host-suffix, ebayshopping.cn
-host-suffix, ebayshopping.com.cn
-host-suffix, ebaystatic.cn
-host-suffix, ebaystores.cn
-host-suffix, half.com.cn
-host-suffix, prostores.cn
-host-suffix, prostores.com.cn
-host-suffix, xn--7hvy28f.cn
-host-suffix, kijijidns.cn
-host-suffix, kijijidns.com.cn
-host-suffix, mobileinternational.com.cn
-host-suffix, terapeak.cn
+host-suffix, adcommerce.cn, proxy
+host-suffix, appforebay.cn, proxy
+host-suffix, connectcommerce.cn, proxy
+host-suffix, connectcommerce.com.cn, proxy
+host-suffix, connectedcommerce.cn, proxy
+host-suffix, cyber-bay.cn, proxy
+host-suffix, cyber-bay.com.cn, proxy
+host-suffix, ebay.cn, proxy
+host-suffix, ebay.com.cn, proxy
+host-suffix, ebay.net.cn, proxy
+host-suffix, ebay.org.cn, proxy
+host-suffix, ebay.yn.cn, proxy
+host-suffix, ebay.zj.cn, proxy
+host-suffix, ebayadvertising.cn, proxy
+host-suffix, ebayclassifieds.cn, proxy
+host-suffix, ebayclassifieds.com.cn, proxy
+host-suffix, ebaydesc.cn, proxy
+host-suffix, ebaydesc.com.cn, proxy
+host-suffix, ebaydns.cn, proxy
+host-suffix, ebayenterprise.cn, proxy
+host-suffix, ebayenterprise.com.cn, proxy
+host-suffix, ebaymotors.cn, proxy
+host-suffix, ebaymotors.com.cn, proxy
+host-suffix, ebaypedia.cn, proxy
+host-suffix, ebaypedia.com.cn, proxy
+host-suffix, ebayshopping.cn, proxy
+host-suffix, ebayshopping.com.cn, proxy
+host-suffix, ebaystatic.cn, proxy
+host-suffix, ebaystores.cn, proxy
+host-suffix, half.com.cn, proxy
+host-suffix, prostores.cn, proxy
+host-suffix, prostores.com.cn, proxy
+host-suffix, xn--7hvy28f.cn, proxy
+host-suffix, kijijidns.cn, proxy
+host-suffix, kijijidns.com.cn, proxy
+host-suffix, mobileinternational.com.cn, proxy
+host-suffix, terapeak.cn, proxy

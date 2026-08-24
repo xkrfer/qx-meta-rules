@@ -1,2 +1,2 @@
-host-suffix, c.mi.com
-host-suffix, global.market.xiaomi.com
+host-suffix, c.mi.com, proxy
+host-suffix, global.market.xiaomi.com, proxy

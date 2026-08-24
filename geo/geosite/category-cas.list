@@ -1,257 +1,257 @@
-host, publicca.googleapis.com
-host, preprod-publicca.googleapis.com
-host, clients1.google.com
-host, pki.google.com
-host, crl.microsoft.com
-host, mscrl.microsoft.com
-host, ocsp.microsoft.com
-host, oneocsp.microsoft.com
-host, www.microsoft.com
-host-suffix, godaddy
-host-suffix, vodafone.nl
-host-suffix, certinomis.fr
-host-suffix, d-trust.net
-host-suffix, e-szigno.hu
-host-suffix, e-tugra.com
-host-suffix, firmaprofesional.com
-host-suffix, fnmt.es
-host-suffix, harica.gr
-host-suffix, infocert.digital
-host-suffix, infocert.it
-host-suffix, managedpki.com
-host-suffix, netlock.hu
-host-suffix, pki.goog
-host-suffix, trustcor.com
-host-suffix, trustisfps.com
-host-suffix, certinomis.com
-host-suffix, entrust.cn
-host-suffix, ssl.com
-host-suffix, digital-id.ch
-host-suffix, digitalid.ch
-host-suffix, managed-pki.ch
-host-suffix, managed-pki.de
-host-suffix, pki-post.ch
-host-suffix, pki-posta.ch
-host-suffix, pki-poste.ch
-host-suffix, root-signing.ch
-host-suffix, rootsigning.com
-host-suffix, ssl-certificate.ch
-host-suffix, swissid.ch
-host-suffix, swissign.com
-host-suffix, swissign.li
-host-suffix, swisssign-group.ch
-host-suffix, swisssign-group.com
-host-suffix, swisssign-group.li
-host-suffix, swisssign.ch
-host-suffix, swisssign.com
-host-suffix, swisssign.li
-host-suffix, swisssign.net
-host-suffix, swisssign.org
-host-suffix, swisssigner.ch
-host-suffix, swisssigner.com
-host-suffix, swisssigngroup.ch
-host-suffix, swisssigngroup.com
-host-suffix, swissstick.com
-host-suffix, swisstsa.ch
-host-suffix, swisstsa.li
-host-suffix, trustdoc.ch
-host-suffix, trustsign.ch
-host-suffix, zert.ch
-host-suffix, globalsign.es
-host-suffix, globalsign.eu
-host-suffix, globalsign.ch
-host-suffix, globalsign.cloud
-host-suffix, globalsign.nl
-host-suffix, globalsign.fr
-host-suffix, globalsign-media.com
-host-suffix, globalsign.net
-host-suffix, globalsign.be
-host-suffix, ss2.us
-host-suffix, awstrust.com
-host-suffix, amazontrust.com
-host-suffix, actalis.it
-host-suffix, actalis.com
-host-suffix, camerfirma.com
-host-suffix, godaddy.com
-host-suffix, godaddy.net
-host-suffix, wsimg.com
-host-suffix, x.co
-host-suffix, trustcor.ca
-host-suffix, certsign.ro
-host-suffix, starfieldtech.com
-host-suffix, vodafone.de
-host-suffix, vodafone.com
-host-suffix, trustwave.com
-host-suffix, vodafone.it
-host-suffix, msocsp.com
-host-suffix, digicert-cn.com
-host-suffix, digicert-validation.com
-host-suffix, digicert.com
-host-suffix, digicert.eu
-host-suffix, digitalcertvalidation.com
-host-suffix, freessl.com
-host-suffix, geotrust.com
-host-suffix, rapidssl.com
-host-suffix, thawte.com
-host-suffix, thawte.de
-host-suffix, thawte.fr
-host-suffix, quovadisglobal.com
-host-suffix, public-trust.com
-host-suffix, omniroot.com
-host-suffix, symauth.com
-host-suffix, symcb.com
-host-suffix, symcd.com
-host-suffix, letsencrypt.org
-host-suffix, letsencrypt.com
-host-suffix, lencr.org
-host-suffix, identrust.net
-host-suffix, identrust.com
-host-suffix, gandi.net
-host-suffix, ocsp-responder.com
-host-suffix, ocsp-certum.com
-host-suffix, certum.pl
-host-suffix, minid.no
-host-suffix, buypass.se
-host-suffix, buypass.no
-host-suffix, buypass.com
-host-suffix, buypass-ssl.com
-host-suffix, accv.es
-host-suffix, wisekey.com
-host-suffix, wiseid.com
-host-suffix, wisecoin.com
-host-suffix, telesec.de
-host-suffix, telekom.de
-host-suffix, telekom.com
-host-suffix, comodoca4.com
-host-suffix, comodoca3.com
-host-suffix, comodoca2.com
-host-suffix, comodoca.com
-host-suffix, netsolssl.com
-host-suffix, incommon-rsa.org
-host-suffix, catcert.cat
-host-suffix, aoc.cat
-host-suffix, usertrust.com
-host-suffix, trust-provider.com
-host-suffix, sectigo.com
-host-suffix, positivessl.com
-host-suffix, optimumssl.com
-host-suffix, instantssl.com
-host-suffix, hackerguardian.com
-host-suffix, enterprisessl.com
-host-suffix, secomtrust.net
-host-suffix, trendmicro.com
-host-suffix, certificat2.com
-host-suffix, myatos.net
-host-suffix, atos.net
-host-suffix, affirmtrust.com
-host-suffix, entrustdatacard.com
-host-suffix, entrust.net
-host-suffix, entrust.com
-host-suffix, csc3-2010-crl.verisign.com
-host-suffix, svrsecure-oracle-crl.verisign.com
-host-suffix, svrsecure-oracle-ocsp.verisign.com
-host-suffix, svrsecure-t1-aia.verisign.com
-host-suffix, svrsecure-t1-crl.verisign.com
-host-suffix, svrtrial-g2-aia.verisign.com
-host-suffix, svrtrial-g2-crl.verisign.com
-host-suffix, pki.symantec.com
-host-suffix, ws.symantec.com
-host-suffix, svrsecure-oracle-aia.verisign.com
-host-suffix, svrsecure-g3-crl.verisign.com
-host-suffix, svrsecure-g3-aia.verisign.com
-host-suffix, svrsecure-g2-crl.verisign.com
-host-suffix, svrsecure-g2-aia.verisign.com
-host-suffix, svrsecure-crl.verisign.com
-host-suffix, svrsecure-aia.verisign.com
-host-suffix, svrintl-t1-crl.verisign.com
-host-suffix, svrintl-t1-aia.verisign.com
-host-suffix, hongkongpost.gov.hk
-host-suffix, ecert.gov.hk
-host-suffix, svrintl-g3-crl.verisign.com
-host-suffix, secom.co.jp
-host-suffix, managedpki.ne.jp
-host-suffix, svrintl-g3-aia.verisign.com
-host-suffix, svrintl-crl.verisign.com
-host-suffix, svrintl-aia.verisign.com
-host-suffix, svr-wimax-ocsp.verisign.com
-host-suffix, ssp-ocsp.verisign.com
-host-suffix, ssp-crl.verisign.com
-host-suffix, ssp-aia.verisign.com
-host-suffix, pki-ocsp.verisign.com
-host-suffix, orgc3-crl.verisign.com
-host-suffix, onsitecrl.verisign.com
-host-suffix, ocsp.verisign.com
-host-suffix, evsecure-t1-crl.verisign.com
-host-suffix, evsecure-t1-aia.verisign.com
-host-suffix, evsecure-ocsp.verisign.com
-host-suffix, evsecure-crl.verisign.com
-host-suffix, evsecure-aia.verisign.com
-host-suffix, evintl-t1-crl.verisign.com
-host-suffix, evintl-ocsp.verisign.com
-host-suffix, evintl-crl.verisign.com
-host-suffix, evintl-aia.verisign.com
-host-suffix, eca-client-ocsp.verisign.com
-host-suffix, eca-client-crl.verisign.com
-host-suffix, wisekey.com.hk
-host-suffix, csc3-2010-aia.verisign.com
-host-suffix, csc3-2009-crl.verisign.com
-host-suffix, csc3-2009-aia.verisign.com
-host-suffix, csc3-2009-2-crl.verisign.com
-host-suffix, csc3-2009-2-aia.verisign.com
-host-suffix, csc3-2004-crl.verisign.com
-host-suffix, csc3-2004-aia.verisign.com
-host-suffix, crl.verisign.com
-host-suffix, certipath-crl.verisign.com
-host-suffix, certipath-aia.verisign.com
-host-suffix, adobe-crl.verisign.com
-host-suffix, identrust.co.uk
-host-suffix, cybertrust.ne.jp
-host-suffix, cybertrust.co.jp
-host-suffix, digicert.co.jp
-host-suffix, twca.com.tw
-host-suffix, tls.hinet.net
-host-suffix, publicca.hinet.net
-host-suffix, pki.hinet.net
-host-suffix, eca.hinet.net
-host-suffix, myvodafone.com.au
-host-suffix, myvodafone.com.ws
-host-suffix, vodafone.co.uk
-host-suffix, vodafone.com.au
-host-suffix, vodafone.com.tr
-host-suffix, globalsign.co.uk
-host-suffix, globalsign.com.hk
-host-suffix, globalsign.com.au
-host-suffix, globalsign.com.br
-host-suffix, globalsign.com.sg
-host-suffix, gtlsca.nat.gov.tw
-host-suffix, sslcom.cn
-host, certs-lb.apple.com.akadns.net
-host, certs.apple.com
-host, crl-lb.apple.com.akadns.net
-host, crl.apple.com
-host, ocsp.apple.com
-host, ocsp2.apple.com
-host, valid.apple.com
-host, valid.origin-apple.com.akadns.net
-host-suffix, alphassl.com
-host-suffix, easy-signing.com
-host-suffix, globalsign.cn
-host-suffix, globalsign.com
-host-suffix, globalsigncdn.com
-host, cdn.globalsigncdn.com.cdn.cloudflare.net
-host, crl.globalsign.net
-host, pki-goog.l.google.com
-host, c.pki.goog
-host, i.pki.goog
-host, o.pki.goog
-host, crl.pki.goog
-host, crls.pki.goog
-host, ocsp.pki.goog
-host-suffix, dcocsp.cn
-host-suffix, digicert.cn
-host, www.entrust.cn
-host-suffix, oemssl.cn
-host-suffix, oemssl.cn.cdn.cloudflare.net
-host-suffix, sectigochina.com
-host-suffix, sectigochina.com.cdn.cloudflare.net
-host-suffix, trust-provider.cn
+host, publicca.googleapis.com, proxy
+host, preprod-publicca.googleapis.com, proxy
+host, clients1.google.com, proxy
+host, pki.google.com, proxy
+host, crl.microsoft.com, proxy
+host, mscrl.microsoft.com, proxy
+host, ocsp.microsoft.com, proxy
+host, oneocsp.microsoft.com, proxy
+host, www.microsoft.com, proxy
+host-suffix, godaddy, proxy
+host-suffix, vodafone.nl, proxy
+host-suffix, certinomis.fr, proxy
+host-suffix, d-trust.net, proxy
+host-suffix, e-szigno.hu, proxy
+host-suffix, e-tugra.com, proxy
+host-suffix, firmaprofesional.com, proxy
+host-suffix, fnmt.es, proxy
+host-suffix, harica.gr, proxy
+host-suffix, infocert.digital, proxy
+host-suffix, infocert.it, proxy
+host-suffix, managedpki.com, proxy
+host-suffix, netlock.hu, proxy
+host-suffix, pki.goog, proxy
+host-suffix, trustcor.com, proxy
+host-suffix, trustisfps.com, proxy
+host-suffix, certinomis.com, proxy
+host-suffix, entrust.cn, proxy
+host-suffix, ssl.com, proxy
+host-suffix, digital-id.ch, proxy
+host-suffix, digitalid.ch, proxy
+host-suffix, managed-pki.ch, proxy
+host-suffix, managed-pki.de, proxy
+host-suffix, pki-post.ch, proxy
+host-suffix, pki-posta.ch, proxy
+host-suffix, pki-poste.ch, proxy
+host-suffix, root-signing.ch, proxy
+host-suffix, rootsigning.com, proxy
+host-suffix, ssl-certificate.ch, proxy
+host-suffix, swissid.ch, proxy
+host-suffix, swissign.com, proxy
+host-suffix, swissign.li, proxy
+host-suffix, swisssign-group.ch, proxy
+host-suffix, swisssign-group.com, proxy
+host-suffix, swisssign-group.li, proxy
+host-suffix, swisssign.ch, proxy
+host-suffix, swisssign.com, proxy
+host-suffix, swisssign.li, proxy
+host-suffix, swisssign.net, proxy
+host-suffix, swisssign.org, proxy
+host-suffix, swisssigner.ch, proxy
+host-suffix, swisssigner.com, proxy
+host-suffix, swisssigngroup.ch, proxy
+host-suffix, swisssigngroup.com, proxy
+host-suffix, swissstick.com, proxy
+host-suffix, swisstsa.ch, proxy
+host-suffix, swisstsa.li, proxy
+host-suffix, trustdoc.ch, proxy
+host-suffix, trustsign.ch, proxy
+host-suffix, zert.ch, proxy
+host-suffix, globalsign.es, proxy
+host-suffix, globalsign.eu, proxy
+host-suffix, globalsign.ch, proxy
+host-suffix, globalsign.cloud, proxy
+host-suffix, globalsign.nl, proxy
+host-suffix, globalsign.fr, proxy
+host-suffix, globalsign-media.com, proxy
+host-suffix, globalsign.net, proxy
+host-suffix, globalsign.be, proxy
+host-suffix, ss2.us, proxy
+host-suffix, awstrust.com, proxy
+host-suffix, amazontrust.com, proxy
+host-suffix, actalis.it, proxy
+host-suffix, actalis.com, proxy
+host-suffix, camerfirma.com, proxy
+host-suffix, godaddy.com, proxy
+host-suffix, godaddy.net, proxy
+host-suffix, wsimg.com, proxy
+host-suffix, x.co, proxy
+host-suffix, trustcor.ca, proxy
+host-suffix, certsign.ro, proxy
+host-suffix, starfieldtech.com, proxy
+host-suffix, vodafone.de, proxy
+host-suffix, vodafone.com, proxy
+host-suffix, trustwave.com, proxy
+host-suffix, vodafone.it, proxy
+host-suffix, msocsp.com, proxy
+host-suffix, digicert-cn.com, proxy
+host-suffix, digicert-validation.com, proxy
+host-suffix, digicert.com, proxy
+host-suffix, digicert.eu, proxy
+host-suffix, digitalcertvalidation.com, proxy
+host-suffix, freessl.com, proxy
+host-suffix, geotrust.com, proxy
+host-suffix, rapidssl.com, proxy
+host-suffix, thawte.com, proxy
+host-suffix, thawte.de, proxy
+host-suffix, thawte.fr, proxy
+host-suffix, quovadisglobal.com, proxy
+host-suffix, public-trust.com, proxy
+host-suffix, omniroot.com, proxy
+host-suffix, symauth.com, proxy
+host-suffix, symcb.com, proxy
+host-suffix, symcd.com, proxy
+host-suffix, letsencrypt.org, proxy
+host-suffix, letsencrypt.com, proxy
+host-suffix, lencr.org, proxy
+host-suffix, identrust.net, proxy
+host-suffix, identrust.com, proxy
+host-suffix, gandi.net, proxy
+host-suffix, ocsp-responder.com, proxy
+host-suffix, ocsp-certum.com, proxy
+host-suffix, certum.pl, proxy
+host-suffix, minid.no, proxy
+host-suffix, buypass.se, proxy
+host-suffix, buypass.no, proxy
+host-suffix, buypass.com, proxy
+host-suffix, buypass-ssl.com, proxy
+host-suffix, accv.es, proxy
+host-suffix, wisekey.com, proxy
+host-suffix, wiseid.com, proxy
+host-suffix, wisecoin.com, proxy
+host-suffix, telesec.de, proxy
+host-suffix, telekom.de, proxy
+host-suffix, telekom.com, proxy
+host-suffix, comodoca4.com, proxy
+host-suffix, comodoca3.com, proxy
+host-suffix, comodoca2.com, proxy
+host-suffix, comodoca.com, proxy
+host-suffix, netsolssl.com, proxy
+host-suffix, incommon-rsa.org, proxy
+host-suffix, catcert.cat, proxy
+host-suffix, aoc.cat, proxy
+host-suffix, usertrust.com, proxy
+host-suffix, trust-provider.com, proxy
+host-suffix, sectigo.com, proxy
+host-suffix, positivessl.com, proxy
+host-suffix, optimumssl.com, proxy
+host-suffix, instantssl.com, proxy
+host-suffix, hackerguardian.com, proxy
+host-suffix, enterprisessl.com, proxy
+host-suffix, secomtrust.net, proxy
+host-suffix, trendmicro.com, proxy
+host-suffix, certificat2.com, proxy
+host-suffix, myatos.net, proxy
+host-suffix, atos.net, proxy
+host-suffix, affirmtrust.com, proxy
+host-suffix, entrustdatacard.com, proxy
+host-suffix, entrust.net, proxy
+host-suffix, entrust.com, proxy
+host-suffix, csc3-2010-crl.verisign.com, proxy
+host-suffix, svrsecure-oracle-crl.verisign.com, proxy
+host-suffix, svrsecure-oracle-ocsp.verisign.com, proxy
+host-suffix, svrsecure-t1-aia.verisign.com, proxy
+host-suffix, svrsecure-t1-crl.verisign.com, proxy
+host-suffix, svrtrial-g2-aia.verisign.com, proxy
+host-suffix, svrtrial-g2-crl.verisign.com, proxy
+host-suffix, pki.symantec.com, proxy
+host-suffix, ws.symantec.com, proxy
+host-suffix, svrsecure-oracle-aia.verisign.com, proxy
+host-suffix, svrsecure-g3-crl.verisign.com, proxy
+host-suffix, svrsecure-g3-aia.verisign.com, proxy
+host-suffix, svrsecure-g2-crl.verisign.com, proxy
+host-suffix, svrsecure-g2-aia.verisign.com, proxy
+host-suffix, svrsecure-crl.verisign.com, proxy
+host-suffix, svrsecure-aia.verisign.com, proxy
+host-suffix, svrintl-t1-crl.verisign.com, proxy
+host-suffix, svrintl-t1-aia.verisign.com, proxy
+host-suffix, hongkongpost.gov.hk, proxy
+host-suffix, ecert.gov.hk, proxy
+host-suffix, svrintl-g3-crl.verisign.com, proxy
+host-suffix, secom.co.jp, proxy
+host-suffix, managedpki.ne.jp, proxy
+host-suffix, svrintl-g3-aia.verisign.com, proxy
+host-suffix, svrintl-crl.verisign.com, proxy
+host-suffix, svrintl-aia.verisign.com, proxy
+host-suffix, svr-wimax-ocsp.verisign.com, proxy
+host-suffix, ssp-ocsp.verisign.com, proxy
+host-suffix, ssp-crl.verisign.com, proxy
+host-suffix, ssp-aia.verisign.com, proxy
+host-suffix, pki-ocsp.verisign.com, proxy
+host-suffix, orgc3-crl.verisign.com, proxy
+host-suffix, onsitecrl.verisign.com, proxy
+host-suffix, ocsp.verisign.com, proxy
+host-suffix, evsecure-t1-crl.verisign.com, proxy
+host-suffix, evsecure-t1-aia.verisign.com, proxy
+host-suffix, evsecure-ocsp.verisign.com, proxy
+host-suffix, evsecure-crl.verisign.com, proxy
+host-suffix, evsecure-aia.verisign.com, proxy
+host-suffix, evintl-t1-crl.verisign.com, proxy
+host-suffix, evintl-ocsp.verisign.com, proxy
+host-suffix, evintl-crl.verisign.com, proxy
+host-suffix, evintl-aia.verisign.com, proxy
+host-suffix, eca-client-ocsp.verisign.com, proxy
+host-suffix, eca-client-crl.verisign.com, proxy
+host-suffix, wisekey.com.hk, proxy
+host-suffix, csc3-2010-aia.verisign.com, proxy
+host-suffix, csc3-2009-crl.verisign.com, proxy
+host-suffix, csc3-2009-aia.verisign.com, proxy
+host-suffix, csc3-2009-2-crl.verisign.com, proxy
+host-suffix, csc3-2009-2-aia.verisign.com, proxy
+host-suffix, csc3-2004-crl.verisign.com, proxy
+host-suffix, csc3-2004-aia.verisign.com, proxy
+host-suffix, crl.verisign.com, proxy
+host-suffix, certipath-crl.verisign.com, proxy
+host-suffix, certipath-aia.verisign.com, proxy
+host-suffix, adobe-crl.verisign.com, proxy
+host-suffix, identrust.co.uk, proxy
+host-suffix, cybertrust.ne.jp, proxy
+host-suffix, cybertrust.co.jp, proxy
+host-suffix, digicert.co.jp, proxy
+host-suffix, twca.com.tw, proxy
+host-suffix, tls.hinet.net, proxy
+host-suffix, publicca.hinet.net, proxy
+host-suffix, pki.hinet.net, proxy
+host-suffix, eca.hinet.net, proxy
+host-suffix, myvodafone.com.au, proxy
+host-suffix, myvodafone.com.ws, proxy
+host-suffix, vodafone.co.uk, proxy
+host-suffix, vodafone.com.au, proxy
+host-suffix, vodafone.com.tr, proxy
+host-suffix, globalsign.co.uk, proxy
+host-suffix, globalsign.com.hk, proxy
+host-suffix, globalsign.com.au, proxy
+host-suffix, globalsign.com.br, proxy
+host-suffix, globalsign.com.sg, proxy
+host-suffix, gtlsca.nat.gov.tw, proxy
+host-suffix, sslcom.cn, proxy
+host, certs-lb.apple.com.akadns.net, proxy
+host, certs.apple.com, proxy
+host, crl-lb.apple.com.akadns.net, proxy
+host, crl.apple.com, proxy
+host, ocsp.apple.com, proxy
+host, ocsp2.apple.com, proxy
+host, valid.apple.com, proxy
+host, valid.origin-apple.com.akadns.net, proxy
+host-suffix, alphassl.com, proxy
+host-suffix, easy-signing.com, proxy
+host-suffix, globalsign.cn, proxy
+host-suffix, globalsign.com, proxy
+host-suffix, globalsigncdn.com, proxy
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, proxy
+host, crl.globalsign.net, proxy
+host, pki-goog.l.google.com, proxy
+host, c.pki.goog, proxy
+host, i.pki.goog, proxy
+host, o.pki.goog, proxy
+host, crl.pki.goog, proxy
+host, crls.pki.goog, proxy
+host, ocsp.pki.goog, proxy
+host-suffix, dcocsp.cn, proxy
+host-suffix, digicert.cn, proxy
+host, www.entrust.cn, proxy
+host-suffix, oemssl.cn, proxy
+host-suffix, oemssl.cn.cdn.cloudflare.net, proxy
+host-suffix, sectigochina.com, proxy
+host-suffix, sectigochina.com.cdn.cloudflare.net, proxy
+host-suffix, trust-provider.cn, proxy

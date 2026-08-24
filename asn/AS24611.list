@@ -1,5 +1,5 @@
-ip-cidr, 80.92.64.0/19
-ip-cidr, 89.41.248.0/21
-ip-cidr, 94.177.88.0/21
-ip-cidr, 185.226.22.0/23
-ip6-cidr, 2001:b20::/29
+ip-cidr, 80.92.64.0/19, proxy, no-resolve
+ip-cidr, 89.41.248.0/21, proxy, no-resolve
+ip-cidr, 94.177.88.0/21, proxy, no-resolve
+ip-cidr, 185.226.22.0/23, proxy, no-resolve
+ip6-cidr, 2001:b20::/29, proxy, no-resolve

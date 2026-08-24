@@ -1,2 +1,2 @@
-host-suffix, livejournal.com
-host-suffix, livejournal.net
+host-suffix, livejournal.com, proxy
+host-suffix, livejournal.net, proxy

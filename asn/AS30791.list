@@ -1,2 +1,2 @@
-ip-cidr, 193.7.168.0/21
-ip6-cidr, 2a0d:1700::/29
+ip-cidr, 193.7.168.0/21, proxy, no-resolve
+ip6-cidr, 2a0d:1700::/29, proxy, no-resolve

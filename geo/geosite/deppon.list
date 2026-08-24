@@ -1,3 +1,3 @@
-host-suffix, deppon.com
-host-suffix, dpma.cc
-host-suffix, deppon.com.cn
+host-suffix, deppon.com, proxy
+host-suffix, dpma.cc, proxy
+host-suffix, deppon.com.cn, proxy

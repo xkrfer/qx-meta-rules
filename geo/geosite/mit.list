@@ -1,4 +1,4 @@
-host-suffix, mit
-host-suffix, mit.edu
-host-suffix, mit.net
-host-suffix, mitpressjournals.org
+host-suffix, mit, proxy
+host-suffix, mit.edu, proxy
+host-suffix, mit.net, proxy
+host-suffix, mitpressjournals.org, proxy

@@ -1,2 +1,2 @@
-ip-cidr, 103.155.202.0/24
-ip6-cidr, 2406:77c0::/48
+ip-cidr, 103.155.202.0/24, proxy, no-resolve
+ip6-cidr, 2406:77c0::/48, proxy, no-resolve

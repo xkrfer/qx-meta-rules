@@ -1,2 +1,2 @@
-host-suffix, gitbook.com
-host-suffix, gitbook.io
+host-suffix, gitbook.com, proxy
+host-suffix, gitbook.io, proxy

@@ -1,15 +1,15 @@
-ip6-cidr, 2602:f93b:c00::/39
-ip6-cidr, 2602:f93b:e00::/40
-ip6-cidr, 2602:f93b:f00::/43
-ip6-cidr, 2602:f93b:f20::/44
-ip6-cidr, 2602:f93b:f30::/48
-ip6-cidr, 2602:f93b:f32::/47
-ip6-cidr, 2602:f93b:f34::/46
-ip6-cidr, 2602:f93b:f38::/45
-ip6-cidr, 2602:f93b:f40::/48
-ip6-cidr, 2602:f93b:f42::/47
-ip6-cidr, 2602:f93b:f44::/46
-ip6-cidr, 2602:f93b:f48::/45
-ip6-cidr, 2602:f93b:f50::/44
-ip6-cidr, 2602:f93b:f60::/43
-ip6-cidr, 2602:f93b:f80::/41
+ip6-cidr, 2602:f93b:c00::/39, proxy, no-resolve
+ip6-cidr, 2602:f93b:e00::/40, proxy, no-resolve
+ip6-cidr, 2602:f93b:f00::/43, proxy, no-resolve
+ip6-cidr, 2602:f93b:f20::/44, proxy, no-resolve
+ip6-cidr, 2602:f93b:f30::/48, proxy, no-resolve
+ip6-cidr, 2602:f93b:f32::/47, proxy, no-resolve
+ip6-cidr, 2602:f93b:f34::/46, proxy, no-resolve
+ip6-cidr, 2602:f93b:f38::/45, proxy, no-resolve
+ip6-cidr, 2602:f93b:f40::/48, proxy, no-resolve
+ip6-cidr, 2602:f93b:f42::/47, proxy, no-resolve
+ip6-cidr, 2602:f93b:f44::/46, proxy, no-resolve
+ip6-cidr, 2602:f93b:f48::/45, proxy, no-resolve
+ip6-cidr, 2602:f93b:f50::/44, proxy, no-resolve
+ip6-cidr, 2602:f93b:f60::/43, proxy, no-resolve
+ip6-cidr, 2602:f93b:f80::/41, proxy, no-resolve

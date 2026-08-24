@@ -1,29 +1,29 @@
-ip-cidr, 38.10.104.0/22
-ip-cidr, 38.226.24.0/22
-ip-cidr, 45.177.196.0/23
-ip-cidr, 179.43.96.0/22
-ip6-cidr, 2803:4480:4000::/35
-ip6-cidr, 2803:4480:6001::/48
-ip6-cidr, 2803:4480:6002::/47
-ip6-cidr, 2803:4480:6004::/46
-ip6-cidr, 2803:4480:6008::/45
-ip6-cidr, 2803:4480:6010::/44
-ip6-cidr, 2803:4480:6020::/43
-ip6-cidr, 2803:4480:6040::/42
-ip6-cidr, 2803:4480:6080::/41
-ip6-cidr, 2803:4480:6100::/40
-ip6-cidr, 2803:4480:6200::/39
-ip6-cidr, 2803:4480:6400::/38
-ip6-cidr, 2803:4480:6800::/37
-ip6-cidr, 2803:4480:7001::/48
-ip6-cidr, 2803:4480:7003::/48
-ip6-cidr, 2803:4480:7004::/46
-ip6-cidr, 2803:4480:7008::/45
-ip6-cidr, 2803:4480:7010::/44
-ip6-cidr, 2803:4480:7020::/43
-ip6-cidr, 2803:4480:7040::/42
-ip6-cidr, 2803:4480:7080::/41
-ip6-cidr, 2803:4480:7100::/40
-ip6-cidr, 2803:4480:7200::/39
-ip6-cidr, 2803:4480:7400::/38
-ip6-cidr, 2803:4480:7800::/37
+ip-cidr, 38.10.104.0/22, proxy, no-resolve
+ip-cidr, 38.226.24.0/22, proxy, no-resolve
+ip-cidr, 45.177.196.0/23, proxy, no-resolve
+ip-cidr, 179.43.96.0/22, proxy, no-resolve
+ip6-cidr, 2803:4480:4000::/35, proxy, no-resolve
+ip6-cidr, 2803:4480:6001::/48, proxy, no-resolve
+ip6-cidr, 2803:4480:6002::/47, proxy, no-resolve
+ip6-cidr, 2803:4480:6004::/46, proxy, no-resolve
+ip6-cidr, 2803:4480:6008::/45, proxy, no-resolve
+ip6-cidr, 2803:4480:6010::/44, proxy, no-resolve
+ip6-cidr, 2803:4480:6020::/43, proxy, no-resolve
+ip6-cidr, 2803:4480:6040::/42, proxy, no-resolve
+ip6-cidr, 2803:4480:6080::/41, proxy, no-resolve
+ip6-cidr, 2803:4480:6100::/40, proxy, no-resolve
+ip6-cidr, 2803:4480:6200::/39, proxy, no-resolve
+ip6-cidr, 2803:4480:6400::/38, proxy, no-resolve
+ip6-cidr, 2803:4480:6800::/37, proxy, no-resolve
+ip6-cidr, 2803:4480:7001::/48, proxy, no-resolve
+ip6-cidr, 2803:4480:7003::/48, proxy, no-resolve
+ip6-cidr, 2803:4480:7004::/46, proxy, no-resolve
+ip6-cidr, 2803:4480:7008::/45, proxy, no-resolve
+ip6-cidr, 2803:4480:7010::/44, proxy, no-resolve
+ip6-cidr, 2803:4480:7020::/43, proxy, no-resolve
+ip6-cidr, 2803:4480:7040::/42, proxy, no-resolve
+ip6-cidr, 2803:4480:7080::/41, proxy, no-resolve
+ip6-cidr, 2803:4480:7100::/40, proxy, no-resolve
+ip6-cidr, 2803:4480:7200::/39, proxy, no-resolve
+ip6-cidr, 2803:4480:7400::/38, proxy, no-resolve
+ip6-cidr, 2803:4480:7800::/37, proxy, no-resolve

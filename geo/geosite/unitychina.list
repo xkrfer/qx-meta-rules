@@ -1,9 +1,9 @@
-host-suffix, u3d.cn
-host-suffix, unity.cn
-host-suffix, unitychina.cn
-host-suffix, unity3dcloud.cn
-host-suffix, ads.unitychina.cn
-host-suffix, splash-ads.cdn.unity.cn
-host-suffix, splash-ads.unitychina.cn
-host-suffix, unityads.unity.cn
-host-suffix, unityads.unitychina.cn
+host-suffix, u3d.cn, proxy
+host-suffix, unity.cn, proxy
+host-suffix, unitychina.cn, proxy
+host-suffix, unity3dcloud.cn, proxy
+host-suffix, ads.unitychina.cn, proxy
+host-suffix, splash-ads.cdn.unity.cn, proxy
+host-suffix, splash-ads.unitychina.cn, proxy
+host-suffix, unityads.unity.cn, proxy
+host-suffix, unityads.unitychina.cn, proxy

@@ -1,2 +1,2 @@
-ip-cidr, 202.46.176.0/24
-ip6-cidr, 2001:dce:ff00::/48
+ip-cidr, 202.46.176.0/24, proxy, no-resolve
+ip6-cidr, 2001:dce:ff00::/48, proxy, no-resolve

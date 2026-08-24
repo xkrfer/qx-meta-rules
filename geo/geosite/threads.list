@@ -1,2 +1,2 @@
-host-suffix, threads.com
-host-suffix, threads.net
+host-suffix, threads.com, proxy
+host-suffix, threads.net, proxy

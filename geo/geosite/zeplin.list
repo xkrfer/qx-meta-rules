@@ -1,2 +1,2 @@
-host-suffix, zeplin.dev
-host-suffix, zeplin.io
+host-suffix, zeplin.dev, proxy
+host-suffix, zeplin.io, proxy

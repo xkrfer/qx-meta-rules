@@ -1,10 +1,10 @@
-host-suffix, 56xiniao.com
-host-suffix, cainiao-inc.com
-host-suffix, cainiao.com
-host-suffix, cainiaoyizhan.com
-host-suffix, danniao.com
-host-suffix, dianwoda.cn
-host-suffix, dianwoda.com
-host-suffix, guoguo-app.com
-host-suffix, cainiao.com.cn
-host-suffix, v6-adashx.ut.cainiao.com
+host-suffix, 56xiniao.com, proxy
+host-suffix, cainiao-inc.com, proxy
+host-suffix, cainiao.com, proxy
+host-suffix, cainiaoyizhan.com, proxy
+host-suffix, danniao.com, proxy
+host-suffix, dianwoda.cn, proxy
+host-suffix, dianwoda.com, proxy
+host-suffix, guoguo-app.com, proxy
+host-suffix, cainiao.com.cn, proxy
+host-suffix, v6-adashx.ut.cainiao.com, proxy

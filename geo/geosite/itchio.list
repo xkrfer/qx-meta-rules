@@ -1,2 +1,2 @@
-host-suffix, itch.io
-host-suffix, itch.zone
+host-suffix, itch.io, proxy
+host-suffix, itch.zone, proxy

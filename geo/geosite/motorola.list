@@ -1,25 +1,25 @@
-host-suffix, motorolacareers.com
-host-suffix, motorola.com
-host-suffix, motorola.ca
-host-suffix, motorola.cl
-host-suffix, motorola.co
-host-suffix, motorolasolutions.com
-host-suffix, hellomoto.com
-host-suffix, motorolanews.com
-host-suffix, moto.com
-host-suffix, motorola.vn
-host-suffix, motorola.gr
-host-suffix, motorola.net
-host-suffix, motorola.it
-host-suffix, motorola.in
-host-suffix, motorola.de
-host-suffix, motorola.es
-host-suffix, motorola.fr
-host-suffix, motorola.co.jp
-host-suffix, motorola.com.pr
-host-suffix, motorola.com.pe
-host-suffix, motorola.com.co
-host-suffix, motorola.com.au
-host-suffix, motorola.co.uk
-host-suffix, motorola.co.th
-host-suffix, motorola.co.id
+host-suffix, motorolacareers.com, proxy
+host-suffix, motorola.com, proxy
+host-suffix, motorola.ca, proxy
+host-suffix, motorola.cl, proxy
+host-suffix, motorola.co, proxy
+host-suffix, motorolasolutions.com, proxy
+host-suffix, hellomoto.com, proxy
+host-suffix, motorolanews.com, proxy
+host-suffix, moto.com, proxy
+host-suffix, motorola.vn, proxy
+host-suffix, motorola.gr, proxy
+host-suffix, motorola.net, proxy
+host-suffix, motorola.it, proxy
+host-suffix, motorola.in, proxy
+host-suffix, motorola.de, proxy
+host-suffix, motorola.es, proxy
+host-suffix, motorola.fr, proxy
+host-suffix, motorola.co.jp, proxy
+host-suffix, motorola.com.pr, proxy
+host-suffix, motorola.com.pe, proxy
+host-suffix, motorola.com.co, proxy
+host-suffix, motorola.com.au, proxy
+host-suffix, motorola.co.uk, proxy
+host-suffix, motorola.co.th, proxy
+host-suffix, motorola.co.id, proxy

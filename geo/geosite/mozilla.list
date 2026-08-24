@@ -1,71 +1,71 @@
-host, mozilla-ohttp.fastly-edge.com
-host, mozilla.map.fastly.net
-host, mdn.mozillademos.org
-host-suffix, allizom.net
-host-suffix, allizom.org
-host-suffix, bugzilla.org
-host-suffix, detodosparatodos.org
-host-suffix, discovershiretoko.org
-host-suffix, ecmascript.org
-host-suffix, extensionworkshop.com
-host-suffix, foxkeh.com
-host-suffix, foxkeh.jp
-host-suffix, getfirebug.com
-host-suffix, getpersonas.com
-host-suffix, getpocket.com
-host-suffix, hackasaurus.org
-host-suffix, interforest.org
-host-suffix, itisatrap.org
-host-suffix, learningfreedomandtheweb.org
-host-suffix, lizardwrangler.com
-host-suffix, mecha-mozilla.org
-host-suffix, mozaws.net
-host-suffix, mozgcp.net
-host-suffix, mozilla-europe.org
-host-suffix, mozilla-hispano.org
-host-suffix, mozilla-mexico.org
-host-suffix, mozilla.ai
-host-suffix, mozilla.com
-host-suffix, mozilla.community
-host-suffix, mozilla.cz
-host-suffix, mozilla.de
-host-suffix, mozilla.jp
-host-suffix, mozilla.lt
-host-suffix, mozilla.net
-host-suffix, mozilla.org
-host-suffix, mozilla.pe
-host-suffix, mozilla.pt
-host-suffix, mozilla.ro
-host-suffix, mozillabd.org
-host-suffix, mozillademos.org
-host-suffix, mozillafactory.org
-host-suffix, mozillafoundation.org
-host-suffix, mozillaignite.org
-host-suffix, mozillalabs.com
-host-suffix, mozillaquebec.org
-host-suffix, mozillazine.jp
-host-suffix, mozillians.org
-host-suffix, mozit.cloud
-host-suffix, mzl.la
-host-suffix, onemozilla.org
-host-suffix, opentimetable.jp
-host-suffix, popcornjs.org
-host-suffix, publicsuffix.org
-host-suffix, seamonkey-project.org
-host-suffix, tb.pro
-host-suffix, thunderbird.net
-host-suffix, thundermail.com
-host-suffix, webmademovies.org
-host-suffix, extendfirefox.com
-host-suffix, firefox.com
-host-suffix, firefox.hu
-host-suffix, firefoxtweetmachine.com
-host-suffix, firefoxusercontent.com
-host-suffix, mdn.dev
-host-suffix, mdnplay.dev
-host-suffix, mdnyalp.dev
-host-suffix, mozilla.org.uk
-host, ads-img.mozilla.org
-host, ads.mozilla.org
-host, incoming.telemetry.mozilla.org
-host, incoming-telemetry.thunderbird.net
+host, mozilla-ohttp.fastly-edge.com, proxy
+host, mozilla.map.fastly.net, proxy
+host, mdn.mozillademos.org, proxy
+host-suffix, allizom.net, proxy
+host-suffix, allizom.org, proxy
+host-suffix, bugzilla.org, proxy
+host-suffix, detodosparatodos.org, proxy
+host-suffix, discovershiretoko.org, proxy
+host-suffix, ecmascript.org, proxy
+host-suffix, extensionworkshop.com, proxy
+host-suffix, foxkeh.com, proxy
+host-suffix, foxkeh.jp, proxy
+host-suffix, getfirebug.com, proxy
+host-suffix, getpersonas.com, proxy
+host-suffix, getpocket.com, proxy
+host-suffix, hackasaurus.org, proxy
+host-suffix, interforest.org, proxy
+host-suffix, itisatrap.org, proxy
+host-suffix, learningfreedomandtheweb.org, proxy
+host-suffix, lizardwrangler.com, proxy
+host-suffix, mecha-mozilla.org, proxy
+host-suffix, mozaws.net, proxy
+host-suffix, mozgcp.net, proxy
+host-suffix, mozilla-europe.org, proxy
+host-suffix, mozilla-hispano.org, proxy
+host-suffix, mozilla-mexico.org, proxy
+host-suffix, mozilla.ai, proxy
+host-suffix, mozilla.com, proxy
+host-suffix, mozilla.community, proxy
+host-suffix, mozilla.cz, proxy
+host-suffix, mozilla.de, proxy
+host-suffix, mozilla.jp, proxy
+host-suffix, mozilla.lt, proxy
+host-suffix, mozilla.net, proxy
+host-suffix, mozilla.org, proxy
+host-suffix, mozilla.pe, proxy
+host-suffix, mozilla.pt, proxy
+host-suffix, mozilla.ro, proxy
+host-suffix, mozillabd.org, proxy
+host-suffix, mozillademos.org, proxy
+host-suffix, mozillafactory.org, proxy
+host-suffix, mozillafoundation.org, proxy
+host-suffix, mozillaignite.org, proxy
+host-suffix, mozillalabs.com, proxy
+host-suffix, mozillaquebec.org, proxy
+host-suffix, mozillazine.jp, proxy
+host-suffix, mozillians.org, proxy
+host-suffix, mozit.cloud, proxy
+host-suffix, mzl.la, proxy
+host-suffix, onemozilla.org, proxy
+host-suffix, opentimetable.jp, proxy
+host-suffix, popcornjs.org, proxy
+host-suffix, publicsuffix.org, proxy
+host-suffix, seamonkey-project.org, proxy
+host-suffix, tb.pro, proxy
+host-suffix, thunderbird.net, proxy
+host-suffix, thundermail.com, proxy
+host-suffix, webmademovies.org, proxy
+host-suffix, extendfirefox.com, proxy
+host-suffix, firefox.com, proxy
+host-suffix, firefox.hu, proxy
+host-suffix, firefoxtweetmachine.com, proxy
+host-suffix, firefoxusercontent.com, proxy
+host-suffix, mdn.dev, proxy
+host-suffix, mdnplay.dev, proxy
+host-suffix, mdnyalp.dev, proxy
+host-suffix, mozilla.org.uk, proxy
+host, ads-img.mozilla.org, proxy
+host, ads.mozilla.org, proxy
+host, incoming.telemetry.mozilla.org, proxy
+host, incoming-telemetry.thunderbird.net, proxy

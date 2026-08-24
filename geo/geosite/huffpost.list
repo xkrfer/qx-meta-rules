@@ -1,18 +1,18 @@
-host-suffix, huffingtonpost.jp
-host-suffix, huffingtonpost.kr
-host-suffix, huffpostmaghreb.com
-host-suffix, huffingtonpost.com
-host-suffix, huffpostbrasil.com
-host-suffix, huffpostarabi.com
-host-suffix, huffingtonpost.de
-host-suffix, huffingtonpost.es
-host-suffix, huffpost.com
-host-suffix, huffingtonpost.in
-host-suffix, huffingtonpost.gr
-host-suffix, huffingtonpost.it
-host-suffix, huffingtonpost.ca
-host-suffix, huffingtonpost.fr
-host-suffix, huffingtonpost.co.uk
-host-suffix, huffingtonpost.com.mx
-host-suffix, huffingtonpost.com.au
-host-suffix, huffingtonpost.co.za
+host-suffix, huffingtonpost.jp, proxy
+host-suffix, huffingtonpost.kr, proxy
+host-suffix, huffpostmaghreb.com, proxy
+host-suffix, huffingtonpost.com, proxy
+host-suffix, huffpostbrasil.com, proxy
+host-suffix, huffpostarabi.com, proxy
+host-suffix, huffingtonpost.de, proxy
+host-suffix, huffingtonpost.es, proxy
+host-suffix, huffpost.com, proxy
+host-suffix, huffingtonpost.in, proxy
+host-suffix, huffingtonpost.gr, proxy
+host-suffix, huffingtonpost.it, proxy
+host-suffix, huffingtonpost.ca, proxy
+host-suffix, huffingtonpost.fr, proxy
+host-suffix, huffingtonpost.co.uk, proxy
+host-suffix, huffingtonpost.com.mx, proxy
+host-suffix, huffingtonpost.com.au, proxy
+host-suffix, huffingtonpost.co.za, proxy

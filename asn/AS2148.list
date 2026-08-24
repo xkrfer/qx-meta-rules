@@ -1,2 +1,2 @@
-ip-cidr, 144.206.144.0/21
-ip6-cidr, 2001:67c:1bec:f000::/52
+ip-cidr, 144.206.144.0/21, proxy, no-resolve
+ip6-cidr, 2001:67c:1bec:f000::/52, proxy, no-resolve

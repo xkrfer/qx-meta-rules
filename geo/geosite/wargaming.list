@@ -1,11 +1,11 @@
-host-suffix, masteroforion.com
-host-suffix, wargaming.com
-host-suffix, wargaming.net
-host-suffix, wgcdn.co
-host-suffix, wgcrowd.io
-host-suffix, worldoftanks.com
-host-suffix, worldoftanks.eu
-host-suffix, worldofwarplanes.com
-host-suffix, worldofwarships.com
-host-suffix, wotblitz.com
-host-suffix, wowsblitz.com
+host-suffix, masteroforion.com, proxy
+host-suffix, wargaming.com, proxy
+host-suffix, wargaming.net, proxy
+host-suffix, wgcdn.co, proxy
+host-suffix, wgcrowd.io, proxy
+host-suffix, worldoftanks.com, proxy
+host-suffix, worldoftanks.eu, proxy
+host-suffix, worldofwarplanes.com, proxy
+host-suffix, worldofwarships.com, proxy
+host-suffix, wotblitz.com, proxy
+host-suffix, wowsblitz.com, proxy

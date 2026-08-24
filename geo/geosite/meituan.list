@@ -1,19 +1,19 @@
-host-suffix, 51ping.com
-host-suffix, baobaoaichi.cn
-host-suffix, dianping.com
-host-suffix, dpfile.com
-host-suffix, maoyan.com
-host-suffix, meituan.com
-host-suffix, meituan.net
-host-suffix, mtyun.com
-host-suffix, neixin.cn
-host-suffix, sankuai.com
-host-suffix, 100.me
-host-suffix, ddcorp.net
-host-suffix, ddfresh.net
-host-suffix, ddimg.mobi
-host-suffix, ddmaicai.net
-host-suffix, ddmc.mobi
-host-suffix, dduser.mobi
-host-suffix, ddxq.mobi
-host-suffix, imaicai.mobi
+host-suffix, 51ping.com, proxy
+host-suffix, baobaoaichi.cn, proxy
+host-suffix, dianping.com, proxy
+host-suffix, dpfile.com, proxy
+host-suffix, maoyan.com, proxy
+host-suffix, meituan.com, proxy
+host-suffix, meituan.net, proxy
+host-suffix, mtyun.com, proxy
+host-suffix, neixin.cn, proxy
+host-suffix, sankuai.com, proxy
+host-suffix, 100.me, proxy
+host-suffix, ddcorp.net, proxy
+host-suffix, ddfresh.net, proxy
+host-suffix, ddimg.mobi, proxy
+host-suffix, ddmaicai.net, proxy
+host-suffix, ddmc.mobi, proxy
+host-suffix, dduser.mobi, proxy
+host-suffix, ddxq.mobi, proxy
+host-suffix, imaicai.mobi, proxy

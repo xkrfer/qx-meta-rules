@@ -1,6 +1,6 @@
-host, datarouter.apps.netherrealm.com
-host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-host-suffix, warnerbrosgames.com
-host-suffix, wbagora.com
-host-suffix, wbgames.com
-host-suffix, wbinsights.com
+host, datarouter.apps.netherrealm.com, proxy
+host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, proxy
+host-suffix, warnerbrosgames.com, proxy
+host-suffix, wbagora.com, proxy
+host-suffix, wbgames.com, proxy
+host-suffix, wbinsights.com, proxy

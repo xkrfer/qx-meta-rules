@@ -1,14 +1,14 @@
-host-suffix, dnspod.net
-host-suffix, dnsv4.com
-host-suffix, dnspod.cn
-host-suffix, dnspod.com
-host-suffix, dot.pub
-host-suffix, dnspod.mobi
-host-suffix, dnsv2.com
-host-suffix, doh.pub
-host-suffix, dnsapi.cn
-host-suffix, dnsv3.com
-host-suffix, dns.pub
-host-suffix, dnsv5.com
-host-suffix, dnspod.org
-host-suffix, dnspod.com.cn
+host-suffix, dnspod.net, proxy
+host-suffix, dnsv4.com, proxy
+host-suffix, dnspod.cn, proxy
+host-suffix, dnspod.com, proxy
+host-suffix, dot.pub, proxy
+host-suffix, dnspod.mobi, proxy
+host-suffix, dnsv2.com, proxy
+host-suffix, doh.pub, proxy
+host-suffix, dnsapi.cn, proxy
+host-suffix, dnsv3.com, proxy
+host-suffix, dns.pub, proxy
+host-suffix, dnsv5.com, proxy
+host-suffix, dnspod.org, proxy
+host-suffix, dnspod.com.cn, proxy

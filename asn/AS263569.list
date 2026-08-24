@@ -1,15 +1,15 @@
-ip-cidr, 45.5.220.0/22
-ip-cidr, 45.163.152.0/22
-ip-cidr, 45.172.252.0/22
-ip-cidr, 45.186.72.0/22
-ip-cidr, 45.225.160.0/22
-ip-cidr, 45.225.236.0/22
-ip-cidr, 131.161.60.0/22
-ip-cidr, 131.221.128.0/22
-ip-cidr, 138.118.168.0/22
-ip-cidr, 143.202.244.0/22
-ip-cidr, 168.232.216.0/22
-ip-cidr, 170.80.208.0/22
-ip-cidr, 186.249.216.0/22
-ip-cidr, 200.4.116.0/22
-ip6-cidr, 2804:f30::/32
+ip-cidr, 45.5.220.0/22, proxy, no-resolve
+ip-cidr, 45.163.152.0/22, proxy, no-resolve
+ip-cidr, 45.172.252.0/22, proxy, no-resolve
+ip-cidr, 45.186.72.0/22, proxy, no-resolve
+ip-cidr, 45.225.160.0/22, proxy, no-resolve
+ip-cidr, 45.225.236.0/22, proxy, no-resolve
+ip-cidr, 131.161.60.0/22, proxy, no-resolve
+ip-cidr, 131.221.128.0/22, proxy, no-resolve
+ip-cidr, 138.118.168.0/22, proxy, no-resolve
+ip-cidr, 143.202.244.0/22, proxy, no-resolve
+ip-cidr, 168.232.216.0/22, proxy, no-resolve
+ip-cidr, 170.80.208.0/22, proxy, no-resolve
+ip-cidr, 186.249.216.0/22, proxy, no-resolve
+ip-cidr, 200.4.116.0/22, proxy, no-resolve
+ip6-cidr, 2804:f30::/32, proxy, no-resolve

@@ -1,4 +1,4 @@
-host-suffix, logger.qmai.cn
-host-suffix, tracking.mcdonalds.com.cn
-host-suffix, trackingprd.hwwt8.com
-host-suffix, trackserver.shuxinyc.com
+host-suffix, logger.qmai.cn, proxy
+host-suffix, tracking.mcdonalds.com.cn, proxy
+host-suffix, trackingprd.hwwt8.com, proxy
+host-suffix, trackserver.shuxinyc.com, proxy

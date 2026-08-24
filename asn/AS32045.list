@@ -1,5 +1,5 @@
-ip-cidr, 72.26.113.0/24
-ip-cidr, 173.255.0.0/21
-ip-cidr, 173.255.8.0/22
-ip-cidr, 173.255.12.0/23
-ip6-cidr, 2606:6e00:6000::/35
+ip-cidr, 72.26.113.0/24, proxy, no-resolve
+ip-cidr, 173.255.0.0/21, proxy, no-resolve
+ip-cidr, 173.255.8.0/22, proxy, no-resolve
+ip-cidr, 173.255.12.0/23, proxy, no-resolve
+ip6-cidr, 2606:6e00:6000::/35, proxy, no-resolve

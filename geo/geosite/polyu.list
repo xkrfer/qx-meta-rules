@@ -1,5 +1,5 @@
-host-suffix, polyu.hk
-host-suffix, polyu.edu.hk
-host-suffix, cpce-polyu.edu.hk
-host-suffix, speed-polyu.edu.hk
-host-suffix, hkcc-polyu.edu.hk
+host-suffix, polyu.hk, proxy
+host-suffix, polyu.edu.hk, proxy
+host-suffix, cpce-polyu.edu.hk, proxy
+host-suffix, speed-polyu.edu.hk, proxy
+host-suffix, hkcc-polyu.edu.hk, proxy

@@ -1,5 +1,5 @@
-host-suffix, cnmstl.net
-host-suffix, fofa.so
-host-suffix, t00ls.cc
-host-suffix, t00ls.net
-host-suffix, tools.team
+host-suffix, cnmstl.net, proxy
+host-suffix, fofa.so, proxy
+host-suffix, t00ls.cc, proxy
+host-suffix, t00ls.net, proxy
+host-suffix, tools.team, proxy

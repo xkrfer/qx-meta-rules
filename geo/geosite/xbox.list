@@ -1,45 +1,45 @@
-host, prodforza.blob.core.windows.net
-host, flightsimulator.azureedge.net
-host-suffix, xbox
-host-suffix, gamepass.com
-host-suffix, orithegame.com
-host-suffix, renovacionxboxlive.com
-host-suffix, tellmewhygame.com
-host-suffix, xbox.co
-host-suffix, xbox.com
-host-suffix, xbox.eu
-host-suffix, xbox.org
-host-suffix, xbox360.co
-host-suffix, xbox360.com
-host-suffix, xbox360.eu
-host-suffix, xbox360.org
-host-suffix, xboxab.com
-host-suffix, xboxgamepass.com
-host-suffix, xboxgamestudios.com
-host-suffix, xboxlive.com
-host-suffix, xboxone.co
-host-suffix, xboxone.com
-host-suffix, xboxone.eu
-host-suffix, xboxplayanywhere.com
-host-suffix, xboxservices.com
-host-suffix, xboxstudios.com
-host-suffix, xbx.lv
-host-suffix, beth.games
-host-suffix, bethesda.net
-host-suffix, bethesdagamestudios.com
-host-suffix, bethsoft.com
-host-suffix, doom.com
-host-suffix, elderscrolls.com
-host-suffix, forza.net
-host-suffix, forzamotorsport.net
-host-suffix, forzaracingchampionship.com
-host-suffix, forzarc.com
-host-suffix, callersbane.com
-host-suffix, minecraft-services.net
-host-suffix, minecraft.net
-host-suffix, minecraftservices.com
-host-suffix, minecraftshop.com
-host-suffix, mojang.com
-host-suffix, asobostudio.com
-host-suffix, flightsimulator.com
-host-suffix, xboxlive.cn
+host, prodforza.blob.core.windows.net, proxy
+host, flightsimulator.azureedge.net, proxy
+host-suffix, xbox, proxy
+host-suffix, gamepass.com, proxy
+host-suffix, orithegame.com, proxy
+host-suffix, renovacionxboxlive.com, proxy
+host-suffix, tellmewhygame.com, proxy
+host-suffix, xbox.co, proxy
+host-suffix, xbox.com, proxy
+host-suffix, xbox.eu, proxy
+host-suffix, xbox.org, proxy
+host-suffix, xbox360.co, proxy
+host-suffix, xbox360.com, proxy
+host-suffix, xbox360.eu, proxy
+host-suffix, xbox360.org, proxy
+host-suffix, xboxab.com, proxy
+host-suffix, xboxgamepass.com, proxy
+host-suffix, xboxgamestudios.com, proxy
+host-suffix, xboxlive.com, proxy
+host-suffix, xboxone.co, proxy
+host-suffix, xboxone.com, proxy
+host-suffix, xboxone.eu, proxy
+host-suffix, xboxplayanywhere.com, proxy
+host-suffix, xboxservices.com, proxy
+host-suffix, xboxstudios.com, proxy
+host-suffix, xbx.lv, proxy
+host-suffix, beth.games, proxy
+host-suffix, bethesda.net, proxy
+host-suffix, bethesdagamestudios.com, proxy
+host-suffix, bethsoft.com, proxy
+host-suffix, doom.com, proxy
+host-suffix, elderscrolls.com, proxy
+host-suffix, forza.net, proxy
+host-suffix, forzamotorsport.net, proxy
+host-suffix, forzaracingchampionship.com, proxy
+host-suffix, forzarc.com, proxy
+host-suffix, callersbane.com, proxy
+host-suffix, minecraft-services.net, proxy
+host-suffix, minecraft.net, proxy
+host-suffix, minecraftservices.com, proxy
+host-suffix, minecraftshop.com, proxy
+host-suffix, mojang.com, proxy
+host-suffix, asobostudio.com, proxy
+host-suffix, flightsimulator.com, proxy
+host-suffix, xboxlive.cn, proxy

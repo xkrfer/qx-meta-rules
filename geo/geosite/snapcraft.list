@@ -1,2 +1,2 @@
-host-suffix, snapcraft.io
-host-suffix, snapstore.io
+host-suffix, snapcraft.io, proxy
+host-suffix, snapstore.io, proxy

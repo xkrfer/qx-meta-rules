@@ -1,1 +1,1 @@
-ip6-cidr, 2602:fc5a::/36
+ip6-cidr, 2602:fc5a::/36, proxy, no-resolve

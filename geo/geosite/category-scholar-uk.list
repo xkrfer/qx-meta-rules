@@ -1,38 +1,38 @@
-host, imperial.insendi.com
-host-suffix, oxfordbibliographies.com
-host-suffix, cambridge.org
-host-suffix, cambridgeschoolshakespeare.com
-host-suffix, cambridgedigital.net
-host-suffix, cambridgemaths.org
-host-suffix, opac-project.eu
-host-suffix, livinno.org
-host-suffix, universitypressscholarship.com
-host-suffix, imperialbusiness.school
-host-suffix, ukwhoswho.com
-host-suffix, sipriyearbook.org
-host-suffix, oxfordfirstsource.com
-host-suffix, oxfordscholarlyeditions.com
-host-suffix, blackstonespoliceservice.com
-host-suffix, epigeum.com
-host-suffix, oed.com
-host-suffix, omscr.com
-host-suffix, oup.com
-host-suffix, ouplaw.com
-host-suffix, veryshortintroductions.com
-host-suffix, ac.uk
-host-suffix, oxfordaasc.com
-host-suffix, oxfordartonline.com
-host-suffix, oxfordclinicalpsych.com
-host-suffix, oxforddnb.com
-host-suffix, anb.org
-host-suffix, oxfordpoliticstrove.com
-host-suffix, amamanualofstyle.com
-host-suffix, oxfordmedicine.com
-host-suffix, oxfordmusiconline.com
-host-suffix, oxfordhandbooks.com
-host-suffix, oxfordre.com
-host-suffix, oxfordreference.com
-host-suffix, oxfordlawtrove.com
-host-suffix, oxfordscholarship.com
-host-suffix, oxfordwesternmusic.com
-host-suffix, dlib.eastview.com
+host, imperial.insendi.com, proxy
+host-suffix, oxfordbibliographies.com, proxy
+host-suffix, cambridge.org, proxy
+host-suffix, cambridgeschoolshakespeare.com, proxy
+host-suffix, cambridgedigital.net, proxy
+host-suffix, cambridgemaths.org, proxy
+host-suffix, opac-project.eu, proxy
+host-suffix, livinno.org, proxy
+host-suffix, universitypressscholarship.com, proxy
+host-suffix, imperialbusiness.school, proxy
+host-suffix, ukwhoswho.com, proxy
+host-suffix, sipriyearbook.org, proxy
+host-suffix, oxfordfirstsource.com, proxy
+host-suffix, oxfordscholarlyeditions.com, proxy
+host-suffix, blackstonespoliceservice.com, proxy
+host-suffix, epigeum.com, proxy
+host-suffix, oed.com, proxy
+host-suffix, omscr.com, proxy
+host-suffix, oup.com, proxy
+host-suffix, ouplaw.com, proxy
+host-suffix, veryshortintroductions.com, proxy
+host-suffix, ac.uk, proxy
+host-suffix, oxfordaasc.com, proxy
+host-suffix, oxfordartonline.com, proxy
+host-suffix, oxfordclinicalpsych.com, proxy
+host-suffix, oxforddnb.com, proxy
+host-suffix, anb.org, proxy
+host-suffix, oxfordpoliticstrove.com, proxy
+host-suffix, amamanualofstyle.com, proxy
+host-suffix, oxfordmedicine.com, proxy
+host-suffix, oxfordmusiconline.com, proxy
+host-suffix, oxfordhandbooks.com, proxy
+host-suffix, oxfordre.com, proxy
+host-suffix, oxfordreference.com, proxy
+host-suffix, oxfordlawtrove.com, proxy
+host-suffix, oxfordscholarship.com, proxy
+host-suffix, oxfordwesternmusic.com, proxy
+host-suffix, dlib.eastview.com, proxy

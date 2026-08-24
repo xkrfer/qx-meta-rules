@@ -1,13 +1,13 @@
-host-suffix, wps.cn
-host-suffix, wps.com
-host-suffix, wpscdn.cn
-host-suffix, wpscdn.com
-host-suffix, qwps.cn
-host-suffix, kimxz.com
-host-suffix, 51dzt.com
-host-suffix, iciba.com
-host-suffix, docer.com
-host-suffix, kdocs.cn
-host-suffix, wpsmail.net
-host-suffix, papocket.com
-host-suffix, wpspdf.cn
+host-suffix, wps.cn, proxy
+host-suffix, wps.com, proxy
+host-suffix, wpscdn.cn, proxy
+host-suffix, wpscdn.com, proxy
+host-suffix, qwps.cn, proxy
+host-suffix, kimxz.com, proxy
+host-suffix, 51dzt.com, proxy
+host-suffix, iciba.com, proxy
+host-suffix, docer.com, proxy
+host-suffix, kdocs.cn, proxy
+host-suffix, wpsmail.net, proxy
+host-suffix, papocket.com, proxy
+host-suffix, wpspdf.cn, proxy

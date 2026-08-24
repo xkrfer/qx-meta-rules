@@ -1,4 +1,4 @@
-ip-cidr, 23.130.172.0/24
-ip-cidr, 44.32.104.0/24
-ip-cidr, 142.248.124.0/23
-ip6-cidr, 2602:fd79::/36
+ip-cidr, 23.130.172.0/24, proxy, no-resolve
+ip-cidr, 44.32.104.0/24, proxy, no-resolve
+ip-cidr, 142.248.124.0/23, proxy, no-resolve
+ip6-cidr, 2602:fd79::/36, proxy, no-resolve

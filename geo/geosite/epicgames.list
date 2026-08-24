@@ -1,30 +1,30 @@
-host-suffix, playparagon.com
-host-suffix, shadowcomplex.com
-host-suffix, cubicmotion.com
-host-suffix, battlebreakers.com
-host-suffix, eac-cdn.com
-host-suffix, easy.ac
-host-suffix, easyanticheat.net
-host-suffix, epicgames.com
-host-suffix, epicgames.dev
-host-suffix, epicgamescdn.com
-host-suffix, fab.com
-host-suffix, fortnite.com
-host-suffix, hyprsense.com
-host-suffix, paragon.com
-host-suffix, capturingreality.com
-host-suffix, 3lateral.com
-host-suffix, spyjinx.com
-host-suffix, radgametools.com
-host-suffix, realityscan.com
-host-suffix, roborecall.com
-host-suffix, quixel.com
-host-suffix, sketchfab.com
-host-suffix, quixel.se
-host-suffix, twinmotion.com
-host-suffix, unrealengine.com
-host-suffix, unrealtournament.com
-host-suffix, artstationmedia.com
-host-suffix, artstation.com
-host-suffix, fortnite-vod.akamaized.net
-host-suffix, egdownload.fastly-edge.com
+host-suffix, playparagon.com, proxy
+host-suffix, shadowcomplex.com, proxy
+host-suffix, cubicmotion.com, proxy
+host-suffix, battlebreakers.com, proxy
+host-suffix, eac-cdn.com, proxy
+host-suffix, easy.ac, proxy
+host-suffix, easyanticheat.net, proxy
+host-suffix, epicgames.com, proxy
+host-suffix, epicgames.dev, proxy
+host-suffix, epicgamescdn.com, proxy
+host-suffix, fab.com, proxy
+host-suffix, fortnite.com, proxy
+host-suffix, hyprsense.com, proxy
+host-suffix, paragon.com, proxy
+host-suffix, capturingreality.com, proxy
+host-suffix, 3lateral.com, proxy
+host-suffix, spyjinx.com, proxy
+host-suffix, radgametools.com, proxy
+host-suffix, realityscan.com, proxy
+host-suffix, roborecall.com, proxy
+host-suffix, quixel.com, proxy
+host-suffix, sketchfab.com, proxy
+host-suffix, quixel.se, proxy
+host-suffix, twinmotion.com, proxy
+host-suffix, unrealengine.com, proxy
+host-suffix, unrealtournament.com, proxy
+host-suffix, artstationmedia.com, proxy
+host-suffix, artstation.com, proxy
+host-suffix, fortnite-vod.akamaized.net, proxy
+host-suffix, egdownload.fastly-edge.com, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 207.228.216.0/22
-ip6-cidr, 2606:f6c0:40::/48
-ip6-cidr, 2606:f6c0:80::/48
-ip6-cidr, 2606:f6c0:c0::/48
-ip6-cidr, 2606:f6c0:100::/48
+ip-cidr, 207.228.216.0/22, proxy, no-resolve
+ip6-cidr, 2606:f6c0:40::/48, proxy, no-resolve
+ip6-cidr, 2606:f6c0:80::/48, proxy, no-resolve
+ip6-cidr, 2606:f6c0:c0::/48, proxy, no-resolve
+ip6-cidr, 2606:f6c0:100::/48, proxy, no-resolve

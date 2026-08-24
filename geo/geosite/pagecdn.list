@@ -1,2 +1,2 @@
-host-suffix, pagecdn.com
-host-suffix, pagecdn.io
+host-suffix, pagecdn.com, proxy
+host-suffix, pagecdn.io, proxy

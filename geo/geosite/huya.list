@@ -1,2 +1,2 @@
-host-suffix, huya.com
-host-suffix, msstatic.com
+host-suffix, huya.com, proxy
+host-suffix, msstatic.com, proxy

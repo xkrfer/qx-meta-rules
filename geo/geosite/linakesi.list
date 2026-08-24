@@ -1,4 +1,4 @@
-host-suffix, linakesi.com
-host-suffix, linakesi.cn
-host-suffix, lazycat.cloud
-host-suffix, heiyu.space
+host-suffix, linakesi.com, proxy
+host-suffix, linakesi.cn, proxy
+host-suffix, lazycat.cloud, proxy
+host-suffix, heiyu.space, proxy

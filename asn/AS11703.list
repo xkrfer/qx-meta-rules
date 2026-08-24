@@ -1,4 +1,4 @@
-ip-cidr, 38.116.198.0/23
-ip-cidr, 198.102.109.0/24
-ip6-cidr, 2602:f609:1::/48
-ip6-cidr, 2602:f609:2::/48
+ip-cidr, 38.116.198.0/23, proxy, no-resolve
+ip-cidr, 198.102.109.0/24, proxy, no-resolve
+ip6-cidr, 2602:f609:1::/48, proxy, no-resolve
+ip6-cidr, 2602:f609:2::/48, proxy, no-resolve

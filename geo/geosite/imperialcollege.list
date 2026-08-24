@@ -1,4 +1,4 @@
-host, imperial.insendi.com
-host-suffix, imperialbusiness.school
-host-suffix, ic.ac.uk
-host-suffix, imperial.ac.uk
+host, imperial.insendi.com, proxy
+host-suffix, imperialbusiness.school, proxy
+host-suffix, ic.ac.uk, proxy
+host-suffix, imperial.ac.uk, proxy

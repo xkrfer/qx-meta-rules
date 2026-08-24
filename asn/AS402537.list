@@ -1,2 +1,2 @@
-ip6-cidr, 2602:f3b5:10::/44
-ip6-cidr, 2602:f3b5:30::/44
+ip6-cidr, 2602:f3b5:10::/44, proxy, no-resolve
+ip6-cidr, 2602:f3b5:30::/44, proxy, no-resolve

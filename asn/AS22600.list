@@ -1,6 +1,6 @@
-ip-cidr, 207.215.196.0/22
-ip-cidr, 207.215.212.0/23
-ip6-cidr, 2620:139:6002::/48
-ip6-cidr, 2620:139:6004::/48
-ip6-cidr, 2620:139:6006::/48
-ip6-cidr, 2620:139:6008::/48
+ip-cidr, 207.215.196.0/22, proxy, no-resolve
+ip-cidr, 207.215.212.0/23, proxy, no-resolve
+ip6-cidr, 2620:139:6002::/48, proxy, no-resolve
+ip6-cidr, 2620:139:6004::/48, proxy, no-resolve
+ip6-cidr, 2620:139:6006::/48, proxy, no-resolve
+ip6-cidr, 2620:139:6008::/48, proxy, no-resolve

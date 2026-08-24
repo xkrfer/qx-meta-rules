@@ -1,9 +1,9 @@
-host-suffix, open-uc.cn
-host-suffix, uc-engine.cn
-host-suffix, uc.cn
-host-suffix, uc123.com
-host-suffix, ucfly.com
-host-suffix, ucweb.com
-host-suffix, uczzd.cn
-host-suffix, ads.uc.cn
-host-suffix, adslot.uc.cn
+host-suffix, open-uc.cn, proxy
+host-suffix, uc-engine.cn, proxy
+host-suffix, uc.cn, proxy
+host-suffix, uc123.com, proxy
+host-suffix, ucfly.com, proxy
+host-suffix, ucweb.com, proxy
+host-suffix, uczzd.cn, proxy
+host-suffix, ads.uc.cn, proxy
+host-suffix, adslot.uc.cn, proxy

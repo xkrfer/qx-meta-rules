@@ -1,11 +1,11 @@
-host-suffix, hdrezka-home.tv
-host-suffix, hdrezka.ac
-host-suffix, hdrezka.ag
-host-suffix, hdrezka.cm
-host-suffix, hdrezka.co
-host-suffix, hdrezka.me
-host-suffix, hdrezka.org
-host-suffix, hdrezka.site
-host-suffix, rezka.ag
-host-suffix, hdrzk.org
-host-suffix, stream.voidboost.cc
+host-suffix, hdrezka-home.tv, proxy
+host-suffix, hdrezka.ac, proxy
+host-suffix, hdrezka.ag, proxy
+host-suffix, hdrezka.cm, proxy
+host-suffix, hdrezka.co, proxy
+host-suffix, hdrezka.me, proxy
+host-suffix, hdrezka.org, proxy
+host-suffix, hdrezka.site, proxy
+host-suffix, rezka.ag, proxy
+host-suffix, hdrzk.org, proxy
+host-suffix, stream.voidboost.cc, proxy

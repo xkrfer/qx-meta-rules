@@ -1,4 +1,4 @@
-ip-cidr, 160.19.172.0/24
-ip-cidr, 160.19.174.0/23
-ip6-cidr, 2804:3bcc::/35
-ip6-cidr, 2804:3bcc:8000::/35
+ip-cidr, 160.19.172.0/24, proxy, no-resolve
+ip-cidr, 160.19.174.0/23, proxy, no-resolve
+ip6-cidr, 2804:3bcc::/35, proxy, no-resolve
+ip6-cidr, 2804:3bcc:8000::/35, proxy, no-resolve

@@ -1,10 +1,10 @@
-ip-cidr, 37.139.84.0/23
-ip-cidr, 37.139.86.0/24
-ip6-cidr, 2a03:cf40::/40
-ip6-cidr, 2a03:cf40:200::/39
-ip6-cidr, 2a03:cf40:400::/38
-ip6-cidr, 2a03:cf40:800::/37
-ip6-cidr, 2a03:cf40:1000::/36
-ip6-cidr, 2a03:cf40:2000::/35
-ip6-cidr, 2a03:cf40:4000::/34
-ip6-cidr, 2a03:cf40:8000::/33
+ip-cidr, 37.139.84.0/23, proxy, no-resolve
+ip-cidr, 37.139.86.0/24, proxy, no-resolve
+ip6-cidr, 2a03:cf40::/40, proxy, no-resolve
+ip6-cidr, 2a03:cf40:200::/39, proxy, no-resolve
+ip6-cidr, 2a03:cf40:400::/38, proxy, no-resolve
+ip6-cidr, 2a03:cf40:800::/37, proxy, no-resolve
+ip6-cidr, 2a03:cf40:1000::/36, proxy, no-resolve
+ip6-cidr, 2a03:cf40:2000::/35, proxy, no-resolve
+ip6-cidr, 2a03:cf40:4000::/34, proxy, no-resolve
+ip6-cidr, 2a03:cf40:8000::/33, proxy, no-resolve

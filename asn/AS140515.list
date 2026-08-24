@@ -1,2 +1,2 @@
-ip6-cidr, 240e:a7:7fd5::/48
-ip6-cidr, 240e:a7:7fd6::/47
+ip6-cidr, 240e:a7:7fd5::/48, proxy, no-resolve
+ip6-cidr, 240e:a7:7fd6::/47, proxy, no-resolve

@@ -1,10 +1,10 @@
-host-suffix, clarity.ms
-host-suffix, microsoftads.com
-host-suffix, msads.net
-host-suffix, nelreports.net
-host-suffix, bingads.com
-host-suffix, collector.github.com
-host, copilot-telemetry-service.githubusercontent.com
-host, copilot-telemetry.githubusercontent.com
-host-suffix, browser.events.data.msn.cn
-host-suffix, browser.events.data.msn.com
+host-suffix, clarity.ms, proxy
+host-suffix, microsoftads.com, proxy
+host-suffix, msads.net, proxy
+host-suffix, nelreports.net, proxy
+host-suffix, bingads.com, proxy
+host-suffix, collector.github.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host-suffix, browser.events.data.msn.cn, proxy
+host-suffix, browser.events.data.msn.com, proxy

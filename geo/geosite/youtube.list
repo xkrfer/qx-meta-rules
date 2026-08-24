@@ -1,178 +1,178 @@
-host, yt3.googleusercontent.com
-host-suffix, youtube
-host-suffix, youtube.ru
-host-suffix, youtube.iq
-host-suffix, ytimg.com
-host-suffix, withyoutube.com
-host-suffix, youtu.be
-host-suffix, youtube-nocookie.com
-host-suffix, yt.be
-host-suffix, youtube.ae
-host-suffix, youtube.al
-host-suffix, youtube.am
-host-suffix, youtube.at
-host-suffix, youtube.az
-host-suffix, youtube.ba
-host-suffix, youtube.be
-host-suffix, youtube.bg
-host-suffix, youtube.bh
-host-suffix, youtube.bo
-host-suffix, youtube.by
-host-suffix, youtube.ca
-host-suffix, youtube.cat
-host-suffix, youtube.ch
-host-suffix, youtube.cl
-host-suffix, youtube.co
-host-suffix, youtubemobilesupport.com
-host-suffix, youtubekids.com
-host-suffix, youtubego.in
-host-suffix, youtubego.id
-host-suffix, youtubego.com
-host-suffix, youtubegaming.com
-host-suffix, youtubefanfest.com
-host-suffix, youtubeeducation.com
-host-suffix, youtube.vn
-host-suffix, youtube.uy
-host-suffix, youtube.ug
-host-suffix, youtube.ua
-host-suffix, youtube.tv
-host-suffix, youtube.tn
-host-suffix, youtube.sv
-host-suffix, youtube.soy
-host-suffix, youtube.sn
-host-suffix, youtube.sk
-host-suffix, ggpht.com
-host-suffix, youtube.com
-host-suffix, youtube.si
-host-suffix, youtube.sg
-host-suffix, youtube.se
-host-suffix, youtube.sa
-host-suffix, youtube.ee
-host-suffix, googlevideo.com
-host-suffix, youtube.qa
-host-suffix, youtube.rs
-host-suffix, youtube.pt
-host-suffix, youtube.pr
-host-suffix, youtube.pl
-host-suffix, youtube.pk
-host-suffix, youtube.ph
-host-suffix, youtube.pe
-host-suffix, youtube.pa
-host-suffix, youtube.no
-host-suffix, youtube.nl
-host-suffix, youtube.ni
-host-suffix, youtube.ng
-host-suffix, youtube.my
-host-suffix, youtube.mx
-host-suffix, youtube.mn
-host-suffix, youtube.mk
-host-suffix, youtube.me
-host-suffix, youtube.md
-host-suffix, youtube.ma
-host-suffix, youtube.ly
-host-suffix, youtube.lv
-host-suffix, youtube.lu
-host-suffix, youtube.lt
-host-suffix, youtube.lk
-host-suffix, youtube.la
-host-suffix, youtube.kz
-host-suffix, youtube.kr
-host-suffix, youtube.jp
-host-suffix, youtube.jo
-host-suffix, youtube.it
-host-suffix, youtube.is
-host-suffix, youtube.ro
-host-suffix, youtube.in
-host-suffix, youtube.ie
-host-suffix, youtube.hu
-host-suffix, youtube.hr
-host-suffix, youtube.hk
-host-suffix, youtube.gt
-host-suffix, youtube.gr
-host-suffix, youtube.ge
-host-suffix, youtube.fr
-host-suffix, youtube.fi
-host-suffix, youtube.es
-host-suffix, youtube.cr
-host-suffix, youtube.cz
-host-suffix, youtube.de
-host-suffix, youtube.dk
-host-suffix, youtube.co.zw
-host-suffix, youtube.com.ve
-host-suffix, youtube.com.uy
-host-suffix, youtube.com.ua
-host-suffix, youtube.com.tw
-host-suffix, youtube.googleapis.com
-host-suffix, youtube.com.tr
-host-suffix, youtube.com.tn
-host-suffix, youtube.com.sv
-host-suffix, youtube.com.sg
-host-suffix, youtube.com.sa
-host-suffix, youtube.com.ro
-host-suffix, youtube.com.qa
-host-suffix, youtube.com.py
-host-suffix, youtube.com.pt
-host-suffix, youtube.com.pk
-host-suffix, youtube.com.ph
-host-suffix, youtube.com.pe
-host-suffix, youtube.com.pa
-host-suffix, youtube.com.om
-host-suffix, youtube.com.ni
-host-suffix, youtube.com.ng
-host-suffix, youtube.com.my
-host-suffix, youtube.com.mx
-host-suffix, youtube.com.mt
-host-suffix, youtube.com.mk
-host-suffix, youtube.com.ly
-host-suffix, youtube.com.lv
-host-suffix, youtube.com.lb
-host-suffix, youtube.com.kw
-host-suffix, youtube.com.jo
-host-suffix, youtube.com.jm
-host-suffix, youtube.com.hr
-host-suffix, youtube.com.hn
-host-suffix, youtube.com.hk
-host-suffix, youtube.com.gt
-host-suffix, youtube.com.gr
-host-suffix, youtube.com.gh
-host-suffix, youtube.com.es
-host-suffix, youtube.com.eg
-host-suffix, youtube.com.ee
-host-suffix, youtube.com.ec
-host-suffix, youtube.com.do
-host-suffix, youtube.com.co
-host-suffix, youtube.com.by
-host-suffix, youtube.com.br
-host-suffix, youtube.com.bo
-host-suffix, youtube.com.bh
-host-suffix, youtube.com.bd
-host-suffix, youtube.com.az
-host-suffix, youtube.com.au
-host-suffix, youtube.com.ar
-host-suffix, youtube.co.za
-host-suffix, youtube.co.ve
-host-suffix, youtube.co.uk
-host-suffix, youtube.co.ug
-host-suffix, youtube.co.tz
-host-suffix, youtube.co.th
-host-suffix, youtube.co.nz
-host-suffix, youtube.co.ma
-host-suffix, youtube.co.kr
-host-suffix, youtube.co.ke
-host-suffix, youtube.co.jp
-host-suffix, youtubeembeddedplayer.googleapis.com
-host-suffix, youtube.co.in
-host-suffix, youtube.co.il
-host-suffix, youtubego.co.id
-host-suffix, youtubego.co.in
-host-suffix, youtube.co.id
-host-suffix, youtubego.com.br
-host-suffix, youtube.co.hu
-host-suffix, youtube.co.cr
-host-suffix, youtubei.googleapis.com
-host-suffix, youtube.co.at
-host-suffix, youtube.co.ae
-host-suffix, youtube-ui.l.google.com
-host-suffix, wide-youtube.l.google.com
-host-suffix, ggpht.cn
-host-suffix, ads.youtube.com
+host, yt3.googleusercontent.com, proxy
+host-suffix, youtube, proxy
+host-suffix, youtube.ru, proxy
+host-suffix, youtube.iq, proxy
+host-suffix, ytimg.com, proxy
+host-suffix, withyoutube.com, proxy
+host-suffix, youtu.be, proxy
+host-suffix, youtube-nocookie.com, proxy
+host-suffix, yt.be, proxy
+host-suffix, youtube.ae, proxy
+host-suffix, youtube.al, proxy
+host-suffix, youtube.am, proxy
+host-suffix, youtube.at, proxy
+host-suffix, youtube.az, proxy
+host-suffix, youtube.ba, proxy
+host-suffix, youtube.be, proxy
+host-suffix, youtube.bg, proxy
+host-suffix, youtube.bh, proxy
+host-suffix, youtube.bo, proxy
+host-suffix, youtube.by, proxy
+host-suffix, youtube.ca, proxy
+host-suffix, youtube.cat, proxy
+host-suffix, youtube.ch, proxy
+host-suffix, youtube.cl, proxy
+host-suffix, youtube.co, proxy
+host-suffix, youtubemobilesupport.com, proxy
+host-suffix, youtubekids.com, proxy
+host-suffix, youtubego.in, proxy
+host-suffix, youtubego.id, proxy
+host-suffix, youtubego.com, proxy
+host-suffix, youtubegaming.com, proxy
+host-suffix, youtubefanfest.com, proxy
+host-suffix, youtubeeducation.com, proxy
+host-suffix, youtube.vn, proxy
+host-suffix, youtube.uy, proxy
+host-suffix, youtube.ug, proxy
+host-suffix, youtube.ua, proxy
+host-suffix, youtube.tv, proxy
+host-suffix, youtube.tn, proxy
+host-suffix, youtube.sv, proxy
+host-suffix, youtube.soy, proxy
+host-suffix, youtube.sn, proxy
+host-suffix, youtube.sk, proxy
+host-suffix, ggpht.com, proxy
+host-suffix, youtube.com, proxy
+host-suffix, youtube.si, proxy
+host-suffix, youtube.sg, proxy
+host-suffix, youtube.se, proxy
+host-suffix, youtube.sa, proxy
+host-suffix, youtube.ee, proxy
+host-suffix, googlevideo.com, proxy
+host-suffix, youtube.qa, proxy
+host-suffix, youtube.rs, proxy
+host-suffix, youtube.pt, proxy
+host-suffix, youtube.pr, proxy
+host-suffix, youtube.pl, proxy
+host-suffix, youtube.pk, proxy
+host-suffix, youtube.ph, proxy
+host-suffix, youtube.pe, proxy
+host-suffix, youtube.pa, proxy
+host-suffix, youtube.no, proxy
+host-suffix, youtube.nl, proxy
+host-suffix, youtube.ni, proxy
+host-suffix, youtube.ng, proxy
+host-suffix, youtube.my, proxy
+host-suffix, youtube.mx, proxy
+host-suffix, youtube.mn, proxy
+host-suffix, youtube.mk, proxy
+host-suffix, youtube.me, proxy
+host-suffix, youtube.md, proxy
+host-suffix, youtube.ma, proxy
+host-suffix, youtube.ly, proxy
+host-suffix, youtube.lv, proxy
+host-suffix, youtube.lu, proxy
+host-suffix, youtube.lt, proxy
+host-suffix, youtube.lk, proxy
+host-suffix, youtube.la, proxy
+host-suffix, youtube.kz, proxy
+host-suffix, youtube.kr, proxy
+host-suffix, youtube.jp, proxy
+host-suffix, youtube.jo, proxy
+host-suffix, youtube.it, proxy
+host-suffix, youtube.is, proxy
+host-suffix, youtube.ro, proxy
+host-suffix, youtube.in, proxy
+host-suffix, youtube.ie, proxy
+host-suffix, youtube.hu, proxy
+host-suffix, youtube.hr, proxy
+host-suffix, youtube.hk, proxy
+host-suffix, youtube.gt, proxy
+host-suffix, youtube.gr, proxy
+host-suffix, youtube.ge, proxy
+host-suffix, youtube.fr, proxy
+host-suffix, youtube.fi, proxy
+host-suffix, youtube.es, proxy
+host-suffix, youtube.cr, proxy
+host-suffix, youtube.cz, proxy
+host-suffix, youtube.de, proxy
+host-suffix, youtube.dk, proxy
+host-suffix, youtube.co.zw, proxy
+host-suffix, youtube.com.ve, proxy
+host-suffix, youtube.com.uy, proxy
+host-suffix, youtube.com.ua, proxy
+host-suffix, youtube.com.tw, proxy
+host-suffix, youtube.googleapis.com, proxy
+host-suffix, youtube.com.tr, proxy
+host-suffix, youtube.com.tn, proxy
+host-suffix, youtube.com.sv, proxy
+host-suffix, youtube.com.sg, proxy
+host-suffix, youtube.com.sa, proxy
+host-suffix, youtube.com.ro, proxy
+host-suffix, youtube.com.qa, proxy
+host-suffix, youtube.com.py, proxy
+host-suffix, youtube.com.pt, proxy
+host-suffix, youtube.com.pk, proxy
+host-suffix, youtube.com.ph, proxy
+host-suffix, youtube.com.pe, proxy
+host-suffix, youtube.com.pa, proxy
+host-suffix, youtube.com.om, proxy
+host-suffix, youtube.com.ni, proxy
+host-suffix, youtube.com.ng, proxy
+host-suffix, youtube.com.my, proxy
+host-suffix, youtube.com.mx, proxy
+host-suffix, youtube.com.mt, proxy
+host-suffix, youtube.com.mk, proxy
+host-suffix, youtube.com.ly, proxy
+host-suffix, youtube.com.lv, proxy
+host-suffix, youtube.com.lb, proxy
+host-suffix, youtube.com.kw, proxy
+host-suffix, youtube.com.jo, proxy
+host-suffix, youtube.com.jm, proxy
+host-suffix, youtube.com.hr, proxy
+host-suffix, youtube.com.hn, proxy
+host-suffix, youtube.com.hk, proxy
+host-suffix, youtube.com.gt, proxy
+host-suffix, youtube.com.gr, proxy
+host-suffix, youtube.com.gh, proxy
+host-suffix, youtube.com.es, proxy
+host-suffix, youtube.com.eg, proxy
+host-suffix, youtube.com.ee, proxy
+host-suffix, youtube.com.ec, proxy
+host-suffix, youtube.com.do, proxy
+host-suffix, youtube.com.co, proxy
+host-suffix, youtube.com.by, proxy
+host-suffix, youtube.com.br, proxy
+host-suffix, youtube.com.bo, proxy
+host-suffix, youtube.com.bh, proxy
+host-suffix, youtube.com.bd, proxy
+host-suffix, youtube.com.az, proxy
+host-suffix, youtube.com.au, proxy
+host-suffix, youtube.com.ar, proxy
+host-suffix, youtube.co.za, proxy
+host-suffix, youtube.co.ve, proxy
+host-suffix, youtube.co.uk, proxy
+host-suffix, youtube.co.ug, proxy
+host-suffix, youtube.co.tz, proxy
+host-suffix, youtube.co.th, proxy
+host-suffix, youtube.co.nz, proxy
+host-suffix, youtube.co.ma, proxy
+host-suffix, youtube.co.kr, proxy
+host-suffix, youtube.co.ke, proxy
+host-suffix, youtube.co.jp, proxy
+host-suffix, youtubeembeddedplayer.googleapis.com, proxy
+host-suffix, youtube.co.in, proxy
+host-suffix, youtube.co.il, proxy
+host-suffix, youtubego.co.id, proxy
+host-suffix, youtubego.co.in, proxy
+host-suffix, youtube.co.id, proxy
+host-suffix, youtubego.com.br, proxy
+host-suffix, youtube.co.hu, proxy
+host-suffix, youtube.co.cr, proxy
+host-suffix, youtubei.googleapis.com, proxy
+host-suffix, youtube.co.at, proxy
+host-suffix, youtube.co.ae, proxy
+host-suffix, youtube-ui.l.google.com, proxy
+host-suffix, wide-youtube.l.google.com, proxy
+host-suffix, ggpht.cn, proxy
+host-suffix, ads.youtube.com, proxy

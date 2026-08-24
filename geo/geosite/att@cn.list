@@ -1,2 +1,2 @@
-host-suffix, att.cn
-host-suffix, attcorp.cn
+host-suffix, att.cn, proxy
+host-suffix, attcorp.cn, proxy

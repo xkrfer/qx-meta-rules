@@ -1,5 +1,5 @@
-ip-cidr, 44.31.231.0/24
-ip6-cidr, 2406:840:9ef0::/44
-ip6-cidr, 2602:f92a:e000::/40
-ip6-cidr, 2602:f9f6:800::/42
-ip6-cidr, 2a0a:280:1500::/40
+ip-cidr, 44.31.231.0/24, proxy, no-resolve
+ip6-cidr, 2406:840:9ef0::/44, proxy, no-resolve
+ip6-cidr, 2602:f92a:e000::/40, proxy, no-resolve
+ip6-cidr, 2602:f9f6:800::/42, proxy, no-resolve
+ip6-cidr, 2a0a:280:1500::/40, proxy, no-resolve

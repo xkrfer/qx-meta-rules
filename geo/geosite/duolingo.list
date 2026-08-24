@@ -1,5 +1,5 @@
-host-suffix, duolingo.com
-host-suffix, duolingo.cn
-host-suffix, ads-api.duolingo.com
-host-suffix, analytics.vpc.duolingo.com
-host-suffix, metrics.duolingo.com
+host-suffix, duolingo.com, proxy
+host-suffix, duolingo.cn, proxy
+host-suffix, ads-api.duolingo.com, proxy
+host-suffix, analytics.vpc.duolingo.com, proxy
+host-suffix, metrics.duolingo.com, proxy

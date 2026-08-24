@@ -1,1 +1,1 @@
-ip6-cidr, 2405:4cc1:300::/40
+ip6-cidr, 2405:4cc1:300::/40, proxy, no-resolve

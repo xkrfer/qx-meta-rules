@@ -1,30 +1,30 @@
-ip-cidr, 24.101.0.0/16
-ip-cidr, 24.112.128.0/20
-ip-cidr, 24.112.144.0/22
-ip-cidr, 24.112.148.0/24
-ip-cidr, 24.112.149.0/27
-ip-cidr, 24.112.149.32/28
-ip-cidr, 24.112.149.48/32
-ip-cidr, 24.112.149.50/31
-ip-cidr, 24.112.149.52/30
-ip-cidr, 24.112.149.56/29
-ip-cidr, 24.112.149.64/26
-ip-cidr, 24.112.149.128/25
-ip-cidr, 24.112.150.0/23
-ip-cidr, 24.112.152.0/21
-ip-cidr, 24.112.160.0/19
-ip-cidr, 24.112.192.0/18
-ip-cidr, 24.129.240.0/20
-ip-cidr, 24.144.128.0/17
-ip-cidr, 24.154.0.0/16
-ip-cidr, 24.239.32.0/19
-ip-cidr, 24.239.64.0/18
-ip-cidr, 24.239.192.0/18
-ip-cidr, 63.65.158.0/23
-ip-cidr, 69.84.48.0/20
-ip-cidr, 72.23.0.0/16
-ip-cidr, 104.219.216.0/22
-ip-cidr, 141.195.0.0/21
-ip-cidr, 192.161.130.0/23
-ip-cidr, 208.226.154.0/23
-ip6-cidr, 2604:9f00::/28
+ip-cidr, 24.101.0.0/16, proxy, no-resolve
+ip-cidr, 24.112.128.0/20, proxy, no-resolve
+ip-cidr, 24.112.144.0/22, proxy, no-resolve
+ip-cidr, 24.112.148.0/24, proxy, no-resolve
+ip-cidr, 24.112.149.0/27, proxy, no-resolve
+ip-cidr, 24.112.149.32/28, proxy, no-resolve
+ip-cidr, 24.112.149.48/32, proxy, no-resolve
+ip-cidr, 24.112.149.50/31, proxy, no-resolve
+ip-cidr, 24.112.149.52/30, proxy, no-resolve
+ip-cidr, 24.112.149.56/29, proxy, no-resolve
+ip-cidr, 24.112.149.64/26, proxy, no-resolve
+ip-cidr, 24.112.149.128/25, proxy, no-resolve
+ip-cidr, 24.112.150.0/23, proxy, no-resolve
+ip-cidr, 24.112.152.0/21, proxy, no-resolve
+ip-cidr, 24.112.160.0/19, proxy, no-resolve
+ip-cidr, 24.112.192.0/18, proxy, no-resolve
+ip-cidr, 24.129.240.0/20, proxy, no-resolve
+ip-cidr, 24.144.128.0/17, proxy, no-resolve
+ip-cidr, 24.154.0.0/16, proxy, no-resolve
+ip-cidr, 24.239.32.0/19, proxy, no-resolve
+ip-cidr, 24.239.64.0/18, proxy, no-resolve
+ip-cidr, 24.239.192.0/18, proxy, no-resolve
+ip-cidr, 63.65.158.0/23, proxy, no-resolve
+ip-cidr, 69.84.48.0/20, proxy, no-resolve
+ip-cidr, 72.23.0.0/16, proxy, no-resolve
+ip-cidr, 104.219.216.0/22, proxy, no-resolve
+ip-cidr, 141.195.0.0/21, proxy, no-resolve
+ip-cidr, 192.161.130.0/23, proxy, no-resolve
+ip-cidr, 208.226.154.0/23, proxy, no-resolve
+ip6-cidr, 2604:9f00::/28, proxy, no-resolve

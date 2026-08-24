@@ -1,17 +1,17 @@
-ip-cidr, 23.150.40.0/23
-ip-cidr, 43.255.189.0/24
-ip-cidr, 140.235.156.0/24
-ip-cidr, 216.40.92.0/22
-ip6-cidr, 2602:2b7:40::/48
-ip6-cidr, 2602:2b7:c8::/48
-ip6-cidr, 2602:2b7:e1::/48
-ip6-cidr, 2602:2b7:600::/48
-ip6-cidr, 2602:2b7:c00::/42
-ip6-cidr, 2602:2b7:c40::/46
-ip6-cidr, 2602:2b7:c45::/48
-ip6-cidr, 2602:2b7:c46::/47
-ip6-cidr, 2602:2b7:c48::/45
-ip6-cidr, 2602:2b7:c50::/44
-ip6-cidr, 2602:2b7:c60::/43
-ip6-cidr, 2602:2b7:c80::/41
-ip6-cidr, 2602:2b7:d00::/40
+ip-cidr, 23.150.40.0/23, proxy, no-resolve
+ip-cidr, 43.255.189.0/24, proxy, no-resolve
+ip-cidr, 140.235.156.0/24, proxy, no-resolve
+ip-cidr, 216.40.92.0/22, proxy, no-resolve
+ip6-cidr, 2602:2b7:40::/48, proxy, no-resolve
+ip6-cidr, 2602:2b7:c8::/48, proxy, no-resolve
+ip6-cidr, 2602:2b7:e1::/48, proxy, no-resolve
+ip6-cidr, 2602:2b7:600::/48, proxy, no-resolve
+ip6-cidr, 2602:2b7:c00::/42, proxy, no-resolve
+ip6-cidr, 2602:2b7:c40::/46, proxy, no-resolve
+ip6-cidr, 2602:2b7:c45::/48, proxy, no-resolve
+ip6-cidr, 2602:2b7:c46::/47, proxy, no-resolve
+ip6-cidr, 2602:2b7:c48::/45, proxy, no-resolve
+ip6-cidr, 2602:2b7:c50::/44, proxy, no-resolve
+ip6-cidr, 2602:2b7:c60::/43, proxy, no-resolve
+ip6-cidr, 2602:2b7:c80::/41, proxy, no-resolve
+ip6-cidr, 2602:2b7:d00::/40, proxy, no-resolve

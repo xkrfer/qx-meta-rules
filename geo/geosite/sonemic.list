@@ -1,6 +1,6 @@
-host-suffix, glitchwave.com
-host-suffix, rateyourmusic.com
-host-suffix, rym.fm
-host-suffix, snmc.io
-host-suffix, sonematic.net
-host-suffix, sonemic.com
+host-suffix, glitchwave.com, proxy
+host-suffix, rateyourmusic.com, proxy
+host-suffix, rym.fm, proxy
+host-suffix, snmc.io, proxy
+host-suffix, sonematic.net, proxy
+host-suffix, sonemic.com, proxy

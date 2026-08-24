@@ -1,15 +1,15 @@
-host-suffix, s-rewards.hk
-host-suffix, smartonerobotics.com
-host-suffix, hkcircleapp.com
-host-suffix, homephoneplus.com
-host-suffix, ip73.com
-host-suffix, s-cashonmobile.com
-host-suffix, healthreach.hk
-host-suffix, smartone.com
-host-suffix, barkadahansasmartone.com
-host-suffix, smartoneholdings.com
-host-suffix, sahabatsetiasmartone.com
-host-suffix, wise-research.com
-host-suffix, smartonesolutions.hk
-host-suffix, valuegb.com
-host-suffix, smartonesolutions.com.hk
+host-suffix, s-rewards.hk, proxy
+host-suffix, smartonerobotics.com, proxy
+host-suffix, hkcircleapp.com, proxy
+host-suffix, homephoneplus.com, proxy
+host-suffix, ip73.com, proxy
+host-suffix, s-cashonmobile.com, proxy
+host-suffix, healthreach.hk, proxy
+host-suffix, smartone.com, proxy
+host-suffix, barkadahansasmartone.com, proxy
+host-suffix, smartoneholdings.com, proxy
+host-suffix, sahabatsetiasmartone.com, proxy
+host-suffix, wise-research.com, proxy
+host-suffix, smartonesolutions.hk, proxy
+host-suffix, valuegb.com, proxy
+host-suffix, smartonesolutions.com.hk, proxy

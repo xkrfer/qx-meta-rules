@@ -1,6 +1,6 @@
-ip-cidr, 154.59.56.0/22
-ip-cidr, 200.59.184.0/21
-ip6-cidr, 2803:b500:1000::/36
-ip6-cidr, 2803:b500:2001::/48
-ip6-cidr, 2803:b500:2002::/48
-ip6-cidr, 2803:b500:3000::/36
+ip-cidr, 154.59.56.0/22, proxy, no-resolve
+ip-cidr, 200.59.184.0/21, proxy, no-resolve
+ip6-cidr, 2803:b500:1000::/36, proxy, no-resolve
+ip6-cidr, 2803:b500:2001::/48, proxy, no-resolve
+ip6-cidr, 2803:b500:2002::/48, proxy, no-resolve
+ip6-cidr, 2803:b500:3000::/36, proxy, no-resolve

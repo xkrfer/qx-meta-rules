@@ -1,4 +1,4 @@
-ip-cidr, 66.231.64.0/24
-ip-cidr, 205.235.2.0/23
-ip6-cidr, 2803:c310:ff00::/44
-ip6-cidr, 2803:c310:ff10::/48
+ip-cidr, 66.231.64.0/24, proxy, no-resolve
+ip-cidr, 205.235.2.0/23, proxy, no-resolve
+ip6-cidr, 2803:c310:ff00::/44, proxy, no-resolve
+ip6-cidr, 2803:c310:ff10::/48, proxy, no-resolve

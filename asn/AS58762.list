@@ -1,15 +1,15 @@
-ip-cidr, 45.117.180.0/22
-ip-cidr, 103.18.72.0/22
-ip-cidr, 103.69.12.0/24
-ip-cidr, 103.147.0.0/23
-ip-cidr, 103.157.4.0/23
-ip-cidr, 103.157.10.0/23
-ip-cidr, 103.225.56.0/22
-ip-cidr, 150.129.44.0/22
-ip6-cidr, 2001:df0:8000::/48
-ip6-cidr, 2407:c140:100::/40
-ip6-cidr, 2407:c140:200::/40
-ip6-cidr, 2407:c140:500::/40
-ip6-cidr, 2407:c140:700::/40
-ip6-cidr, 2407:c140:800::/40
-ip6-cidr, 2407:c140:a00::/39
+ip-cidr, 45.117.180.0/22, proxy, no-resolve
+ip-cidr, 103.18.72.0/22, proxy, no-resolve
+ip-cidr, 103.69.12.0/24, proxy, no-resolve
+ip-cidr, 103.147.0.0/23, proxy, no-resolve
+ip-cidr, 103.157.4.0/23, proxy, no-resolve
+ip-cidr, 103.157.10.0/23, proxy, no-resolve
+ip-cidr, 103.225.56.0/22, proxy, no-resolve
+ip-cidr, 150.129.44.0/22, proxy, no-resolve
+ip6-cidr, 2001:df0:8000::/48, proxy, no-resolve
+ip6-cidr, 2407:c140:100::/40, proxy, no-resolve
+ip6-cidr, 2407:c140:200::/40, proxy, no-resolve
+ip6-cidr, 2407:c140:500::/40, proxy, no-resolve
+ip6-cidr, 2407:c140:700::/40, proxy, no-resolve
+ip6-cidr, 2407:c140:800::/40, proxy, no-resolve
+ip6-cidr, 2407:c140:a00::/39, proxy, no-resolve

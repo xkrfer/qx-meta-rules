@@ -1,2 +1,2 @@
-host-suffix, artstation.com
-host-suffix, artstationmedia.com
+host-suffix, artstation.com, proxy
+host-suffix, artstationmedia.com, proxy

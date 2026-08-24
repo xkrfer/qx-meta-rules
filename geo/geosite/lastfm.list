@@ -1,3 +1,3 @@
-host, lastfm.freetls.fastly.net
-host, ws.audioscrobbler.com
-host-suffix, last.fm
+host, lastfm.freetls.fastly.net, proxy
+host, ws.audioscrobbler.com, proxy
+host-suffix, last.fm, proxy

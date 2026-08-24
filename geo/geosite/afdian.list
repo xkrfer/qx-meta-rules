@@ -1,4 +1,4 @@
-host-suffix, afdian.com
-host-suffix, afdian.net
-host-suffix, afdiancdn.com
-host-suffix, ifdian.net
+host-suffix, afdian.com, proxy
+host-suffix, afdian.net, proxy
+host-suffix, afdiancdn.com, proxy
+host-suffix, ifdian.net, proxy

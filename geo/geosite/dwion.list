@@ -1,14 +1,14 @@
-host-suffix, fastcdn.com
-host-suffix, tlgslb.cn
-host-suffix, bbbcdns.com
-host-suffix, dlgslb.cn
-host-suffix, dlgslb.net
-host-suffix, dwion.com
-host-suffix, flxdns.cn
-host-suffix, acadn.cn
-host-suffix, acadn.com
-host-suffix, flxdns.com
-host-suffix, globalcdn.cn
-host-suffix, mcadn.cn
-host-suffix, tlgslb.com
-host-suffix, fastcdn.com.cn
+host-suffix, fastcdn.com, proxy
+host-suffix, tlgslb.cn, proxy
+host-suffix, bbbcdns.com, proxy
+host-suffix, dlgslb.cn, proxy
+host-suffix, dlgslb.net, proxy
+host-suffix, dwion.com, proxy
+host-suffix, flxdns.cn, proxy
+host-suffix, acadn.cn, proxy
+host-suffix, acadn.com, proxy
+host-suffix, flxdns.com, proxy
+host-suffix, globalcdn.cn, proxy
+host-suffix, mcadn.cn, proxy
+host-suffix, tlgslb.com, proxy
+host-suffix, fastcdn.com.cn, proxy

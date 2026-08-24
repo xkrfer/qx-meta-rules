@@ -1,11 +1,11 @@
-ip-cidr, 45.54.64.0/24
-ip-cidr, 194.62.180.0/22
-ip-cidr, 204.16.253.0/24
-ip-cidr, 204.16.254.0/23
-ip6-cidr, 2607:f740:e626::/48
-ip6-cidr, 2620:0:2e61::/48
-ip6-cidr, 2620:0:2e64::/48
-ip6-cidr, 2a07:dc00:180::/44
-ip6-cidr, 2a07:dc00:1810::/44
-ip6-cidr, 2a07:dc00:1820::/43
-ip6-cidr, 2a07:dc00:2550::/44
+ip-cidr, 45.54.64.0/24, proxy, no-resolve
+ip-cidr, 194.62.180.0/22, proxy, no-resolve
+ip-cidr, 204.16.253.0/24, proxy, no-resolve
+ip-cidr, 204.16.254.0/23, proxy, no-resolve
+ip6-cidr, 2607:f740:e626::/48, proxy, no-resolve
+ip6-cidr, 2620:0:2e61::/48, proxy, no-resolve
+ip6-cidr, 2620:0:2e64::/48, proxy, no-resolve
+ip6-cidr, 2a07:dc00:180::/44, proxy, no-resolve
+ip6-cidr, 2a07:dc00:1810::/44, proxy, no-resolve
+ip6-cidr, 2a07:dc00:1820::/43, proxy, no-resolve
+ip6-cidr, 2a07:dc00:2550::/44, proxy, no-resolve

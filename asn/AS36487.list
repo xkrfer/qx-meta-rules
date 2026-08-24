@@ -1,10 +1,10 @@
-ip-cidr, 66.252.112.0/20
-ip-cidr, 144.86.162.0/24
-ip-cidr, 144.86.163.0/25
-ip-cidr, 144.86.163.128/26
-ip-cidr, 144.86.163.192/28
-ip-cidr, 144.86.163.208/30
-ip-cidr, 144.86.163.213/32
-ip-cidr, 144.86.163.214/31
-ip-cidr, 144.86.163.216/29
-ip-cidr, 144.86.163.224/27
+ip-cidr, 66.252.112.0/20, proxy, no-resolve
+ip-cidr, 144.86.162.0/24, proxy, no-resolve
+ip-cidr, 144.86.163.0/25, proxy, no-resolve
+ip-cidr, 144.86.163.128/26, proxy, no-resolve
+ip-cidr, 144.86.163.192/28, proxy, no-resolve
+ip-cidr, 144.86.163.208/30, proxy, no-resolve
+ip-cidr, 144.86.163.213/32, proxy, no-resolve
+ip-cidr, 144.86.163.214/31, proxy, no-resolve
+ip-cidr, 144.86.163.216/29, proxy, no-resolve
+ip-cidr, 144.86.163.224/27, proxy, no-resolve

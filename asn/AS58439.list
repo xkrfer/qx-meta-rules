@@ -1,6 +1,6 @@
-ip-cidr, 103.194.176.0/22
-ip-cidr, 183.177.96.0/21
-ip-cidr, 183.177.104.0/22
-ip-cidr, 183.177.108.0/23
-ip-cidr, 183.177.111.0/24
-ip6-cidr, 2402:8880::/32
+ip-cidr, 103.194.176.0/22, proxy, no-resolve
+ip-cidr, 183.177.96.0/21, proxy, no-resolve
+ip-cidr, 183.177.104.0/22, proxy, no-resolve
+ip-cidr, 183.177.108.0/23, proxy, no-resolve
+ip-cidr, 183.177.111.0/24, proxy, no-resolve
+ip6-cidr, 2402:8880::/32, proxy, no-resolve

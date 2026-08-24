@@ -1,2 +1,2 @@
-host-suffix, spacex.com
-host-suffix, starlink.com
+host-suffix, spacex.com, proxy
+host-suffix, starlink.com, proxy

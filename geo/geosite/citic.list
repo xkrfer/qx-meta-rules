@@ -1,17 +1,17 @@
-host-suffix, citic
-host-suffix, xn--fiq64b
-host-suffix, citiccapital.com
-host-suffix, chinaamc.com
-host-suffix, citicbank.com
-host-suffix, cfc108.com
-host-suffix, citiciam.com
-host-suffix, citicifh.com
-host-suffix, citicsf.com
-host-suffix, clsa.com
-host-suffix, csc108.com
-host-suffix, ecitic.com
-host-suffix, citic-prudential.com.cn
-host-suffix, citicprufunds.com.cn
-host-suffix, citics.com.hk
-host-suffix, cncbinternational.com
-host-suffix, csci.hk
+host-suffix, citic, proxy
+host-suffix, xn--fiq64b, proxy
+host-suffix, citiccapital.com, proxy
+host-suffix, chinaamc.com, proxy
+host-suffix, citicbank.com, proxy
+host-suffix, cfc108.com, proxy
+host-suffix, citiciam.com, proxy
+host-suffix, citicifh.com, proxy
+host-suffix, citicsf.com, proxy
+host-suffix, clsa.com, proxy
+host-suffix, csc108.com, proxy
+host-suffix, ecitic.com, proxy
+host-suffix, citic-prudential.com.cn, proxy
+host-suffix, citicprufunds.com.cn, proxy
+host-suffix, citics.com.hk, proxy
+host-suffix, cncbinternational.com, proxy
+host-suffix, csci.hk, proxy

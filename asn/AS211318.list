@@ -1,5 +1,5 @@
-ip-cidr, 81.85.0.0/20
-ip-cidr, 89.124.32.0/21
-ip6-cidr, 2a13:5942:420::/44
-ip6-cidr, 2a13:5946:20::/44
-ip6-cidr, 2a13:5947:136::/48
+ip-cidr, 81.85.0.0/20, proxy, no-resolve
+ip-cidr, 89.124.32.0/21, proxy, no-resolve
+ip6-cidr, 2a13:5942:420::/44, proxy, no-resolve
+ip6-cidr, 2a13:5946:20::/44, proxy, no-resolve
+ip6-cidr, 2a13:5947:136::/48, proxy, no-resolve

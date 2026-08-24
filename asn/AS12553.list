@@ -1,2 +1,2 @@
-ip-cidr, 193.105.5.0/24
-ip6-cidr, 2001:67c:1028::/47
+ip-cidr, 193.105.5.0/24, proxy, no-resolve
+ip6-cidr, 2001:67c:1028::/47, proxy, no-resolve

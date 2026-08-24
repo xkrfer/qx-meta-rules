@@ -1,2 +1,2 @@
-ip-cidr, 80.85.192.0/20
-ip6-cidr, 2a02:d700::/32
+ip-cidr, 80.85.192.0/20, proxy, no-resolve
+ip6-cidr, 2a02:d700::/32, proxy, no-resolve

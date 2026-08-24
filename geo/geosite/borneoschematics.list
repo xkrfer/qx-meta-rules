@@ -1,5 +1,5 @@
-host-suffix, borneo.world
-host-suffix, borneoasia.com
-host-suffix, borneoschematic.com
-host-suffix, bosharso.net
-host-suffix, hostborneo.org
+host-suffix, borneo.world, proxy
+host-suffix, borneoasia.com, proxy
+host-suffix, borneoschematic.com, proxy
+host-suffix, bosharso.net, proxy
+host-suffix, hostborneo.org, proxy

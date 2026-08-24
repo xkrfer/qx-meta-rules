@@ -1,2 +1,2 @@
-host-suffix, ltn.com.tw
-host-suffix, yes123.com.tw
+host-suffix, ltn.com.tw, proxy
+host-suffix, yes123.com.tw, proxy

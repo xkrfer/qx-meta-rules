@@ -1,1 +1,1 @@
-ip6-cidr, 2606:ec80::/44
+ip6-cidr, 2606:ec80::/44, proxy, no-resolve

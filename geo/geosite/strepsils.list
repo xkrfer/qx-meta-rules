@@ -1,33 +1,33 @@
-host-suffix, strepsils.ru
-host-suffix, cepacol.com
-host-suffix, dobendan.de
-host-suffix, strepsilsarabia.com
-host-suffix, repsils.no
-host-suffix, strepsils.at
-host-suffix, strepsils.ch
-host-suffix, cepacol.ca
-host-suffix, strepsils.si
-host-suffix, strepsils.us
-host-suffix, strepsils.pt
-host-suffix, strepsils.ro
-host-suffix, strepsils.hr
-host-suffix, strepsils.pl
-host-suffix, strepsils.net
-host-suffix, strepsils.ie
-host-suffix, strepsils.hu
-host-suffix, strepsils.es
-host-suffix, strepsils.fi
-host-suffix, strepsils.fr
-host-suffix, strepsils.co.kr
-host-suffix, strepsils.com.tw
-host-suffix, strepsils.com.ph
-host-suffix, strepsils.com.hk
-host-suffix, strepsils.com.au
-host-suffix, strepsils.com.co
-host-suffix, strepsils.com.br
-host-suffix, strepsils.com.ar
-host-suffix, strepsils.co.za
-host-suffix, strepsils.co.nz
-host-suffix, graneodin.com.mx
-host-suffix, strepsils.cn
-host-suffix, strepsils.com.cn
+host-suffix, strepsils.ru, proxy
+host-suffix, cepacol.com, proxy
+host-suffix, dobendan.de, proxy
+host-suffix, strepsilsarabia.com, proxy
+host-suffix, repsils.no, proxy
+host-suffix, strepsils.at, proxy
+host-suffix, strepsils.ch, proxy
+host-suffix, cepacol.ca, proxy
+host-suffix, strepsils.si, proxy
+host-suffix, strepsils.us, proxy
+host-suffix, strepsils.pt, proxy
+host-suffix, strepsils.ro, proxy
+host-suffix, strepsils.hr, proxy
+host-suffix, strepsils.pl, proxy
+host-suffix, strepsils.net, proxy
+host-suffix, strepsils.ie, proxy
+host-suffix, strepsils.hu, proxy
+host-suffix, strepsils.es, proxy
+host-suffix, strepsils.fi, proxy
+host-suffix, strepsils.fr, proxy
+host-suffix, strepsils.co.kr, proxy
+host-suffix, strepsils.com.tw, proxy
+host-suffix, strepsils.com.ph, proxy
+host-suffix, strepsils.com.hk, proxy
+host-suffix, strepsils.com.au, proxy
+host-suffix, strepsils.com.co, proxy
+host-suffix, strepsils.com.br, proxy
+host-suffix, strepsils.com.ar, proxy
+host-suffix, strepsils.co.za, proxy
+host-suffix, strepsils.co.nz, proxy
+host-suffix, graneodin.com.mx, proxy
+host-suffix, strepsils.cn, proxy
+host-suffix, strepsils.com.cn, proxy

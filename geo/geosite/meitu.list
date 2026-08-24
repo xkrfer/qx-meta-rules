@@ -1,13 +1,13 @@
-host-suffix, meitu.com
-host-suffix, meitudata.com
-host-suffix, meitustat.com
-host-suffix, designkit.cn
-host-suffix, kaipai.com
-host-suffix, meipai.com
-host-suffix, meituxiuxiu.com
-host-suffix, meiyan.com
-host-suffix, miraclevision.com
-host-suffix, roboneo.com
-host-suffix, whee.com
-host-suffix, wink.cn
-host-suffix, zcool.com.cn
+host-suffix, meitu.com, proxy
+host-suffix, meitudata.com, proxy
+host-suffix, meitustat.com, proxy
+host-suffix, designkit.cn, proxy
+host-suffix, kaipai.com, proxy
+host-suffix, meipai.com, proxy
+host-suffix, meituxiuxiu.com, proxy
+host-suffix, meiyan.com, proxy
+host-suffix, miraclevision.com, proxy
+host-suffix, roboneo.com, proxy
+host-suffix, whee.com, proxy
+host-suffix, wink.cn, proxy
+host-suffix, zcool.com.cn, proxy

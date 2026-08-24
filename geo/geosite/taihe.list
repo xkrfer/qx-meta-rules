@@ -1,6 +1,6 @@
-host-suffix, 91q.com
-host-suffix, dmhmusic.com
-host-suffix, showstart.com
-host-suffix, taihe.com
-host-suffix, taihemusic.cn
-host-suffix, th-music.com
+host-suffix, 91q.com, proxy
+host-suffix, dmhmusic.com, proxy
+host-suffix, showstart.com, proxy
+host-suffix, taihe.com, proxy
+host-suffix, taihemusic.cn, proxy
+host-suffix, th-music.com, proxy

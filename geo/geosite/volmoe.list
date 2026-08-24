@@ -1,2 +1,2 @@
-host-suffix, mox.moe
-host-suffix, vol.moe
+host-suffix, mox.moe, proxy
+host-suffix, vol.moe, proxy

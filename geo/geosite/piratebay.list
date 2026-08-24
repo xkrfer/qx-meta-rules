@@ -1,4 +1,4 @@
-host-suffix, pirates-forum.org
-host-suffix, torrindex.net
-host-suffix, thepiratebay.org
-host-suffix, apibay.org
+host-suffix, pirates-forum.org, proxy
+host-suffix, torrindex.net, proxy
+host-suffix, thepiratebay.org, proxy
+host-suffix, apibay.org, proxy

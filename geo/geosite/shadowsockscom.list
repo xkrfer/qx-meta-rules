@@ -1,2 +1,2 @@
-host-suffix, shadowsocks.com
-host-suffix, shadowsocks.nl
+host-suffix, shadowsocks.com, proxy
+host-suffix, shadowsocks.nl, proxy

@@ -1,4 +1,4 @@
-ip-cidr, 31.129.64.0/19
-ip-cidr, 178.219.80.0/20
-ip-cidr, 193.194.108.0/22
-ip6-cidr, 2a13:fb40::/29
+ip-cidr, 31.129.64.0/19, proxy, no-resolve
+ip-cidr, 178.219.80.0/20, proxy, no-resolve
+ip-cidr, 193.194.108.0/22, proxy, no-resolve
+ip6-cidr, 2a13:fb40::/29, proxy, no-resolve

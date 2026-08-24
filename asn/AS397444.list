@@ -1,6 +1,6 @@
-ip-cidr, 69.59.18.0/23
-ip-cidr, 208.68.6.0/23
-ip6-cidr, 2620:6e:a000::/46
-ip6-cidr, 2620:6e:a004::/48
-ip6-cidr, 2620:6e:a007::/48
-ip6-cidr, 2620:6e:a008::/46
+ip-cidr, 69.59.18.0/23, proxy, no-resolve
+ip-cidr, 208.68.6.0/23, proxy, no-resolve
+ip6-cidr, 2620:6e:a000::/46, proxy, no-resolve
+ip6-cidr, 2620:6e:a004::/48, proxy, no-resolve
+ip6-cidr, 2620:6e:a007::/48, proxy, no-resolve
+ip6-cidr, 2620:6e:a008::/46, proxy, no-resolve

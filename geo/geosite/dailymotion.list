@@ -1,3 +1,3 @@
-host-suffix, dailymotion.com
-host-suffix, dm-event.net
-host-suffix, dmcdn.net
+host-suffix, dailymotion.com, proxy
+host-suffix, dm-event.net, proxy
+host-suffix, dmcdn.net, proxy

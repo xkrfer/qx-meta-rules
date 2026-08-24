@@ -1,2 +1,2 @@
-host-suffix, spaceship.com
-host-suffix, spacemail.com
+host-suffix, spaceship.com, proxy
+host-suffix, spacemail.com, proxy

@@ -1,16 +1,16 @@
-host-suffix, attestation.app
-host-suffix, grapheneos.app
-host-suffix, grapheneos.ca
-host-suffix, grapheneos.com
-host-suffix, grapheneos.dev
-host-suffix, grapheneos.foundation
-host-suffix, grapheneos.info
-host-suffix, grapheneos.net
-host-suffix, grapheneos.network
-host-suffix, grapheneos.online
-host-suffix, grapheneos.org
-host-suffix, grapheneos.ovh
-host-suffix, grapheneos.page
-host-suffix, grapheneos.social
-host-suffix, seamlessupdate.app
-host-suffix, vanadium.app
+host-suffix, attestation.app, proxy
+host-suffix, grapheneos.app, proxy
+host-suffix, grapheneos.ca, proxy
+host-suffix, grapheneos.com, proxy
+host-suffix, grapheneos.dev, proxy
+host-suffix, grapheneos.foundation, proxy
+host-suffix, grapheneos.info, proxy
+host-suffix, grapheneos.net, proxy
+host-suffix, grapheneos.network, proxy
+host-suffix, grapheneos.online, proxy
+host-suffix, grapheneos.org, proxy
+host-suffix, grapheneos.ovh, proxy
+host-suffix, grapheneos.page, proxy
+host-suffix, grapheneos.social, proxy
+host-suffix, seamlessupdate.app, proxy
+host-suffix, vanadium.app, proxy

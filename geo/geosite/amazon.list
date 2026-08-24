@@ -1,246 +1,246 @@
-host, d1v5ir2lpwr8os.cloudfront.net
-host, d22qjgkvxw22r6.cloudfront.net
-host, d25xi40x97liuc.cloudfront.net
-host, d27xxe7juh1us6.cloudfront.net
-host, dmqdd6hw24ucf.cloudfront.net
-host, images-eu.ssl-images-amazon.com
-host, images-na.ssl-images-amazon.com
-host, images-fe.ssl-images-amazon.com
-host, msh.amazon.co.uk
-host, static.siege-amazon.com
-host-suffix, imdb
-host-suffix, xn--cckwcxetd
-host-suffix, xn--jlq480n2rg
-host-suffix, yamaxun
-host-suffix, zappos
-host-suffix, aws
-host-suffix, kindle
-host-suffix, amazon
-host-suffix, imdb.to
-host-suffix, aboutamazon.es
-host-suffix, aboutamazon.fr
-host-suffix, aboutamazon.in
-host-suffix, aboutamazon.it
-host-suffix, aboutamazon.jp
-host-suffix, aboutamazon.pl
-host-suffix, aboutamazon.sg
-host-suffix, amaaozn.com
-host-suffix, amazon-fashions.com
-host-suffix, amazon-jp-recruiting.com
-host-suffix, amazon-lantern.com
-host-suffix, amazon-launchpad.com
-host-suffix, amazon.ae
-host-suffix, amazon.ca
-host-suffix, amazon.cl
-host-suffix, amazon.com
-host-suffix, amazon.de
-host-suffix, amzndns.net
-host-suffix, amzndns.org
-host-suffix, amzndns.com
-host-suffix, awsedstart.com
-host-suffix, elasticbeanstalk.com
-host-suffix, containersonaws.com
-host-suffix, cloudfront.net
-host-suffix, cloudfront.com
-host-suffix, cdkworkshop.com
-host-suffix, awswaf.com
-host-suffix, awstrack.me
-host-suffix, amazon.dev
-host-suffix, amazon.eg
-host-suffix, amazon.es
-host-suffix, amazon.fr
-host-suffix, amazon.ie
-host-suffix, amazon.in
-host-suffix, amazon.it
-host-suffix, amazon.jobs
-host-suffix, amazon.jp
-host-suffix, amazon.lu
-host-suffix, amazon.nl
-host-suffix, amazon.pl
-host-suffix, amazon.red
-host-suffix, amazon.sa
-host-suffix, amazon.se
-host-suffix, amazon.sg
-host-suffix, amazonalexavoxcon.com
-host-suffix, amazonauthorinsights.com
-host-suffix, amazonbusiness.org
-host-suffix, amazonbusinessblog.com
-host-suffix, amazondevicesupport.com
-host-suffix, amazonfctours.com
-host-suffix, amazonianblog.com
-host-suffix, amazonimages.com
-host-suffix, amazonlaunchpad.com
-host-suffix, amazonliterarypartnership.com
-host-suffix, amazonlumberyard.wang
-host-suffix, amazonpay.com
-host-suffix, amazonpay.in
-host-suffix, amazonsdi.com
-host-suffix, amazonstudiosguilds.com
-host-suffix, amazonvideodirect.com
-host-suffix, amzn.asia
-host-suffix, amzn.com
-host-suffix, amzn.to
-host-suffix, kindle.de
-host-suffix, associates-amazon.com
-host-suffix, gameon-masters.com
-host-suffix, gdansk-amazon.com
-host-suffix, images-amazon.com
-host-suffix, media-amazon.com
-host-suffix, primeday.info
-host-suffix, seattlespheres.com
-host-suffix, siege-amazon.com
-host-suffix, ssl-images-amazon.com
-host-suffix, ueberamazon.de
-host-suffix, yamaxun.com
-host-suffix, alexa.com
-host-suffix, audible.com
-host-suffix, createspace.com
-host-suffix, kindle.com
-host-suffix, boxofficemojo.com
-host-suffix, imdb.com
-host-suffix, aboutamazon.de
-host-suffix, media-imdb.com
-host-suffix, aboutamazon.com
-host-suffix, kindle.it
-host-suffix, amznl.com
-host-suffix, aboutamazon.eu
-host-suffix, kindleoasis.com
-host-suffix, kindle.es
-host-suffix, kindle.fr
-host-suffix, kindleproject.com
-host-suffix, kindle.in
-host-suffix, kindle.jp
-host-suffix, kindleoasisnews.com
-host-suffix, kindleoasis.info
-host-suffix, kindleoasis.jp
-host-suffix, kindleoasis.org
-host-suffix, kindleoasis.us
-host-suffix, awsthinkbox.com
-host-suffix, awsstatic.com
-host-suffix, awssecworkshops.com
-host-suffix, aiv-cdn.net
-host-suffix, amazonprimevideos.com
-host-suffix, amazonvideo.cc
-host-suffix, amazonvideo.com
-host-suffix, prime-video.com
-host-suffix, primevideo.cc
-host-suffix, primevideo.com
-host-suffix, primevideo.info
-host-suffix, primevideo.org
-host-suffix, primevideo.tv
-host-suffix, awsloft-stockholm.com
-host-suffix, wfm.com
-host-suffix, wholecitiesfoundation.org
-host-suffix, wholefoods.com
-host-suffix, wholefoodsmarket.com
-host-suffix, wholekidsfoundation.org
-host-suffix, wholeplanetfoundation.org
-host-suffix, awsloft-johannesburg.com
-host-suffix, amazontrust.com
-host-suffix, awstrust.com
-host-suffix, ss2.us
-host-suffix, a2z.com
-host-suffix, awsbraket.com
-host-suffix, thinkboxsoftware.com
-host-suffix, aesworkshops.com
-host-suffix, amazonaws-china.com
-host-suffix, amazonaws.biz
-host-suffix, amazonaws.com
-host-suffix, amazonaws.info
-host-suffix, amazonaws.net
-host-suffix, amazonaws.org
-host-suffix, amazonaws.tv
-host-suffix, amazoncognito.com
-host-suffix, amazonses.com
-host-suffix, amazonwebservices.com
-host-suffix, amazonworkdocs.com
-host-suffix, amplifyapp.com
-host-suffix, amplifyframework.com
-host-suffix, aws-iot-hackathon.com
-host-suffix, aws.com
-host-suffix, aws.dev
-host-suffix, awsapprunner.com
-host-suffix, awsapps.com
-host-suffix, awsautopilot.com
-host-suffix, awsautoscaling.com
-host-suffix, acmvalidations.com
-host-suffix, acmvalidationsaws.com
-host-suffix, awscommandlineinterface.com
-host-suffix, awseducate.com
-host-suffix, awseducate.net
-host-suffix, awseducate.org
-host-suffix, awsglobalaccelerator.com
-host-suffix, amazon.com.au
-host-suffix, amazon.co.jp
-host-suffix, kindle.co.uk
-host-suffix, kindle.co.jp
-host-suffix, amazon.com.tr
-host-suffix, amazon.com.ng
-host-suffix, amazon.com.mx
-host-suffix, amazon.com.co
-host-suffix, wholefoodsmarket.co.uk
-host-suffix, amzndns.co.uk
-host-suffix, amazon.co.uk
-host-suffix, amazon.com.be
-host-suffix, amazon.co.za
-host-suffix, amazon.com.br
-host-suffix, aboutamazon.com.au
-host-suffix, aboutamazon.co.uk
-host-suffix, amazonaws.co.uk
-host-suffix, aboutamazon.cn
-host-suffix, alexafund.cn
-host-suffix, alexafund.com.cn
-host-suffix, amazon.cn
-host-suffix, amazonbusiness.cn
-host-suffix, amazonbusiness.com.cn
-host-suffix, amazonchoice.cn
-host-suffix, amazonchoice.com.cn
-host-suffix, amazonchoices.cn
-host-suffix, amazonchoices.com.cn
-host-suffix, amazoninspire.cn
-host-suffix, amazoninspire.com.cn
-host-suffix, amazonlaunchpad.cn
-host-suffix, amazonlaunchpad.com.cn
-host-suffix, amazonlending.com.cn
-host-suffix, amazonnow.cn
-host-suffix, amazonnow.com.cn
-host-suffix, assoc-amazon.cn
-host-suffix, primeday.cn
-host-suffix, primeday.com.cn
-host-suffix, yamaxun.cn
-host-suffix, z.cn
-host, images-cn.ssl-images-amazon.com
-host, images-cn-8.ssl-images-amazon.com
-host-suffix, amazon-adsystem.com
-host-suffix, serving-sys.com
-host-suffix, kindle.cn
-host-suffix, kindleoasis.cn
-host-suffix, kindleoasis.com.cn
-host-suffix, amazonprimevideo.cn
-host-suffix, amazonprimevideo.com.cn
-host-suffix, a2z.org.cn
-host-suffix, amazonaws.cn
-host-suffix, amazonaws.com.cn
-host-suffix, amazonwebservices.cn
-host-suffix, amazonwebservices.com.cn
-host-suffix, amazonworkdocs.cn
-host-suffix, amazonworkdocs.com.cn
-host-suffix, asfiovnxocqpcry.com.cn
-host-suffix, aws-border.cn
-host-suffix, aws-icp-domain-manager.cn
-host-suffix, awsapps.cn
-host-suffix, awsapps.com.cn
-host-suffix, awsstatic.cn
-host-suffix, cloudfront-cn.net
-host-suffix, cloudfront-test.cn
-host-suffix, cloudfront.cn
-host-suffix, nwcdcloud.cn
-host-suffix, nwcdcloud.com.cn
-host-suffix, nwcddns.cn
-host-suffix, nwcdinfosec.cn
-host-suffix, route53.cn
-host-suffix, sagemaker.com.cn
-host-suffix, amzndns-cn.biz
-host-suffix, amzndns-cn.cn
-host-suffix, amzndns-cn.com
-host-suffix, amzndns-cn.net
+host, d1v5ir2lpwr8os.cloudfront.net, proxy
+host, d22qjgkvxw22r6.cloudfront.net, proxy
+host, d25xi40x97liuc.cloudfront.net, proxy
+host, d27xxe7juh1us6.cloudfront.net, proxy
+host, dmqdd6hw24ucf.cloudfront.net, proxy
+host, images-eu.ssl-images-amazon.com, proxy
+host, images-na.ssl-images-amazon.com, proxy
+host, images-fe.ssl-images-amazon.com, proxy
+host, msh.amazon.co.uk, proxy
+host, static.siege-amazon.com, proxy
+host-suffix, imdb, proxy
+host-suffix, xn--cckwcxetd, proxy
+host-suffix, xn--jlq480n2rg, proxy
+host-suffix, yamaxun, proxy
+host-suffix, zappos, proxy
+host-suffix, aws, proxy
+host-suffix, kindle, proxy
+host-suffix, amazon, proxy
+host-suffix, imdb.to, proxy
+host-suffix, aboutamazon.es, proxy
+host-suffix, aboutamazon.fr, proxy
+host-suffix, aboutamazon.in, proxy
+host-suffix, aboutamazon.it, proxy
+host-suffix, aboutamazon.jp, proxy
+host-suffix, aboutamazon.pl, proxy
+host-suffix, aboutamazon.sg, proxy
+host-suffix, amaaozn.com, proxy
+host-suffix, amazon-fashions.com, proxy
+host-suffix, amazon-jp-recruiting.com, proxy
+host-suffix, amazon-lantern.com, proxy
+host-suffix, amazon-launchpad.com, proxy
+host-suffix, amazon.ae, proxy
+host-suffix, amazon.ca, proxy
+host-suffix, amazon.cl, proxy
+host-suffix, amazon.com, proxy
+host-suffix, amazon.de, proxy
+host-suffix, amzndns.net, proxy
+host-suffix, amzndns.org, proxy
+host-suffix, amzndns.com, proxy
+host-suffix, awsedstart.com, proxy
+host-suffix, elasticbeanstalk.com, proxy
+host-suffix, containersonaws.com, proxy
+host-suffix, cloudfront.net, proxy
+host-suffix, cloudfront.com, proxy
+host-suffix, cdkworkshop.com, proxy
+host-suffix, awswaf.com, proxy
+host-suffix, awstrack.me, proxy
+host-suffix, amazon.dev, proxy
+host-suffix, amazon.eg, proxy
+host-suffix, amazon.es, proxy
+host-suffix, amazon.fr, proxy
+host-suffix, amazon.ie, proxy
+host-suffix, amazon.in, proxy
+host-suffix, amazon.it, proxy
+host-suffix, amazon.jobs, proxy
+host-suffix, amazon.jp, proxy
+host-suffix, amazon.lu, proxy
+host-suffix, amazon.nl, proxy
+host-suffix, amazon.pl, proxy
+host-suffix, amazon.red, proxy
+host-suffix, amazon.sa, proxy
+host-suffix, amazon.se, proxy
+host-suffix, amazon.sg, proxy
+host-suffix, amazonalexavoxcon.com, proxy
+host-suffix, amazonauthorinsights.com, proxy
+host-suffix, amazonbusiness.org, proxy
+host-suffix, amazonbusinessblog.com, proxy
+host-suffix, amazondevicesupport.com, proxy
+host-suffix, amazonfctours.com, proxy
+host-suffix, amazonianblog.com, proxy
+host-suffix, amazonimages.com, proxy
+host-suffix, amazonlaunchpad.com, proxy
+host-suffix, amazonliterarypartnership.com, proxy
+host-suffix, amazonlumberyard.wang, proxy
+host-suffix, amazonpay.com, proxy
+host-suffix, amazonpay.in, proxy
+host-suffix, amazonsdi.com, proxy
+host-suffix, amazonstudiosguilds.com, proxy
+host-suffix, amazonvideodirect.com, proxy
+host-suffix, amzn.asia, proxy
+host-suffix, amzn.com, proxy
+host-suffix, amzn.to, proxy
+host-suffix, kindle.de, proxy
+host-suffix, associates-amazon.com, proxy
+host-suffix, gameon-masters.com, proxy
+host-suffix, gdansk-amazon.com, proxy
+host-suffix, images-amazon.com, proxy
+host-suffix, media-amazon.com, proxy
+host-suffix, primeday.info, proxy
+host-suffix, seattlespheres.com, proxy
+host-suffix, siege-amazon.com, proxy
+host-suffix, ssl-images-amazon.com, proxy
+host-suffix, ueberamazon.de, proxy
+host-suffix, yamaxun.com, proxy
+host-suffix, alexa.com, proxy
+host-suffix, audible.com, proxy
+host-suffix, createspace.com, proxy
+host-suffix, kindle.com, proxy
+host-suffix, boxofficemojo.com, proxy
+host-suffix, imdb.com, proxy
+host-suffix, aboutamazon.de, proxy
+host-suffix, media-imdb.com, proxy
+host-suffix, aboutamazon.com, proxy
+host-suffix, kindle.it, proxy
+host-suffix, amznl.com, proxy
+host-suffix, aboutamazon.eu, proxy
+host-suffix, kindleoasis.com, proxy
+host-suffix, kindle.es, proxy
+host-suffix, kindle.fr, proxy
+host-suffix, kindleproject.com, proxy
+host-suffix, kindle.in, proxy
+host-suffix, kindle.jp, proxy
+host-suffix, kindleoasisnews.com, proxy
+host-suffix, kindleoasis.info, proxy
+host-suffix, kindleoasis.jp, proxy
+host-suffix, kindleoasis.org, proxy
+host-suffix, kindleoasis.us, proxy
+host-suffix, awsthinkbox.com, proxy
+host-suffix, awsstatic.com, proxy
+host-suffix, awssecworkshops.com, proxy
+host-suffix, aiv-cdn.net, proxy
+host-suffix, amazonprimevideos.com, proxy
+host-suffix, amazonvideo.cc, proxy
+host-suffix, amazonvideo.com, proxy
+host-suffix, prime-video.com, proxy
+host-suffix, primevideo.cc, proxy
+host-suffix, primevideo.com, proxy
+host-suffix, primevideo.info, proxy
+host-suffix, primevideo.org, proxy
+host-suffix, primevideo.tv, proxy
+host-suffix, awsloft-stockholm.com, proxy
+host-suffix, wfm.com, proxy
+host-suffix, wholecitiesfoundation.org, proxy
+host-suffix, wholefoods.com, proxy
+host-suffix, wholefoodsmarket.com, proxy
+host-suffix, wholekidsfoundation.org, proxy
+host-suffix, wholeplanetfoundation.org, proxy
+host-suffix, awsloft-johannesburg.com, proxy
+host-suffix, amazontrust.com, proxy
+host-suffix, awstrust.com, proxy
+host-suffix, ss2.us, proxy
+host-suffix, a2z.com, proxy
+host-suffix, awsbraket.com, proxy
+host-suffix, thinkboxsoftware.com, proxy
+host-suffix, aesworkshops.com, proxy
+host-suffix, amazonaws-china.com, proxy
+host-suffix, amazonaws.biz, proxy
+host-suffix, amazonaws.com, proxy
+host-suffix, amazonaws.info, proxy
+host-suffix, amazonaws.net, proxy
+host-suffix, amazonaws.org, proxy
+host-suffix, amazonaws.tv, proxy
+host-suffix, amazoncognito.com, proxy
+host-suffix, amazonses.com, proxy
+host-suffix, amazonwebservices.com, proxy
+host-suffix, amazonworkdocs.com, proxy
+host-suffix, amplifyapp.com, proxy
+host-suffix, amplifyframework.com, proxy
+host-suffix, aws-iot-hackathon.com, proxy
+host-suffix, aws.com, proxy
+host-suffix, aws.dev, proxy
+host-suffix, awsapprunner.com, proxy
+host-suffix, awsapps.com, proxy
+host-suffix, awsautopilot.com, proxy
+host-suffix, awsautoscaling.com, proxy
+host-suffix, acmvalidations.com, proxy
+host-suffix, acmvalidationsaws.com, proxy
+host-suffix, awscommandlineinterface.com, proxy
+host-suffix, awseducate.com, proxy
+host-suffix, awseducate.net, proxy
+host-suffix, awseducate.org, proxy
+host-suffix, awsglobalaccelerator.com, proxy
+host-suffix, amazon.com.au, proxy
+host-suffix, amazon.co.jp, proxy
+host-suffix, kindle.co.uk, proxy
+host-suffix, kindle.co.jp, proxy
+host-suffix, amazon.com.tr, proxy
+host-suffix, amazon.com.ng, proxy
+host-suffix, amazon.com.mx, proxy
+host-suffix, amazon.com.co, proxy
+host-suffix, wholefoodsmarket.co.uk, proxy
+host-suffix, amzndns.co.uk, proxy
+host-suffix, amazon.co.uk, proxy
+host-suffix, amazon.com.be, proxy
+host-suffix, amazon.co.za, proxy
+host-suffix, amazon.com.br, proxy
+host-suffix, aboutamazon.com.au, proxy
+host-suffix, aboutamazon.co.uk, proxy
+host-suffix, amazonaws.co.uk, proxy
+host-suffix, aboutamazon.cn, proxy
+host-suffix, alexafund.cn, proxy
+host-suffix, alexafund.com.cn, proxy
+host-suffix, amazon.cn, proxy
+host-suffix, amazonbusiness.cn, proxy
+host-suffix, amazonbusiness.com.cn, proxy
+host-suffix, amazonchoice.cn, proxy
+host-suffix, amazonchoice.com.cn, proxy
+host-suffix, amazonchoices.cn, proxy
+host-suffix, amazonchoices.com.cn, proxy
+host-suffix, amazoninspire.cn, proxy
+host-suffix, amazoninspire.com.cn, proxy
+host-suffix, amazonlaunchpad.cn, proxy
+host-suffix, amazonlaunchpad.com.cn, proxy
+host-suffix, amazonlending.com.cn, proxy
+host-suffix, amazonnow.cn, proxy
+host-suffix, amazonnow.com.cn, proxy
+host-suffix, assoc-amazon.cn, proxy
+host-suffix, primeday.cn, proxy
+host-suffix, primeday.com.cn, proxy
+host-suffix, yamaxun.cn, proxy
+host-suffix, z.cn, proxy
+host, images-cn.ssl-images-amazon.com, proxy
+host, images-cn-8.ssl-images-amazon.com, proxy
+host-suffix, amazon-adsystem.com, proxy
+host-suffix, serving-sys.com, proxy
+host-suffix, kindle.cn, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com.cn, proxy
+host-suffix, amazonprimevideo.cn, proxy
+host-suffix, amazonprimevideo.com.cn, proxy
+host-suffix, a2z.org.cn, proxy
+host-suffix, amazonaws.cn, proxy
+host-suffix, amazonaws.com.cn, proxy
+host-suffix, amazonwebservices.cn, proxy
+host-suffix, amazonwebservices.com.cn, proxy
+host-suffix, amazonworkdocs.cn, proxy
+host-suffix, amazonworkdocs.com.cn, proxy
+host-suffix, asfiovnxocqpcry.com.cn, proxy
+host-suffix, aws-border.cn, proxy
+host-suffix, aws-icp-domain-manager.cn, proxy
+host-suffix, awsapps.cn, proxy
+host-suffix, awsapps.com.cn, proxy
+host-suffix, awsstatic.cn, proxy
+host-suffix, cloudfront-cn.net, proxy
+host-suffix, cloudfront-test.cn, proxy
+host-suffix, cloudfront.cn, proxy
+host-suffix, nwcdcloud.cn, proxy
+host-suffix, nwcdcloud.com.cn, proxy
+host-suffix, nwcddns.cn, proxy
+host-suffix, nwcdinfosec.cn, proxy
+host-suffix, route53.cn, proxy
+host-suffix, sagemaker.com.cn, proxy
+host-suffix, amzndns-cn.biz, proxy
+host-suffix, amzndns-cn.cn, proxy
+host-suffix, amzndns-cn.com, proxy
+host-suffix, amzndns-cn.net, proxy

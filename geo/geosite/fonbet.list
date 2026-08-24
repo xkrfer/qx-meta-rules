@@ -1,4 +1,4 @@
-host-suffix, bk6bba-resources.com
-host-suffix, bk6bba-resources.ru
-host-suffix, fon.bet
-host-suffix, fon.promo
+host-suffix, bk6bba-resources.com, proxy
+host-suffix, bk6bba-resources.ru, proxy
+host-suffix, fon.bet, proxy
+host-suffix, fon.promo, proxy

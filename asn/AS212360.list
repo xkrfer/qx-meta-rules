@@ -1,4 +1,4 @@
-ip6-cidr, 2602:feda:c90::/44
-ip6-cidr, 2a0e:8f02:f00d::/48
-ip6-cidr, 2a0e:b107:1350::/44
-ip6-cidr, 2a0f:607:1054::/48
+ip6-cidr, 2602:feda:c90::/44, proxy, no-resolve
+ip6-cidr, 2a0e:8f02:f00d::/48, proxy, no-resolve
+ip6-cidr, 2a0e:b107:1350::/44, proxy, no-resolve
+ip6-cidr, 2a0f:607:1054::/48, proxy, no-resolve

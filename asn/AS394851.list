@@ -1,2 +1,2 @@
-ip-cidr, 162.212.246.0/23
-ip6-cidr, 2605:2b40:4000::/34
+ip-cidr, 162.212.246.0/23, proxy, no-resolve
+ip6-cidr, 2605:2b40:4000::/34, proxy, no-resolve

@@ -1,2 +1,2 @@
-ip-cidr, 139.135.192.0/18
-ip6-cidr, 2403:4c0:7800::/37
+ip-cidr, 139.135.192.0/18, proxy, no-resolve
+ip6-cidr, 2403:4c0:7800::/37, proxy, no-resolve

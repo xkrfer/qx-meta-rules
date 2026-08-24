@@ -1,10 +1,10 @@
-ip-cidr, 58.84.240.0/21
-ip-cidr, 58.84.250.0/23
-ip-cidr, 58.84.252.0/23
-ip-cidr, 114.134.32.0/19
-ip-cidr, 210.229.48.0/20
-ip-cidr, 211.12.192.0/19
-ip-cidr, 219.101.64.0/20
-ip6-cidr, 2402:a800::/33
-ip6-cidr, 2402:a800:8000::/34
-ip6-cidr, 2402:a800:c000::/35
+ip-cidr, 58.84.240.0/21, proxy, no-resolve
+ip-cidr, 58.84.250.0/23, proxy, no-resolve
+ip-cidr, 58.84.252.0/23, proxy, no-resolve
+ip-cidr, 114.134.32.0/19, proxy, no-resolve
+ip-cidr, 210.229.48.0/20, proxy, no-resolve
+ip-cidr, 211.12.192.0/19, proxy, no-resolve
+ip-cidr, 219.101.64.0/20, proxy, no-resolve
+ip6-cidr, 2402:a800::/33, proxy, no-resolve
+ip6-cidr, 2402:a800:8000::/34, proxy, no-resolve
+ip6-cidr, 2402:a800:c000::/35, proxy, no-resolve

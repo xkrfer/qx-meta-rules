@@ -1,32 +1,32 @@
-ip-cidr, 37.26.200.0/21
-ip-cidr, 44.130.98.0/23
-ip-cidr, 44.130.100.0/24
-ip-cidr, 134.97.0.0/23
-ip-cidr, 134.97.4.0/22
-ip-cidr, 134.97.8.0/21
-ip-cidr, 134.97.16.0/20
-ip-cidr, 134.97.32.0/19
-ip-cidr, 134.97.64.0/18
-ip-cidr, 185.23.156.0/22
-ip-cidr, 192.105.75.0/24
-ip-cidr, 193.22.2.0/24
-ip-cidr, 195.190.142.0/24
-ip6-cidr, 2001:650::/33
-ip6-cidr, 2001:650:8000::/34
-ip6-cidr, 2001:650:c000::/37
-ip6-cidr, 2001:650:c800::/38
-ip6-cidr, 2001:650:cc00::/48
-ip6-cidr, 2001:650:cc03::/48
-ip6-cidr, 2001:650:cc04::/46
-ip6-cidr, 2001:650:cc08::/45
-ip6-cidr, 2001:650:cc10::/44
-ip6-cidr, 2001:650:cc20::/43
-ip6-cidr, 2001:650:cc40::/42
-ip6-cidr, 2001:650:cc80::/41
-ip6-cidr, 2001:650:cd00::/40
-ip6-cidr, 2001:650:ce00::/39
-ip6-cidr, 2001:650:d000::/36
-ip6-cidr, 2001:650:e000::/35
-ip6-cidr, 2001:651::/32
-ip6-cidr, 2001:652::/31
-ip6-cidr, 2001:654::/30
+ip-cidr, 37.26.200.0/21, proxy, no-resolve
+ip-cidr, 44.130.98.0/23, proxy, no-resolve
+ip-cidr, 44.130.100.0/24, proxy, no-resolve
+ip-cidr, 134.97.0.0/23, proxy, no-resolve
+ip-cidr, 134.97.4.0/22, proxy, no-resolve
+ip-cidr, 134.97.8.0/21, proxy, no-resolve
+ip-cidr, 134.97.16.0/20, proxy, no-resolve
+ip-cidr, 134.97.32.0/19, proxy, no-resolve
+ip-cidr, 134.97.64.0/18, proxy, no-resolve
+ip-cidr, 185.23.156.0/22, proxy, no-resolve
+ip-cidr, 192.105.75.0/24, proxy, no-resolve
+ip-cidr, 193.22.2.0/24, proxy, no-resolve
+ip-cidr, 195.190.142.0/24, proxy, no-resolve
+ip6-cidr, 2001:650::/33, proxy, no-resolve
+ip6-cidr, 2001:650:8000::/34, proxy, no-resolve
+ip6-cidr, 2001:650:c000::/37, proxy, no-resolve
+ip6-cidr, 2001:650:c800::/38, proxy, no-resolve
+ip6-cidr, 2001:650:cc00::/48, proxy, no-resolve
+ip6-cidr, 2001:650:cc03::/48, proxy, no-resolve
+ip6-cidr, 2001:650:cc04::/46, proxy, no-resolve
+ip6-cidr, 2001:650:cc08::/45, proxy, no-resolve
+ip6-cidr, 2001:650:cc10::/44, proxy, no-resolve
+ip6-cidr, 2001:650:cc20::/43, proxy, no-resolve
+ip6-cidr, 2001:650:cc40::/42, proxy, no-resolve
+ip6-cidr, 2001:650:cc80::/41, proxy, no-resolve
+ip6-cidr, 2001:650:cd00::/40, proxy, no-resolve
+ip6-cidr, 2001:650:ce00::/39, proxy, no-resolve
+ip6-cidr, 2001:650:d000::/36, proxy, no-resolve
+ip6-cidr, 2001:650:e000::/35, proxy, no-resolve
+ip6-cidr, 2001:651::/32, proxy, no-resolve
+ip6-cidr, 2001:652::/31, proxy, no-resolve
+ip6-cidr, 2001:654::/30, proxy, no-resolve

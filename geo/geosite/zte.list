@@ -1,7 +1,7 @@
-host-suffix, nubia.cn
-host-suffix, nubia.com
-host-suffix, redmagic.com
-host-suffix, ztedevices.com
-host-suffix, ztemall.com
-host-suffix, ztems.com
-host-suffix, zte.com.cn
+host-suffix, nubia.cn, proxy
+host-suffix, nubia.com, proxy
+host-suffix, redmagic.com, proxy
+host-suffix, ztedevices.com, proxy
+host-suffix, ztemall.com, proxy
+host-suffix, ztems.com, proxy
+host-suffix, zte.com.cn, proxy

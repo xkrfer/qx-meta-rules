@@ -1,7 +1,7 @@
-ip-cidr, 40.27.40.0/21
-ip-cidr, 82.21.28.0/24
-ip-cidr, 82.22.12.0/24
-ip-cidr, 82.25.9.0/24
-ip-cidr, 82.25.36.0/24
-ip-cidr, 82.27.3.0/24
-ip-cidr, 95.135.0.0/23
+ip-cidr, 40.27.40.0/21, proxy, no-resolve
+ip-cidr, 82.21.28.0/24, proxy, no-resolve
+ip-cidr, 82.22.12.0/24, proxy, no-resolve
+ip-cidr, 82.25.9.0/24, proxy, no-resolve
+ip-cidr, 82.25.36.0/24, proxy, no-resolve
+ip-cidr, 82.27.3.0/24, proxy, no-resolve
+ip-cidr, 95.135.0.0/23, proxy, no-resolve

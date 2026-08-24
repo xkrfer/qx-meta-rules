@@ -1,2 +1,2 @@
-ip-cidr, 80.72.22.0/24
-ip6-cidr, 2a00:8740:700::/40
+ip-cidr, 80.72.22.0/24, proxy, no-resolve
+ip6-cidr, 2a00:8740:700::/40, proxy, no-resolve

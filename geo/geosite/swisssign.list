@@ -1,31 +1,31 @@
-host-suffix, digital-id.ch
-host-suffix, digitalid.ch
-host-suffix, managed-pki.ch
-host-suffix, managed-pki.de
-host-suffix, pki-post.ch
-host-suffix, pki-posta.ch
-host-suffix, pki-poste.ch
-host-suffix, root-signing.ch
-host-suffix, rootsigning.com
-host-suffix, ssl-certificate.ch
-host-suffix, swissid.ch
-host-suffix, swissign.com
-host-suffix, swissign.li
-host-suffix, swisssign-group.ch
-host-suffix, swisssign-group.com
-host-suffix, swisssign-group.li
-host-suffix, swisssign.ch
-host-suffix, swisssign.com
-host-suffix, swisssign.li
-host-suffix, swisssign.net
-host-suffix, swisssign.org
-host-suffix, swisssigner.ch
-host-suffix, swisssigner.com
-host-suffix, swisssigngroup.ch
-host-suffix, swisssigngroup.com
-host-suffix, swissstick.com
-host-suffix, swisstsa.ch
-host-suffix, swisstsa.li
-host-suffix, trustdoc.ch
-host-suffix, trustsign.ch
-host-suffix, zert.ch
+host-suffix, digital-id.ch, proxy
+host-suffix, digitalid.ch, proxy
+host-suffix, managed-pki.ch, proxy
+host-suffix, managed-pki.de, proxy
+host-suffix, pki-post.ch, proxy
+host-suffix, pki-posta.ch, proxy
+host-suffix, pki-poste.ch, proxy
+host-suffix, root-signing.ch, proxy
+host-suffix, rootsigning.com, proxy
+host-suffix, ssl-certificate.ch, proxy
+host-suffix, swissid.ch, proxy
+host-suffix, swissign.com, proxy
+host-suffix, swissign.li, proxy
+host-suffix, swisssign-group.ch, proxy
+host-suffix, swisssign-group.com, proxy
+host-suffix, swisssign-group.li, proxy
+host-suffix, swisssign.ch, proxy
+host-suffix, swisssign.com, proxy
+host-suffix, swisssign.li, proxy
+host-suffix, swisssign.net, proxy
+host-suffix, swisssign.org, proxy
+host-suffix, swisssigner.ch, proxy
+host-suffix, swisssigner.com, proxy
+host-suffix, swisssigngroup.ch, proxy
+host-suffix, swisssigngroup.com, proxy
+host-suffix, swissstick.com, proxy
+host-suffix, swisstsa.ch, proxy
+host-suffix, swisstsa.li, proxy
+host-suffix, trustdoc.ch, proxy
+host-suffix, trustsign.ch, proxy
+host-suffix, zert.ch, proxy

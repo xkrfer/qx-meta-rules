@@ -1,4 +1,4 @@
-host-suffix, rutube.ru
-host-suffix, rutubelist.ru
-host-suffix, rtbcdn.ru
-host-suffix, rutube.sport
+host-suffix, rutube.ru, proxy
+host-suffix, rutubelist.ru, proxy
+host-suffix, rtbcdn.ru, proxy
+host-suffix, rutube.sport, proxy

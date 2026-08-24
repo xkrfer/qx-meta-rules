@@ -1,15 +1,15 @@
-host-suffix, digi-kala.com
-host-suffix, emalls.ir
-host-suffix, esam.ir
-host-suffix, janebi.com
-host-suffix, janebi.ir
-host-suffix, sheypoor.com
-host-suffix, torob.com
-host-suffix, zanbil.ir
-host-suffix, digikala.com
-host-suffix, digikalabusiness.com
-host-suffix, digikalajet.com
-host-suffix, digistyle.com
-host-suffix, divar.cloud
-host-suffix, divar.ir
-host-suffix, divarcdn.com
+host-suffix, digi-kala.com, proxy
+host-suffix, emalls.ir, proxy
+host-suffix, esam.ir, proxy
+host-suffix, janebi.com, proxy
+host-suffix, janebi.ir, proxy
+host-suffix, sheypoor.com, proxy
+host-suffix, torob.com, proxy
+host-suffix, zanbil.ir, proxy
+host-suffix, digikala.com, proxy
+host-suffix, digikalabusiness.com, proxy
+host-suffix, digikalajet.com, proxy
+host-suffix, digistyle.com, proxy
+host-suffix, divar.cloud, proxy
+host-suffix, divar.ir, proxy
+host-suffix, divarcdn.com, proxy

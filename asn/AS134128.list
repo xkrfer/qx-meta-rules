@@ -1,2 +1,2 @@
-ip-cidr, 59.153.28.0/24
-ip6-cidr, 2402:3b80::/32
+ip-cidr, 59.153.28.0/24, proxy, no-resolve
+ip6-cidr, 2402:3b80::/32, proxy, no-resolve

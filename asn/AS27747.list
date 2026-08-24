@@ -1,48 +1,48 @@
-ip-cidr, 168.194.180.0/22
-ip-cidr, 181.44.0.0/14
-ip-cidr, 186.18.0.0/15
-ip-cidr, 186.22.0.0/15
-ip-cidr, 190.55.0.0/16
-ip-cidr, 200.115.192.0/20
-ip-cidr, 200.115.208.0/24
-ip-cidr, 200.115.211.0/24
-ip-cidr, 200.115.212.0/22
-ip-cidr, 200.115.216.0/21
-ip-cidr, 200.115.224.0/19
-ip-cidr, 200.125.64.0/18
-ip6-cidr, 2800:810::/38
-ip6-cidr, 2800:810:400::/40
-ip6-cidr, 2800:810:500::/43
-ip6-cidr, 2800:810:520::/44
-ip6-cidr, 2800:810:530::/45
-ip6-cidr, 2800:810:538::/47
-ip6-cidr, 2800:810:53a::/53
-ip6-cidr, 2800:810:53a:800::/54
-ip6-cidr, 2800:810:53a:c00::/55
-ip6-cidr, 2800:810:53a:e00::/56
-ip6-cidr, 2800:810:53a:f00::/57
-ip6-cidr, 2800:810:53a:f80::/58
-ip6-cidr, 2800:810:53a:fc0::/63
-ip6-cidr, 2800:810:53a:fc2::/64
-ip6-cidr, 2800:810:53a:fc4::/62
-ip6-cidr, 2800:810:53a:fc8::/61
-ip6-cidr, 2800:810:53a:fd0::/60
-ip6-cidr, 2800:810:53a:fe0::/59
-ip6-cidr, 2800:810:53a:1000::/52
-ip6-cidr, 2800:810:53a:2000::/51
-ip6-cidr, 2800:810:53a:4000::/50
-ip6-cidr, 2800:810:53a:8000::/49
-ip6-cidr, 2800:810:53b::/48
-ip6-cidr, 2800:810:53c::/46
-ip6-cidr, 2800:810:540::/42
-ip6-cidr, 2800:810:580::/41
-ip6-cidr, 2800:810:600::/39
-ip6-cidr, 2800:810:800::/37
-ip6-cidr, 2800:810:1000::/36
-ip6-cidr, 2800:810:2000::/35
-ip6-cidr, 2800:810:4000::/34
-ip6-cidr, 2800:810:8000::/33
-ip6-cidr, 2800:811::/32
-ip6-cidr, 2800:812::/31
-ip6-cidr, 2800:814::/30
-ip6-cidr, 2800:818::/29
+ip-cidr, 168.194.180.0/22, proxy, no-resolve
+ip-cidr, 181.44.0.0/14, proxy, no-resolve
+ip-cidr, 186.18.0.0/15, proxy, no-resolve
+ip-cidr, 186.22.0.0/15, proxy, no-resolve
+ip-cidr, 190.55.0.0/16, proxy, no-resolve
+ip-cidr, 200.115.192.0/20, proxy, no-resolve
+ip-cidr, 200.115.208.0/24, proxy, no-resolve
+ip-cidr, 200.115.211.0/24, proxy, no-resolve
+ip-cidr, 200.115.212.0/22, proxy, no-resolve
+ip-cidr, 200.115.216.0/21, proxy, no-resolve
+ip-cidr, 200.115.224.0/19, proxy, no-resolve
+ip-cidr, 200.125.64.0/18, proxy, no-resolve
+ip6-cidr, 2800:810::/38, proxy, no-resolve
+ip6-cidr, 2800:810:400::/40, proxy, no-resolve
+ip6-cidr, 2800:810:500::/43, proxy, no-resolve
+ip6-cidr, 2800:810:520::/44, proxy, no-resolve
+ip6-cidr, 2800:810:530::/45, proxy, no-resolve
+ip6-cidr, 2800:810:538::/47, proxy, no-resolve
+ip6-cidr, 2800:810:53a::/53, proxy, no-resolve
+ip6-cidr, 2800:810:53a:800::/54, proxy, no-resolve
+ip6-cidr, 2800:810:53a:c00::/55, proxy, no-resolve
+ip6-cidr, 2800:810:53a:e00::/56, proxy, no-resolve
+ip6-cidr, 2800:810:53a:f00::/57, proxy, no-resolve
+ip6-cidr, 2800:810:53a:f80::/58, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fc0::/63, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fc2::/64, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fc4::/62, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fc8::/61, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fd0::/60, proxy, no-resolve
+ip6-cidr, 2800:810:53a:fe0::/59, proxy, no-resolve
+ip6-cidr, 2800:810:53a:1000::/52, proxy, no-resolve
+ip6-cidr, 2800:810:53a:2000::/51, proxy, no-resolve
+ip6-cidr, 2800:810:53a:4000::/50, proxy, no-resolve
+ip6-cidr, 2800:810:53a:8000::/49, proxy, no-resolve
+ip6-cidr, 2800:810:53b::/48, proxy, no-resolve
+ip6-cidr, 2800:810:53c::/46, proxy, no-resolve
+ip6-cidr, 2800:810:540::/42, proxy, no-resolve
+ip6-cidr, 2800:810:580::/41, proxy, no-resolve
+ip6-cidr, 2800:810:600::/39, proxy, no-resolve
+ip6-cidr, 2800:810:800::/37, proxy, no-resolve
+ip6-cidr, 2800:810:1000::/36, proxy, no-resolve
+ip6-cidr, 2800:810:2000::/35, proxy, no-resolve
+ip6-cidr, 2800:810:4000::/34, proxy, no-resolve
+ip6-cidr, 2800:810:8000::/33, proxy, no-resolve
+ip6-cidr, 2800:811::/32, proxy, no-resolve
+ip6-cidr, 2800:812::/31, proxy, no-resolve
+ip6-cidr, 2800:814::/30, proxy, no-resolve
+ip6-cidr, 2800:818::/29, proxy, no-resolve

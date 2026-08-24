@@ -1,5 +1,5 @@
-host-suffix, xyzfm.space
-host-suffix, xyzfm.link
-host-suffix, xyzcdn.net
-host-suffix, xiaoyuzhoufm.com
-host-suffix, podcast.xyz
+host-suffix, xyzfm.space, proxy
+host-suffix, xyzfm.link, proxy
+host-suffix, xyzcdn.net, proxy
+host-suffix, xiaoyuzhoufm.com, proxy
+host-suffix, podcast.xyz, proxy

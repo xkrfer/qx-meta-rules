@@ -1,1 +1,1 @@
-ip6-cidr, 2400:ed20::/48
+ip6-cidr, 2400:ed20::/48, proxy, no-resolve

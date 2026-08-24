@@ -1,188 +1,188 @@
-host, moocs.unipus.cn
-host, opencourse.pku.edu.cn
-host, study.163.com
-host-suffix, llsserver.com
-host-suffix, speiyou.com
-host-suffix, edu.cn
-host-suffix, xuetangx.com
-host-suffix, smartedu.cn
-host-suffix, eduyun.cn
-host-suffix, univs.cn
-host-suffix, cedf.cn
-host-suffix, chesicc.cn
-host-suffix, chesicc.com
-host-suffix, chesicc.net
-host-suffix, chsi.cn
-host-suffix, applysquare.net
-host-suffix, applysquare.com
-host-suffix, 17zuoye.net
-host-suffix, 17zuoye.com
-host-suffix, 17zuoye.cn
-host-suffix, pmphmooc.com
-host-suffix, openlearning.com
-host-suffix, mooc.cn
-host-suffix, icourses.cn
-host-suffix, icourse163.org
-host-suffix, gfbzb.cn
-host-suffix, gfbzb.com
-host-suffix, cnmooc.org
-host-suffix, chinesemooc.org
-host-suffix, gfbzb.net
-host-suffix, ncss.cn
-host-suffix, zuowen.com
-host-suffix, zhongkao.com
-host-suffix, youjiao.com
-host-suffix, qgzb.net
-host-suffix, xueersi.com
-host-suffix, zbbm.net
-host-suffix, neea.cn
-host-suffix, xesimg.com
-host-suffix, mypep.cn
-host-suffix, tal.com
-host-suffix, magedu.com
-host-suffix, 21cnjy.com
-host-suffix, 91yunxiao.com
-host-suffix, aiyunxiao.com
-host-suffix, haofenshu.com
-host-suffix, iyunxiao.com
-host-suffix, yunxiao.com
-host-suffix, baicizhan.com
-host-suffix, baicizhan.org
-host-suffix, bczcdn.com
-host-suffix, bczeducation.cn
-host-suffix, banxiaoer.com
-host-suffix, banxiaoer.net
-host-suffix, beie.org
-host-suffix, biyehome.net
-host-suffix, burningvocabulary.cn
-host-suffix, burningvocabulary.com
-host-suffix, centuryenglish.com
-host-suffix, cepsp.cn
-host-suffix, eol.cn
-host-suffix, cugbonline.cn
-host-suffix, dcshfu.com
-host-suffix, dearedu.com
-host-suffix, dgjy.net
-host-suffix, dict.cn
-host-suffix, duifene.com
-host-suffix, eduei.com
-host-suffix, eoffcn.com
-host-suffix, jinrongren.net
-host-suffix, offcn.com
-host-suffix, zggqzp.com
-host-suffix, zgjsks.com
-host-suffix, zgsydw.com
-host-suffix, gaojidata.com
-host-suffix, gk100.com
-host-suffix, guojibk.com
-host-suffix, gzasc.com
-host-suffix, huatu.com
-host-suffix, sydw8.com
-host-suffix, ictbda.cn
-host-suffix, ictbda.com
-host-suffix, gaokao.com
-host-suffix, xir.cn
-host-suffix, j-test.com
-host-suffix, nattest-china.com
-host-suffix, jyeoo.com
-host-suffix, jyeoo.net
-host-suffix, jzagile.com
-host-suffix, keboyunxiao.com
-host-suffix, ketangpai.com
-host-suffix, kuaiduizuoye.com
-host-suffix, liulishuo.com
-host-suffix, llsapp.com
-host-suffix, llscdn.com
-host-suffix, yushiyan.net
-host-suffix, yudou.cn
-host-suffix, xiyouyingyu.com
-host-suffix, maimemostatus.com
-host-suffix, markji.com
-host-suffix, neoscholar.com
-host-suffix, neoschool.com
-host-suffix, oldboyedu.com
-host-suffix, pigai.org
-host-suffix, qingtingai.net
-host-suffix, quyixian.com
-host-suffix, rongdeji.cn
-host-suffix, eduuu.com
-host-suffix, saduck.top
-host-suffix, tesoon.com
-host-suffix, unipus.cn
-host-suffix, weilaiyunxiao.com
-host-suffix, winyoungreading.com
-host-suffix, wjwai.com
-host-suffix, zysn.net
-host-suffix, x-cloud.cc
-host-suffix, xiguacity.cn
-host-suffix, maimemo.com
-host-suffix, xkw.com
-host-suffix, zxxk.com
-host-suffix, yunzhuxue.com
-host-suffix, ystbds.com
-host-suffix, yooc.me
-host-suffix, zggx100.com
-host-suffix, zhan.com
-host-suffix, zhihuishu.com
-host-suffix, zjzs.net
-host-suffix, zuowen8.com
-host-suffix, zuowenjun.com
-host-suffix, zuowenku.net
-host-suffix, zuowenwang.net
-host-suffix, qianxuecloud.com
-host-suffix, qianxueyunke.com
-host-suffix, zhixingyunke.com
-host-suffix, hugecore.net
-host-suffix, shareintelli.com
-host-suffix, mojidict.com
-host-suffix, koocdn.com
-host-suffix, koolearn.com
-host-suffix, koopass.com
-host-suffix, schoopia.com
-host-suffix, tongxuepie.com
-host-suffix, banmaaike.com
-host-suffix, xiaoyuankousuan.com
-host-suffix, ybccode.com
-host-suffix, yuanfudao.com
-host-suffix, yuansouti.com
-host-suffix, yuantiku.com
-host-suffix, fbstatic.cn
-host-suffix, fenbi.com
-host-suffix, fenbike.cn
-host-suffix, fenbike.com
-host-suffix, fenbilantian.cn
-host-suffix, fenbilantian.com
-host-suffix, rainclassroom.com
-host-suffix, yuketang.cn
-host-suffix, cctalk.com
-host-suffix, hjapi.com
-host-suffix, hjfile.cn
-host-suffix, hujiang.com
-host-suffix, yeshj.com
-host-suffix, baydn.com
-host-suffix, shanbay.com
-host-suffix, 100tal.com
-host-suffix, aoshu.com
-host-suffix, eduu.com
-host-suffix, qgzb.com.cn
-host-suffix, qgzb.gov.cn
-host-suffix, pep.com.cn
-host-suffix, peeavp.com.cn
-host-suffix, hep.com.cn
-host-suffix, zbbm.gov.cn
-host-suffix, gatzs.com.cn
-host-suffix, gfbzb.com.cn
-host-suffix, ncss.org.cn
-host-suffix, chsi.com.cn
-host-suffix, modex.com.cn
-host-suffix, gfbzb.gov.cn
-host-suffix, rudder.com.cn
-host-suffix, chinayz.com.cn
-host-suffix, chesicc.org.cn
-host-suffix, chesicc.net.cn
-host-suffix, icve.com.cn
-host-suffix, chesicc.com.cn
-host-suffix, chei.com.cn
-host-suffix, chdi.com.cn
-host-suffix, cedf.org.cn
-host-suffix, cbern.com.cn
+host, moocs.unipus.cn, proxy
+host, opencourse.pku.edu.cn, proxy
+host, study.163.com, proxy
+host-suffix, llsserver.com, proxy
+host-suffix, speiyou.com, proxy
+host-suffix, edu.cn, proxy
+host-suffix, xuetangx.com, proxy
+host-suffix, smartedu.cn, proxy
+host-suffix, eduyun.cn, proxy
+host-suffix, univs.cn, proxy
+host-suffix, cedf.cn, proxy
+host-suffix, chesicc.cn, proxy
+host-suffix, chesicc.com, proxy
+host-suffix, chesicc.net, proxy
+host-suffix, chsi.cn, proxy
+host-suffix, applysquare.net, proxy
+host-suffix, applysquare.com, proxy
+host-suffix, 17zuoye.net, proxy
+host-suffix, 17zuoye.com, proxy
+host-suffix, 17zuoye.cn, proxy
+host-suffix, pmphmooc.com, proxy
+host-suffix, openlearning.com, proxy
+host-suffix, mooc.cn, proxy
+host-suffix, icourses.cn, proxy
+host-suffix, icourse163.org, proxy
+host-suffix, gfbzb.cn, proxy
+host-suffix, gfbzb.com, proxy
+host-suffix, cnmooc.org, proxy
+host-suffix, chinesemooc.org, proxy
+host-suffix, gfbzb.net, proxy
+host-suffix, ncss.cn, proxy
+host-suffix, zuowen.com, proxy
+host-suffix, zhongkao.com, proxy
+host-suffix, youjiao.com, proxy
+host-suffix, qgzb.net, proxy
+host-suffix, xueersi.com, proxy
+host-suffix, zbbm.net, proxy
+host-suffix, neea.cn, proxy
+host-suffix, xesimg.com, proxy
+host-suffix, mypep.cn, proxy
+host-suffix, tal.com, proxy
+host-suffix, magedu.com, proxy
+host-suffix, 21cnjy.com, proxy
+host-suffix, 91yunxiao.com, proxy
+host-suffix, aiyunxiao.com, proxy
+host-suffix, haofenshu.com, proxy
+host-suffix, iyunxiao.com, proxy
+host-suffix, yunxiao.com, proxy
+host-suffix, baicizhan.com, proxy
+host-suffix, baicizhan.org, proxy
+host-suffix, bczcdn.com, proxy
+host-suffix, bczeducation.cn, proxy
+host-suffix, banxiaoer.com, proxy
+host-suffix, banxiaoer.net, proxy
+host-suffix, beie.org, proxy
+host-suffix, biyehome.net, proxy
+host-suffix, burningvocabulary.cn, proxy
+host-suffix, burningvocabulary.com, proxy
+host-suffix, centuryenglish.com, proxy
+host-suffix, cepsp.cn, proxy
+host-suffix, eol.cn, proxy
+host-suffix, cugbonline.cn, proxy
+host-suffix, dcshfu.com, proxy
+host-suffix, dearedu.com, proxy
+host-suffix, dgjy.net, proxy
+host-suffix, dict.cn, proxy
+host-suffix, duifene.com, proxy
+host-suffix, eduei.com, proxy
+host-suffix, eoffcn.com, proxy
+host-suffix, jinrongren.net, proxy
+host-suffix, offcn.com, proxy
+host-suffix, zggqzp.com, proxy
+host-suffix, zgjsks.com, proxy
+host-suffix, zgsydw.com, proxy
+host-suffix, gaojidata.com, proxy
+host-suffix, gk100.com, proxy
+host-suffix, guojibk.com, proxy
+host-suffix, gzasc.com, proxy
+host-suffix, huatu.com, proxy
+host-suffix, sydw8.com, proxy
+host-suffix, ictbda.cn, proxy
+host-suffix, ictbda.com, proxy
+host-suffix, gaokao.com, proxy
+host-suffix, xir.cn, proxy
+host-suffix, j-test.com, proxy
+host-suffix, nattest-china.com, proxy
+host-suffix, jyeoo.com, proxy
+host-suffix, jyeoo.net, proxy
+host-suffix, jzagile.com, proxy
+host-suffix, keboyunxiao.com, proxy
+host-suffix, ketangpai.com, proxy
+host-suffix, kuaiduizuoye.com, proxy
+host-suffix, liulishuo.com, proxy
+host-suffix, llsapp.com, proxy
+host-suffix, llscdn.com, proxy
+host-suffix, yushiyan.net, proxy
+host-suffix, yudou.cn, proxy
+host-suffix, xiyouyingyu.com, proxy
+host-suffix, maimemostatus.com, proxy
+host-suffix, markji.com, proxy
+host-suffix, neoscholar.com, proxy
+host-suffix, neoschool.com, proxy
+host-suffix, oldboyedu.com, proxy
+host-suffix, pigai.org, proxy
+host-suffix, qingtingai.net, proxy
+host-suffix, quyixian.com, proxy
+host-suffix, rongdeji.cn, proxy
+host-suffix, eduuu.com, proxy
+host-suffix, saduck.top, proxy
+host-suffix, tesoon.com, proxy
+host-suffix, unipus.cn, proxy
+host-suffix, weilaiyunxiao.com, proxy
+host-suffix, winyoungreading.com, proxy
+host-suffix, wjwai.com, proxy
+host-suffix, zysn.net, proxy
+host-suffix, x-cloud.cc, proxy
+host-suffix, xiguacity.cn, proxy
+host-suffix, maimemo.com, proxy
+host-suffix, xkw.com, proxy
+host-suffix, zxxk.com, proxy
+host-suffix, yunzhuxue.com, proxy
+host-suffix, ystbds.com, proxy
+host-suffix, yooc.me, proxy
+host-suffix, zggx100.com, proxy
+host-suffix, zhan.com, proxy
+host-suffix, zhihuishu.com, proxy
+host-suffix, zjzs.net, proxy
+host-suffix, zuowen8.com, proxy
+host-suffix, zuowenjun.com, proxy
+host-suffix, zuowenku.net, proxy
+host-suffix, zuowenwang.net, proxy
+host-suffix, qianxuecloud.com, proxy
+host-suffix, qianxueyunke.com, proxy
+host-suffix, zhixingyunke.com, proxy
+host-suffix, hugecore.net, proxy
+host-suffix, shareintelli.com, proxy
+host-suffix, mojidict.com, proxy
+host-suffix, koocdn.com, proxy
+host-suffix, koolearn.com, proxy
+host-suffix, koopass.com, proxy
+host-suffix, schoopia.com, proxy
+host-suffix, tongxuepie.com, proxy
+host-suffix, banmaaike.com, proxy
+host-suffix, xiaoyuankousuan.com, proxy
+host-suffix, ybccode.com, proxy
+host-suffix, yuanfudao.com, proxy
+host-suffix, yuansouti.com, proxy
+host-suffix, yuantiku.com, proxy
+host-suffix, fbstatic.cn, proxy
+host-suffix, fenbi.com, proxy
+host-suffix, fenbike.cn, proxy
+host-suffix, fenbike.com, proxy
+host-suffix, fenbilantian.cn, proxy
+host-suffix, fenbilantian.com, proxy
+host-suffix, rainclassroom.com, proxy
+host-suffix, yuketang.cn, proxy
+host-suffix, cctalk.com, proxy
+host-suffix, hjapi.com, proxy
+host-suffix, hjfile.cn, proxy
+host-suffix, hujiang.com, proxy
+host-suffix, yeshj.com, proxy
+host-suffix, baydn.com, proxy
+host-suffix, shanbay.com, proxy
+host-suffix, 100tal.com, proxy
+host-suffix, aoshu.com, proxy
+host-suffix, eduu.com, proxy
+host-suffix, qgzb.com.cn, proxy
+host-suffix, qgzb.gov.cn, proxy
+host-suffix, pep.com.cn, proxy
+host-suffix, peeavp.com.cn, proxy
+host-suffix, hep.com.cn, proxy
+host-suffix, zbbm.gov.cn, proxy
+host-suffix, gatzs.com.cn, proxy
+host-suffix, gfbzb.com.cn, proxy
+host-suffix, ncss.org.cn, proxy
+host-suffix, chsi.com.cn, proxy
+host-suffix, modex.com.cn, proxy
+host-suffix, gfbzb.gov.cn, proxy
+host-suffix, rudder.com.cn, proxy
+host-suffix, chinayz.com.cn, proxy
+host-suffix, chesicc.org.cn, proxy
+host-suffix, chesicc.net.cn, proxy
+host-suffix, icve.com.cn, proxy
+host-suffix, chesicc.com.cn, proxy
+host-suffix, chei.com.cn, proxy
+host-suffix, chdi.com.cn, proxy
+host-suffix, cedf.org.cn, proxy
+host-suffix, cbern.com.cn, proxy

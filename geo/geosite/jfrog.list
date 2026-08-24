@@ -1,4 +1,4 @@
-host, d29vzk4ow07wi7.cloudfront.net
-host-suffix, jfrog.com
-host-suffix, jfrog.org
-host-suffix, bintray.com
+host, d29vzk4ow07wi7.cloudfront.net, proxy
+host-suffix, jfrog.com, proxy
+host-suffix, jfrog.org, proxy
+host-suffix, bintray.com, proxy

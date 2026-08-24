@@ -1,2 +1,2 @@
-ip-cidr, 45.181.184.0/22
-ip6-cidr, 2804:60ec::/32
+ip-cidr, 45.181.184.0/22, proxy, no-resolve
+ip6-cidr, 2804:60ec::/32, proxy, no-resolve

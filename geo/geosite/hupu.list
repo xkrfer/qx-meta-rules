@@ -1,4 +1,4 @@
-host-suffix, hupu.com
-host-suffix, hupucdn.com
-host-suffix, shihuo.cn
-host-suffix, hoopchina.com.cn
+host-suffix, hupu.com, proxy
+host-suffix, hupucdn.com, proxy
+host-suffix, shihuo.cn, proxy
+host-suffix, hoopchina.com.cn, proxy

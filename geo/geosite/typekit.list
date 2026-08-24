@@ -1,2 +1,2 @@
-host-suffix, typekit.com
-host-suffix, typekit.net
+host-suffix, typekit.com, proxy
+host-suffix, typekit.net, proxy

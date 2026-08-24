@@ -1,5 +1,5 @@
-ip-cidr, 80.68.147.0/24
-ip6-cidr, 2001:678:6d8::/48
-ip6-cidr, 2001:678:808::/48
-ip6-cidr, 2001:67c:108::/48
-ip6-cidr, 2001:7f8:158::/48
+ip-cidr, 80.68.147.0/24, proxy, no-resolve
+ip6-cidr, 2001:678:6d8::/48, proxy, no-resolve
+ip6-cidr, 2001:678:808::/48, proxy, no-resolve
+ip6-cidr, 2001:67c:108::/48, proxy, no-resolve
+ip6-cidr, 2001:7f8:158::/48, proxy, no-resolve

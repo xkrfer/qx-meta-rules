@@ -1,7 +1,7 @@
-host-suffix, aboutschwab.com
-host-suffix, schwab.com
-host-suffix, schwabassetmanagement.com
-host-suffix, schwabplan.com
-host-suffix, schwab.co.uk
-host-suffix, schwab.com.hk
-host-suffix, schwab.com.sg
+host-suffix, aboutschwab.com, proxy
+host-suffix, schwab.com, proxy
+host-suffix, schwabassetmanagement.com, proxy
+host-suffix, schwabplan.com, proxy
+host-suffix, schwab.co.uk, proxy
+host-suffix, schwab.com.hk, proxy
+host-suffix, schwab.com.sg, proxy

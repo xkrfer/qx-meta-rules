@@ -1,4 +1,4 @@
-ip-cidr, 199.201.111.0/24
-ip-cidr, 206.83.206.0/24
-ip6-cidr, 2620:115:2000::/47
-ip6-cidr, 2620:115:2002::/48
+ip-cidr, 199.201.111.0/24, proxy, no-resolve
+ip-cidr, 206.83.206.0/24, proxy, no-resolve
+ip6-cidr, 2620:115:2000::/47, proxy, no-resolve
+ip6-cidr, 2620:115:2002::/48, proxy, no-resolve

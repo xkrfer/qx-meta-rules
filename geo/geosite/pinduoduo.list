@@ -1,7 +1,7 @@
-host-suffix, pddcdn.com
-host-suffix, pddim.com
-host-suffix, pddpic.com
-host-suffix, pddugc.com
-host-suffix, pinduoduo.com
-host-suffix, pinduoduo.net
-host-suffix, yangkeduo.com
+host-suffix, pddcdn.com, proxy
+host-suffix, pddim.com, proxy
+host-suffix, pddpic.com, proxy
+host-suffix, pddugc.com, proxy
+host-suffix, pinduoduo.com, proxy
+host-suffix, pinduoduo.net, proxy
+host-suffix, yangkeduo.com, proxy

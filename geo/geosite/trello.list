@@ -1,2 +1,2 @@
-host-suffix, trello.com
-host-suffix, trellocdn.com
+host-suffix, trello.com, proxy
+host-suffix, trellocdn.com, proxy

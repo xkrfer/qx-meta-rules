@@ -1,5 +1,5 @@
-host-suffix, intsig.com
-host-suffix, intsig.net
-host-suffix, camscanner.com
-host-suffix, camcard.com
-host-suffix, qixin.com
+host-suffix, intsig.com, proxy
+host-suffix, intsig.net, proxy
+host-suffix, camscanner.com, proxy
+host-suffix, camcard.com, proxy
+host-suffix, qixin.com, proxy

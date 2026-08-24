@@ -1,1 +1,1 @@
-host-wildcard, DOMAIN-REGEX,^(.+\.)*zh\.okaapps\.com$
+host-wildcard, DOMAIN-REGEX,^(.+\.)*zh\.okaapps\.com$, proxy

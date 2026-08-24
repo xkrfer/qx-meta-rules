@@ -1,2 +1,2 @@
-host-suffix, comodo.com
-host-suffix, comodo.net
+host-suffix, comodo.com, proxy
+host-suffix, comodo.net, proxy

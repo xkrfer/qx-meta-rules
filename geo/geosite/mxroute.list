@@ -1,5 +1,5 @@
-host-suffix, mxlogin.com
-host-suffix, mxroute.com
-host-suffix, mxroutedocs.com
-host-suffix, mxroutehelp.com
-host-suffix, mxrouting.net
+host-suffix, mxlogin.com, proxy
+host-suffix, mxroute.com, proxy
+host-suffix, mxroutedocs.com, proxy
+host-suffix, mxroutehelp.com, proxy
+host-suffix, mxrouting.net, proxy

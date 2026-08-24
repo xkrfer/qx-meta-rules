@@ -1,190 +1,190 @@
-host, cdn.js7k.com
-host-suffix, yahoo
-host-suffix, flickr
-host-suffix, oath.cloud
-host-suffix, oath.com
-host-suffix, ouroath.com
-host-suffix, static-verizon.com
-host-suffix, uplynk.com
-host-suffix, verizon.com
-host-suffix, verizon.net
-host-suffix, verizonbusinessfios.com
-host-suffix, verizondigitalmedia.com
-host-suffix, verizonenterprise.com
-host-suffix, verizonfios.com
-host-suffix, verizonmedia.com
-host-suffix, verizonwireless.com
-host-suffix, vzw.com
-host-suffix, xo.com
-host-suffix, yahoo.ps
-host-suffix, yahoo.sn
-host-suffix, yahoo.at
-host-suffix, yahoo.az
-host-suffix, yahoo.ba
-host-suffix, yahoo.be
-host-suffix, yahoo.bg
-host-suffix, yahoo.bi
-host-suffix, yahoo.bs
-host-suffix, yahoo.bt
-host-suffix, yahoo.by
-host-suffix, yahoo.ca
-host-suffix, yahoo.cat
-host-suffix, yahoo.cd
-host-suffix, yahoo.cg
-host-suffix, yahoo.ch
-host-suffix, yahoo.cl
-host-suffix, yahoo.cm
-host-suffix, staticflickr.com
-host-suffix, flickr.net
-host-suffix, flickr.com
-host-suffix, flic.kr
-host-suffix, yahoo.ae
-host-suffix, yusercontent.com
-host-suffix, yahoo.dk
-host-suffix, yimg.jp
-host-suffix, yimg.com
-host-suffix, yho.com
-host-suffix, yahoosportsbook.com
-host-suffix, yahoosandbox.com
-host-suffix, yahoomusic.com
-host-suffix, yahoohealth.com
-host-suffix, yahoofinance.com
-host-suffix, yahoodns.net
-host-suffix, yahooapis.com
-host-suffix, techcrunch.com
-host-suffix, yahoo.com
-host-suffix, myguide.hk
-host-suffix, maktoob.com
-host-suffix, yahoo.ws
-host-suffix, yahoo.de
-host-suffix, yahoo.vg
-host-suffix, yahoo.as
-host-suffix, yahoo.tn
-host-suffix, yahoo.tm
-host-suffix, yahoo.tl
-host-suffix, yahoo.tk
-host-suffix, yahoo.tg
-host-suffix, yahoo.st
-host-suffix, yahoo.sr
-host-suffix, yahoo.so
-host-suffix, yahoo.is
-host-suffix, yahoo.sm
-host-suffix, yahoo.sk
-host-suffix, yahoo.dj
-host-suffix, yahoo.si
-host-suffix, yahoo.sh
-host-suffix, yahoo.sg
-host-suffix, yahoo.se
-host-suffix, yahoo.rw
-host-suffix, yahoo.ru
-host-suffix, yahoo.ro
-host-suffix, yahoo.pt
-host-suffix, yahoo.am
-host-suffix, yahoo.pn
-host-suffix, yahoo.pl
-host-suffix, yahoo.ph
-host-suffix, yahoo.nu
-host-suffix, yahoo.no
-host-suffix, yahoo.nl
-host-suffix, yahoo.net
-host-suffix, yahoo.mx
-host-suffix, yahoo.mw
-host-suffix, yahoo.mk
-host-suffix, yahoo.me
-host-suffix, yahoo.md
-host-suffix, yahoo.lv
-host-suffix, yahoo.lu
-host-suffix, yahoo.lt
-host-suffix, yahoo.la
-host-suffix, yahoo.jo
-host-suffix, yahoo.cz
-host-suffix, yahoo.je
-host-suffix, yahoo.it
-host-suffix, ymail.com
-host-suffix, yahoo.dm
-host-suffix, yahoo.ee
-host-suffix, yahoo.es
-host-suffix, yahoo.fi
-host-suffix, yahoo.fm
-host-suffix, yahoo.fr
-host-suffix, yahoo.ge
-host-suffix, yahoo.gg
-host-suffix, yahoo.gl
-host-suffix, yahoo.gm
-host-suffix, yahoo.gp
-host-suffix, yahoo.gr
-host-suffix, yahoo.gy
-host-suffix, yahoo.hk
-host-suffix, yahoo.hr
-host-suffix, yahoo.hu
-host-suffix, yahoo.ie
-host-suffix, yahoo.im
-host-suffix, yahoo.in
-host-suffix, yahoo.com.bd
-host-suffix, yahoo.com.hk
-host-suffix, yahoo.com.ar
-host-suffix, yahoo.com.vn
-host-suffix, yahoo.com.vc
-host-suffix, yahoo.com.uy
-host-suffix, yahoo.com.ua
-host-suffix, yahoo.com.tw
-host-suffix, yahoo.com.tr
-host-suffix, yahoo.com.tj
-host-suffix, yahoo.com.sv
-host-suffix, yahoo.com.sg
-host-suffix, yahoo.com.sb
-host-suffix, yahoo.com.sa
-host-suffix, yahoo.com.py
-host-suffix, yahoo.com.pr
-host-suffix, yahoo.com.pk
-host-suffix, yahoo.com.ph
-host-suffix, yahoo.com.pe
-host-suffix, yahoo.com.pa
-host-suffix, yahoo.com.om
-host-suffix, yahoo.com.nf
-host-suffix, yahoo.com.na
-host-suffix, yahoo.com.my
-host-suffix, yahoo.com.mx
-host-suffix, yahoo.com.mt
-host-suffix, yahoo.com.ly
-host-suffix, yahoo.com.lb
-host-suffix, yahoo.com.kw
-host-suffix, yahoo.com.gt
-host-suffix, yahoo.com.gi
-host-suffix, yahoo.com.fj
-host-suffix, yahoo.com.es
-host-suffix, yahoo.com.eg
-host-suffix, yahoo.com.ec
-host-suffix, yahoo.com.do
-host-suffix, yahoo.com.co
-host-suffix, yahoo.com.bz
-host-suffix, yahoo.com.br
-host-suffix, yahoo.com.bo
-host-suffix, yahoo.com.au
-host-suffix, yahoo.com.ai
-host-suffix, yahoo.com.ag
-host-suffix, yahoo.com.af
-host-suffix, yahoo.co.za
-host-suffix, yahoo-news.com.hk
-host-suffix, yahoo.co.vi
-host-suffix, yahoo.co.ve
-host-suffix, yahoo.co.uz
-host-suffix, yahoo.co.uk
-host-suffix, yahoo.co.tz
-host-suffix, yahoo.co.th
-host-suffix, yahoo.co.nz
-host-suffix, yahoo.co.mz
-host-suffix, yahoo.co.kr
-host-suffix, yahoo.co.jp
-host-suffix, yahoo.co.in
-host-suffix, yahoo.co.il
-host-suffix, yahoo.co.id
-host-suffix, yahoo.co.cr
-host-suffix, yahoo.co.ck
-host-suffix, yahoo.co.bw
-host-suffix, yahoo.co.ao
-host-suffix, yahoo.cn
-host-suffix, yahoo.com.cn
-host-suffix, ads.yahoo.com
-host-suffix, gemini.yahoo.com
-host-suffix, ysm.yahoo.com
+host, cdn.js7k.com, proxy
+host-suffix, yahoo, proxy
+host-suffix, flickr, proxy
+host-suffix, oath.cloud, proxy
+host-suffix, oath.com, proxy
+host-suffix, ouroath.com, proxy
+host-suffix, static-verizon.com, proxy
+host-suffix, uplynk.com, proxy
+host-suffix, verizon.com, proxy
+host-suffix, verizon.net, proxy
+host-suffix, verizonbusinessfios.com, proxy
+host-suffix, verizondigitalmedia.com, proxy
+host-suffix, verizonenterprise.com, proxy
+host-suffix, verizonfios.com, proxy
+host-suffix, verizonmedia.com, proxy
+host-suffix, verizonwireless.com, proxy
+host-suffix, vzw.com, proxy
+host-suffix, xo.com, proxy
+host-suffix, yahoo.ps, proxy
+host-suffix, yahoo.sn, proxy
+host-suffix, yahoo.at, proxy
+host-suffix, yahoo.az, proxy
+host-suffix, yahoo.ba, proxy
+host-suffix, yahoo.be, proxy
+host-suffix, yahoo.bg, proxy
+host-suffix, yahoo.bi, proxy
+host-suffix, yahoo.bs, proxy
+host-suffix, yahoo.bt, proxy
+host-suffix, yahoo.by, proxy
+host-suffix, yahoo.ca, proxy
+host-suffix, yahoo.cat, proxy
+host-suffix, yahoo.cd, proxy
+host-suffix, yahoo.cg, proxy
+host-suffix, yahoo.ch, proxy
+host-suffix, yahoo.cl, proxy
+host-suffix, yahoo.cm, proxy
+host-suffix, staticflickr.com, proxy
+host-suffix, flickr.net, proxy
+host-suffix, flickr.com, proxy
+host-suffix, flic.kr, proxy
+host-suffix, yahoo.ae, proxy
+host-suffix, yusercontent.com, proxy
+host-suffix, yahoo.dk, proxy
+host-suffix, yimg.jp, proxy
+host-suffix, yimg.com, proxy
+host-suffix, yho.com, proxy
+host-suffix, yahoosportsbook.com, proxy
+host-suffix, yahoosandbox.com, proxy
+host-suffix, yahoomusic.com, proxy
+host-suffix, yahoohealth.com, proxy
+host-suffix, yahoofinance.com, proxy
+host-suffix, yahoodns.net, proxy
+host-suffix, yahooapis.com, proxy
+host-suffix, techcrunch.com, proxy
+host-suffix, yahoo.com, proxy
+host-suffix, myguide.hk, proxy
+host-suffix, maktoob.com, proxy
+host-suffix, yahoo.ws, proxy
+host-suffix, yahoo.de, proxy
+host-suffix, yahoo.vg, proxy
+host-suffix, yahoo.as, proxy
+host-suffix, yahoo.tn, proxy
+host-suffix, yahoo.tm, proxy
+host-suffix, yahoo.tl, proxy
+host-suffix, yahoo.tk, proxy
+host-suffix, yahoo.tg, proxy
+host-suffix, yahoo.st, proxy
+host-suffix, yahoo.sr, proxy
+host-suffix, yahoo.so, proxy
+host-suffix, yahoo.is, proxy
+host-suffix, yahoo.sm, proxy
+host-suffix, yahoo.sk, proxy
+host-suffix, yahoo.dj, proxy
+host-suffix, yahoo.si, proxy
+host-suffix, yahoo.sh, proxy
+host-suffix, yahoo.sg, proxy
+host-suffix, yahoo.se, proxy
+host-suffix, yahoo.rw, proxy
+host-suffix, yahoo.ru, proxy
+host-suffix, yahoo.ro, proxy
+host-suffix, yahoo.pt, proxy
+host-suffix, yahoo.am, proxy
+host-suffix, yahoo.pn, proxy
+host-suffix, yahoo.pl, proxy
+host-suffix, yahoo.ph, proxy
+host-suffix, yahoo.nu, proxy
+host-suffix, yahoo.no, proxy
+host-suffix, yahoo.nl, proxy
+host-suffix, yahoo.net, proxy
+host-suffix, yahoo.mx, proxy
+host-suffix, yahoo.mw, proxy
+host-suffix, yahoo.mk, proxy
+host-suffix, yahoo.me, proxy
+host-suffix, yahoo.md, proxy
+host-suffix, yahoo.lv, proxy
+host-suffix, yahoo.lu, proxy
+host-suffix, yahoo.lt, proxy
+host-suffix, yahoo.la, proxy
+host-suffix, yahoo.jo, proxy
+host-suffix, yahoo.cz, proxy
+host-suffix, yahoo.je, proxy
+host-suffix, yahoo.it, proxy
+host-suffix, ymail.com, proxy
+host-suffix, yahoo.dm, proxy
+host-suffix, yahoo.ee, proxy
+host-suffix, yahoo.es, proxy
+host-suffix, yahoo.fi, proxy
+host-suffix, yahoo.fm, proxy
+host-suffix, yahoo.fr, proxy
+host-suffix, yahoo.ge, proxy
+host-suffix, yahoo.gg, proxy
+host-suffix, yahoo.gl, proxy
+host-suffix, yahoo.gm, proxy
+host-suffix, yahoo.gp, proxy
+host-suffix, yahoo.gr, proxy
+host-suffix, yahoo.gy, proxy
+host-suffix, yahoo.hk, proxy
+host-suffix, yahoo.hr, proxy
+host-suffix, yahoo.hu, proxy
+host-suffix, yahoo.ie, proxy
+host-suffix, yahoo.im, proxy
+host-suffix, yahoo.in, proxy
+host-suffix, yahoo.com.bd, proxy
+host-suffix, yahoo.com.hk, proxy
+host-suffix, yahoo.com.ar, proxy
+host-suffix, yahoo.com.vn, proxy
+host-suffix, yahoo.com.vc, proxy
+host-suffix, yahoo.com.uy, proxy
+host-suffix, yahoo.com.ua, proxy
+host-suffix, yahoo.com.tw, proxy
+host-suffix, yahoo.com.tr, proxy
+host-suffix, yahoo.com.tj, proxy
+host-suffix, yahoo.com.sv, proxy
+host-suffix, yahoo.com.sg, proxy
+host-suffix, yahoo.com.sb, proxy
+host-suffix, yahoo.com.sa, proxy
+host-suffix, yahoo.com.py, proxy
+host-suffix, yahoo.com.pr, proxy
+host-suffix, yahoo.com.pk, proxy
+host-suffix, yahoo.com.ph, proxy
+host-suffix, yahoo.com.pe, proxy
+host-suffix, yahoo.com.pa, proxy
+host-suffix, yahoo.com.om, proxy
+host-suffix, yahoo.com.nf, proxy
+host-suffix, yahoo.com.na, proxy
+host-suffix, yahoo.com.my, proxy
+host-suffix, yahoo.com.mx, proxy
+host-suffix, yahoo.com.mt, proxy
+host-suffix, yahoo.com.ly, proxy
+host-suffix, yahoo.com.lb, proxy
+host-suffix, yahoo.com.kw, proxy
+host-suffix, yahoo.com.gt, proxy
+host-suffix, yahoo.com.gi, proxy
+host-suffix, yahoo.com.fj, proxy
+host-suffix, yahoo.com.es, proxy
+host-suffix, yahoo.com.eg, proxy
+host-suffix, yahoo.com.ec, proxy
+host-suffix, yahoo.com.do, proxy
+host-suffix, yahoo.com.co, proxy
+host-suffix, yahoo.com.bz, proxy
+host-suffix, yahoo.com.br, proxy
+host-suffix, yahoo.com.bo, proxy
+host-suffix, yahoo.com.au, proxy
+host-suffix, yahoo.com.ai, proxy
+host-suffix, yahoo.com.ag, proxy
+host-suffix, yahoo.com.af, proxy
+host-suffix, yahoo.co.za, proxy
+host-suffix, yahoo-news.com.hk, proxy
+host-suffix, yahoo.co.vi, proxy
+host-suffix, yahoo.co.ve, proxy
+host-suffix, yahoo.co.uz, proxy
+host-suffix, yahoo.co.uk, proxy
+host-suffix, yahoo.co.tz, proxy
+host-suffix, yahoo.co.th, proxy
+host-suffix, yahoo.co.nz, proxy
+host-suffix, yahoo.co.mz, proxy
+host-suffix, yahoo.co.kr, proxy
+host-suffix, yahoo.co.jp, proxy
+host-suffix, yahoo.co.in, proxy
+host-suffix, yahoo.co.il, proxy
+host-suffix, yahoo.co.id, proxy
+host-suffix, yahoo.co.cr, proxy
+host-suffix, yahoo.co.ck, proxy
+host-suffix, yahoo.co.bw, proxy
+host-suffix, yahoo.co.ao, proxy
+host-suffix, yahoo.cn, proxy
+host-suffix, yahoo.com.cn, proxy
+host-suffix, ads.yahoo.com, proxy
+host-suffix, gemini.yahoo.com, proxy
+host-suffix, ysm.yahoo.com, proxy

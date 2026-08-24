@@ -1,5 +1,5 @@
-host-suffix, gannett-cdn.com
-host-suffix, gannett.com
-host-suffix, gannettdigital.com
-host-suffix, usatoday.com
-host-suffix, usatodaynetworkservice.com
+host-suffix, gannett-cdn.com, proxy
+host-suffix, gannett.com, proxy
+host-suffix, gannettdigital.com, proxy
+host-suffix, usatoday.com, proxy
+host-suffix, usatodaynetworkservice.com, proxy

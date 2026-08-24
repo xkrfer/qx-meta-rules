@@ -1,5 +1,5 @@
-host-suffix, att.tv
-host-suffix, atttvnow.com
-host-suffix, attwatchtv.com
-host-suffix, dtvce.com
-host-suffix, nettyinternet.com
+host-suffix, att.tv, proxy
+host-suffix, atttvnow.com, proxy
+host-suffix, attwatchtv.com, proxy
+host-suffix, dtvce.com, proxy
+host-suffix, nettyinternet.com, proxy

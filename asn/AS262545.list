@@ -1,15 +1,15 @@
-ip-cidr, 177.70.96.0/21
-ip-cidr, 177.70.104.0/22
-ip-cidr, 177.70.108.0/23
-ip-cidr, 177.70.110.0/24
-ip-cidr, 177.70.112.0/21
-ip-cidr, 177.70.120.0/22
-ip-cidr, 177.70.124.0/23
-ip-cidr, 187.33.0.0/21
-ip-cidr, 187.33.16.0/24
-ip-cidr, 187.33.23.0/24
-ip-cidr, 187.191.96.0/22
-ip-cidr, 187.191.100.0/23
-ip-cidr, 187.191.104.0/21
-ip-cidr, 187.191.112.0/20
-ip6-cidr, 2804:5d4::/47
+ip-cidr, 177.70.96.0/21, proxy, no-resolve
+ip-cidr, 177.70.104.0/22, proxy, no-resolve
+ip-cidr, 177.70.108.0/23, proxy, no-resolve
+ip-cidr, 177.70.110.0/24, proxy, no-resolve
+ip-cidr, 177.70.112.0/21, proxy, no-resolve
+ip-cidr, 177.70.120.0/22, proxy, no-resolve
+ip-cidr, 177.70.124.0/23, proxy, no-resolve
+ip-cidr, 187.33.0.0/21, proxy, no-resolve
+ip-cidr, 187.33.16.0/24, proxy, no-resolve
+ip-cidr, 187.33.23.0/24, proxy, no-resolve
+ip-cidr, 187.191.96.0/22, proxy, no-resolve
+ip-cidr, 187.191.100.0/23, proxy, no-resolve
+ip-cidr, 187.191.104.0/21, proxy, no-resolve
+ip-cidr, 187.191.112.0/20, proxy, no-resolve
+ip6-cidr, 2804:5d4::/47, proxy, no-resolve

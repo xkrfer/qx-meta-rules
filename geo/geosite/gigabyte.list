@@ -1,7 +1,7 @@
-host, gigabyte2.azureedge.net
-host, sa78gs.wpc.edgecastcdn.net
-host, sni1dcb6gl.wpc.edgecastcdn.net
-host-suffix, aorus.com
-host-suffix, gigabyte.com
-host-suffix, aoruszone.cn
-host-suffix, gigabyte.cn
+host, gigabyte2.azureedge.net, proxy
+host, sa78gs.wpc.edgecastcdn.net, proxy
+host, sni1dcb6gl.wpc.edgecastcdn.net, proxy
+host-suffix, aorus.com, proxy
+host-suffix, gigabyte.com, proxy
+host-suffix, aoruszone.cn, proxy
+host-suffix, gigabyte.cn, proxy

@@ -1,2 +1,2 @@
-ip-cidr, 23.137.40.0/24
-ip6-cidr, 2602:fb78:80::/41
+ip-cidr, 23.137.40.0/24, proxy, no-resolve
+ip6-cidr, 2602:fb78:80::/41, proxy, no-resolve

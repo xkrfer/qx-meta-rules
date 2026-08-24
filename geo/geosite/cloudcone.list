@@ -1,4 +1,4 @@
-host-suffix, clco.cc
-host-suffix, cloudc.one
-host-suffix, cloudcone.com
-host-suffix, cloudcone.net
+host-suffix, clco.cc, proxy
+host-suffix, cloudc.one, proxy
+host-suffix, cloudcone.com, proxy
+host-suffix, cloudcone.net, proxy

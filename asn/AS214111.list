@@ -1,4 +1,4 @@
-ip-cidr, 38.55.109.0/24
-ip-cidr, 38.55.110.0/24
-ip-cidr, 91.208.109.0/24
-ip6-cidr, 2a14:67c1:a170::/44
+ip-cidr, 38.55.109.0/24, proxy, no-resolve
+ip-cidr, 38.55.110.0/24, proxy, no-resolve
+ip-cidr, 91.208.109.0/24, proxy, no-resolve
+ip6-cidr, 2a14:67c1:a170::/44, proxy, no-resolve

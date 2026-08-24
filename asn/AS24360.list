@@ -1,29 +1,29 @@
-ip6-cidr, 2001:250:4800::/43
-ip6-cidr, 2001:250:4820::/46
-ip6-cidr, 2001:250:4825::/48
-ip6-cidr, 2001:250:4826::/47
-ip6-cidr, 2001:250:4828::/45
-ip6-cidr, 2001:250:4830::/44
-ip6-cidr, 2001:250:4840::/46
-ip6-cidr, 2001:250:4845::/48
-ip6-cidr, 2001:250:4846::/47
-ip6-cidr, 2001:250:4848::/47
-ip6-cidr, 2001:250:484c::/46
-ip6-cidr, 2001:250:4850::/45
-ip6-cidr, 2001:250:4858::/47
-ip6-cidr, 2001:250:485a::/48
-ip6-cidr, 2001:250:485c::/47
-ip6-cidr, 2001:250:485e::/48
-ip6-cidr, 2001:da8:a5::/48
-ip6-cidr, 2001:da8:4805::/48
-ip6-cidr, 2001:da8:5000::/42
-ip6-cidr, 2001:da8:5040::/43
-ip6-cidr, 2001:da8:5060::/45
-ip6-cidr, 2001:da8:5068::/48
-ip6-cidr, 2001:da8:5ff0::/46
-ip6-cidr, 2001:da8:5ff4::/47
-ip6-cidr, 2402:e480::/32
-ip6-cidr, 240c:cb02::/32
-ip6-cidr, 240c:cb06::/32
-ip6-cidr, 240c:cb21::/32
-ip6-cidr, 240c:cb3a::/32
+ip6-cidr, 2001:250:4800::/43, proxy, no-resolve
+ip6-cidr, 2001:250:4820::/46, proxy, no-resolve
+ip6-cidr, 2001:250:4825::/48, proxy, no-resolve
+ip6-cidr, 2001:250:4826::/47, proxy, no-resolve
+ip6-cidr, 2001:250:4828::/45, proxy, no-resolve
+ip6-cidr, 2001:250:4830::/44, proxy, no-resolve
+ip6-cidr, 2001:250:4840::/46, proxy, no-resolve
+ip6-cidr, 2001:250:4845::/48, proxy, no-resolve
+ip6-cidr, 2001:250:4846::/47, proxy, no-resolve
+ip6-cidr, 2001:250:4848::/47, proxy, no-resolve
+ip6-cidr, 2001:250:484c::/46, proxy, no-resolve
+ip6-cidr, 2001:250:4850::/45, proxy, no-resolve
+ip6-cidr, 2001:250:4858::/47, proxy, no-resolve
+ip6-cidr, 2001:250:485a::/48, proxy, no-resolve
+ip6-cidr, 2001:250:485c::/47, proxy, no-resolve
+ip6-cidr, 2001:250:485e::/48, proxy, no-resolve
+ip6-cidr, 2001:da8:a5::/48, proxy, no-resolve
+ip6-cidr, 2001:da8:4805::/48, proxy, no-resolve
+ip6-cidr, 2001:da8:5000::/42, proxy, no-resolve
+ip6-cidr, 2001:da8:5040::/43, proxy, no-resolve
+ip6-cidr, 2001:da8:5060::/45, proxy, no-resolve
+ip6-cidr, 2001:da8:5068::/48, proxy, no-resolve
+ip6-cidr, 2001:da8:5ff0::/46, proxy, no-resolve
+ip6-cidr, 2001:da8:5ff4::/47, proxy, no-resolve
+ip6-cidr, 2402:e480::/32, proxy, no-resolve
+ip6-cidr, 240c:cb02::/32, proxy, no-resolve
+ip6-cidr, 240c:cb06::/32, proxy, no-resolve
+ip6-cidr, 240c:cb21::/32, proxy, no-resolve
+ip6-cidr, 240c:cb3a::/32, proxy, no-resolve

@@ -1,5 +1,5 @@
-ip-cidr, 45.58.64.0/20
-ip-cidr, 108.160.160.0/20
-ip-cidr, 162.125.0.0/16
-ip-cidr, 185.45.8.0/22
-ip6-cidr, 2620:100:6000::/40
+ip-cidr, 45.58.64.0/20, proxy, no-resolve
+ip-cidr, 108.160.160.0/20, proxy, no-resolve
+ip-cidr, 162.125.0.0/16, proxy, no-resolve
+ip-cidr, 185.45.8.0/22, proxy, no-resolve
+ip6-cidr, 2620:100:6000::/40, proxy, no-resolve

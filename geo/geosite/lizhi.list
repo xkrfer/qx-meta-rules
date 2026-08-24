@@ -1,6 +1,6 @@
-host-suffix, gzlzfm.com
-host-suffix, lizhi.fm
-host-suffix, lizhifm.com
-host-suffix, lizhiinc.com
-host-suffix, lz310.com
-host-suffix, lzpipi.com
+host-suffix, gzlzfm.com, proxy
+host-suffix, lizhi.fm, proxy
+host-suffix, lizhifm.com, proxy
+host-suffix, lizhiinc.com, proxy
+host-suffix, lz310.com, proxy
+host-suffix, lzpipi.com, proxy

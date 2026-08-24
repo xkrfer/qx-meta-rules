@@ -1,7 +1,7 @@
-ip6-cidr, 2602:feda:c50::/48
-ip6-cidr, 2602:feda:c52::/47
-ip6-cidr, 2602:feda:c54::/46
-ip6-cidr, 2602:feda:c58::/45
-ip6-cidr, 2a0f:607:1052::/48
-ip6-cidr, 2a0f:607:1100::/44
-ip6-cidr, 2a10:2f00:157::/48
+ip6-cidr, 2602:feda:c50::/48, proxy, no-resolve
+ip6-cidr, 2602:feda:c52::/47, proxy, no-resolve
+ip6-cidr, 2602:feda:c54::/46, proxy, no-resolve
+ip6-cidr, 2602:feda:c58::/45, proxy, no-resolve
+ip6-cidr, 2a0f:607:1052::/48, proxy, no-resolve
+ip6-cidr, 2a0f:607:1100::/44, proxy, no-resolve
+ip6-cidr, 2a10:2f00:157::/48, proxy, no-resolve

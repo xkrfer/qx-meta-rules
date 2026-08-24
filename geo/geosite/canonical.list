@@ -1,12 +1,12 @@
-host-suffix, canonical.com
-host-suffix, launchpad.net
-host-suffix, launchpadcontent.net
-host-suffix, launchpadlibrarian.com
-host-suffix, launchpadlibrarian.net
-host-suffix, launchpadlibrarian.org
-host-suffix, snapcraft.io
-host-suffix, snapstore.io
-host-suffix, ubuntu.com
-host-suffix, ubuntu.net
-host-suffix, ubuntuforums.org
-host-suffix, ubuntu-touch.io
+host-suffix, canonical.com, proxy
+host-suffix, launchpad.net, proxy
+host-suffix, launchpadcontent.net, proxy
+host-suffix, launchpadlibrarian.com, proxy
+host-suffix, launchpadlibrarian.net, proxy
+host-suffix, launchpadlibrarian.org, proxy
+host-suffix, snapcraft.io, proxy
+host-suffix, snapstore.io, proxy
+host-suffix, ubuntu.com, proxy
+host-suffix, ubuntu.net, proxy
+host-suffix, ubuntuforums.org, proxy
+host-suffix, ubuntu-touch.io, proxy

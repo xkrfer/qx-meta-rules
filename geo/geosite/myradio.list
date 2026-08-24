@@ -1,2 +1,2 @@
-host-suffix, myradio.hk
-host-suffix, myradio.com.hk
+host-suffix, myradio.hk, proxy
+host-suffix, myradio.com.hk, proxy

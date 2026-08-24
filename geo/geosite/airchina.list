@@ -1,40 +1,40 @@
-host-suffix, airchina.cn
-host-suffix, airchina.com
-host-suffix, airchinacargo.com
-host-suffix, airchinagroup.com
-host-suffix, airchinalimited.cn
-host-suffix, airchinalimited.com
-host-suffix, fly-airchina.com
-host-suffix, phoenixmiles.cn
-host-suffix, phoenixmiles.com
-host-suffix, airchina.com.cn
-host-suffix, airchinalimited.com.cn
-host-suffix, phoenixmiles.com.cn
-host-suffix, airchina.ae
-host-suffix, airchina.at
-host-suffix, airchina.ca
-host-suffix, airchina.ch
-host-suffix, airchina.co.id
-host-suffix, airchina.co.in
-host-suffix, airchina.co.th
-host-suffix, airchina.co.uk
-host-suffix, airchina.com.au
-host-suffix, airchina.com.br
-host-suffix, airchina.com.my
-host-suffix, airchina.com.ph
-host-suffix, airchina.com.tw
-host-suffix, airchina.de
-host-suffix, airchina.dk
-host-suffix, airchina.es
-host-suffix, airchina.fr
-host-suffix, airchina.gr
-host-suffix, airchina.hk
-host-suffix, airchina.hu
-host-suffix, airchina.it
-host-suffix, airchina.jp
-host-suffix, airchina.kr
-host-suffix, airchina.nz
-host-suffix, airchina.se
-host-suffix, airchina.sg
-host-suffix, airchina.us
-host-suffix, airchina.vn
+host-suffix, airchina.cn, proxy
+host-suffix, airchina.com, proxy
+host-suffix, airchinacargo.com, proxy
+host-suffix, airchinagroup.com, proxy
+host-suffix, airchinalimited.cn, proxy
+host-suffix, airchinalimited.com, proxy
+host-suffix, fly-airchina.com, proxy
+host-suffix, phoenixmiles.cn, proxy
+host-suffix, phoenixmiles.com, proxy
+host-suffix, airchina.com.cn, proxy
+host-suffix, airchinalimited.com.cn, proxy
+host-suffix, phoenixmiles.com.cn, proxy
+host-suffix, airchina.ae, proxy
+host-suffix, airchina.at, proxy
+host-suffix, airchina.ca, proxy
+host-suffix, airchina.ch, proxy
+host-suffix, airchina.co.id, proxy
+host-suffix, airchina.co.in, proxy
+host-suffix, airchina.co.th, proxy
+host-suffix, airchina.co.uk, proxy
+host-suffix, airchina.com.au, proxy
+host-suffix, airchina.com.br, proxy
+host-suffix, airchina.com.my, proxy
+host-suffix, airchina.com.ph, proxy
+host-suffix, airchina.com.tw, proxy
+host-suffix, airchina.de, proxy
+host-suffix, airchina.dk, proxy
+host-suffix, airchina.es, proxy
+host-suffix, airchina.fr, proxy
+host-suffix, airchina.gr, proxy
+host-suffix, airchina.hk, proxy
+host-suffix, airchina.hu, proxy
+host-suffix, airchina.it, proxy
+host-suffix, airchina.jp, proxy
+host-suffix, airchina.kr, proxy
+host-suffix, airchina.nz, proxy
+host-suffix, airchina.se, proxy
+host-suffix, airchina.sg, proxy
+host-suffix, airchina.us, proxy
+host-suffix, airchina.vn, proxy

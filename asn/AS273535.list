@@ -1,4 +1,4 @@
-ip6-cidr, 2804:9030::/33
-ip6-cidr, 2804:9030:8000::/34
-ip6-cidr, 2804:9030:c000::/35
-ip6-cidr, 2804:9030:e000::/36
+ip6-cidr, 2804:9030::/33, proxy, no-resolve
+ip6-cidr, 2804:9030:8000::/34, proxy, no-resolve
+ip6-cidr, 2804:9030:c000::/35, proxy, no-resolve
+ip6-cidr, 2804:9030:e000::/36, proxy, no-resolve

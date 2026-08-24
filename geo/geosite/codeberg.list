@@ -1,2 +1,2 @@
-host-suffix, codeberg.org
-host-suffix, codeberg.page
+host-suffix, codeberg.org, proxy
+host-suffix, codeberg.page, proxy

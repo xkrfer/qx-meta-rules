@@ -1,3 +1,3 @@
-host-suffix, cnbeta.com
-host-suffix, cnbetacdn.com
-host-suffix, cnbeta.com.tw
+host-suffix, cnbeta.com, proxy
+host-suffix, cnbetacdn.com, proxy
+host-suffix, cnbeta.com.tw, proxy

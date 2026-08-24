@@ -1,8 +1,8 @@
-ip6-cidr, 2804:8480:200::/39
-ip6-cidr, 2804:8480:400::/39
-ip6-cidr, 2804:8480:600::/40
-ip6-cidr, 2804:8480:b00::/40
-ip6-cidr, 2804:8480:c00::/39
-ip6-cidr, 2804:8480:1000::/39
-ip6-cidr, 2804:8480:1a00::/40
-ip6-cidr, 2804:8480:ff00::/48
+ip6-cidr, 2804:8480:200::/39, proxy, no-resolve
+ip6-cidr, 2804:8480:400::/39, proxy, no-resolve
+ip6-cidr, 2804:8480:600::/40, proxy, no-resolve
+ip6-cidr, 2804:8480:b00::/40, proxy, no-resolve
+ip6-cidr, 2804:8480:c00::/39, proxy, no-resolve
+ip6-cidr, 2804:8480:1000::/39, proxy, no-resolve
+ip6-cidr, 2804:8480:1a00::/40, proxy, no-resolve
+ip6-cidr, 2804:8480:ff00::/48, proxy, no-resolve

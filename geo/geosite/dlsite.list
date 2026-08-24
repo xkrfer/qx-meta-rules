@@ -1,10 +1,10 @@
-host-suffix, chobit.cc
-host-suffix, ci-en.jp
-host-suffix, ci-en.net
-host-suffix, dlaf.jp
-host-suffix, dlsite.com
-host-suffix, dlsite.jp
-host-suffix, dlsitestudio.com
-host-suffix, nijiyome.jp
-host-suffix, triokini.com
-host-suffix, dlsite.com.tw
+host-suffix, chobit.cc, proxy
+host-suffix, ci-en.jp, proxy
+host-suffix, ci-en.net, proxy
+host-suffix, dlaf.jp, proxy
+host-suffix, dlsite.com, proxy
+host-suffix, dlsite.jp, proxy
+host-suffix, dlsitestudio.com, proxy
+host-suffix, nijiyome.jp, proxy
+host-suffix, triokini.com, proxy
+host-suffix, dlsite.com.tw, proxy

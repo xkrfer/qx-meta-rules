@@ -1,5 +1,5 @@
-host-suffix, bitwarden.com
-host-suffix, bitwarden.eu
-host-suffix, bitwarden.net
-host-suffix, btwrdn.co
-host-suffix, btwrdn.com
+host-suffix, bitwarden.com, proxy
+host-suffix, bitwarden.eu, proxy
+host-suffix, bitwarden.net, proxy
+host-suffix, btwrdn.co, proxy
+host-suffix, btwrdn.com, proxy

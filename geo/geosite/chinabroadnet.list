@@ -1,8 +1,8 @@
-host-suffix, cbn.cn
-host-suffix, ahitv.com
-host-suffix, cqccn.com
-host-suffix, sc96655.com
-host-suffix, isxtv.com
-host-suffix, sdgdwljt.com
-host-suffix, 10099.com.cn
-host-suffix, gcable.com.cn
+host-suffix, cbn.cn, proxy
+host-suffix, ahitv.com, proxy
+host-suffix, cqccn.com, proxy
+host-suffix, sc96655.com, proxy
+host-suffix, isxtv.com, proxy
+host-suffix, sdgdwljt.com, proxy
+host-suffix, 10099.com.cn, proxy
+host-suffix, gcable.com.cn, proxy

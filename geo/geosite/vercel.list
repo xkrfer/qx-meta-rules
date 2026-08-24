@@ -1,27 +1,27 @@
-host-suffix, vercel.blog
-host-suffix, zeit.co
-host-suffix, hyper.is
-host-suffix, nextjs.org
-host-suffix, now.sh
-host-suffix, skills.sh
-host-suffix, static.fun
-host-suffix, title.sh
-host-suffix, turborepo.org
-host-suffix, vercel-dns.com
-host-suffix, vercel-status.com
-host-suffix, vercel.dev
-host-suffix, err.sh
-host-suffix, ai-sdk.dev
-host-suffix, vercel.app
-host-suffix, vercel.events
-host-suffix, vercel.live
-host-suffix, vercel.pub
-host-suffix, vercel.sh
-host-suffix, vercel.store
-host-suffix, zeitworld.com
-host-suffix, zeit-world.com
-host-suffix, zeit-world.net
-host-suffix, zeit-world.org
-host-suffix, vercel.com
-host-suffix, zeit.sh
-host-suffix, zeit-world.co.uk
+host-suffix, vercel.blog, proxy
+host-suffix, zeit.co, proxy
+host-suffix, hyper.is, proxy
+host-suffix, nextjs.org, proxy
+host-suffix, now.sh, proxy
+host-suffix, skills.sh, proxy
+host-suffix, static.fun, proxy
+host-suffix, title.sh, proxy
+host-suffix, turborepo.org, proxy
+host-suffix, vercel-dns.com, proxy
+host-suffix, vercel-status.com, proxy
+host-suffix, vercel.dev, proxy
+host-suffix, err.sh, proxy
+host-suffix, ai-sdk.dev, proxy
+host-suffix, vercel.app, proxy
+host-suffix, vercel.events, proxy
+host-suffix, vercel.live, proxy
+host-suffix, vercel.pub, proxy
+host-suffix, vercel.sh, proxy
+host-suffix, vercel.store, proxy
+host-suffix, zeitworld.com, proxy
+host-suffix, zeit-world.com, proxy
+host-suffix, zeit-world.net, proxy
+host-suffix, zeit-world.org, proxy
+host-suffix, vercel.com, proxy
+host-suffix, zeit.sh, proxy
+host-suffix, zeit-world.co.uk, proxy

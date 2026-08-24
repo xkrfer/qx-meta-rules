@@ -1,7 +1,7 @@
-host-suffix, alibaba.ir
-host-suffix, flightio.com
-host-suffix, mrbilit.com
-host-suffix, tap30.services
-host-suffix, tap33.me
-host-suffix, tapsi.cab
-host-suffix, tapsi.ir
+host-suffix, alibaba.ir, proxy
+host-suffix, flightio.com, proxy
+host-suffix, mrbilit.com, proxy
+host-suffix, tap30.services, proxy
+host-suffix, tap33.me, proxy
+host-suffix, tapsi.cab, proxy
+host-suffix, tapsi.ir, proxy

@@ -1,6 +1,6 @@
-host-suffix, gamersky.com
-host-suffix, click.gamersky.com
-host-suffix, ja.gamersky.com
-host-suffix, ja1.gamersky.com
-host-suffix, ja2.gamersky.com
-host-suffix, wmbd.gamersky.com
+host-suffix, gamersky.com, proxy
+host-suffix, click.gamersky.com, proxy
+host-suffix, ja.gamersky.com, proxy
+host-suffix, ja1.gamersky.com, proxy
+host-suffix, ja2.gamersky.com, proxy
+host-suffix, wmbd.gamersky.com, proxy

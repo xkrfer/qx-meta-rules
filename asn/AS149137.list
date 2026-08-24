@@ -1,6 +1,6 @@
-ip-cidr, 103.15.222.0/23
-ip-cidr, 103.117.198.0/23
-ip-cidr, 103.131.84.0/23
-ip-cidr, 103.205.60.0/23
-ip-cidr, 103.209.34.0/23
-ip6-cidr, 2400:b260::/48
+ip-cidr, 103.15.222.0/23, proxy, no-resolve
+ip-cidr, 103.117.198.0/23, proxy, no-resolve
+ip-cidr, 103.131.84.0/23, proxy, no-resolve
+ip-cidr, 103.205.60.0/23, proxy, no-resolve
+ip-cidr, 103.209.34.0/23, proxy, no-resolve
+ip6-cidr, 2400:b260::/48, proxy, no-resolve

@@ -1,26 +1,26 @@
-ip-cidr, 165.101.13.0/24
-ip6-cidr, 2400:3dc0:41::/48
-ip6-cidr, 2400:3dc0:42::/48
-ip6-cidr, 2400:3dc0:47::/48
-ip6-cidr, 2400:3dc0:48::/48
-ip6-cidr, 2400:3dc0:4a::/47
-ip6-cidr, 2400:3dc0:4d::/48
-ip6-cidr, 2400:3dc0:4e::/47
-ip6-cidr, 2400:3dc0:50::/46
-ip6-cidr, 2400:3dc0:54::/47
-ip6-cidr, 2400:3dc0:56::/48
-ip6-cidr, 2400:3dc0:59::/48
-ip6-cidr, 2400:3dc0:5c::/46
-ip6-cidr, 2400:3dc0:62::/47
-ip6-cidr, 2400:3dc0:64::/47
-ip6-cidr, 2400:3dc0:67::/48
-ip6-cidr, 2400:3dc0:6b::/48
-ip6-cidr, 2400:3dc0:6d::/48
-ip6-cidr, 2400:3dc0:6e::/48
-ip6-cidr, 2400:3dc0:72::/47
-ip6-cidr, 2400:3dc0:74::/46
-ip6-cidr, 2400:3dc0:79::/48
-ip6-cidr, 2400:3dc0:7a::/48
-ip6-cidr, 2400:3dc0:81::/48
-ip6-cidr, 2400:3dc0:82::/48
-ip6-cidr, 2400:3dc0:90::/45
+ip-cidr, 165.101.13.0/24, proxy, no-resolve
+ip6-cidr, 2400:3dc0:41::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:42::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:47::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:48::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:4a::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:4d::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:4e::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:50::/46, proxy, no-resolve
+ip6-cidr, 2400:3dc0:54::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:56::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:59::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:5c::/46, proxy, no-resolve
+ip6-cidr, 2400:3dc0:62::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:64::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:67::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:6b::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:6d::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:6e::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:72::/47, proxy, no-resolve
+ip6-cidr, 2400:3dc0:74::/46, proxy, no-resolve
+ip6-cidr, 2400:3dc0:79::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:7a::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:81::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:82::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:90::/45, proxy, no-resolve

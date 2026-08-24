@@ -1,5 +1,5 @@
-host-suffix, gate.io
-host-suffix, gatedata.org
-host-suffix, gateimg.com
-host-suffix, gateio.live
-host-suffix, gateio.services
+host-suffix, gate.io, proxy
+host-suffix, gatedata.org, proxy
+host-suffix, gateimg.com, proxy
+host-suffix, gateio.live, proxy
+host-suffix, gateio.services, proxy

@@ -1,9 +1,9 @@
-host-suffix, cheetahfun.com
-host-suffix, cmcm.com
-host-suffix, cmcmcdn.com
-host-suffix, liebao.cn
-host-suffix, drivergenius.com
-host-suffix, duba.com
-host-suffix, duba.net
-host-suffix, ijinshan.com
-host-suffix, keniu.com
+host-suffix, cheetahfun.com, proxy
+host-suffix, cmcm.com, proxy
+host-suffix, cmcmcdn.com, proxy
+host-suffix, liebao.cn, proxy
+host-suffix, drivergenius.com, proxy
+host-suffix, duba.com, proxy
+host-suffix, duba.net, proxy
+host-suffix, ijinshan.com, proxy
+host-suffix, keniu.com, proxy

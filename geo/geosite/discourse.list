@@ -1,3 +1,3 @@
-host-suffix, discourse-cdn.com
-host-suffix, discourse.group
-host-suffix, discourse.org
+host-suffix, discourse-cdn.com, proxy
+host-suffix, discourse.group, proxy
+host-suffix, discourse.org, proxy

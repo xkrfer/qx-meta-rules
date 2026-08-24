@@ -1,5 +1,5 @@
-ip-cidr, 179.43.48.0/22
-ip6-cidr, 2804:7278::/34
-ip6-cidr, 2804:7278:4400::/38
-ip6-cidr, 2804:7278:4800::/38
-ip6-cidr, 2804:7278:6000::/35
+ip-cidr, 179.43.48.0/22, proxy, no-resolve
+ip6-cidr, 2804:7278::/34, proxy, no-resolve
+ip6-cidr, 2804:7278:4400::/38, proxy, no-resolve
+ip6-cidr, 2804:7278:4800::/38, proxy, no-resolve
+ip6-cidr, 2804:7278:6000::/35, proxy, no-resolve

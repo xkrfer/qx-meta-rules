@@ -1,20 +1,20 @@
-host-suffix, 71.am
-host-suffix, iqiyi.com
-host-suffix, iqiyipic.com
-host-suffix, pps.tv
-host-suffix, ppsimg.com
-host-suffix, qiyi.com
-host-suffix, qiyipic.com
-host-suffix, qy.net
-host-suffix, 71edge.com
-host-suffix, iq.com
-host-suffix, ad.m.iqiyi.com
-host-suffix, afp.iqiyi.com
-host-suffix, c.uaa.iqiyi.com
-host-suffix, cloudpush.iqiyi.com
-host-suffix, cupid.iqiyi.com
-host-suffix, ifacelog.iqiyi.com
-host-suffix, mbdlog.iqiyi.com
-host-suffix, msg.video.qiyi.com
-host-suffix, msg2.video.qiyi.com
-host-suffix, policy.video.iqiyi.com
+host-suffix, 71.am, proxy
+host-suffix, iqiyi.com, proxy
+host-suffix, iqiyipic.com, proxy
+host-suffix, pps.tv, proxy
+host-suffix, ppsimg.com, proxy
+host-suffix, qiyi.com, proxy
+host-suffix, qiyipic.com, proxy
+host-suffix, qy.net, proxy
+host-suffix, 71edge.com, proxy
+host-suffix, iq.com, proxy
+host-suffix, ad.m.iqiyi.com, proxy
+host-suffix, afp.iqiyi.com, proxy
+host-suffix, c.uaa.iqiyi.com, proxy
+host-suffix, cloudpush.iqiyi.com, proxy
+host-suffix, cupid.iqiyi.com, proxy
+host-suffix, ifacelog.iqiyi.com, proxy
+host-suffix, mbdlog.iqiyi.com, proxy
+host-suffix, msg.video.qiyi.com, proxy
+host-suffix, msg2.video.qiyi.com, proxy
+host-suffix, policy.video.iqiyi.com, proxy

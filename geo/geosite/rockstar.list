@@ -1,7 +1,7 @@
-host, gamedownloads-rockstargames-com.akamaized.net
-host, media-rockstargames-com.akamaized.net
-host, videos-rockstargames-com.akamaized.net
-host-suffix, rockstargames.com
-host-suffix, rockstarnorth.com
-host-suffix, rsg.ms
-host-suffix, rsg.sc
+host, gamedownloads-rockstargames-com.akamaized.net, proxy
+host, media-rockstargames-com.akamaized.net, proxy
+host, videos-rockstargames-com.akamaized.net, proxy
+host-suffix, rockstargames.com, proxy
+host-suffix, rockstarnorth.com, proxy
+host-suffix, rsg.ms, proxy
+host-suffix, rsg.sc, proxy

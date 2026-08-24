@@ -1,4 +1,4 @@
-ip-cidr, 78.104.145.0/24
-ip-cidr, 193.171.255.0/24
-ip6-cidr, 2001:628:453::/48
-ip6-cidr, 2001:628:2000::/48
+ip-cidr, 78.104.145.0/24, proxy, no-resolve
+ip-cidr, 193.171.255.0/24, proxy, no-resolve
+ip6-cidr, 2001:628:453::/48, proxy, no-resolve
+ip6-cidr, 2001:628:2000::/48, proxy, no-resolve

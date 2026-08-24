@@ -1,2 +1,2 @@
-ip-cidr, 94.143.200.0/21
-ip6-cidr, 2a03:3900::/32
+ip-cidr, 94.143.200.0/21, proxy, no-resolve
+ip6-cidr, 2a03:3900::/32, proxy, no-resolve

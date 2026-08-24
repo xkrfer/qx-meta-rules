@@ -1,3 +1,3 @@
-ip-cidr, 173.249.160.0/22
-ip6-cidr, 2001:470:a3::/48
-ip6-cidr, 2602:fb15::/36
+ip-cidr, 173.249.160.0/22, proxy, no-resolve
+ip6-cidr, 2001:470:a3::/48, proxy, no-resolve
+ip6-cidr, 2602:fb15::/36, proxy, no-resolve

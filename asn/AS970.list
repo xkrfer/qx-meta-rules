@@ -1,12 +1,12 @@
-ip-cidr, 104.37.40.0/24
-ip6-cidr, 2605:f440:5602::/47
-ip6-cidr, 2605:f440:5604::/46
-ip6-cidr, 2605:f440:5608::/45
-ip6-cidr, 2605:f440:5610::/44
-ip6-cidr, 2605:f440:5620::/43
-ip6-cidr, 2605:f440:5640::/44
-ip6-cidr, 2605:f440:5650::/47
-ip6-cidr, 2605:f440:5654::/46
-ip6-cidr, 2605:f440:5658::/45
-ip6-cidr, 2605:f440:5660::/43
-ip6-cidr, 2605:f440:5680::/41
+ip-cidr, 104.37.40.0/24, proxy, no-resolve
+ip6-cidr, 2605:f440:5602::/47, proxy, no-resolve
+ip6-cidr, 2605:f440:5604::/46, proxy, no-resolve
+ip6-cidr, 2605:f440:5608::/45, proxy, no-resolve
+ip6-cidr, 2605:f440:5610::/44, proxy, no-resolve
+ip6-cidr, 2605:f440:5620::/43, proxy, no-resolve
+ip6-cidr, 2605:f440:5640::/44, proxy, no-resolve
+ip6-cidr, 2605:f440:5650::/47, proxy, no-resolve
+ip6-cidr, 2605:f440:5654::/46, proxy, no-resolve
+ip6-cidr, 2605:f440:5658::/45, proxy, no-resolve
+ip6-cidr, 2605:f440:5660::/43, proxy, no-resolve
+ip6-cidr, 2605:f440:5680::/41, proxy, no-resolve

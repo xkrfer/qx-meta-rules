@@ -1,11 +1,11 @@
-host-suffix, unity.com
-host-suffix, unity3d.com
-host-suffix, analytics.cloud.unity3d.com
-host-suffix, api2.amplitude.com
-host-suffix, config.uca.cloud.unity3d.com
-host-suffix, cdp.cloud.unity3d.com
-host-suffix, prd-lender.cdp.internal.unity3d.com
-host-suffix, iads.unity3d.com
-host-suffix, perf.cloud.unity3d.com
-host-suffix, perf-events.cloud.unity3d.com
-host-suffix, unityads.unity3d.com
+host-suffix, unity.com, proxy
+host-suffix, unity3d.com, proxy
+host-suffix, analytics.cloud.unity3d.com, proxy
+host-suffix, api2.amplitude.com, proxy
+host-suffix, config.uca.cloud.unity3d.com, proxy
+host-suffix, cdp.cloud.unity3d.com, proxy
+host-suffix, prd-lender.cdp.internal.unity3d.com, proxy
+host-suffix, iads.unity3d.com, proxy
+host-suffix, perf.cloud.unity3d.com, proxy
+host-suffix, perf-events.cloud.unity3d.com, proxy
+host-suffix, unityads.unity3d.com, proxy

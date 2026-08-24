@@ -1,10 +1,10 @@
-host-suffix, htx.com
-host-suffix, hbabit.com
-host-suffix, hbfile.net
-host-suffix, huobi.com
-host-suffix, huobi.me
-host-suffix, huobi.pro
-host-suffix, huobi.sc
-host-suffix, huobiasia.vip
-host-suffix, huobigroup.com
-host-suffix, huobitoken.com
+host-suffix, htx.com, proxy
+host-suffix, hbabit.com, proxy
+host-suffix, hbfile.net, proxy
+host-suffix, huobi.com, proxy
+host-suffix, huobi.me, proxy
+host-suffix, huobi.pro, proxy
+host-suffix, huobi.sc, proxy
+host-suffix, huobiasia.vip, proxy
+host-suffix, huobigroup.com, proxy
+host-suffix, huobitoken.com, proxy

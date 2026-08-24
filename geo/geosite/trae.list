@@ -1,12 +1,12 @@
-host-suffix, doudou.com
-host-suffix, marscode.cn
-host-suffix, mcbaas.work
-host-suffix, mcdemo.show
-host-suffix, mchost.guru
-host-suffix, mcprev.cn
-host-suffix, tcwqqdy.guru
-host-suffix, trae.cn
-host-suffix, trae.guru
-host-suffix, yoma.cn
-host-suffix, marscode.com.cn
-host-suffix, trae.com.cn
+host-suffix, doudou.com, proxy
+host-suffix, marscode.cn, proxy
+host-suffix, mcbaas.work, proxy
+host-suffix, mcdemo.show, proxy
+host-suffix, mchost.guru, proxy
+host-suffix, mcprev.cn, proxy
+host-suffix, tcwqqdy.guru, proxy
+host-suffix, trae.cn, proxy
+host-suffix, trae.guru, proxy
+host-suffix, yoma.cn, proxy
+host-suffix, marscode.com.cn, proxy
+host-suffix, trae.com.cn, proxy

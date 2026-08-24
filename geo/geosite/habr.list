@@ -1,2 +1,2 @@
-host-suffix, habr.com
-host-suffix, habrastorage.org
+host-suffix, habr.com, proxy
+host-suffix, habrastorage.org, proxy

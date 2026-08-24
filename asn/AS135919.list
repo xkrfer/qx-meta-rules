@@ -1,1 +1,1 @@
-ip-cidr, 103.95.168.0/22
+ip-cidr, 103.95.168.0/22, proxy, no-resolve

@@ -1,29 +1,29 @@
-host-suffix, 51cdn.com
-host-suffix, 8686c.com
-host-suffix, cdn20.com
-host-suffix, cdn30.org
-host-suffix, cdnmg.com
-host-suffix, chinanetcenter.com
-host-suffix, lxdns.cn
-host-suffix, lxdns.com
-host-suffix, lxdns.info
-host-suffix, lxdns.net
-host-suffix, lxdns.org
-host-suffix, mwcdns.com
-host-suffix, mwcloudcdn.com
-host-suffix, npsv6.com
-host-suffix, ourdvsss.com
-host-suffix, qtlcdn.cn
-host-suffix, qtlcdn.com
-host-suffix, qtlcdn.net
-host-suffix, speedws.info
-host-suffix, speedws.org
-host-suffix, wangsu.com
-host-suffix, wscdns.com
-host-suffix, wscdns.info
-host-suffix, wscdns.org
-host-suffix, wsdvs.com
-host-suffix, wsglb.com
-host-suffix, wsglb.net
-host-suffix, wswebcdn.com
-host-suffix, wswebpic.com
+host-suffix, 51cdn.com, proxy
+host-suffix, 8686c.com, proxy
+host-suffix, cdn20.com, proxy
+host-suffix, cdn30.org, proxy
+host-suffix, cdnmg.com, proxy
+host-suffix, chinanetcenter.com, proxy
+host-suffix, lxdns.cn, proxy
+host-suffix, lxdns.com, proxy
+host-suffix, lxdns.info, proxy
+host-suffix, lxdns.net, proxy
+host-suffix, lxdns.org, proxy
+host-suffix, mwcdns.com, proxy
+host-suffix, mwcloudcdn.com, proxy
+host-suffix, npsv6.com, proxy
+host-suffix, ourdvsss.com, proxy
+host-suffix, qtlcdn.cn, proxy
+host-suffix, qtlcdn.com, proxy
+host-suffix, qtlcdn.net, proxy
+host-suffix, speedws.info, proxy
+host-suffix, speedws.org, proxy
+host-suffix, wangsu.com, proxy
+host-suffix, wscdns.com, proxy
+host-suffix, wscdns.info, proxy
+host-suffix, wscdns.org, proxy
+host-suffix, wsdvs.com, proxy
+host-suffix, wsglb.com, proxy
+host-suffix, wsglb.net, proxy
+host-suffix, wswebcdn.com, proxy
+host-suffix, wswebpic.com, proxy

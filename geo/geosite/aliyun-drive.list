@@ -1,6 +1,6 @@
-host-suffix, alicloudccp.com
-host-suffix, alipan.com
-host-suffix, aliyundrive.cloud
-host-suffix, aliyundrive.com
-host-suffix, aliyundrive.net
-host-suffix, yunpan.aliyun.com
+host-suffix, alicloudccp.com, proxy
+host-suffix, alipan.com, proxy
+host-suffix, aliyundrive.cloud, proxy
+host-suffix, aliyundrive.com, proxy
+host-suffix, aliyundrive.net, proxy
+host-suffix, yunpan.aliyun.com, proxy

@@ -1,9 +1,9 @@
-host-suffix, lysol.ca
-host-suffix, lysol.cl
-host-suffix, lysol.com
-host-suffix, lysol.net
-host-suffix, lizol.co.in
-host-suffix, lysol.co.cr
-host-suffix, lysol.com.mx
-host-suffix, lysol.cn
-host-suffix, lysol.com.cn
+host-suffix, lysol.ca, proxy
+host-suffix, lysol.cl, proxy
+host-suffix, lysol.com, proxy
+host-suffix, lysol.net, proxy
+host-suffix, lizol.co.in, proxy
+host-suffix, lysol.co.cr, proxy
+host-suffix, lysol.com.mx, proxy
+host-suffix, lysol.cn, proxy
+host-suffix, lysol.com.cn, proxy

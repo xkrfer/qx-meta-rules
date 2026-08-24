@@ -1,7 +1,7 @@
-host-suffix, hk.weibo.com
-host-suffix, my.weibo.com
-host-suffix, overseas.weibo.com
-host-suffix, sg.weibo.com
-host-suffix, th.weibo.com
-host-suffix, tw.weibo.com
-host-suffix, us.weibo.com
+host-suffix, hk.weibo.com, proxy
+host-suffix, my.weibo.com, proxy
+host-suffix, overseas.weibo.com, proxy
+host-suffix, sg.weibo.com, proxy
+host-suffix, th.weibo.com, proxy
+host-suffix, tw.weibo.com, proxy
+host-suffix, us.weibo.com, proxy

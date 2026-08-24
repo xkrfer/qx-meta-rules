@@ -1,2 +1,2 @@
-ip6-cidr, 2602:feda:b8e::/48
-ip6-cidr, 2a0e:f43::/48
+ip6-cidr, 2602:feda:b8e::/48, proxy, no-resolve
+ip6-cidr, 2a0e:f43::/48, proxy, no-resolve

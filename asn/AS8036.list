@@ -1,11 +1,11 @@
-ip-cidr, 129.244.0.0/18
-ip-cidr, 129.244.64.0/19
-ip-cidr, 129.244.96.0/22
-ip-cidr, 129.244.100.0/23
-ip-cidr, 129.244.102.0/24
-ip-cidr, 129.244.105.0/24
-ip-cidr, 129.244.107.0/24
-ip-cidr, 129.244.108.0/22
-ip-cidr, 129.244.112.0/20
-ip-cidr, 129.244.128.0/17
-ip6-cidr, 2605:e340::/40
+ip-cidr, 129.244.0.0/18, proxy, no-resolve
+ip-cidr, 129.244.64.0/19, proxy, no-resolve
+ip-cidr, 129.244.96.0/22, proxy, no-resolve
+ip-cidr, 129.244.100.0/23, proxy, no-resolve
+ip-cidr, 129.244.102.0/24, proxy, no-resolve
+ip-cidr, 129.244.105.0/24, proxy, no-resolve
+ip-cidr, 129.244.107.0/24, proxy, no-resolve
+ip-cidr, 129.244.108.0/22, proxy, no-resolve
+ip-cidr, 129.244.112.0/20, proxy, no-resolve
+ip-cidr, 129.244.128.0/17, proxy, no-resolve
+ip6-cidr, 2605:e340::/40, proxy, no-resolve

@@ -1,6 +1,6 @@
-host-suffix, viber.com
-host-suffix, viber.co
-host-suffix, viber.me
-host-suffix, vbcdn.com
-host-suffix, vbcdn.net
-host-suffix, s-bid.rmp.rakuten.com
+host-suffix, viber.com, proxy
+host-suffix, viber.co, proxy
+host-suffix, viber.me, proxy
+host-suffix, vbcdn.com, proxy
+host-suffix, vbcdn.net, proxy
+host-suffix, s-bid.rmp.rakuten.com, proxy

@@ -1,2 +1,2 @@
-host-suffix, graph.instagram.com
-host-suffix, graph-fallback.instagram.com
+host-suffix, graph.instagram.com, proxy
+host-suffix, graph-fallback.instagram.com, proxy

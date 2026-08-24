@@ -1,179 +1,179 @@
-host, servd-anthropic-website.b-cdn.net
-host, ppl-ai-file-upload.s3.amazonaws.com
-host, pplx-res.cloudinary.com
-host, openaiapi-site.azureedge.net
-host, openaiassets.blob.core.windows.net
-host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-host, openaicom.imgix.net
-host, openaicomproductionae4b.blob.core.windows.net
-host, production-openaicom-storage.azureedge.net
-host, copilot-proxy.githubusercontent.com
-host, copilot-workspace.githubnext.com
-host, copilotprodattachments.blob.core.windows.net
-host, ai.google.dev
-host, alkalicore-pa.clients6.google.com
-host, alkalimakersuite-pa.clients6.google.com
-host, webchannel-alkalimakersuite-pa.clients6.google.com
-host, cloudaicompanion.googleapis.com
-host, cloudcode-pa.googleapis.com
-host, daily-cloudcode-pa.googleapis.com
-host, notebooklm-pa.googleapis.com
-host, notebooklm.googleapis.com
-host, antigravity-pa.googleapis.com
-host, antigravity.googleapis.com
-host-suffix, liveperson.net
-host-suffix, lpsnmedia.net
-host-suffix, cohere.com
-host-suffix, copilot-stg.com
-host-suffix, copilot.com
-host-suffix, deepwiki.com
-host-suffix, deepwiki.org
-host-suffix, clipdrop.co
-host-suffix, jasper.ai
-host-suffix, kimi.ai
-host-suffix, moonshot.ai
-host-suffix, agentclientprotocol.com
-host-suffix, anythingllm.com
-host-suffix, arena.ai
-host-suffix, chutes.ai
-host-suffix, clawhub.ai
-host-suffix, crewai.com
-host-suffix, devin.ai
-host-suffix, diabrowser.com
-host-suffix, diabrowser.engineering
-host-suffix, dify.ai
-host-suffix, dreamgen.com
-host-suffix, duck.ai
-host-suffix, h2o.ai
-host-suffix, youmind.site
-host-suffix, youmind.com
-host-suffix, youmind.ai
-host-suffix, kiro.dev
-host-suffix, langchain.com
-host-suffix, lmstudio.ai
-host-suffix, lovart.ai
-host-suffix, meta.ai
-host-suffix, midjourney.com
-host-suffix, minimax.io
-host-suffix, mistral.ai
-host-suffix, mozilla.ai
-host-suffix, notegpt.io
-host-suffix, novelai.net
-host-suffix, ollama.com
-host-suffix, openart.ai
-host-suffix, openclaw.ai
-host-suffix, openrouter.ai
-host-suffix, openspec.dev
-host-suffix, plannotator.ai
-host-suffix, qoder.com
-host-suffix, sider.ai
-host-suffix, spicywriter.com
-host-suffix, talkai.info
-host-suffix, tapnow.ai
-host-suffix, tripo3d.ai
-host-suffix, anthropic.com
-host-suffix, clau.de
-host-suffix, claude.ai
-host-suffix, claude.com
-host-suffix, claudemcpclient.com
-host-suffix, claudemcpcontent.com
-host-suffix, claudeusercontent.com
-host-suffix, grazie.ai
-host-suffix, jetbrains.ai
-host-suffix, huggingface.co
-host-suffix, hf.space
-host-suffix, perplexity.ai
-host-suffix, perplexity.com
-host-suffix, pplx.ai
-host-suffix, comfy.org
-host-suffix, comfyci.org
-host-suffix, comfyregistry.org
-host-suffix, oystermercury.top
-host-suffix, envato-static.com
-host-suffix, envato.com
-host-suffix, oaistatsig.com
-host-suffix, cohere.ai
-host-suffix, chat.com
-host-suffix, themeforest.net
-host-suffix, oaiusercontent.com
-host-suffix, chatgpt.com
-host-suffix, chatgpt.site
-host-suffix, crixet.com
-host-suffix, oaistatic.com
-host-suffix, envatousercontent.com
-host-suffix, coderabbit.ai
-host-suffix, openai.com
-host-suffix, sora.com
-host-suffix, hf.co
-host-suffix, manuscdn.com
-host-suffix, manus.im
-host-suffix, groq.com
-host-suffix, poe.com
-host-suffix, poecdn.net
-host-suffix, codeium.com
-host-suffix, codeiumdata.com
-host-suffix, windsurf.build
-host-suffix, windsurf.com
-host-suffix, grok.com
-host-suffix, grokipedia.com
-host-suffix, x.ai
-host-suffix, gemini.google
-host-suffix, cerebras.ai
-host-suffix, cursor-cdn.com
-host-suffix, cursor.com
-host-suffix, cursor.sh
-host-suffix, cursorapi.com
-host-suffix, elevenlabs.com
-host-suffix, elevenlabs.io
-host-suffix, githubcopilot.com
-host-suffix, notebooklm.google
-host-suffix, deepmind.google
-host-suffix, antigravity-unleash.goog
-host-suffix, antigravity.google
-host-suffix, opal.google
-host-suffix, flow.google
-host-suffix, generativeai.google
-host-suffix, deepmind.com
-host-suffix, ai.studio
-host-suffix, labs.google
-host-suffix, jules.google
-host-suffix, stitch.withgoogle.com
-host-suffix, aisandbox-pa.googleapis.com
-host-suffix, robinfrontend-pa.googleapis.com
-host-suffix, notebook.google.com
-host-suffix, opal.google.com
-host-suffix, notebooklm.google.com
-host-suffix, bard.google.com
-host-suffix, jules.google.com
-host-suffix, aistudio.google.com
-host-suffix, labs.google.com
-host-suffix, gemini.gstatic.com
-host-suffix, copilot.microsoft.com
-host-suffix, makersuite.google.com
-host-suffix, aicode.googleapis.com
-host-suffix, gemini.google.com
-host-suffix, aida.googleapis.com
-host-suffix, generativelanguage.googleapis.com
-host-suffix, geller-pa.googleapis.com
-host-suffix, proactivebackend-pa.googleapis.com
-host-suffix, copilot.cloud.microsoft
-host-suffix, turn.livekit.cloud
-host-suffix, host.livekit.cloud
-host-suffix, chatgpt.livekit.cloud
-host-suffix, grok.x.com
-host-suffix, grazie.aws.intellij.net
-host-suffix, coderabbit.gallery.vsassets.io
-host-suffix, gateway.ai.cloudflare.com
-host-suffix, openai.com.cdn.cloudflare.net
-host, browser-intake-datadoghq.com
-host, o33249.ingest.sentry.io
-host, openai.qualtrics.com
-host-suffix, coze.com
-host-suffix, marscode.com
-host-suffix, trae.ai
-host-suffix, cici.com
-host-suffix, ciciai.com
-host-suffix, ciciaicdn.com
-host-suffix, dola.com
-host, copilot-telemetry-service.githubusercontent.com
-host, copilot-telemetry.githubusercontent.com
+host, servd-anthropic-website.b-cdn.net, proxy
+host, ppl-ai-file-upload.s3.amazonaws.com, proxy
+host, pplx-res.cloudinary.com, proxy
+host, openaiapi-site.azureedge.net, proxy
+host, openaiassets.blob.core.windows.net, proxy
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, proxy
+host, openaicom.imgix.net, proxy
+host, openaicomproductionae4b.blob.core.windows.net, proxy
+host, production-openaicom-storage.azureedge.net, proxy
+host, copilot-proxy.githubusercontent.com, proxy
+host, copilot-workspace.githubnext.com, proxy
+host, copilotprodattachments.blob.core.windows.net, proxy
+host, ai.google.dev, proxy
+host, alkalicore-pa.clients6.google.com, proxy
+host, alkalimakersuite-pa.clients6.google.com, proxy
+host, webchannel-alkalimakersuite-pa.clients6.google.com, proxy
+host, cloudaicompanion.googleapis.com, proxy
+host, cloudcode-pa.googleapis.com, proxy
+host, daily-cloudcode-pa.googleapis.com, proxy
+host, notebooklm-pa.googleapis.com, proxy
+host, notebooklm.googleapis.com, proxy
+host, antigravity-pa.googleapis.com, proxy
+host, antigravity.googleapis.com, proxy
+host-suffix, liveperson.net, proxy
+host-suffix, lpsnmedia.net, proxy
+host-suffix, cohere.com, proxy
+host-suffix, copilot-stg.com, proxy
+host-suffix, copilot.com, proxy
+host-suffix, deepwiki.com, proxy
+host-suffix, deepwiki.org, proxy
+host-suffix, clipdrop.co, proxy
+host-suffix, jasper.ai, proxy
+host-suffix, kimi.ai, proxy
+host-suffix, moonshot.ai, proxy
+host-suffix, agentclientprotocol.com, proxy
+host-suffix, anythingllm.com, proxy
+host-suffix, arena.ai, proxy
+host-suffix, chutes.ai, proxy
+host-suffix, clawhub.ai, proxy
+host-suffix, crewai.com, proxy
+host-suffix, devin.ai, proxy
+host-suffix, diabrowser.com, proxy
+host-suffix, diabrowser.engineering, proxy
+host-suffix, dify.ai, proxy
+host-suffix, dreamgen.com, proxy
+host-suffix, duck.ai, proxy
+host-suffix, h2o.ai, proxy
+host-suffix, youmind.site, proxy
+host-suffix, youmind.com, proxy
+host-suffix, youmind.ai, proxy
+host-suffix, kiro.dev, proxy
+host-suffix, langchain.com, proxy
+host-suffix, lmstudio.ai, proxy
+host-suffix, lovart.ai, proxy
+host-suffix, meta.ai, proxy
+host-suffix, midjourney.com, proxy
+host-suffix, minimax.io, proxy
+host-suffix, mistral.ai, proxy
+host-suffix, mozilla.ai, proxy
+host-suffix, notegpt.io, proxy
+host-suffix, novelai.net, proxy
+host-suffix, ollama.com, proxy
+host-suffix, openart.ai, proxy
+host-suffix, openclaw.ai, proxy
+host-suffix, openrouter.ai, proxy
+host-suffix, openspec.dev, proxy
+host-suffix, plannotator.ai, proxy
+host-suffix, qoder.com, proxy
+host-suffix, sider.ai, proxy
+host-suffix, spicywriter.com, proxy
+host-suffix, talkai.info, proxy
+host-suffix, tapnow.ai, proxy
+host-suffix, tripo3d.ai, proxy
+host-suffix, anthropic.com, proxy
+host-suffix, clau.de, proxy
+host-suffix, claude.ai, proxy
+host-suffix, claude.com, proxy
+host-suffix, claudemcpclient.com, proxy
+host-suffix, claudemcpcontent.com, proxy
+host-suffix, claudeusercontent.com, proxy
+host-suffix, grazie.ai, proxy
+host-suffix, jetbrains.ai, proxy
+host-suffix, huggingface.co, proxy
+host-suffix, hf.space, proxy
+host-suffix, perplexity.ai, proxy
+host-suffix, perplexity.com, proxy
+host-suffix, pplx.ai, proxy
+host-suffix, comfy.org, proxy
+host-suffix, comfyci.org, proxy
+host-suffix, comfyregistry.org, proxy
+host-suffix, oystermercury.top, proxy
+host-suffix, envato-static.com, proxy
+host-suffix, envato.com, proxy
+host-suffix, oaistatsig.com, proxy
+host-suffix, cohere.ai, proxy
+host-suffix, chat.com, proxy
+host-suffix, themeforest.net, proxy
+host-suffix, oaiusercontent.com, proxy
+host-suffix, chatgpt.com, proxy
+host-suffix, chatgpt.site, proxy
+host-suffix, crixet.com, proxy
+host-suffix, oaistatic.com, proxy
+host-suffix, envatousercontent.com, proxy
+host-suffix, coderabbit.ai, proxy
+host-suffix, openai.com, proxy
+host-suffix, sora.com, proxy
+host-suffix, hf.co, proxy
+host-suffix, manuscdn.com, proxy
+host-suffix, manus.im, proxy
+host-suffix, groq.com, proxy
+host-suffix, poe.com, proxy
+host-suffix, poecdn.net, proxy
+host-suffix, codeium.com, proxy
+host-suffix, codeiumdata.com, proxy
+host-suffix, windsurf.build, proxy
+host-suffix, windsurf.com, proxy
+host-suffix, grok.com, proxy
+host-suffix, grokipedia.com, proxy
+host-suffix, x.ai, proxy
+host-suffix, gemini.google, proxy
+host-suffix, cerebras.ai, proxy
+host-suffix, cursor-cdn.com, proxy
+host-suffix, cursor.com, proxy
+host-suffix, cursor.sh, proxy
+host-suffix, cursorapi.com, proxy
+host-suffix, elevenlabs.com, proxy
+host-suffix, elevenlabs.io, proxy
+host-suffix, githubcopilot.com, proxy
+host-suffix, notebooklm.google, proxy
+host-suffix, deepmind.google, proxy
+host-suffix, antigravity-unleash.goog, proxy
+host-suffix, antigravity.google, proxy
+host-suffix, opal.google, proxy
+host-suffix, flow.google, proxy
+host-suffix, generativeai.google, proxy
+host-suffix, deepmind.com, proxy
+host-suffix, ai.studio, proxy
+host-suffix, labs.google, proxy
+host-suffix, jules.google, proxy
+host-suffix, stitch.withgoogle.com, proxy
+host-suffix, aisandbox-pa.googleapis.com, proxy
+host-suffix, robinfrontend-pa.googleapis.com, proxy
+host-suffix, notebook.google.com, proxy
+host-suffix, opal.google.com, proxy
+host-suffix, notebooklm.google.com, proxy
+host-suffix, bard.google.com, proxy
+host-suffix, jules.google.com, proxy
+host-suffix, aistudio.google.com, proxy
+host-suffix, labs.google.com, proxy
+host-suffix, gemini.gstatic.com, proxy
+host-suffix, copilot.microsoft.com, proxy
+host-suffix, makersuite.google.com, proxy
+host-suffix, aicode.googleapis.com, proxy
+host-suffix, gemini.google.com, proxy
+host-suffix, aida.googleapis.com, proxy
+host-suffix, generativelanguage.googleapis.com, proxy
+host-suffix, geller-pa.googleapis.com, proxy
+host-suffix, proactivebackend-pa.googleapis.com, proxy
+host-suffix, copilot.cloud.microsoft, proxy
+host-suffix, turn.livekit.cloud, proxy
+host-suffix, host.livekit.cloud, proxy
+host-suffix, chatgpt.livekit.cloud, proxy
+host-suffix, grok.x.com, proxy
+host-suffix, grazie.aws.intellij.net, proxy
+host-suffix, coderabbit.gallery.vsassets.io, proxy
+host-suffix, gateway.ai.cloudflare.com, proxy
+host-suffix, openai.com.cdn.cloudflare.net, proxy
+host, browser-intake-datadoghq.com, proxy
+host, o33249.ingest.sentry.io, proxy
+host, openai.qualtrics.com, proxy
+host-suffix, coze.com, proxy
+host-suffix, marscode.com, proxy
+host-suffix, trae.ai, proxy
+host-suffix, cici.com, proxy
+host-suffix, ciciai.com, proxy
+host-suffix, ciciaicdn.com, proxy
+host-suffix, dola.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy

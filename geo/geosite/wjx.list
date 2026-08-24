@@ -1,4 +1,4 @@
-host-suffix, sojump.com
-host-suffix, wjx.cn
-host-suffix, wjx.com
-host-suffix, wjx.top
+host-suffix, sojump.com, proxy
+host-suffix, wjx.cn, proxy
+host-suffix, wjx.com, proxy
+host-suffix, wjx.top, proxy

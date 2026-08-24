@@ -1,5 +1,5 @@
-host-suffix, apress.com
-host-suffix, springer.com
-host-suffix, springerlink.com
-host-suffix, springernature.com
-host-suffix, wkap.nl
+host-suffix, apress.com, proxy
+host-suffix, springer.com, proxy
+host-suffix, springerlink.com, proxy
+host-suffix, springernature.com, proxy
+host-suffix, wkap.nl, proxy

@@ -1,6 +1,6 @@
-ip-cidr, 212.69.64.0/21
-ip-cidr, 212.69.72.0/22
-ip-cidr, 212.69.76.0/24
-ip-cidr, 212.69.78.0/23
-ip-cidr, 212.69.80.0/23
-ip6-cidr, 2001:4028::/29
+ip-cidr, 212.69.64.0/21, proxy, no-resolve
+ip-cidr, 212.69.72.0/22, proxy, no-resolve
+ip-cidr, 212.69.76.0/24, proxy, no-resolve
+ip-cidr, 212.69.78.0/23, proxy, no-resolve
+ip-cidr, 212.69.80.0/23, proxy, no-resolve
+ip6-cidr, 2001:4028::/29, proxy, no-resolve

@@ -1,16 +1,16 @@
-host-suffix, ctrip.co.id
-host-suffix, ctrip.co.kr
-host-suffix, ctrip.co.th
-host-suffix, ctrip.com.hk
-host-suffix, ctrip.my
-host-suffix, ctrip.sg
-host-suffix, ctripbuy.hk
-host-suffix, hhtravel.com.tw
-host-suffix, trip.com
-host-suffix, ak-p.tripcdn.com
-host-suffix, ak-s-cw.tripcdn.com
-host-suffix, ak-s.tripcdn.com
-host-suffix, akatest.tripcdn.com
-host-suffix, aw-d.tripcdn.com
-host-suffix, aw-p.tripcdn.com
-host-suffix, aw-s.tripcdn.com
+host-suffix, ctrip.co.id, proxy
+host-suffix, ctrip.co.kr, proxy
+host-suffix, ctrip.co.th, proxy
+host-suffix, ctrip.com.hk, proxy
+host-suffix, ctrip.my, proxy
+host-suffix, ctrip.sg, proxy
+host-suffix, ctripbuy.hk, proxy
+host-suffix, hhtravel.com.tw, proxy
+host-suffix, trip.com, proxy
+host-suffix, ak-p.tripcdn.com, proxy
+host-suffix, ak-s-cw.tripcdn.com, proxy
+host-suffix, ak-s.tripcdn.com, proxy
+host-suffix, akatest.tripcdn.com, proxy
+host-suffix, aw-d.tripcdn.com, proxy
+host-suffix, aw-p.tripcdn.com, proxy
+host-suffix, aw-s.tripcdn.com, proxy

@@ -1,5 +1,5 @@
-host-suffix, restream-media.net
-host-suffix, restream.ru
-host-suffix, more.tv
-host-suffix, wink.am
-host-suffix, wink.ru
+host-suffix, restream-media.net, proxy
+host-suffix, restream.ru, proxy
+host-suffix, more.tv, proxy
+host-suffix, wink.am, proxy
+host-suffix, wink.ru, proxy

@@ -1,11 +1,11 @@
-host-suffix, moscow
-host-suffix, ru
-host-suffix, su
-host-suffix, tatar
-host-suffix, xn--80adxhks
-host-suffix, xn--80asehdb
-host-suffix, xn--80aswg
-host-suffix, xn--c1avg
-host-suffix, xn--d1acj3b
-host-suffix, xn--p1acf
-host-suffix, xn--p1ai
+host-suffix, moscow, proxy
+host-suffix, ru, proxy
+host-suffix, su, proxy
+host-suffix, tatar, proxy
+host-suffix, xn--80adxhks, proxy
+host-suffix, xn--80asehdb, proxy
+host-suffix, xn--80aswg, proxy
+host-suffix, xn--c1avg, proxy
+host-suffix, xn--d1acj3b, proxy
+host-suffix, xn--p1acf, proxy
+host-suffix, xn--p1ai, proxy

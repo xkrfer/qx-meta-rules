@@ -1,3 +1,3 @@
-ip-cidr, 194.147.136.0/23
-ip6-cidr, 2a07:e480::/48
-ip6-cidr, 2a07:e480:100::/48
+ip-cidr, 194.147.136.0/23, proxy, no-resolve
+ip6-cidr, 2a07:e480::/48, proxy, no-resolve
+ip6-cidr, 2a07:e480:100::/48, proxy, no-resolve

@@ -1,1 +1,1 @@
-ip6-cidr, 2607:1d00::/32
+ip6-cidr, 2607:1d00::/32, proxy, no-resolve

@@ -1,6 +1,6 @@
-host-suffix, sto-express.cn
-host-suffix, sto-express.com
-host-suffix, sto.cn
-host-suffix, stointl.com
-host-suffix, stosolution.com
-host-suffix, sto-express.com.cn
+host-suffix, sto-express.cn, proxy
+host-suffix, sto-express.com, proxy
+host-suffix, sto.cn, proxy
+host-suffix, stointl.com, proxy
+host-suffix, stosolution.com, proxy
+host-suffix, sto-express.com.cn, proxy

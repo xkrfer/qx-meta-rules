@@ -1,9 +1,9 @@
-host-suffix, yo-star.com
-host-suffix, yostar.net
-host-suffix, yostarplat.com
-host-suffix, stargazer-games.com
-host-suffix, stellasora.global
-host-suffix, stellasora.jp
-host-suffix, yostar.co.jp
-host-suffix, yostar-pictures.co.jp
-host-suffix, yostar.cn
+host-suffix, yo-star.com, proxy
+host-suffix, yostar.net, proxy
+host-suffix, yostarplat.com, proxy
+host-suffix, stargazer-games.com, proxy
+host-suffix, stellasora.global, proxy
+host-suffix, stellasora.jp, proxy
+host-suffix, yostar.co.jp, proxy
+host-suffix, yostar-pictures.co.jp, proxy
+host-suffix, yostar.cn, proxy

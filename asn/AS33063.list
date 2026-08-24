@@ -1,2 +1,2 @@
-ip6-cidr, 2604:3e0:10::/44
-ip6-cidr, 2604:3e0:100::/40
+ip6-cidr, 2604:3e0:10::/44, proxy, no-resolve
+ip6-cidr, 2604:3e0:100::/40, proxy, no-resolve

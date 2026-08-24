@@ -1,2 +1,2 @@
-host-suffix, youku.tv
-host-suffix, youkuplay.com
+host-suffix, youku.tv, proxy
+host-suffix, youkuplay.com, proxy

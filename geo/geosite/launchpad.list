@@ -1,5 +1,5 @@
-host-suffix, launchpad.net
-host-suffix, launchpadcontent.net
-host-suffix, launchpadlibrarian.com
-host-suffix, launchpadlibrarian.net
-host-suffix, launchpadlibrarian.org
+host-suffix, launchpad.net, proxy
+host-suffix, launchpadcontent.net, proxy
+host-suffix, launchpadlibrarian.com, proxy
+host-suffix, launchpadlibrarian.net, proxy
+host-suffix, launchpadlibrarian.org, proxy

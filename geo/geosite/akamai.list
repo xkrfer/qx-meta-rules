@@ -1,81 +1,81 @@
-host-suffix, ak1.net
-host-suffix, aka-ai.com
-host-suffix, aka-ai.net
-host-suffix, akacrypto.net
-host-suffix, akadeem.net
-host-suffix, akadns.com
-host-suffix, akadns.net
-host-suffix, akadns6.net
-host-suffix, akaeai.com
-host-suffix, akafms.net
-host-suffix, akagtm.org
-host-suffix, akahost.net
-host-suffix, akaint.net
-host-suffix, akam.net
-host-suffix, akamaa.com
-host-suffix, akamah.com
-host-suffix, akamak.com
-host-suffix, akamam.com
-host-suffix, akamai-access.com
-host-suffix, akamai-access.net
-host-suffix, akamai-cdn.com
-host-suffix, akamai-platform-internal.net
-host-suffix, akamai-platform-staging.com
-host-suffix, akamai-platform.net
-host-suffix, akamai-regression.net
-host-suffix, akamai-staging.net
-host-suffix, akamai-sucks.net
-host-suffix, akamai-thailand.com
-host-suffix, akamai-thailand.net
-host-suffix, akamai-trials.com
-host-suffix, akamai.net
-host-suffix, akamaiedge.net
-host-suffix, akamaientrypoint.net
-host-suffix, akamaietpcnctest.com
-host-suffix, akamaietpcompromisedcnctest.com
-host-suffix, akamaietpcompromisedmalwaretest.com
-host-suffix, akamaietpmalwaretest.com
-host-suffix, akamaietpphishingtest.com
-host-suffix, akamaihd-staging.net
-host-suffix, akamaihd.com
-host-suffix, akamaihd.net
-host-suffix, akamaimagicmath.net
-host-suffix, akamainewzealand.com
-host-suffix, akamaiphillipines.com
-host-suffix, akamaiphillipines.net
-host-suffix, akamaitech.com
-host-suffix, akamaitech.net
-host-suffix, akamaitechnologies.com
-host-suffix, akamaitechnologies.net
-host-suffix, akamaisingapore.net
-host-suffix, akamaistream.net
-host-suffix, akamaized-staging.net
-host-suffix, akamaized.net
-host-suffix, akamaizercentral.com
-host-suffix, akamci.com
-host-suffix, akami.com
-host-suffix, akami.net
-host-suffix, akamii.com
-host-suffix, akamqi.com
-host-suffix, akastream.com
-host-suffix, akastream.net
-host-suffix, akatns.net
-host-suffix, akstat.io
-host-suffix, edgekey.net
-host-suffix, edgesuite.net
-host-suffix, iamakamai.com
-host-suffix, iamakamai.net
-host-suffix, soasta-dswb.com
-host-suffix, srtcdn.net
-host-suffix, akamai.co.kr
-host-suffix, accdn.com.cn
-host-suffix, akadns88.net
-host-suffix, akadns99.net
-host-suffix, akamai.com
-host-suffix, akcdn.com.cn
-host-suffix, aptdn.net
-host-suffix, edgekey88.net
-host-suffix, janrain.biz
-host-suffix, janrainservices.com
-host-suffix, skycdn.com.cn
-host-suffix, tl88.net
+host-suffix, ak1.net, proxy
+host-suffix, aka-ai.com, proxy
+host-suffix, aka-ai.net, proxy
+host-suffix, akacrypto.net, proxy
+host-suffix, akadeem.net, proxy
+host-suffix, akadns.com, proxy
+host-suffix, akadns.net, proxy
+host-suffix, akadns6.net, proxy
+host-suffix, akaeai.com, proxy
+host-suffix, akafms.net, proxy
+host-suffix, akagtm.org, proxy
+host-suffix, akahost.net, proxy
+host-suffix, akaint.net, proxy
+host-suffix, akam.net, proxy
+host-suffix, akamaa.com, proxy
+host-suffix, akamah.com, proxy
+host-suffix, akamak.com, proxy
+host-suffix, akamam.com, proxy
+host-suffix, akamai-access.com, proxy
+host-suffix, akamai-access.net, proxy
+host-suffix, akamai-cdn.com, proxy
+host-suffix, akamai-platform-internal.net, proxy
+host-suffix, akamai-platform-staging.com, proxy
+host-suffix, akamai-platform.net, proxy
+host-suffix, akamai-regression.net, proxy
+host-suffix, akamai-staging.net, proxy
+host-suffix, akamai-sucks.net, proxy
+host-suffix, akamai-thailand.com, proxy
+host-suffix, akamai-thailand.net, proxy
+host-suffix, akamai-trials.com, proxy
+host-suffix, akamai.net, proxy
+host-suffix, akamaiedge.net, proxy
+host-suffix, akamaientrypoint.net, proxy
+host-suffix, akamaietpcnctest.com, proxy
+host-suffix, akamaietpcompromisedcnctest.com, proxy
+host-suffix, akamaietpcompromisedmalwaretest.com, proxy
+host-suffix, akamaietpmalwaretest.com, proxy
+host-suffix, akamaietpphishingtest.com, proxy
+host-suffix, akamaihd-staging.net, proxy
+host-suffix, akamaihd.com, proxy
+host-suffix, akamaihd.net, proxy
+host-suffix, akamaimagicmath.net, proxy
+host-suffix, akamainewzealand.com, proxy
+host-suffix, akamaiphillipines.com, proxy
+host-suffix, akamaiphillipines.net, proxy
+host-suffix, akamaitech.com, proxy
+host-suffix, akamaitech.net, proxy
+host-suffix, akamaitechnologies.com, proxy
+host-suffix, akamaitechnologies.net, proxy
+host-suffix, akamaisingapore.net, proxy
+host-suffix, akamaistream.net, proxy
+host-suffix, akamaized-staging.net, proxy
+host-suffix, akamaized.net, proxy
+host-suffix, akamaizercentral.com, proxy
+host-suffix, akamci.com, proxy
+host-suffix, akami.com, proxy
+host-suffix, akami.net, proxy
+host-suffix, akamii.com, proxy
+host-suffix, akamqi.com, proxy
+host-suffix, akastream.com, proxy
+host-suffix, akastream.net, proxy
+host-suffix, akatns.net, proxy
+host-suffix, akstat.io, proxy
+host-suffix, edgekey.net, proxy
+host-suffix, edgesuite.net, proxy
+host-suffix, iamakamai.com, proxy
+host-suffix, iamakamai.net, proxy
+host-suffix, soasta-dswb.com, proxy
+host-suffix, srtcdn.net, proxy
+host-suffix, akamai.co.kr, proxy
+host-suffix, accdn.com.cn, proxy
+host-suffix, akadns88.net, proxy
+host-suffix, akadns99.net, proxy
+host-suffix, akamai.com, proxy
+host-suffix, akcdn.com.cn, proxy
+host-suffix, aptdn.net, proxy
+host-suffix, edgekey88.net, proxy
+host-suffix, janrain.biz, proxy
+host-suffix, janrainservices.com, proxy
+host-suffix, skycdn.com.cn, proxy
+host-suffix, tl88.net, proxy

@@ -1,2 +1,2 @@
-host-suffix, nordstrom.com
-host-suffix, nordstrommedia.com
+host-suffix, nordstrom.com, proxy
+host-suffix, nordstrommedia.com, proxy

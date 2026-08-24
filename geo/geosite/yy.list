@@ -1,4 +1,4 @@
-host-suffix, yy.com
-host-suffix, yystatic.com
-host-suffix, duowan.com
-host-suffix, dwstatic.com
+host-suffix, yy.com, proxy
+host-suffix, yystatic.com, proxy
+host-suffix, duowan.com, proxy
+host-suffix, dwstatic.com, proxy

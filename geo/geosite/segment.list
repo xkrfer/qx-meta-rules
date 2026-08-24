@@ -1,4 +1,4 @@
-host-suffix, segment.com
-host-suffix, segment.io
-host-suffix, segmenthub.com
-host-suffix, segmentify.com
+host-suffix, segment.com, proxy
+host-suffix, segment.io, proxy
+host-suffix, segmenthub.com, proxy
+host-suffix, segmentify.com, proxy

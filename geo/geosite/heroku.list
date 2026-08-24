@@ -1,12 +1,12 @@
-host-suffix, heroku.co
-host-suffix, heroku.com
-host-suffix, heroku.me
-host-suffix, herokuapp.com
-host-suffix, herokucdn.com
-host-suffix, herokucharge.com
-host-suffix, herokussl.com
-host-suffix, heroku-app.com
-host-suffix, heroku-charge.com
-host-suffix, codei.sh
-host-suffix, codeish.co
-host-suffix, codeish.io
+host-suffix, heroku.co, proxy
+host-suffix, heroku.com, proxy
+host-suffix, heroku.me, proxy
+host-suffix, herokuapp.com, proxy
+host-suffix, herokucdn.com, proxy
+host-suffix, herokucharge.com, proxy
+host-suffix, herokussl.com, proxy
+host-suffix, heroku-app.com, proxy
+host-suffix, heroku-charge.com, proxy
+host-suffix, codei.sh, proxy
+host-suffix, codeish.co, proxy
+host-suffix, codeish.io, proxy

@@ -1,13 +1,13 @@
-ip-cidr, 45.136.160.0/22
-ip-cidr, 94.136.160.0/21
-ip-cidr, 185.91.44.0/22
-ip-cidr, 185.103.44.0/22
-ip-cidr, 194.140.242.0/24
-ip-cidr, 194.140.249.0/24
-ip6-cidr, 2a05:e740:1142::/48
-ip6-cidr, 2a05:e740:1144::/46
-ip6-cidr, 2a05:e740:1149::/48
-ip6-cidr, 2a05:e740:1944::/47
-ip6-cidr, 2a05:e740:1946::/48
-ip6-cidr, 2a05:e740:4160::/46
-ip6-cidr, 2a05:e740:9160::/45
+ip-cidr, 45.136.160.0/22, proxy, no-resolve
+ip-cidr, 94.136.160.0/21, proxy, no-resolve
+ip-cidr, 185.91.44.0/22, proxy, no-resolve
+ip-cidr, 185.103.44.0/22, proxy, no-resolve
+ip-cidr, 194.140.242.0/24, proxy, no-resolve
+ip-cidr, 194.140.249.0/24, proxy, no-resolve
+ip6-cidr, 2a05:e740:1142::/48, proxy, no-resolve
+ip6-cidr, 2a05:e740:1144::/46, proxy, no-resolve
+ip6-cidr, 2a05:e740:1149::/48, proxy, no-resolve
+ip6-cidr, 2a05:e740:1944::/47, proxy, no-resolve
+ip6-cidr, 2a05:e740:1946::/48, proxy, no-resolve
+ip6-cidr, 2a05:e740:4160::/46, proxy, no-resolve
+ip6-cidr, 2a05:e740:9160::/45, proxy, no-resolve

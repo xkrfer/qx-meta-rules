@@ -1,28 +1,28 @@
-host-suffix, cinematicket.org
-host-suffix, filmnet.ir
-host-suffix, irib.ir
-host-suffix, iribtv.ir
-host-suffix, irinn.ir
-host-suffix, jjtvn.ir
-host-suffix, melodify.app
-host-suffix, melodify.pw
-host-suffix, namava.ir
-host-suffix, qurantv.ir
-host-suffix, radio.ir
-host-suffix, radioiran.ir
-host-suffix, radiojavan.ir
-host-suffix, radiomaaref.ir
-host-suffix, radiopayam.ir
-host-suffix, radioquran.ir
-host-suffix, radiotehran.ir
-host-suffix, radiovarzesh.ir
-host-suffix, telewebion.com
-host-suffix, tmk.ir
-host-suffix, tv3.ir
-host-suffix, tv5.ir
-host-suffix, tv7.ir
-host-suffix, aparat.com
-host-suffix, aparatkids.com
-host-suffix, aparatsport.com
-host-suffix, filimo.com
-host-suffix, filimo.school
+host-suffix, cinematicket.org, proxy
+host-suffix, filmnet.ir, proxy
+host-suffix, irib.ir, proxy
+host-suffix, iribtv.ir, proxy
+host-suffix, irinn.ir, proxy
+host-suffix, jjtvn.ir, proxy
+host-suffix, melodify.app, proxy
+host-suffix, melodify.pw, proxy
+host-suffix, namava.ir, proxy
+host-suffix, qurantv.ir, proxy
+host-suffix, radio.ir, proxy
+host-suffix, radioiran.ir, proxy
+host-suffix, radiojavan.ir, proxy
+host-suffix, radiomaaref.ir, proxy
+host-suffix, radiopayam.ir, proxy
+host-suffix, radioquran.ir, proxy
+host-suffix, radiotehran.ir, proxy
+host-suffix, radiovarzesh.ir, proxy
+host-suffix, telewebion.com, proxy
+host-suffix, tmk.ir, proxy
+host-suffix, tv3.ir, proxy
+host-suffix, tv5.ir, proxy
+host-suffix, tv7.ir, proxy
+host-suffix, aparat.com, proxy
+host-suffix, aparatkids.com, proxy
+host-suffix, aparatsport.com, proxy
+host-suffix, filimo.com, proxy
+host-suffix, filimo.school, proxy

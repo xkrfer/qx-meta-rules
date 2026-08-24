@@ -1,9 +1,9 @@
-host-suffix, 100.me
-host-suffix, ddcorp.net
-host-suffix, ddfresh.net
-host-suffix, ddimg.mobi
-host-suffix, ddmaicai.net
-host-suffix, ddmc.mobi
-host-suffix, dduser.mobi
-host-suffix, ddxq.mobi
-host-suffix, imaicai.mobi
+host-suffix, 100.me, proxy
+host-suffix, ddcorp.net, proxy
+host-suffix, ddfresh.net, proxy
+host-suffix, ddimg.mobi, proxy
+host-suffix, ddmaicai.net, proxy
+host-suffix, ddmc.mobi, proxy
+host-suffix, dduser.mobi, proxy
+host-suffix, ddxq.mobi, proxy
+host-suffix, imaicai.mobi, proxy

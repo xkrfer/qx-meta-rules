@@ -1,2 +1,2 @@
-ip-cidr, 177.125.142.0/23
-ip6-cidr, 2801:b8::/32
+ip-cidr, 177.125.142.0/23, proxy, no-resolve
+ip6-cidr, 2801:b8::/32, proxy, no-resolve

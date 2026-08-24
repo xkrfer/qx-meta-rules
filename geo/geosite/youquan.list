@@ -1,10 +1,10 @@
-host-suffix, aitcfw.com
-host-suffix, aizgtc.com
-host-suffix, hangzhouyq.cn
-host-suffix, hangzhouyq.com
-host-suffix, zgxytc.com
-host-suffix, zgzsa.com
-host-suffix, zhonshian.cn
-host-suffix, zhonshian.com
-host-suffix, zjzsa.com
-host-suffix, zhonshian.com.cn
+host-suffix, aitcfw.com, proxy
+host-suffix, aizgtc.com, proxy
+host-suffix, hangzhouyq.cn, proxy
+host-suffix, hangzhouyq.com, proxy
+host-suffix, zgxytc.com, proxy
+host-suffix, zgzsa.com, proxy
+host-suffix, zhonshian.cn, proxy
+host-suffix, zhonshian.com, proxy
+host-suffix, zjzsa.com, proxy
+host-suffix, zhonshian.com.cn, proxy

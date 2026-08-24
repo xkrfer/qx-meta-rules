@@ -1,25 +1,25 @@
-host-suffix, gettyimages.ie
-host-suffix, gettyimages.in
-host-suffix, gettyimages.be
-host-suffix, gettyimages.ca
-host-suffix, gettyimages.ch
-host-suffix, gettyimages.se
-host-suffix, gettyimages.pt
-host-suffix, gettyimages.no
-host-suffix, gettyimages.com
-host-suffix, gettyimages.dk
-host-suffix, gettyimages.it
-host-suffix, gettyimages.es
-host-suffix, gettyimages.at
-host-suffix, gettyimages.nl
-host-suffix, gettyimages.de
-host-suffix, gettyimages.fi
-host-suffix, gettyimages.fr
-host-suffix, gettyimages.hk
-host-suffix, gettyimages.ae
-host-suffix, gettyimages.com.mx
-host-suffix, gettyimages.com.br
-host-suffix, gettyimages.com.au
-host-suffix, gettyimages.co.uk
-host-suffix, gettyimages.co.nz
-host-suffix, gettyimages.co.jp
+host-suffix, gettyimages.ie, proxy
+host-suffix, gettyimages.in, proxy
+host-suffix, gettyimages.be, proxy
+host-suffix, gettyimages.ca, proxy
+host-suffix, gettyimages.ch, proxy
+host-suffix, gettyimages.se, proxy
+host-suffix, gettyimages.pt, proxy
+host-suffix, gettyimages.no, proxy
+host-suffix, gettyimages.com, proxy
+host-suffix, gettyimages.dk, proxy
+host-suffix, gettyimages.it, proxy
+host-suffix, gettyimages.es, proxy
+host-suffix, gettyimages.at, proxy
+host-suffix, gettyimages.nl, proxy
+host-suffix, gettyimages.de, proxy
+host-suffix, gettyimages.fi, proxy
+host-suffix, gettyimages.fr, proxy
+host-suffix, gettyimages.hk, proxy
+host-suffix, gettyimages.ae, proxy
+host-suffix, gettyimages.com.mx, proxy
+host-suffix, gettyimages.com.br, proxy
+host-suffix, gettyimages.com.au, proxy
+host-suffix, gettyimages.co.uk, proxy
+host-suffix, gettyimages.co.nz, proxy
+host-suffix, gettyimages.co.jp, proxy

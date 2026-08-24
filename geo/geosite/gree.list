@@ -1,7 +1,7 @@
-host-suffix, gree.cn
-host-suffix, gree.com
-host-suffix, greeyun.com
-host-suffix, kinghomechina.com
-host-suffix, zhlyen.com
-host-suffix, gree.com.cn
-host-suffix, tosot.com.cn
+host-suffix, gree.cn, proxy
+host-suffix, gree.com, proxy
+host-suffix, greeyun.com, proxy
+host-suffix, kinghomechina.com, proxy
+host-suffix, zhlyen.com, proxy
+host-suffix, gree.com.cn, proxy
+host-suffix, tosot.com.cn, proxy

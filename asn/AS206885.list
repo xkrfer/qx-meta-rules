@@ -1,4 +1,4 @@
-ip-cidr, 44.124.8.0/24
-ip6-cidr, 2001:678:284::/48
-ip6-cidr, 2620:13e:500f::/48
-ip6-cidr, 2a06:e881:1802::/47
+ip-cidr, 44.124.8.0/24, proxy, no-resolve
+ip6-cidr, 2001:678:284::/48, proxy, no-resolve
+ip6-cidr, 2620:13e:500f::/48, proxy, no-resolve
+ip6-cidr, 2a06:e881:1802::/47, proxy, no-resolve

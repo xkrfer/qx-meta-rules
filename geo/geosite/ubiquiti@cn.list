@@ -1,7 +1,7 @@
-host-suffix, amplifi.com.cn
-host-suffix, frontrow.com.cn
-host-suffix, ubnt.com
-host-suffix, ubnt.com.cn
-host-suffix, ui.com.cn
-host-suffix, uum.com.cn
-host-suffix, uwn.com
+host-suffix, amplifi.com.cn, proxy
+host-suffix, frontrow.com.cn, proxy
+host-suffix, ubnt.com, proxy
+host-suffix, ubnt.com.cn, proxy
+host-suffix, ui.com.cn, proxy
+host-suffix, uum.com.cn, proxy
+host-suffix, uwn.com, proxy

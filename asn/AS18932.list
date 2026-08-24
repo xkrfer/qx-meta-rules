@@ -1,2 +1,2 @@
-ip6-cidr, 2602:f590:a::/47
-ip6-cidr, 2602:f590:c::/46
+ip6-cidr, 2602:f590:a::/47, proxy, no-resolve
+ip6-cidr, 2602:f590:c::/46, proxy, no-resolve

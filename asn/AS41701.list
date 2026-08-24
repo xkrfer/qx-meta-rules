@@ -1,6 +1,6 @@
-ip-cidr, 132.155.56.0/22
-ip-cidr, 145.247.0.0/16
-ip-cidr, 157.129.0.0/16
-ip-cidr, 192.165.244.0/24
-ip-cidr, 194.103.234.0/23
-ip6-cidr, 2001:67c:21d8::/48
+ip-cidr, 132.155.56.0/22, proxy, no-resolve
+ip-cidr, 145.247.0.0/16, proxy, no-resolve
+ip-cidr, 157.129.0.0/16, proxy, no-resolve
+ip-cidr, 192.165.244.0/24, proxy, no-resolve
+ip-cidr, 194.103.234.0/23, proxy, no-resolve
+ip6-cidr, 2001:67c:21d8::/48, proxy, no-resolve

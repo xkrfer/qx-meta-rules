@@ -1,7 +1,7 @@
-host-suffix, keepmovingwithmovefree.com
-host-suffix, move-free.net
-host-suffix, movefrees.com
-host-suffix, movefreeoffers.com
-host-suffix, movefreerewards.com
-host-suffix, schiffvitamins.com
-host-suffix, movefree.cn
+host-suffix, keepmovingwithmovefree.com, proxy
+host-suffix, move-free.net, proxy
+host-suffix, movefrees.com, proxy
+host-suffix, movefreeoffers.com, proxy
+host-suffix, movefreerewards.com, proxy
+host-suffix, schiffvitamins.com, proxy
+host-suffix, movefree.cn, proxy

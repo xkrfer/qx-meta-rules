@@ -1,8 +1,8 @@
-host-suffix, googleplay.com
-host-suffix, xn--ngstr-lra8j.com
-host-suffix, play-fe.googleapis.com
-host-suffix, play-games.googleusercontent.com
-host-suffix, play-lh.googleusercontent.com
-host-suffix, play.google.com
-host-suffix, play.googleapis.com
-host, redirector.c.play.google.com
+host-suffix, googleplay.com, proxy
+host-suffix, xn--ngstr-lra8j.com, proxy
+host-suffix, play-fe.googleapis.com, proxy
+host-suffix, play-games.googleusercontent.com, proxy
+host-suffix, play-lh.googleusercontent.com, proxy
+host-suffix, play.google.com, proxy
+host-suffix, play.googleapis.com, proxy
+host, redirector.c.play.google.com, proxy

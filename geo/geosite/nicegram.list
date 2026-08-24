@@ -1,3 +1,3 @@
-host-suffix, nicegram.app
-host-suffix, nicegram.cloud
-host-suffix, adsgram.ai
+host-suffix, nicegram.app, proxy
+host-suffix, nicegram.cloud, proxy
+host-suffix, adsgram.ai, proxy

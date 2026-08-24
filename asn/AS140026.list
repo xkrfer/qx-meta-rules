@@ -1,6 +1,6 @@
-ip-cidr, 38.50.166.0/23
-ip-cidr, 38.172.142.0/23
-ip-cidr, 103.149.179.0/24
-ip6-cidr, 2405:ee40::/48
-ip6-cidr, 2405:ee40:1400::/48
-ip6-cidr, 2405:ee40:dada::/48
+ip-cidr, 38.50.166.0/23, proxy, no-resolve
+ip-cidr, 38.172.142.0/23, proxy, no-resolve
+ip-cidr, 103.149.179.0/24, proxy, no-resolve
+ip6-cidr, 2405:ee40::/48, proxy, no-resolve
+ip6-cidr, 2405:ee40:1400::/48, proxy, no-resolve
+ip6-cidr, 2405:ee40:dada::/48, proxy, no-resolve

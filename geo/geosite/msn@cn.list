@@ -1,2 +1,2 @@
-host-suffix, microsoftnews.cn
-host-suffix, msn.cn
+host-suffix, microsoftnews.cn, proxy
+host-suffix, msn.cn, proxy

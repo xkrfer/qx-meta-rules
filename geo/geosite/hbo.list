@@ -1,64 +1,64 @@
-host-suffix, hbo
-host-suffix, beforeigners.com
-host-suffix, brightline.tv
-host-suffix, cinemax.com
-host-suffix, discomax.com
-host-suffix, elpionero.es
-host-suffix, forthethrone.com
-host-suffix, hbo.ba
-host-suffix, hbo.bg
-host-suffix, hbo.com
-host-suffix, hbo.cz
-host-suffix, hbo.eu
-host-suffix, hbo.hr
-host-suffix, hbo.hu
-host-suffix, hbo.me
-host-suffix, hbo.mk
-host-suffix, hbo.pl
-host-suffix, hbo.ro
-host-suffix, hbo.rs
-host-suffix, hbo.sk
-host-suffix, hboaccess.com
-host-suffix, hboarchives.com
-host-suffix, hboasia.com
-host-suffix, hboenterprises.com
-host-suffix, hboespana.com
-host-suffix, hbo-europe.com
-host-suffix, hbogo.com
-host-suffix, hbogo.cz
-host-suffix, hbogo.eu
-host-suffix, hbogo.hu
-host-suffix, hbogo.sk
-host-suffix, hbogoasia.com
-host-suffix, hbogoasia.hk
-host-suffix, hbogoasia.id
-host-suffix, hbogoasia.my
-host-suffix, hbogoasia.ph
-host-suffix, hbogoasia.sg
-host-suffix, hbogoasia.tw
-host-suffix, hboinflight.com
-host-suffix, hbolacontent.net
-host-suffix, hbolaunchpad.com
-host-suffix, hbomailman.com
-host-suffix, hbomax.com
-host-suffix, hbomax.eu
-host-suffix, hbomaxcdn.com
-host-suffix, hbomediarelations.com
-host-suffix, hbonordic.com
-host-suffix, hbonordic.tv
-host-suffix, hbonow.com
-host-suffix, hboportugal.com
-host-suffix, hboprod.com
-host-suffix, hbospain.com
-host-suffix, hbotvsales.com
-host-suffix, homebox.com
-host-suffix, homeboxoffice.com
-host-suffix, max.com
-host-suffix, maxgo.com
-host-suffix, redbyhbo.com
-host-suffix, hbogo.co.th
-host-suffix, hbomax-images.warnermediacdn.com
-host-suffix, hbo.com.edgesuite.net
-host-suffix, hbo.map.fastly.net
-host-suffix, hbomaxdash.s.llnwi.net
-host-suffix, hbo.com.c.footprint.net
+host-suffix, hbo, proxy
+host-suffix, beforeigners.com, proxy
+host-suffix, brightline.tv, proxy
+host-suffix, cinemax.com, proxy
+host-suffix, discomax.com, proxy
+host-suffix, elpionero.es, proxy
+host-suffix, forthethrone.com, proxy
+host-suffix, hbo.ba, proxy
+host-suffix, hbo.bg, proxy
+host-suffix, hbo.com, proxy
+host-suffix, hbo.cz, proxy
+host-suffix, hbo.eu, proxy
+host-suffix, hbo.hr, proxy
+host-suffix, hbo.hu, proxy
+host-suffix, hbo.me, proxy
+host-suffix, hbo.mk, proxy
+host-suffix, hbo.pl, proxy
+host-suffix, hbo.ro, proxy
+host-suffix, hbo.rs, proxy
+host-suffix, hbo.sk, proxy
+host-suffix, hboaccess.com, proxy
+host-suffix, hboarchives.com, proxy
+host-suffix, hboasia.com, proxy
+host-suffix, hboenterprises.com, proxy
+host-suffix, hboespana.com, proxy
+host-suffix, hbo-europe.com, proxy
+host-suffix, hbogo.com, proxy
+host-suffix, hbogo.cz, proxy
+host-suffix, hbogo.eu, proxy
+host-suffix, hbogo.hu, proxy
+host-suffix, hbogo.sk, proxy
+host-suffix, hbogoasia.com, proxy
+host-suffix, hbogoasia.hk, proxy
+host-suffix, hbogoasia.id, proxy
+host-suffix, hbogoasia.my, proxy
+host-suffix, hbogoasia.ph, proxy
+host-suffix, hbogoasia.sg, proxy
+host-suffix, hbogoasia.tw, proxy
+host-suffix, hboinflight.com, proxy
+host-suffix, hbolacontent.net, proxy
+host-suffix, hbolaunchpad.com, proxy
+host-suffix, hbomailman.com, proxy
+host-suffix, hbomax.com, proxy
+host-suffix, hbomax.eu, proxy
+host-suffix, hbomaxcdn.com, proxy
+host-suffix, hbomediarelations.com, proxy
+host-suffix, hbonordic.com, proxy
+host-suffix, hbonordic.tv, proxy
+host-suffix, hbonow.com, proxy
+host-suffix, hboportugal.com, proxy
+host-suffix, hboprod.com, proxy
+host-suffix, hbospain.com, proxy
+host-suffix, hbotvsales.com, proxy
+host-suffix, homebox.com, proxy
+host-suffix, homeboxoffice.com, proxy
+host-suffix, max.com, proxy
+host-suffix, maxgo.com, proxy
+host-suffix, redbyhbo.com, proxy
+host-suffix, hbogo.co.th, proxy
+host-suffix, hbomax-images.warnermediacdn.com, proxy
+host-suffix, hbo.com.edgesuite.net, proxy
+host-suffix, hbo.map.fastly.net, proxy
+host-suffix, hbomaxdash.s.llnwi.net, proxy
+host-suffix, hbo.com.c.footprint.net, proxy

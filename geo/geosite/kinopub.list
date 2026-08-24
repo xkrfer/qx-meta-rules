@@ -1,16 +1,16 @@
-host-suffix, cdn2cdn.com
-host-suffix, support-kp.com
-host-suffix, kinopub.online
-host-suffix, kpdl.link
-host-suffix, ahc.ovh
-host-suffix, gfw.ovh
-host-suffix, kino.watch
-host-suffix, smarttvcdn.online
-host-suffix, pushbr.com
-host-suffix, mos-gorsud.co
-host-suffix, tsx.ovh
-host-suffix, cdn-service.space
-host-suffix, kino.pub
-host-suffix, cdn2site.com
-host-suffix, api.alador.space
-host-suffix, m.alador.space
+host-suffix, cdn2cdn.com, proxy
+host-suffix, support-kp.com, proxy
+host-suffix, kinopub.online, proxy
+host-suffix, kpdl.link, proxy
+host-suffix, ahc.ovh, proxy
+host-suffix, gfw.ovh, proxy
+host-suffix, kino.watch, proxy
+host-suffix, smarttvcdn.online, proxy
+host-suffix, pushbr.com, proxy
+host-suffix, mos-gorsud.co, proxy
+host-suffix, tsx.ovh, proxy
+host-suffix, cdn-service.space, proxy
+host-suffix, kino.pub, proxy
+host-suffix, cdn2site.com, proxy
+host-suffix, api.alador.space, proxy
+host-suffix, m.alador.space, proxy

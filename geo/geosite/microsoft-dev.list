@@ -1,74 +1,74 @@
-host, az764295.vo.msecnd.net
-host, bingsettingssearch.trafficmanager.net
-host, default.exp-tas.com
-host, developer.microsoft.com
-host, dtlgalleryint.cloudapp.net
-host, packages.microsoft.com
-host, poshtestgallery.cloudapp.net
-host, psg-int-centralus.cloudapp.net
-host, psg-int-eastus.cloudapp.net
-host, rink.hockeyapp.net
-host, vscode-sync-insiders.trafficmanager.net
-host, vscode-sync.trafficmanager.net
-host, vscode.blob.core.windows.net
-host, vscode.search.windows.net
-host, vsmarketplacebadge.apphb.com
-host-suffix, adaptivecards.io
-host-suffix, api-extractor.com
-host-suffix, apisof.net
-host-suffix, appcenter.ms
-host-suffix, blazor.net
-host-suffix, botframework.com
-host-suffix, codethemicrobit.com
-host-suffix, devopsassessment.net
-host-suffix, dot.net
-host-suffix, gamesstack.com
-host-suffix, graphengine.io
-host-suffix, insiderdevtour.com
-host-suffix, jwt.ms
-host-suffix, microbit.org
-host-suffix, microsoftadc.com
-host-suffix, microsoftgamestack.com
-host-suffix, microsoftiotinsiderlabs.com
-host-suffix, microsoftreactor.info
-host-suffix, microsoftreactor.net
-host-suffix, microsoftreactor.org
-host-suffix, microsoftsilverlight.com
-host-suffix, microsoftsilverlight.net
-host-suffix, microsoftsilverlight.org
-host-suffix, microsoftsqlserver.com
-host-suffix, mmdnn.com
-host-suffix, mono-project.com
-host-suffix, msdn.com
-host-suffix, msinnovationchallenge.com
-host-suffix, mspairlift.com
-host-suffix, msropendata.com
-host-suffix, nuget.org
-host-suffix, nugettest.org
-host-suffix, opentranslatorstothings.org
-host-suffix, poshtestgallery.com
-host-suffix, pwabuilder.com
-host-suffix, sankie.net
-host-suffix, sqlserveronlinux.com
-host-suffix, timelinestoryteller.com
-host-suffix, uwpcommunitytoolkit.com
-host-suffix, vfsforgit.com
-host-suffix, vfsforgit.org
-host-suffix, visualstudio-staging.com
-host-suffix, visualstudio.co
-host-suffix, visualstudio.com
-host-suffix, visualstudio.eu
-host-suffix, visualstudio.net
-host-suffix, vsassets.io
-host-suffix, vscode-cdn.net
-host-suffix, vscode-unpkg.net
-host-suffix, vscode-webview.net
-host-suffix, vscode.dev
-host-suffix, vscodeedu.app
-host-suffix, vscodeedu.com
-host-suffix, xamarin.com
-host-suffix, visualstudio.co.uk
-host-suffix, microsoftreactor.cn
-host-suffix, microsoftreactor.com.cn
-host-suffix, reactorms.com.cn
-host, download.visualstudio.microsoft.com
+host, az764295.vo.msecnd.net, proxy
+host, bingsettingssearch.trafficmanager.net, proxy
+host, default.exp-tas.com, proxy
+host, developer.microsoft.com, proxy
+host, dtlgalleryint.cloudapp.net, proxy
+host, packages.microsoft.com, proxy
+host, poshtestgallery.cloudapp.net, proxy
+host, psg-int-centralus.cloudapp.net, proxy
+host, psg-int-eastus.cloudapp.net, proxy
+host, rink.hockeyapp.net, proxy
+host, vscode-sync-insiders.trafficmanager.net, proxy
+host, vscode-sync.trafficmanager.net, proxy
+host, vscode.blob.core.windows.net, proxy
+host, vscode.search.windows.net, proxy
+host, vsmarketplacebadge.apphb.com, proxy
+host-suffix, adaptivecards.io, proxy
+host-suffix, api-extractor.com, proxy
+host-suffix, apisof.net, proxy
+host-suffix, appcenter.ms, proxy
+host-suffix, blazor.net, proxy
+host-suffix, botframework.com, proxy
+host-suffix, codethemicrobit.com, proxy
+host-suffix, devopsassessment.net, proxy
+host-suffix, dot.net, proxy
+host-suffix, gamesstack.com, proxy
+host-suffix, graphengine.io, proxy
+host-suffix, insiderdevtour.com, proxy
+host-suffix, jwt.ms, proxy
+host-suffix, microbit.org, proxy
+host-suffix, microsoftadc.com, proxy
+host-suffix, microsoftgamestack.com, proxy
+host-suffix, microsoftiotinsiderlabs.com, proxy
+host-suffix, microsoftreactor.info, proxy
+host-suffix, microsoftreactor.net, proxy
+host-suffix, microsoftreactor.org, proxy
+host-suffix, microsoftsilverlight.com, proxy
+host-suffix, microsoftsilverlight.net, proxy
+host-suffix, microsoftsilverlight.org, proxy
+host-suffix, microsoftsqlserver.com, proxy
+host-suffix, mmdnn.com, proxy
+host-suffix, mono-project.com, proxy
+host-suffix, msdn.com, proxy
+host-suffix, msinnovationchallenge.com, proxy
+host-suffix, mspairlift.com, proxy
+host-suffix, msropendata.com, proxy
+host-suffix, nuget.org, proxy
+host-suffix, nugettest.org, proxy
+host-suffix, opentranslatorstothings.org, proxy
+host-suffix, poshtestgallery.com, proxy
+host-suffix, pwabuilder.com, proxy
+host-suffix, sankie.net, proxy
+host-suffix, sqlserveronlinux.com, proxy
+host-suffix, timelinestoryteller.com, proxy
+host-suffix, uwpcommunitytoolkit.com, proxy
+host-suffix, vfsforgit.com, proxy
+host-suffix, vfsforgit.org, proxy
+host-suffix, visualstudio-staging.com, proxy
+host-suffix, visualstudio.co, proxy
+host-suffix, visualstudio.com, proxy
+host-suffix, visualstudio.eu, proxy
+host-suffix, visualstudio.net, proxy
+host-suffix, vsassets.io, proxy
+host-suffix, vscode-cdn.net, proxy
+host-suffix, vscode-unpkg.net, proxy
+host-suffix, vscode-webview.net, proxy
+host-suffix, vscode.dev, proxy
+host-suffix, vscodeedu.app, proxy
+host-suffix, vscodeedu.com, proxy
+host-suffix, xamarin.com, proxy
+host-suffix, visualstudio.co.uk, proxy
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy
+host, download.visualstudio.microsoft.com, proxy

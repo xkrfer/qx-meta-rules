@@ -1,11 +1,11 @@
-host, espn.api.edge.bamgrid.com
-host, espn.hb.omtrdc.net
-host, espndotcom.tt.omtrdc.net
-host-suffix, dtci.co
-host-suffix, dtci.technology
-host-suffix, espn.com
-host-suffix, espn.net
-host-suffix, espncdn.com
-host-suffix, espnqa.com
-host-suffix, watchespn.com
-host-suffix, espn.co.uk
+host, espn.api.edge.bamgrid.com, proxy
+host, espn.hb.omtrdc.net, proxy
+host, espndotcom.tt.omtrdc.net, proxy
+host-suffix, dtci.co, proxy
+host-suffix, dtci.technology, proxy
+host-suffix, espn.com, proxy
+host-suffix, espn.net, proxy
+host-suffix, espncdn.com, proxy
+host-suffix, espnqa.com, proxy
+host-suffix, watchespn.com, proxy
+host-suffix, espn.co.uk, proxy

@@ -1,2 +1,2 @@
-ip-cidr, 91.221.178.0/23
-ip6-cidr, 2001:678:374::/48
+ip-cidr, 91.221.178.0/23, proxy, no-resolve
+ip6-cidr, 2001:678:374::/48, proxy, no-resolve

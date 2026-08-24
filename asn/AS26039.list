@@ -1,7 +1,7 @@
-ip-cidr, 170.17.0.0/24
-ip-cidr, 170.17.3.0/24
-ip-cidr, 170.17.4.0/23
-ip-cidr, 170.17.16.0/20
-ip-cidr, 170.17.64.0/23
-ip-cidr, 170.17.120.0/24
-ip6-cidr, 2620:15:8000::/48
+ip-cidr, 170.17.0.0/24, proxy, no-resolve
+ip-cidr, 170.17.3.0/24, proxy, no-resolve
+ip-cidr, 170.17.4.0/23, proxy, no-resolve
+ip-cidr, 170.17.16.0/20, proxy, no-resolve
+ip-cidr, 170.17.64.0/23, proxy, no-resolve
+ip-cidr, 170.17.120.0/24, proxy, no-resolve
+ip6-cidr, 2620:15:8000::/48, proxy, no-resolve

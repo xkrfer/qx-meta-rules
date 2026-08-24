@@ -1,21 +1,21 @@
-host-suffix, mingpaomonthly.com
-host-suffix, mpweekly.com
-host-suffix, mings-fashion.com
-host-suffix, sinchew.my
-host-suffix, mings.hk
-host-suffix, enanyang.my
-host-suffix, omghk.com
-host-suffix, yzzk.com
-host-suffix, mingpao.com
-host-suffix, mingpaocanada.com
-host-suffix, mysinchew.com
-host-suffix, mingpaotor.com
-host-suffix, mediachinese.com
-host-suffix, mingshengbao.com
-host-suffix, mingwatch.com
-host-suffix, mpfinance.com
-host-suffix, mingpaovan.com
-host-suffix, guangming.com.my
-host-suffix, chinapress.com.my
-host-suffix, soccerfanz.com.my
-host-suffix, sinchew.com.my
+host-suffix, mingpaomonthly.com, proxy
+host-suffix, mpweekly.com, proxy
+host-suffix, mings-fashion.com, proxy
+host-suffix, sinchew.my, proxy
+host-suffix, mings.hk, proxy
+host-suffix, enanyang.my, proxy
+host-suffix, omghk.com, proxy
+host-suffix, yzzk.com, proxy
+host-suffix, mingpao.com, proxy
+host-suffix, mingpaocanada.com, proxy
+host-suffix, mysinchew.com, proxy
+host-suffix, mingpaotor.com, proxy
+host-suffix, mediachinese.com, proxy
+host-suffix, mingshengbao.com, proxy
+host-suffix, mingwatch.com, proxy
+host-suffix, mpfinance.com, proxy
+host-suffix, mingpaovan.com, proxy
+host-suffix, guangming.com.my, proxy
+host-suffix, chinapress.com.my, proxy
+host-suffix, soccerfanz.com.my, proxy
+host-suffix, sinchew.com.my, proxy

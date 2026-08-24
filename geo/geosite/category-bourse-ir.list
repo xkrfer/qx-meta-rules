@@ -1,48 +1,48 @@
-host-suffix, mellatbroker.com
-host-suffix, tsetmc.ir
-host-suffix, codal.ir
-host-suffix, farasahm.ir
-host-suffix, ifb.ir
-host-suffix, wallex.ir
-host-suffix, irenex.ir
-host-suffix, sukuk.ir
-host-suffix, talarebourse.com
-host-suffix, arman-ati.com
-host-suffix, maskanbourse.com
-host-suffix, abanbroker.com
-host-suffix, bahmanbroker.com
-host-suffix, bkisecurities.com
-host-suffix, bmibourse.com
-host-suffix, bt-broker.com
-host-suffix, danabroker.com
-host-suffix, emofid.com
-host-suffix, mofidonline.com
-host-suffix, etminansahm.com
-host-suffix, hafezbourse.com
-host-suffix, irfarabi.com
-host-suffix, bourseiness.com
-host-suffix, kmsco.ir
-host-suffix, tse.ir
-host-suffix, novinbourse.com
-host-suffix, oibroker.com
-host-suffix, omidsahm.com
-host-suffix, rbc.ir
-host-suffix, saderatbourse.com
-host-suffix, sahandbroker.com
-host-suffix, samanbourse.com
-host-suffix, sdbhouse.com
-host-suffix, sepahbourse.com
-host-suffix, tadbirgar.com
-host-suffix, abantether.com
-host-suffix, bit24.cash
-host-suffix, bitpin.ir
-host-suffix, exir.io
-host-suffix, farhad-exchange.com
-host-suffix, jibitex.com
-host-suffix, nobitex.ir
-host-suffix, ok-ex.io
-host-suffix, ompfinex.com
-host-suffix, ramzinex.com
-host-suffix, tabdeal.org
-host-suffix, tetherland.com
-host-suffix, ime.co.ir
+host-suffix, mellatbroker.com, proxy
+host-suffix, tsetmc.ir, proxy
+host-suffix, codal.ir, proxy
+host-suffix, farasahm.ir, proxy
+host-suffix, ifb.ir, proxy
+host-suffix, wallex.ir, proxy
+host-suffix, irenex.ir, proxy
+host-suffix, sukuk.ir, proxy
+host-suffix, talarebourse.com, proxy
+host-suffix, arman-ati.com, proxy
+host-suffix, maskanbourse.com, proxy
+host-suffix, abanbroker.com, proxy
+host-suffix, bahmanbroker.com, proxy
+host-suffix, bkisecurities.com, proxy
+host-suffix, bmibourse.com, proxy
+host-suffix, bt-broker.com, proxy
+host-suffix, danabroker.com, proxy
+host-suffix, emofid.com, proxy
+host-suffix, mofidonline.com, proxy
+host-suffix, etminansahm.com, proxy
+host-suffix, hafezbourse.com, proxy
+host-suffix, irfarabi.com, proxy
+host-suffix, bourseiness.com, proxy
+host-suffix, kmsco.ir, proxy
+host-suffix, tse.ir, proxy
+host-suffix, novinbourse.com, proxy
+host-suffix, oibroker.com, proxy
+host-suffix, omidsahm.com, proxy
+host-suffix, rbc.ir, proxy
+host-suffix, saderatbourse.com, proxy
+host-suffix, sahandbroker.com, proxy
+host-suffix, samanbourse.com, proxy
+host-suffix, sdbhouse.com, proxy
+host-suffix, sepahbourse.com, proxy
+host-suffix, tadbirgar.com, proxy
+host-suffix, abantether.com, proxy
+host-suffix, bit24.cash, proxy
+host-suffix, bitpin.ir, proxy
+host-suffix, exir.io, proxy
+host-suffix, farhad-exchange.com, proxy
+host-suffix, jibitex.com, proxy
+host-suffix, nobitex.ir, proxy
+host-suffix, ok-ex.io, proxy
+host-suffix, ompfinex.com, proxy
+host-suffix, ramzinex.com, proxy
+host-suffix, tabdeal.org, proxy
+host-suffix, tetherland.com, proxy
+host-suffix, ime.co.ir, proxy

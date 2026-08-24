@@ -1,22 +1,22 @@
-host-suffix, aireads.cn
-host-suffix, chatdrama.cn
-host-suffix, chatdrama.net
-host-suffix, chatqidian.cn
-host-suffix, chatqidian.net
-host-suffix, chattext.cn
-host-suffix, chatwrite.net
-host-suffix, chatxiaoxiang.com
-host-suffix, chatyuewen.cn
-host-suffix, dishu3.com
-host-suffix, hongxiu.com
-host-suffix, qdmm.com
-host-suffix, qidian.com
-host-suffix, readnovel.com
-host-suffix, rongshuxia.com
-host-suffix, tingbook.com
-host-suffix, xs.cn
-host-suffix, xs8.cn
-host-suffix, xxsy.net
-host-suffix, xxsypro.com
-host-suffix, yuewen.com
-host-suffix, webnovel.com
+host-suffix, aireads.cn, proxy
+host-suffix, chatdrama.cn, proxy
+host-suffix, chatdrama.net, proxy
+host-suffix, chatqidian.cn, proxy
+host-suffix, chatqidian.net, proxy
+host-suffix, chattext.cn, proxy
+host-suffix, chatwrite.net, proxy
+host-suffix, chatxiaoxiang.com, proxy
+host-suffix, chatyuewen.cn, proxy
+host-suffix, dishu3.com, proxy
+host-suffix, hongxiu.com, proxy
+host-suffix, qdmm.com, proxy
+host-suffix, qidian.com, proxy
+host-suffix, readnovel.com, proxy
+host-suffix, rongshuxia.com, proxy
+host-suffix, tingbook.com, proxy
+host-suffix, xs.cn, proxy
+host-suffix, xs8.cn, proxy
+host-suffix, xxsy.net, proxy
+host-suffix, xxsypro.com, proxy
+host-suffix, yuewen.com, proxy
+host-suffix, webnovel.com, proxy

@@ -1,2 +1,2 @@
-host-suffix, chegg.com
-host-suffix, cheggcdn.com
+host-suffix, chegg.com, proxy
+host-suffix, cheggcdn.com, proxy

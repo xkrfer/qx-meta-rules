@@ -1,7 +1,7 @@
-host-suffix, coze.com
-host-suffix, marscode.com
-host-suffix, trae.ai
-host-suffix, cici.com
-host-suffix, ciciai.com
-host-suffix, ciciaicdn.com
-host-suffix, dola.com
+host-suffix, coze.com, proxy
+host-suffix, marscode.com, proxy
+host-suffix, trae.ai, proxy
+host-suffix, cici.com, proxy
+host-suffix, ciciai.com, proxy
+host-suffix, ciciaicdn.com, proxy
+host-suffix, dola.com, proxy

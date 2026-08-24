@@ -1,9 +1,9 @@
-host-suffix, nyt.com
-host-suffix, nyt.net
-host-suffix, nytchina.com
-host-suffix, nytcn.me
-host-suffix, nytco.com
-host-suffix, nyti.ms
-host-suffix, nytimes.com
-host-suffix, nytstyle.com
-host-suffix, timestalks.com
+host-suffix, nyt.com, proxy
+host-suffix, nyt.net, proxy
+host-suffix, nytchina.com, proxy
+host-suffix, nytcn.me, proxy
+host-suffix, nytco.com, proxy
+host-suffix, nyti.ms, proxy
+host-suffix, nytimes.com, proxy
+host-suffix, nytstyle.com, proxy
+host-suffix, timestalks.com, proxy

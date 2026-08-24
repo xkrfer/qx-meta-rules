@@ -1,9 +1,9 @@
-host-suffix, genetic-technologies.am
-host-suffix, genotek.am
-host-suffix, genotek.es
-host-suffix, genotek.eu
-host-suffix, genotek.health
-host-suffix, genotek.ru
-host-suffix, eligens.cl
-host-suffix, eligens.io
-host-suffix, eligens.com.br
+host-suffix, genetic-technologies.am, proxy
+host-suffix, genotek.am, proxy
+host-suffix, genotek.es, proxy
+host-suffix, genotek.eu, proxy
+host-suffix, genotek.health, proxy
+host-suffix, genotek.ru, proxy
+host-suffix, eligens.cl, proxy
+host-suffix, eligens.io, proxy
+host-suffix, eligens.com.br, proxy

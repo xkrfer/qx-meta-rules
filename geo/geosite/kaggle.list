@@ -1,4 +1,4 @@
-host-suffix, kaggle.com
-host-suffix, kaggle.io
-host-suffix, kaggle.net
-host-suffix, kaggleusercontent.com
+host-suffix, kaggle.com, proxy
+host-suffix, kaggle.io, proxy
+host-suffix, kaggle.net, proxy
+host-suffix, kaggleusercontent.com, proxy

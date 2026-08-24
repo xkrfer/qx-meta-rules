@@ -1,2 +1,2 @@
-host-suffix, openspeedtest.com
-host-suffix, open.cachefly.net
+host-suffix, openspeedtest.com, proxy
+host-suffix, open.cachefly.net, proxy

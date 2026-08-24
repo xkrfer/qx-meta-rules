@@ -1,23 +1,23 @@
-host, ntp.aliyun.com
-host, ntp1.aliyun.com
-host, ntp2.aliyun.com
-host, ntp3.aliyun.com
-host, ntp4.aliyun.com
-host, ntp5.aliyun.com
-host, ntp6.aliyun.com
-host, ntp7.aliyun.com
-host, time.amazonaws.cn
-host, time.izatcloud.net
-host, time.xtracloud.net
-host, izattime.qcomgeo2.com
-host, xtratime.qcomgeo2.com
-host, ntp.tencent.com
-host, ntp1.tencent.com
-host, ntp2.tencent.com
-host, ntp3.tencent.com
-host, ntp4.tencent.com
-host, ntp5.tencent.com
-host-suffix, cn.pool.ntp.org
-host-suffix, ntp.neu.edu.cn
-host-suffix, ntp.ntsc.ac.cn
-host-suffix, ntp.org.cn
+host, ntp.aliyun.com, proxy
+host, ntp1.aliyun.com, proxy
+host, ntp2.aliyun.com, proxy
+host, ntp3.aliyun.com, proxy
+host, ntp4.aliyun.com, proxy
+host, ntp5.aliyun.com, proxy
+host, ntp6.aliyun.com, proxy
+host, ntp7.aliyun.com, proxy
+host, time.amazonaws.cn, proxy
+host, time.izatcloud.net, proxy
+host, time.xtracloud.net, proxy
+host, izattime.qcomgeo2.com, proxy
+host, xtratime.qcomgeo2.com, proxy
+host, ntp.tencent.com, proxy
+host, ntp1.tencent.com, proxy
+host, ntp2.tencent.com, proxy
+host, ntp3.tencent.com, proxy
+host, ntp4.tencent.com, proxy
+host, ntp5.tencent.com, proxy
+host-suffix, cn.pool.ntp.org, proxy
+host-suffix, ntp.neu.edu.cn, proxy
+host-suffix, ntp.ntsc.ac.cn, proxy
+host-suffix, ntp.org.cn, proxy

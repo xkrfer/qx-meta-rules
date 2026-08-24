@@ -1,3 +1,3 @@
-ip-cidr, 217.194.128.0/23
-ip-cidr, 217.194.158.0/23
-ip6-cidr, 2a14:6f80::/29
+ip-cidr, 217.194.128.0/23, proxy, no-resolve
+ip-cidr, 217.194.158.0/23, proxy, no-resolve
+ip6-cidr, 2a14:6f80::/29, proxy, no-resolve

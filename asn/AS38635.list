@@ -1,4 +1,4 @@
-ip-cidr, 131.113.0.0/16
-ip-cidr, 133.27.0.0/16
-ip6-cidr, 2001:df0:eb::/48
-ip6-cidr, 2001:df2:c900::/48
+ip-cidr, 131.113.0.0/16, proxy, no-resolve
+ip-cidr, 133.27.0.0/16, proxy, no-resolve
+ip6-cidr, 2001:df0:eb::/48, proxy, no-resolve
+ip6-cidr, 2001:df2:c900::/48, proxy, no-resolve

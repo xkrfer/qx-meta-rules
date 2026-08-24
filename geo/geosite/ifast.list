@@ -1,14 +1,14 @@
-host-suffix, ifastgp.com
-host-suffix, fundsupermart.com
-host-suffix, ifastcorp.com
-host-suffix, ifastgb.com
-host-suffix, fsmone.com
-host-suffix, ifastnetwork.com
-host-suffix, ifasttv.com
-host-suffix, fsmone.com.hk
-host-suffix, fsmone.com.my
-host-suffix, ifastcapital.com.my
-host-suffix, ifastfinancial.com.hk
-host-suffix, ifastfinancial.co.in
-host-suffix, ifastgp.com.hk
-host-suffix, ifastps.com.cn
+host-suffix, ifastgp.com, proxy
+host-suffix, fundsupermart.com, proxy
+host-suffix, ifastcorp.com, proxy
+host-suffix, ifastgb.com, proxy
+host-suffix, fsmone.com, proxy
+host-suffix, ifastnetwork.com, proxy
+host-suffix, ifasttv.com, proxy
+host-suffix, fsmone.com.hk, proxy
+host-suffix, fsmone.com.my, proxy
+host-suffix, ifastcapital.com.my, proxy
+host-suffix, ifastfinancial.com.hk, proxy
+host-suffix, ifastfinancial.co.in, proxy
+host-suffix, ifastgp.com.hk, proxy
+host-suffix, ifastps.com.cn, proxy

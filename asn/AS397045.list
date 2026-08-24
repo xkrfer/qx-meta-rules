@@ -1,5 +1,5 @@
-ip-cidr, 199.233.129.0/24
-ip6-cidr, 2602:801:6000::/45
-ip6-cidr, 2602:801:6008::/47
-ip6-cidr, 2602:801:600b::/48
-ip6-cidr, 2602:801:600c::/46
+ip-cidr, 199.233.129.0/24, proxy, no-resolve
+ip6-cidr, 2602:801:6000::/45, proxy, no-resolve
+ip6-cidr, 2602:801:6008::/47, proxy, no-resolve
+ip6-cidr, 2602:801:600b::/48, proxy, no-resolve
+ip6-cidr, 2602:801:600c::/46, proxy, no-resolve

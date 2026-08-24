@@ -1,3 +1,3 @@
-host-suffix, advertising.adobe.com
-host-suffix, demdex.net
-host-suffix, tubemogul.com
+host-suffix, advertising.adobe.com, proxy
+host-suffix, demdex.net, proxy
+host-suffix, tubemogul.com, proxy

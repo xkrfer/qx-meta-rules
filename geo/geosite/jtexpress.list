@@ -1,22 +1,22 @@
-host-suffix, upfos.cn
-host-suffix, upfos.com
-host-suffix, jtexpress.com
-host-suffix, jtfulfillment.cn
-host-suffix, jtfulfillment.com
-host-suffix, jtjms-ae.com
-host-suffix, jtjms-br.com
-host-suffix, jtjms-eg.com
-host-suffix, jtjms-mx.com
-host-suffix, cr-cts.com
-host-suffix, jtexpress.cn
-host-suffix, yl-scm.com
-host-suffix, jtjms-sa.com
-host-suffix, crscm.com
-host-suffix, jet-ego.com
-host-suffix, jet-logistics.com
-host-suffix, jetlogistic.com
-host-suffix, jtg2g.com
-host-suffix, jtexpress.top
-host-suffix, jtexpress.com.cn
-host-suffix, jnt-express.com.cn
-host-suffix, bxexpress.com.cn
+host-suffix, upfos.cn, proxy
+host-suffix, upfos.com, proxy
+host-suffix, jtexpress.com, proxy
+host-suffix, jtfulfillment.cn, proxy
+host-suffix, jtfulfillment.com, proxy
+host-suffix, jtjms-ae.com, proxy
+host-suffix, jtjms-br.com, proxy
+host-suffix, jtjms-eg.com, proxy
+host-suffix, jtjms-mx.com, proxy
+host-suffix, cr-cts.com, proxy
+host-suffix, jtexpress.cn, proxy
+host-suffix, yl-scm.com, proxy
+host-suffix, jtjms-sa.com, proxy
+host-suffix, crscm.com, proxy
+host-suffix, jet-ego.com, proxy
+host-suffix, jet-logistics.com, proxy
+host-suffix, jetlogistic.com, proxy
+host-suffix, jtg2g.com, proxy
+host-suffix, jtexpress.top, proxy
+host-suffix, jtexpress.com.cn, proxy
+host-suffix, jnt-express.com.cn, proxy
+host-suffix, bxexpress.com.cn, proxy

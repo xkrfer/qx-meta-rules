@@ -1,5 +1,5 @@
-host-suffix, 8btc.com
-host-suffix, bystack.com
-host-suffix, chainnode.com
-host-suffix, matpool.com
-host-suffix, matpool.net
+host-suffix, 8btc.com, proxy
+host-suffix, bystack.com, proxy
+host-suffix, chainnode.com, proxy
+host-suffix, matpool.com, proxy
+host-suffix, matpool.net, proxy

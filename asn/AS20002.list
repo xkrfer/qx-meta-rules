@@ -1,26 +1,26 @@
-ip-cidr, 200.71.0.0/24
-ip-cidr, 200.71.2.0/23
-ip-cidr, 200.71.4.0/22
-ip-cidr, 200.71.8.0/21
-ip-cidr, 200.71.16.0/22
-ip-cidr, 200.71.20.0/24
-ip-cidr, 200.71.22.0/23
-ip-cidr, 200.71.24.0/22
-ip-cidr, 200.71.28.0/23
-ip-cidr, 200.71.30.0/24
-ip6-cidr, 2803:4e00::/35
-ip6-cidr, 2803:4e00:2000::/36
-ip6-cidr, 2803:4e00:3001::/48
-ip6-cidr, 2803:4e00:3002::/47
-ip6-cidr, 2803:4e00:3004::/46
-ip6-cidr, 2803:4e00:3008::/45
-ip6-cidr, 2803:4e00:3010::/44
-ip6-cidr, 2803:4e00:3020::/43
-ip6-cidr, 2803:4e00:3040::/42
-ip6-cidr, 2803:4e00:3080::/41
-ip6-cidr, 2803:4e00:3100::/40
-ip6-cidr, 2803:4e00:3200::/39
-ip6-cidr, 2803:4e00:3400::/38
-ip6-cidr, 2803:4e00:3800::/37
-ip6-cidr, 2803:4e00:4000::/34
-ip6-cidr, 2803:4e00:8000::/33
+ip-cidr, 200.71.0.0/24, proxy, no-resolve
+ip-cidr, 200.71.2.0/23, proxy, no-resolve
+ip-cidr, 200.71.4.0/22, proxy, no-resolve
+ip-cidr, 200.71.8.0/21, proxy, no-resolve
+ip-cidr, 200.71.16.0/22, proxy, no-resolve
+ip-cidr, 200.71.20.0/24, proxy, no-resolve
+ip-cidr, 200.71.22.0/23, proxy, no-resolve
+ip-cidr, 200.71.24.0/22, proxy, no-resolve
+ip-cidr, 200.71.28.0/23, proxy, no-resolve
+ip-cidr, 200.71.30.0/24, proxy, no-resolve
+ip6-cidr, 2803:4e00::/35, proxy, no-resolve
+ip6-cidr, 2803:4e00:2000::/36, proxy, no-resolve
+ip6-cidr, 2803:4e00:3001::/48, proxy, no-resolve
+ip6-cidr, 2803:4e00:3002::/47, proxy, no-resolve
+ip6-cidr, 2803:4e00:3004::/46, proxy, no-resolve
+ip6-cidr, 2803:4e00:3008::/45, proxy, no-resolve
+ip6-cidr, 2803:4e00:3010::/44, proxy, no-resolve
+ip6-cidr, 2803:4e00:3020::/43, proxy, no-resolve
+ip6-cidr, 2803:4e00:3040::/42, proxy, no-resolve
+ip6-cidr, 2803:4e00:3080::/41, proxy, no-resolve
+ip6-cidr, 2803:4e00:3100::/40, proxy, no-resolve
+ip6-cidr, 2803:4e00:3200::/39, proxy, no-resolve
+ip6-cidr, 2803:4e00:3400::/38, proxy, no-resolve
+ip6-cidr, 2803:4e00:3800::/37, proxy, no-resolve
+ip6-cidr, 2803:4e00:4000::/34, proxy, no-resolve
+ip6-cidr, 2803:4e00:8000::/33, proxy, no-resolve

@@ -1,5 +1,5 @@
-ip6-cidr, 2406:840:fd40::/48
-ip6-cidr, 2406:840:fd45::/48
-ip6-cidr, 2406:840:fd46::/48
-ip6-cidr, 2406:840:fd48::/47
-ip6-cidr, 2406:840:fe97::/48
+ip6-cidr, 2406:840:fd40::/48, proxy, no-resolve
+ip6-cidr, 2406:840:fd45::/48, proxy, no-resolve
+ip6-cidr, 2406:840:fd46::/48, proxy, no-resolve
+ip6-cidr, 2406:840:fd48::/47, proxy, no-resolve
+ip6-cidr, 2406:840:fe97::/48, proxy, no-resolve

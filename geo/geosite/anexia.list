@@ -1,33 +1,33 @@
-host-suffix, anexia.at
-host-suffix, anexia.com
-host-suffix, anexia-engine.com
-host-suffix, anexia-it.com
-host-suffix, fifthns.com
-host-suffix, firstns.cc
-host-suffix, fourthns.systems
-host-suffix, secondns.at
-host-suffix, thirdns.de
-host-suffix, bestsrv.de
-host-suffix, customercontrolpanel.de
-host-suffix, dnsserver1.de
-host-suffix, dnsserver2.de
-host-suffix, goodsrv.de
-host-suffix, happysrv.de
-host-suffix, hotsrv.de
-host-suffix, luckysrv.de
-host-suffix, megasrv.de
-host-suffix, netcup.cafe
-host-suffix, netcup.com
-host-suffix, netcup.de
-host-suffix, netcup.eu
-host-suffix, netcup.net
-host-suffix, netcup-news.de
-host-suffix, netcup-sonderangebote.de
-host-suffix, netcup-wiki.de
-host-suffix, nicesrv.de
-host-suffix, powersrv.de
-host-suffix, quicksrv.de
-host-suffix, servercontrolpanel.de
-host-suffix, supersrv.de
-host-suffix, ultrasrv.de
-host-suffix, yourvserver.net
+host-suffix, anexia.at, proxy
+host-suffix, anexia.com, proxy
+host-suffix, anexia-engine.com, proxy
+host-suffix, anexia-it.com, proxy
+host-suffix, fifthns.com, proxy
+host-suffix, firstns.cc, proxy
+host-suffix, fourthns.systems, proxy
+host-suffix, secondns.at, proxy
+host-suffix, thirdns.de, proxy
+host-suffix, bestsrv.de, proxy
+host-suffix, customercontrolpanel.de, proxy
+host-suffix, dnsserver1.de, proxy
+host-suffix, dnsserver2.de, proxy
+host-suffix, goodsrv.de, proxy
+host-suffix, happysrv.de, proxy
+host-suffix, hotsrv.de, proxy
+host-suffix, luckysrv.de, proxy
+host-suffix, megasrv.de, proxy
+host-suffix, netcup.cafe, proxy
+host-suffix, netcup.com, proxy
+host-suffix, netcup.de, proxy
+host-suffix, netcup.eu, proxy
+host-suffix, netcup.net, proxy
+host-suffix, netcup-news.de, proxy
+host-suffix, netcup-sonderangebote.de, proxy
+host-suffix, netcup-wiki.de, proxy
+host-suffix, nicesrv.de, proxy
+host-suffix, powersrv.de, proxy
+host-suffix, quicksrv.de, proxy
+host-suffix, servercontrolpanel.de, proxy
+host-suffix, supersrv.de, proxy
+host-suffix, ultrasrv.de, proxy
+host-suffix, yourvserver.net, proxy

@@ -1,121 +1,121 @@
-host, cisco.evergage.com
-host, ciscolivehls-i.akamaihd.net
-host-suffix, cisco
-host-suffix, academynetriders.com
-host-suffix, cciernslabs.com
-host-suffix, cciesecuritylabs.com
-host-suffix, ccievoicelabs.com
-host-suffix, ccna5.net
-host-suffix, cisco-returns.com
-host-suffix, cisco-warrantyfinder.com
-host-suffix, cisco.com
-host-suffix, cisco.mobi
-host-suffix, ciscoccservice.com
-host-suffix, ciscoconnectcloud.com
-host-suffix, ciscoconnectcloud.net
-host-suffix, ciscoconnectcloud.org
-host-suffix, ciscocontest.com
-host-suffix, ciscoerate.com
-host-suffix, ciscofax.com
-host-suffix, ciscoinvestments.com
-host-suffix, ciscojabbervideo.net
-host-suffix, ciscokinetic.com
-host-suffix, ciscoknowledgenetwork.com
-host-suffix, ciscolearningsociety.org
-host-suffix, ciscolearningsystem.com
-host-suffix, ciscolive.com
-host-suffix, cisconetspace.com
-host-suffix, cisconetspace.info
-host-suffix, cisconetspace.net
-host-suffix, cisconetapp.com
-host-suffix, ciscopartnermarketing.com
-host-suffix, ciscopowercube.com
-host-suffix, ciscoprice.com
-host-suffix, ciscoresearch.com
-host-suffix, ciscosoftware.com
-host-suffix, ciscospark.ca
-host-suffix, ciscospark.com
-host-suffix, ciscospark.jp
-host-suffix, ciscotaccc.com
-host-suffix, ciscotr.com
-host-suffix, ciscoturk.net
-host-suffix, ciscovideo.com
-host-suffix, ciscowebseminars.com
-host-suffix, cloudlock.com
-host-suffix, cloupia.com
-host-suffix, cloupia.net
-host-suffix, connect-in-canada.com
-host-suffix, coreoptics.net
-host-suffix, cs.co
-host-suffix, devm2m.com
-host-suffix, dnaspaces.io
-host-suffix, flipshare.com
-host-suffix, gpstheseries.com
-host-suffix, inlethd.com
-host-suffix, internetofeverything.com
-host-suffix, ioe.com
-host-suffix, kscisco.com
-host-suffix, m2m.com
-host-suffix, mcisco.com
-host-suffix, mediafiles-cisco.com
-host-suffix, metacloud.com
-host-suffix, mindmeld.com
-host-suffix, multiplydiversity.com
-host-suffix, myciscobenefits.com
-host-suffix, mysdn.com
-host-suffix, mysdn.info
-host-suffix, mysdn.net
-host-suffix, netacad.com
-host-suffix, netacad.net
-host-suffix, observable.net
-host-suffix, obsrvbl.com
-host-suffix, parstream.com
-host-suffix, parstream.net
-host-suffix, parstream.org
-host-suffix, services-exchange.com
-host-suffix, splunk.com
-host-suffix, static-cisco.com
-host-suffix, tandberg-china.com
-host-suffix, tandberg.com
-host-suffix, versly.com
-host-suffix, videochampion.com
-host-suffix, virtuata.com
-host-suffix, wballiance.com
-host-suffix, whyiwantciscotelepresence.com
-host-suffix, wifi-mx.com
-host-suffix, youtubecisco.com
-host-suffix, app-dynamics.com
-host-suffix, appdynamics.com
-host-suffix, appdynamics.de
-host-suffix, appdynamics.fr
-host-suffix, appdynamics.info
-host-suffix, appdynamics.jp
-host-suffix, appdynamics.org
-host-suffix, mearki.com
-host-suffix, meraki-go.com
-host-suffix, meraki.hk
-host-suffix, merakigo.com
-host-suffix, tail-f.com
-host-suffix, tailf.com
-host-suffix, umbrella.com
-host-suffix, opendns.com
-host-suffix, webex.ca
-host-suffix, webex.fr
-host-suffix, webex.es
-host-suffix, webex.de
-host-suffix, webex.com
-host-suffix, appdynamics.co.uk
-host-suffix, webex.co.uk
-host-suffix, webex.co.nz
-host-suffix, webex.co.kr
-host-suffix, webex.com.au
-host-suffix, webex.com.br
-host-suffix, webex.com.hk
-host-suffix, webex.com.mx
-host-suffix, webex.co.jp
-host-suffix, webex.co.it
-host-suffix, webex.co.in
-host-suffix, cisco.cn
-host-suffix, cisco.com.cn
-host-suffix, network-auth.cn
-host-suffix, webex.com.cn
+host, cisco.evergage.com, proxy
+host, ciscolivehls-i.akamaihd.net, proxy
+host-suffix, cisco, proxy
+host-suffix, academynetriders.com, proxy
+host-suffix, cciernslabs.com, proxy
+host-suffix, cciesecuritylabs.com, proxy
+host-suffix, ccievoicelabs.com, proxy
+host-suffix, ccna5.net, proxy
+host-suffix, cisco-returns.com, proxy
+host-suffix, cisco-warrantyfinder.com, proxy
+host-suffix, cisco.com, proxy
+host-suffix, cisco.mobi, proxy
+host-suffix, ciscoccservice.com, proxy
+host-suffix, ciscoconnectcloud.com, proxy
+host-suffix, ciscoconnectcloud.net, proxy
+host-suffix, ciscoconnectcloud.org, proxy
+host-suffix, ciscocontest.com, proxy
+host-suffix, ciscoerate.com, proxy
+host-suffix, ciscofax.com, proxy
+host-suffix, ciscoinvestments.com, proxy
+host-suffix, ciscojabbervideo.net, proxy
+host-suffix, ciscokinetic.com, proxy
+host-suffix, ciscoknowledgenetwork.com, proxy
+host-suffix, ciscolearningsociety.org, proxy
+host-suffix, ciscolearningsystem.com, proxy
+host-suffix, ciscolive.com, proxy
+host-suffix, cisconetspace.com, proxy
+host-suffix, cisconetspace.info, proxy
+host-suffix, cisconetspace.net, proxy
+host-suffix, cisconetapp.com, proxy
+host-suffix, ciscopartnermarketing.com, proxy
+host-suffix, ciscopowercube.com, proxy
+host-suffix, ciscoprice.com, proxy
+host-suffix, ciscoresearch.com, proxy
+host-suffix, ciscosoftware.com, proxy
+host-suffix, ciscospark.ca, proxy
+host-suffix, ciscospark.com, proxy
+host-suffix, ciscospark.jp, proxy
+host-suffix, ciscotaccc.com, proxy
+host-suffix, ciscotr.com, proxy
+host-suffix, ciscoturk.net, proxy
+host-suffix, ciscovideo.com, proxy
+host-suffix, ciscowebseminars.com, proxy
+host-suffix, cloudlock.com, proxy
+host-suffix, cloupia.com, proxy
+host-suffix, cloupia.net, proxy
+host-suffix, connect-in-canada.com, proxy
+host-suffix, coreoptics.net, proxy
+host-suffix, cs.co, proxy
+host-suffix, devm2m.com, proxy
+host-suffix, dnaspaces.io, proxy
+host-suffix, flipshare.com, proxy
+host-suffix, gpstheseries.com, proxy
+host-suffix, inlethd.com, proxy
+host-suffix, internetofeverything.com, proxy
+host-suffix, ioe.com, proxy
+host-suffix, kscisco.com, proxy
+host-suffix, m2m.com, proxy
+host-suffix, mcisco.com, proxy
+host-suffix, mediafiles-cisco.com, proxy
+host-suffix, metacloud.com, proxy
+host-suffix, mindmeld.com, proxy
+host-suffix, multiplydiversity.com, proxy
+host-suffix, myciscobenefits.com, proxy
+host-suffix, mysdn.com, proxy
+host-suffix, mysdn.info, proxy
+host-suffix, mysdn.net, proxy
+host-suffix, netacad.com, proxy
+host-suffix, netacad.net, proxy
+host-suffix, observable.net, proxy
+host-suffix, obsrvbl.com, proxy
+host-suffix, parstream.com, proxy
+host-suffix, parstream.net, proxy
+host-suffix, parstream.org, proxy
+host-suffix, services-exchange.com, proxy
+host-suffix, splunk.com, proxy
+host-suffix, static-cisco.com, proxy
+host-suffix, tandberg-china.com, proxy
+host-suffix, tandberg.com, proxy
+host-suffix, versly.com, proxy
+host-suffix, videochampion.com, proxy
+host-suffix, virtuata.com, proxy
+host-suffix, wballiance.com, proxy
+host-suffix, whyiwantciscotelepresence.com, proxy
+host-suffix, wifi-mx.com, proxy
+host-suffix, youtubecisco.com, proxy
+host-suffix, app-dynamics.com, proxy
+host-suffix, appdynamics.com, proxy
+host-suffix, appdynamics.de, proxy
+host-suffix, appdynamics.fr, proxy
+host-suffix, appdynamics.info, proxy
+host-suffix, appdynamics.jp, proxy
+host-suffix, appdynamics.org, proxy
+host-suffix, mearki.com, proxy
+host-suffix, meraki-go.com, proxy
+host-suffix, meraki.hk, proxy
+host-suffix, merakigo.com, proxy
+host-suffix, tail-f.com, proxy
+host-suffix, tailf.com, proxy
+host-suffix, umbrella.com, proxy
+host-suffix, opendns.com, proxy
+host-suffix, webex.ca, proxy
+host-suffix, webex.fr, proxy
+host-suffix, webex.es, proxy
+host-suffix, webex.de, proxy
+host-suffix, webex.com, proxy
+host-suffix, appdynamics.co.uk, proxy
+host-suffix, webex.co.uk, proxy
+host-suffix, webex.co.nz, proxy
+host-suffix, webex.co.kr, proxy
+host-suffix, webex.com.au, proxy
+host-suffix, webex.com.br, proxy
+host-suffix, webex.com.hk, proxy
+host-suffix, webex.com.mx, proxy
+host-suffix, webex.co.jp, proxy
+host-suffix, webex.co.it, proxy
+host-suffix, webex.co.in, proxy
+host-suffix, cisco.cn, proxy
+host-suffix, cisco.com.cn, proxy
+host-suffix, network-auth.cn, proxy
+host-suffix, webex.com.cn, proxy

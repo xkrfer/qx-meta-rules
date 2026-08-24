@@ -1,5 +1,5 @@
-ip-cidr, 179.108.72.0/21
-ip6-cidr, 2804:161c:30::/45
-ip6-cidr, 2804:161c:40::/42
-ip6-cidr, 2804:161c:f00::/42
-ip6-cidr, 2804:161c:fc00::/48
+ip-cidr, 179.108.72.0/21, proxy, no-resolve
+ip6-cidr, 2804:161c:30::/45, proxy, no-resolve
+ip6-cidr, 2804:161c:40::/42, proxy, no-resolve
+ip6-cidr, 2804:161c:f00::/42, proxy, no-resolve
+ip6-cidr, 2804:161c:fc00::/48, proxy, no-resolve

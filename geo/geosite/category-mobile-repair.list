@@ -1,9 +1,9 @@
-host-suffix, androidfilehost.com
-host-suffix, unlocktool.net
-host-suffix, borneo.world
-host-suffix, borneoasia.com
-host-suffix, borneoschematic.com
-host-suffix, bosharso.net
-host-suffix, hostborneo.org
-host-suffix, easy-jtag.com
-host-suffix, z3x-team.com
+host-suffix, androidfilehost.com, proxy
+host-suffix, unlocktool.net, proxy
+host-suffix, borneo.world, proxy
+host-suffix, borneoasia.com, proxy
+host-suffix, borneoschematic.com, proxy
+host-suffix, bosharso.net, proxy
+host-suffix, hostborneo.org, proxy
+host-suffix, easy-jtag.com, proxy
+host-suffix, z3x-team.com, proxy

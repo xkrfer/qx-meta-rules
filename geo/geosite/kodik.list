@@ -1,5 +1,5 @@
-host-suffix, kodik-storage.com
-host-suffix, kodik.biz
-host-suffix, kodik.cc
-host-suffix, kodik.info
-host-suffix, kodikplayer.com
+host-suffix, kodik-storage.com, proxy
+host-suffix, kodik.biz, proxy
+host-suffix, kodik.cc, proxy
+host-suffix, kodik.info, proxy
+host-suffix, kodikplayer.com, proxy

@@ -1,12 +1,12 @@
-host-suffix, mts-ws.net
-host-suffix, mts.ru
-host-suffix, mymts.ru
-host-suffix, dbo-dengi.online
-host-suffix, mtsbank.ru
-host-suffix, mtsdengi.ru
-host-suffix, tvoyodbo.online
-host-suffix, kion.ru
-host-suffix, mtsmedia.ru
-host-suffix, on-media.ru
-host-suffix, a.mts.ru
-host-suffix, obs.mts.ru
+host-suffix, mts-ws.net, proxy
+host-suffix, mts.ru, proxy
+host-suffix, mymts.ru, proxy
+host-suffix, dbo-dengi.online, proxy
+host-suffix, mtsbank.ru, proxy
+host-suffix, mtsdengi.ru, proxy
+host-suffix, tvoyodbo.online, proxy
+host-suffix, kion.ru, proxy
+host-suffix, mtsmedia.ru, proxy
+host-suffix, on-media.ru, proxy
+host-suffix, a.mts.ru, proxy
+host-suffix, obs.mts.ru, proxy

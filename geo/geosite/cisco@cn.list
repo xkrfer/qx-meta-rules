@@ -1,4 +1,4 @@
-host-suffix, cisco.cn
-host-suffix, cisco.com.cn
-host-suffix, network-auth.cn
-host-suffix, webex.com.cn
+host-suffix, cisco.cn, proxy
+host-suffix, cisco.com.cn, proxy
+host-suffix, network-auth.cn, proxy
+host-suffix, webex.com.cn, proxy

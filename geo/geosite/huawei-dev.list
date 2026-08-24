@@ -1,23 +1,23 @@
-host-suffix, hiascend.com
-host-suffix, harmonyos.com
-host-suffix, devui.design
-host-suffix, gneec.com
-host-suffix, teleows.com
-host-suffix, gneec3.com
-host-suffix, gneec4.com
-host-suffix, hikunpeng.cn
-host-suffix, hiclc.com
-host-suffix, hiascend.cn
-host-suffix, bishengcompiler.cn
-host-suffix, bisheng.cn
-host-suffix, gneec7.com
-host-suffix, hikunpeng.com
-host-suffix, saasops.tech
-host-suffix, hikunpeng.net
-host-suffix, hisilicon.com
-host-suffix, owsgo.com
-host-suffix, huaweiapaas.com
-host-suffix, mindspore.cn
-host-suffix, hisilicon.com.cn
-host-suffix, hikunpeng.com.cn
-host-suffix, gneec.com.cn
+host-suffix, hiascend.com, proxy
+host-suffix, harmonyos.com, proxy
+host-suffix, devui.design, proxy
+host-suffix, gneec.com, proxy
+host-suffix, teleows.com, proxy
+host-suffix, gneec3.com, proxy
+host-suffix, gneec4.com, proxy
+host-suffix, hikunpeng.cn, proxy
+host-suffix, hiclc.com, proxy
+host-suffix, hiascend.cn, proxy
+host-suffix, bishengcompiler.cn, proxy
+host-suffix, bisheng.cn, proxy
+host-suffix, gneec7.com, proxy
+host-suffix, hikunpeng.com, proxy
+host-suffix, saasops.tech, proxy
+host-suffix, hikunpeng.net, proxy
+host-suffix, hisilicon.com, proxy
+host-suffix, owsgo.com, proxy
+host-suffix, huaweiapaas.com, proxy
+host-suffix, mindspore.cn, proxy
+host-suffix, hisilicon.com.cn, proxy
+host-suffix, hikunpeng.com.cn, proxy
+host-suffix, gneec.com.cn, proxy

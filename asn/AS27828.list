@@ -1,8 +1,8 @@
-ip-cidr, 200.7.160.0/20
-ip6-cidr, 2801:104:8::/47
-ip6-cidr, 2801:104:16::/47
-ip6-cidr, 2801:104:20::/44
-ip6-cidr, 2801:104:40::/44
-ip6-cidr, 2801:104:a6::/47
-ip6-cidr, 2801:104:c0::/47
-ip6-cidr, 2801:104:dc::/46
+ip-cidr, 200.7.160.0/20, proxy, no-resolve
+ip6-cidr, 2801:104:8::/47, proxy, no-resolve
+ip6-cidr, 2801:104:16::/47, proxy, no-resolve
+ip6-cidr, 2801:104:20::/44, proxy, no-resolve
+ip6-cidr, 2801:104:40::/44, proxy, no-resolve
+ip6-cidr, 2801:104:a6::/47, proxy, no-resolve
+ip6-cidr, 2801:104:c0::/47, proxy, no-resolve
+ip6-cidr, 2801:104:dc::/46, proxy, no-resolve

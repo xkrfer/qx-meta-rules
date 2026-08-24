@@ -1,2 +1,2 @@
-host-suffix, ruby-china.org
-host-suffix, rubyconfchina.org
+host-suffix, ruby-china.org, proxy
+host-suffix, rubyconfchina.org, proxy

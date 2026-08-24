@@ -1,4 +1,4 @@
-ip-cidr, 31.56.144.0/24
-ip6-cidr, 2602:f9ba:b5::/48
-ip6-cidr, 2a12:bec4:12b0::/44
-ip6-cidr, 2a13:9500:132::/48
+ip-cidr, 31.56.144.0/24, proxy, no-resolve
+ip6-cidr, 2602:f9ba:b5::/48, proxy, no-resolve
+ip6-cidr, 2a12:bec4:12b0::/44, proxy, no-resolve
+ip6-cidr, 2a13:9500:132::/48, proxy, no-resolve

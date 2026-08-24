@@ -1,6 +1,6 @@
-host-suffix, oreil.ly
-host-suffix, oreilly.com
-host-suffix, oreilly.review
-host-suffix, oreillystatic.com
-host-suffix, orl.ly
-host-suffix, oreilly.com.cn
+host-suffix, oreil.ly, proxy
+host-suffix, oreilly.com, proxy
+host-suffix, oreilly.review, proxy
+host-suffix, oreillystatic.com, proxy
+host-suffix, orl.ly, proxy
+host-suffix, oreilly.com.cn, proxy

@@ -1,5 +1,5 @@
-ip-cidr, 138.97.96.0/22
-ip-cidr, 170.0.220.0/22
-ip6-cidr, 2804:2304::/33
-ip6-cidr, 2804:2304:8000::/34
-ip6-cidr, 2804:2304:f000::/36
+ip-cidr, 138.97.96.0/22, proxy, no-resolve
+ip-cidr, 170.0.220.0/22, proxy, no-resolve
+ip6-cidr, 2804:2304::/33, proxy, no-resolve
+ip6-cidr, 2804:2304:8000::/34, proxy, no-resolve
+ip6-cidr, 2804:2304:f000::/36, proxy, no-resolve

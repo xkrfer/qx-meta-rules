@@ -1,1 +1,1 @@
-ip6-cidr, 2801:80:3fa0::/48
+ip6-cidr, 2801:80:3fa0::/48, proxy, no-resolve

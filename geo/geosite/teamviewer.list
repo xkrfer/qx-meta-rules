@@ -1,5 +1,5 @@
-host, client-teamviewer-com.trafficmanager.net
-host, teamviewer.com.cdn.cloudflare.net
-host-suffix, teamviewer.com
-host-suffix, teamviewer.us
-host-suffix, teamviewer.cn
+host, client-teamviewer-com.trafficmanager.net, proxy
+host, teamviewer.com.cdn.cloudflare.net, proxy
+host-suffix, teamviewer.com, proxy
+host-suffix, teamviewer.us, proxy
+host-suffix, teamviewer.cn, proxy

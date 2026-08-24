@@ -1,5 +1,5 @@
-ip-cidr, 36.252.0.0/15
-ip-cidr, 49.126.0.0/16
-ip-cidr, 103.38.196.0/22
-ip-cidr, 116.68.208.0/21
-ip6-cidr, 2400:9500::/32
+ip-cidr, 36.252.0.0/15, proxy, no-resolve
+ip-cidr, 49.126.0.0/16, proxy, no-resolve
+ip-cidr, 103.38.196.0/22, proxy, no-resolve
+ip-cidr, 116.68.208.0/21, proxy, no-resolve
+ip6-cidr, 2400:9500::/32, proxy, no-resolve

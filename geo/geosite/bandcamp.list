@@ -1,2 +1,2 @@
-host-suffix, bandcamp.com
-host-suffix, bcbits.com
+host-suffix, bandcamp.com, proxy
+host-suffix, bcbits.com, proxy

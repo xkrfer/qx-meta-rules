@@ -1,4 +1,4 @@
-host-suffix, zb.app
-host-suffix, zb.com
-host-suffix, zb.io
-host-suffix, zb.live
+host-suffix, zb.app, proxy
+host-suffix, zb.com, proxy
+host-suffix, zb.io, proxy
+host-suffix, zb.live, proxy

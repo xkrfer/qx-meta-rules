@@ -1,30 +1,30 @@
-ip-cidr, 101.53.0.0/22
-ip-cidr, 101.53.4.0/23
-ip-cidr, 101.53.7.0/24
-ip-cidr, 101.53.8.0/22
-ip-cidr, 101.53.13.0/24
-ip-cidr, 101.53.14.0/23
-ip-cidr, 101.53.16.0/22
-ip-cidr, 101.53.20.0/24
-ip-cidr, 101.53.22.0/23
-ip-cidr, 101.53.24.0/21
-ip-cidr, 101.53.32.0/21
-ip-cidr, 101.53.40.0/24
-ip-cidr, 101.53.42.0/23
-ip-cidr, 101.53.44.0/23
-ip-cidr, 101.53.48.0/21
-ip-cidr, 101.53.56.0/22
-ip-cidr, 101.53.60.0/23
-ip-cidr, 101.53.62.0/24
-ip-cidr, 101.96.64.0/18
-ip-cidr, 119.15.160.0/19
-ip-cidr, 119.17.192.0/18
-ip-cidr, 154.81.60.0/24
-ip-cidr, 154.200.27.0/24
-ip-cidr, 202.151.160.0/20
-ip-cidr, 210.86.224.0/21
-ip-cidr, 210.86.232.0/24
-ip-cidr, 210.86.234.0/23
-ip-cidr, 210.86.236.0/23
-ip-cidr, 210.86.239.0/24
-ip6-cidr, 2401:e800::/32
+ip-cidr, 101.53.0.0/22, proxy, no-resolve
+ip-cidr, 101.53.4.0/23, proxy, no-resolve
+ip-cidr, 101.53.7.0/24, proxy, no-resolve
+ip-cidr, 101.53.8.0/22, proxy, no-resolve
+ip-cidr, 101.53.13.0/24, proxy, no-resolve
+ip-cidr, 101.53.14.0/23, proxy, no-resolve
+ip-cidr, 101.53.16.0/22, proxy, no-resolve
+ip-cidr, 101.53.20.0/24, proxy, no-resolve
+ip-cidr, 101.53.22.0/23, proxy, no-resolve
+ip-cidr, 101.53.24.0/21, proxy, no-resolve
+ip-cidr, 101.53.32.0/21, proxy, no-resolve
+ip-cidr, 101.53.40.0/24, proxy, no-resolve
+ip-cidr, 101.53.42.0/23, proxy, no-resolve
+ip-cidr, 101.53.44.0/23, proxy, no-resolve
+ip-cidr, 101.53.48.0/21, proxy, no-resolve
+ip-cidr, 101.53.56.0/22, proxy, no-resolve
+ip-cidr, 101.53.60.0/23, proxy, no-resolve
+ip-cidr, 101.53.62.0/24, proxy, no-resolve
+ip-cidr, 101.96.64.0/18, proxy, no-resolve
+ip-cidr, 119.15.160.0/19, proxy, no-resolve
+ip-cidr, 119.17.192.0/18, proxy, no-resolve
+ip-cidr, 154.81.60.0/24, proxy, no-resolve
+ip-cidr, 154.200.27.0/24, proxy, no-resolve
+ip-cidr, 202.151.160.0/20, proxy, no-resolve
+ip-cidr, 210.86.224.0/21, proxy, no-resolve
+ip-cidr, 210.86.232.0/24, proxy, no-resolve
+ip-cidr, 210.86.234.0/23, proxy, no-resolve
+ip-cidr, 210.86.236.0/23, proxy, no-resolve
+ip-cidr, 210.86.239.0/24, proxy, no-resolve
+ip6-cidr, 2401:e800::/32, proxy, no-resolve

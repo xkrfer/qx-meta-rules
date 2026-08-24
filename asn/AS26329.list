@@ -1,4 +1,4 @@
-ip-cidr, 64.207.192.0/23
-ip-cidr, 208.80.88.0/24
-ip-cidr, 208.80.90.0/24
-ip6-cidr, 2604:6b00::/48
+ip-cidr, 64.207.192.0/23, proxy, no-resolve
+ip-cidr, 208.80.88.0/24, proxy, no-resolve
+ip-cidr, 208.80.90.0/24, proxy, no-resolve
+ip6-cidr, 2604:6b00::/48, proxy, no-resolve

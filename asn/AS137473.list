@@ -1,2 +1,2 @@
-ip-cidr, 103.110.28.0/23
-ip6-cidr, 2402:8e40::/32
+ip-cidr, 103.110.28.0/23, proxy, no-resolve
+ip6-cidr, 2402:8e40::/32, proxy, no-resolve

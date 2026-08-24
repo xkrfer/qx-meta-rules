@@ -1,9 +1,9 @@
-host-suffix, irsnp.com
-host-suffix, mdcdn.cn
-host-suffix, midea.cn
-host-suffix, midea.com
-host-suffix, mideaepayuat.com
-host-suffix, msmartlife.cn
-host-suffix, msmartlife.com
-host-suffix, smartmidea.net
-host-suffix, midea.com.cn
+host-suffix, irsnp.com, proxy
+host-suffix, mdcdn.cn, proxy
+host-suffix, midea.cn, proxy
+host-suffix, midea.com, proxy
+host-suffix, mideaepayuat.com, proxy
+host-suffix, msmartlife.cn, proxy
+host-suffix, msmartlife.com, proxy
+host-suffix, smartmidea.net, proxy
+host-suffix, midea.com.cn, proxy

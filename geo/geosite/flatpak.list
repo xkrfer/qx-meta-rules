@@ -1,2 +1,2 @@
-host-suffix, flathub.org
-host-suffix, flatpak.org
+host-suffix, flathub.org, proxy
+host-suffix, flatpak.org, proxy

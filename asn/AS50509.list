@@ -1,4 +1,4 @@
-ip-cidr, 5.188.236.0/23
-ip-cidr, 146.185.212.0/23
-ip-cidr, 146.185.222.0/24
-ip6-cidr, 2001:678:c5c::/48
+ip-cidr, 5.188.236.0/23, proxy, no-resolve
+ip-cidr, 146.185.212.0/23, proxy, no-resolve
+ip-cidr, 146.185.222.0/24, proxy, no-resolve
+ip6-cidr, 2001:678:c5c::/48, proxy, no-resolve

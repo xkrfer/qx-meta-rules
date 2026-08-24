@@ -1,2 +1,2 @@
-host-suffix, myoffice.ru
-host-suffix, myoffice.team
+host-suffix, myoffice.ru, proxy
+host-suffix, myoffice.team, proxy

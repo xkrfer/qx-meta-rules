@@ -1,3 +1,3 @@
-host-suffix, telekom.com
-host-suffix, telekom.de
-host-suffix, telesec.de
+host-suffix, telekom.com, proxy
+host-suffix, telekom.de, proxy
+host-suffix, telesec.de, proxy

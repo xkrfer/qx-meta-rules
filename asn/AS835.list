@@ -1,18 +1,18 @@
-ip-cidr, 23.159.16.0/24
-ip-cidr, 23.246.184.0/24
-ip-cidr, 74.119.149.0/24
-ip-cidr, 74.119.150.0/23
-ip-cidr, 92.42.200.0/24
-ip-cidr, 104.167.228.0/24
-ip-cidr, 153.76.0.0/24
-ip-cidr, 153.76.6.0/24
-ip-cidr, 170.39.230.0/24
-ip-cidr, 207.174.104.0/23
-ip6-cidr, 2602:fd50::/48
-ip6-cidr, 2602:fd50:2::/47
-ip6-cidr, 2602:fd50:4::/47
-ip6-cidr, 2602:fd50:6::/48
-ip6-cidr, 2602:fd50:100::/40
-ip6-cidr, 2602:fd50:300::/40
-ip6-cidr, 2602:fd50:400::/43
-ip6-cidr, 2602:fd50:600::/40
+ip-cidr, 23.159.16.0/24, proxy, no-resolve
+ip-cidr, 23.246.184.0/24, proxy, no-resolve
+ip-cidr, 74.119.149.0/24, proxy, no-resolve
+ip-cidr, 74.119.150.0/23, proxy, no-resolve
+ip-cidr, 92.42.200.0/24, proxy, no-resolve
+ip-cidr, 104.167.228.0/24, proxy, no-resolve
+ip-cidr, 153.76.0.0/24, proxy, no-resolve
+ip-cidr, 153.76.6.0/24, proxy, no-resolve
+ip-cidr, 170.39.230.0/24, proxy, no-resolve
+ip-cidr, 207.174.104.0/23, proxy, no-resolve
+ip6-cidr, 2602:fd50::/48, proxy, no-resolve
+ip6-cidr, 2602:fd50:2::/47, proxy, no-resolve
+ip6-cidr, 2602:fd50:4::/47, proxy, no-resolve
+ip6-cidr, 2602:fd50:6::/48, proxy, no-resolve
+ip6-cidr, 2602:fd50:100::/40, proxy, no-resolve
+ip6-cidr, 2602:fd50:300::/40, proxy, no-resolve
+ip6-cidr, 2602:fd50:400::/43, proxy, no-resolve
+ip6-cidr, 2602:fd50:600::/40, proxy, no-resolve

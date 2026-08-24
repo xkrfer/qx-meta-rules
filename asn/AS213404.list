@@ -1,2 +1,2 @@
-ip-cidr, 84.54.2.0/23
-ip6-cidr, 2a14:67c1:a040::/47
+ip-cidr, 84.54.2.0/23, proxy, no-resolve
+ip6-cidr, 2a14:67c1:a040::/47, proxy, no-resolve

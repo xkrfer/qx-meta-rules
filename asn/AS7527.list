@@ -1,17 +1,17 @@
-ip-cidr, 210.171.226.0/23
-ip-cidr, 210.171.228.0/22
-ip6-cidr, 2400:3000::/42
-ip6-cidr, 2400:3000:40::/43
-ip6-cidr, 2400:3000:60::/44
-ip6-cidr, 2400:3000:73::/48
-ip6-cidr, 2400:3000:74::/46
-ip6-cidr, 2400:3000:78::/45
-ip6-cidr, 2400:3000:80::/41
-ip6-cidr, 2400:3000:100::/40
-ip6-cidr, 2400:3000:200::/39
-ip6-cidr, 2400:3000:400::/38
-ip6-cidr, 2400:3000:800::/37
-ip6-cidr, 2400:3000:1000::/36
-ip6-cidr, 2400:3000:2000::/35
-ip6-cidr, 2400:3000:4000::/34
-ip6-cidr, 2400:3000:8000::/33
+ip-cidr, 210.171.226.0/23, proxy, no-resolve
+ip-cidr, 210.171.228.0/22, proxy, no-resolve
+ip6-cidr, 2400:3000::/42, proxy, no-resolve
+ip6-cidr, 2400:3000:40::/43, proxy, no-resolve
+ip6-cidr, 2400:3000:60::/44, proxy, no-resolve
+ip6-cidr, 2400:3000:73::/48, proxy, no-resolve
+ip6-cidr, 2400:3000:74::/46, proxy, no-resolve
+ip6-cidr, 2400:3000:78::/45, proxy, no-resolve
+ip6-cidr, 2400:3000:80::/41, proxy, no-resolve
+ip6-cidr, 2400:3000:100::/40, proxy, no-resolve
+ip6-cidr, 2400:3000:200::/39, proxy, no-resolve
+ip6-cidr, 2400:3000:400::/38, proxy, no-resolve
+ip6-cidr, 2400:3000:800::/37, proxy, no-resolve
+ip6-cidr, 2400:3000:1000::/36, proxy, no-resolve
+ip6-cidr, 2400:3000:2000::/35, proxy, no-resolve
+ip6-cidr, 2400:3000:4000::/34, proxy, no-resolve
+ip6-cidr, 2400:3000:8000::/33, proxy, no-resolve

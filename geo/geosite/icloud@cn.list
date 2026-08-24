@@ -1,8 +1,8 @@
-host-suffix, apple-icloud.cn
-host-suffix, appleicloud.cn
-host-suffix, icloud-apple.cn
-host-suffix, icloud-content.com.cn
-host-suffix, icloud.cn
-host-suffix, icloud.com.cn
-host-suffix, icloud.net.cn
-host-suffix, icloudapple.cn
+host-suffix, apple-icloud.cn, proxy
+host-suffix, appleicloud.cn, proxy
+host-suffix, icloud-apple.cn, proxy
+host-suffix, icloud-content.com.cn, proxy
+host-suffix, icloud.cn, proxy
+host-suffix, icloud.com.cn, proxy
+host-suffix, icloud.net.cn, proxy
+host-suffix, icloudapple.cn, proxy

@@ -1,13 +1,13 @@
-host-suffix, ztoapp.com
-host-suffix, izto.com
-host-suffix, tuxi.com
-host-suffix, zt-express.com
-host-suffix, zto.cn
-host-suffix, zto.com
-host-suffix, zto.net
-host-suffix, 95311.com
-host-suffix, ztoglobal.com
-host-suffix, ztogroup.com
-host-suffix, ztoyh.com
-host-suffix, izto.com.cn
-host-suffix, mlzt.com.cn
+host-suffix, ztoapp.com, proxy
+host-suffix, izto.com, proxy
+host-suffix, tuxi.com, proxy
+host-suffix, zt-express.com, proxy
+host-suffix, zto.cn, proxy
+host-suffix, zto.com, proxy
+host-suffix, zto.net, proxy
+host-suffix, 95311.com, proxy
+host-suffix, ztoglobal.com, proxy
+host-suffix, ztogroup.com, proxy
+host-suffix, ztoyh.com, proxy
+host-suffix, izto.com.cn, proxy
+host-suffix, mlzt.com.cn, proxy

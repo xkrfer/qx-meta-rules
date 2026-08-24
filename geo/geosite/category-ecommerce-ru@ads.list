@@ -1,34 +1,34 @@
-host, ad.ozone.ru
-host, adv.ozon.ru
-host, agency-adv.ozon.ru
-host, analytics-adv.ozon.ru
-host, beginners-adv.ozon.ru
-host, google-analytics-suite.ozon.ru
-host, loyalnost-adv.ozon.ru
-host, new-adv.ozon.ru
-host, prodvizhenie-adv.ozon.ru
-host, questions-adv.ozon.ru
-host, sentry.ozon.ru
-host, xapi.ozon.by
-host, xapi.ozon.com
-host, xapi.ozon.com.by
-host, xapi.ozon.com.kz
-host, xapi.ozon.kz
-host, xapi.ozon.ru
-host, xapi.ozonru.me
-host, ads-gate.wildberries.ru
-host, ads-media.wildberries.ru
-host, ads.wildberries.ru
-host, advert-api.wb.ru
-host, advert-api-sandbox.wb.ru
-host, advert-media-api.wb.ru
-host, advert-api.wildberries.ru
-host, advert-api-sandbox.wildberries.ru
-host, advert-media-api.wildberries.ru
-host, analytics-stage.wildberries.ru
-host, analytics.wildberries.ru
-host, marketing-info.wildberries.ru
-host, marketplace-sentry.wb.ru
-host, sentry.wb.ru
-host, web-analytics.wildberries.ru
-host, stats.avito.ru
+host, ad.ozone.ru, proxy
+host, adv.ozon.ru, proxy
+host, agency-adv.ozon.ru, proxy
+host, analytics-adv.ozon.ru, proxy
+host, beginners-adv.ozon.ru, proxy
+host, google-analytics-suite.ozon.ru, proxy
+host, loyalnost-adv.ozon.ru, proxy
+host, new-adv.ozon.ru, proxy
+host, prodvizhenie-adv.ozon.ru, proxy
+host, questions-adv.ozon.ru, proxy
+host, sentry.ozon.ru, proxy
+host, xapi.ozon.by, proxy
+host, xapi.ozon.com, proxy
+host, xapi.ozon.com.by, proxy
+host, xapi.ozon.com.kz, proxy
+host, xapi.ozon.kz, proxy
+host, xapi.ozon.ru, proxy
+host, xapi.ozonru.me, proxy
+host, ads-gate.wildberries.ru, proxy
+host, ads-media.wildberries.ru, proxy
+host, ads.wildberries.ru, proxy
+host, advert-api.wb.ru, proxy
+host, advert-api-sandbox.wb.ru, proxy
+host, advert-media-api.wb.ru, proxy
+host, advert-api.wildberries.ru, proxy
+host, advert-api-sandbox.wildberries.ru, proxy
+host, advert-media-api.wildberries.ru, proxy
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketing-info.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy
+host, stats.avito.ru, proxy

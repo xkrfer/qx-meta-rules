@@ -1,5 +1,5 @@
-ip-cidr, 212.26.224.0/21
-ip-cidr, 212.26.232.0/22
-ip-cidr, 212.26.237.0/24
-ip-cidr, 212.26.238.0/23
-ip-cidr, 212.26.240.0/20
+ip-cidr, 212.26.224.0/21, proxy, no-resolve
+ip-cidr, 212.26.232.0/22, proxy, no-resolve
+ip-cidr, 212.26.237.0/24, proxy, no-resolve
+ip-cidr, 212.26.238.0/23, proxy, no-resolve
+ip-cidr, 212.26.240.0/20, proxy, no-resolve

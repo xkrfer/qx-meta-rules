@@ -1,8 +1,8 @@
-host-suffix, tmtpost.com
-host-suffix, chaindd.com
-host-suffix, 72whys.com
-host-suffix, checkzeit.com
-host-suffix, tivitv.com
-host-suffix, tmtsmartlife.com
-host-suffix, tmtsmartrun.com
-host-suffix, tigeek.net.cn
+host-suffix, tmtpost.com, proxy
+host-suffix, chaindd.com, proxy
+host-suffix, 72whys.com, proxy
+host-suffix, checkzeit.com, proxy
+host-suffix, tivitv.com, proxy
+host-suffix, tmtsmartlife.com, proxy
+host-suffix, tmtsmartrun.com, proxy
+host-suffix, tigeek.net.cn, proxy

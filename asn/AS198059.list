@@ -1,3 +1,3 @@
-ip-cidr, 81.30.96.0/24
-ip-cidr, 154.60.208.0/24
-ip6-cidr, 2a10:8540::/29
+ip-cidr, 81.30.96.0/24, proxy, no-resolve
+ip-cidr, 154.60.208.0/24, proxy, no-resolve
+ip6-cidr, 2a10:8540::/29, proxy, no-resolve

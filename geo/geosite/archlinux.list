@@ -1,6 +1,6 @@
-host-suffix, archlinux.de
-host-suffix, archlinux.org
-host-suffix, archlinux.page
-host-suffix, archlinuxarm.org
-host-suffix, pkgbuild.com
-host-suffix, archlinuxcn.org
+host-suffix, archlinux.de, proxy
+host-suffix, archlinux.org, proxy
+host-suffix, archlinux.page, proxy
+host-suffix, archlinuxarm.org, proxy
+host-suffix, pkgbuild.com, proxy
+host-suffix, archlinuxcn.org, proxy

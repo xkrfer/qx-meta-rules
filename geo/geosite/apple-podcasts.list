@@ -1,4 +1,4 @@
-host-suffix, applepodcasts.com
-host-suffix, podcasts.apple.com
-host, amp-api.podcasts.apple.com
-host, podcasts.apple.com
+host-suffix, applepodcasts.com, proxy
+host-suffix, podcasts.apple.com, proxy
+host, amp-api.podcasts.apple.com, proxy
+host, podcasts.apple.com, proxy

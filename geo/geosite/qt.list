@@ -1,2 +1,2 @@
-host-suffix, qt.io
-host-suffix, qt-project.org
+host-suffix, qt.io, proxy
+host-suffix, qt-project.org, proxy

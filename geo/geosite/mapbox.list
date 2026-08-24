@@ -1,2 +1,2 @@
-host-suffix, mapbox.com
-host-suffix, mapbox.cn
+host-suffix, mapbox.com, proxy
+host-suffix, mapbox.cn, proxy

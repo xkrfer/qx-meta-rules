@@ -1,3 +1,3 @@
-host-suffix, sndcdn.com
-host-suffix, soundcloud.cloud
-host-suffix, soundcloud.com
+host-suffix, sndcdn.com, proxy
+host-suffix, soundcloud.cloud, proxy
+host-suffix, soundcloud.com, proxy

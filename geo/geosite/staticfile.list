@@ -1,2 +1,2 @@
-host-suffix, staticfile.net
-host-suffix, staticfile.org
+host-suffix, staticfile.net, proxy
+host-suffix, staticfile.org, proxy

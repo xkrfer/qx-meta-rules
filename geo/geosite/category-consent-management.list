@@ -1,14 +1,14 @@
-host-suffix, appconsent.io
-host-suffix, axept.io
-host-suffix, cdn-cookieyes.com
-host-suffix, consentmanager.net
-host-suffix, consentpro.com
-host-suffix, cookiebot.com
-host-suffix, cookielaw.org
-host-suffix, cookiepro.com
-host-suffix, cookieyes.com
-host-suffix, onetrust.com
-host-suffix, osano.com
-host-suffix, termly.io
-host-suffix, trustarc.com
-host-suffix, usercentrics.eu
+host-suffix, appconsent.io, proxy
+host-suffix, axept.io, proxy
+host-suffix, cdn-cookieyes.com, proxy
+host-suffix, consentmanager.net, proxy
+host-suffix, consentpro.com, proxy
+host-suffix, cookiebot.com, proxy
+host-suffix, cookielaw.org, proxy
+host-suffix, cookiepro.com, proxy
+host-suffix, cookieyes.com, proxy
+host-suffix, onetrust.com, proxy
+host-suffix, osano.com, proxy
+host-suffix, termly.io, proxy
+host-suffix, trustarc.com, proxy
+host-suffix, usercentrics.eu, proxy

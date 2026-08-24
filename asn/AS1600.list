@@ -1,29 +1,29 @@
-ip-cidr, 6.16.82.0/23
-ip-cidr, 6.16.84.0/23
-ip-cidr, 6.16.212.0/24
-ip-cidr, 6.47.64.0/19
-ip-cidr, 6.47.96.0/21
-ip-cidr, 6.134.16.0/22
-ip-cidr, 6.134.96.0/19
-ip-cidr, 6.134.128.0/18
-ip-cidr, 141.190.0.0/16
-ip-cidr, 143.68.10.0/23
-ip-cidr, 143.68.12.0/23
-ip-cidr, 143.68.16.0/20
-ip-cidr, 143.68.191.0/24
-ip-cidr, 144.107.48.0/20
-ip-cidr, 147.248.16.0/24
-ip-cidr, 147.248.18.0/24
-ip-cidr, 147.248.20.0/24
-ip-cidr, 147.248.22.0/24
-ip-cidr, 150.137.0.0/16
-ip-cidr, 158.19.64.0/18
-ip-cidr, 160.143.94.0/23
-ip-cidr, 160.143.96.0/23
-ip-cidr, 192.42.88.0/24
-ip6-cidr, 2608:c180:2c0::/48
-ip6-cidr, 2608:c181:1d0::/48
-ip6-cidr, 2608:c184:320::/48
-ip6-cidr, 2608:c187:290::/48
-ip6-cidr, 2608:c187:430::/48
-ip6-cidr, 2608:c188:450::/48
+ip-cidr, 6.16.82.0/23, proxy, no-resolve
+ip-cidr, 6.16.84.0/23, proxy, no-resolve
+ip-cidr, 6.16.212.0/24, proxy, no-resolve
+ip-cidr, 6.47.64.0/19, proxy, no-resolve
+ip-cidr, 6.47.96.0/21, proxy, no-resolve
+ip-cidr, 6.134.16.0/22, proxy, no-resolve
+ip-cidr, 6.134.96.0/19, proxy, no-resolve
+ip-cidr, 6.134.128.0/18, proxy, no-resolve
+ip-cidr, 141.190.0.0/16, proxy, no-resolve
+ip-cidr, 143.68.10.0/23, proxy, no-resolve
+ip-cidr, 143.68.12.0/23, proxy, no-resolve
+ip-cidr, 143.68.16.0/20, proxy, no-resolve
+ip-cidr, 143.68.191.0/24, proxy, no-resolve
+ip-cidr, 144.107.48.0/20, proxy, no-resolve
+ip-cidr, 147.248.16.0/24, proxy, no-resolve
+ip-cidr, 147.248.18.0/24, proxy, no-resolve
+ip-cidr, 147.248.20.0/24, proxy, no-resolve
+ip-cidr, 147.248.22.0/24, proxy, no-resolve
+ip-cidr, 150.137.0.0/16, proxy, no-resolve
+ip-cidr, 158.19.64.0/18, proxy, no-resolve
+ip-cidr, 160.143.94.0/23, proxy, no-resolve
+ip-cidr, 160.143.96.0/23, proxy, no-resolve
+ip-cidr, 192.42.88.0/24, proxy, no-resolve
+ip6-cidr, 2608:c180:2c0::/48, proxy, no-resolve
+ip6-cidr, 2608:c181:1d0::/48, proxy, no-resolve
+ip6-cidr, 2608:c184:320::/48, proxy, no-resolve
+ip6-cidr, 2608:c187:290::/48, proxy, no-resolve
+ip6-cidr, 2608:c187:430::/48, proxy, no-resolve
+ip6-cidr, 2608:c188:450::/48, proxy, no-resolve

@@ -1,5 +1,5 @@
-host-suffix, kontur.ru
-host-suffix, kontur.host
-host-suffix, kontur-inc.com
-host, metrika.kontur.ru
-host, sentry.kontur.host
+host-suffix, kontur.ru, proxy
+host-suffix, kontur.host, proxy
+host-suffix, kontur-inc.com, proxy
+host, metrika.kontur.ru, proxy
+host, sentry.kontur.host, proxy

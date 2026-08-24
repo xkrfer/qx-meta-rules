@@ -1,13 +1,13 @@
-host, www.speedtest.net.cdn.cloudflare.net
-host-suffix, cdnst.net
-host-suffix, cellmaps.com
-host-suffix, ekahau.cloud
-host-suffix, ekahau.com
-host-suffix, ookla.com
-host-suffix, ooklaserver.net
-host-suffix, pingtest.net
-host-suffix, speedtest.co
-host-suffix, speedtest.net
-host-suffix, speedtestcustom.com
-host-suffix, webtest.net
-host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk
+host, www.speedtest.net.cdn.cloudflare.net, proxy
+host-suffix, cdnst.net, proxy
+host-suffix, cellmaps.com, proxy
+host-suffix, ekahau.cloud, proxy
+host-suffix, ekahau.com, proxy
+host-suffix, ookla.com, proxy
+host-suffix, ooklaserver.net, proxy
+host-suffix, pingtest.net, proxy
+host-suffix, speedtest.co, proxy
+host-suffix, speedtest.net, proxy
+host-suffix, speedtestcustom.com, proxy
+host-suffix, webtest.net, proxy
+host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk, proxy

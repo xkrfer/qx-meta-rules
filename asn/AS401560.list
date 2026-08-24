@@ -1,7 +1,7 @@
-ip-cidr, 23.131.252.0/24
-ip-cidr, 143.14.6.0/24
-ip-cidr, 143.20.253.0/24
-ip-cidr, 144.31.35.0/24
-ip-cidr, 207.180.11.0/24
-ip-cidr, 216.75.132.0/24
-ip6-cidr, 2602:f744::/43
+ip-cidr, 23.131.252.0/24, proxy, no-resolve
+ip-cidr, 143.14.6.0/24, proxy, no-resolve
+ip-cidr, 143.20.253.0/24, proxy, no-resolve
+ip-cidr, 144.31.35.0/24, proxy, no-resolve
+ip-cidr, 207.180.11.0/24, proxy, no-resolve
+ip-cidr, 216.75.132.0/24, proxy, no-resolve
+ip6-cidr, 2602:f744::/43, proxy, no-resolve

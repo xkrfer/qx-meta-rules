@@ -1,4 +1,4 @@
-host-suffix, comfy.org
-host-suffix, comfyci.org
-host-suffix, comfyregistry.org
-host-suffix, oystermercury.top
+host-suffix, comfy.org, proxy
+host-suffix, comfyci.org, proxy
+host-suffix, comfyregistry.org, proxy
+host-suffix, oystermercury.top, proxy

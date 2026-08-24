@@ -1,4 +1,4 @@
-host-suffix, microsoftreactor.cn
-host-suffix, microsoftreactor.com.cn
-host-suffix, reactorms.com.cn
-host, download.visualstudio.microsoft.com
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy
+host, download.visualstudio.microsoft.com, proxy

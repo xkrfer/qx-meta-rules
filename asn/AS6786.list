@@ -1,17 +1,17 @@
-ip-cidr, 62.169.4.0/24
-ip-cidr, 81.169.191.0/24
-ip-cidr, 85.214.9.0/24
-ip-cidr, 85.214.11.0/24
-ip-cidr, 85.215.0.0/19
-ip-cidr, 185.39.48.0/23
-ip-cidr, 185.156.224.0/22
-ip-cidr, 192.166.192.0/21
-ip-cidr, 192.166.200.0/23
-ip-cidr, 193.16.175.0/24
-ip-cidr, 194.121.50.0/24
-ip-cidr, 217.74.192.0/20
-ip6-cidr, 2a01:238:cca::/48
-ip6-cidr, 2a01:238:3000::/36
-ip6-cidr, 2a01:238:e000::/35
-ip6-cidr, 2a04:7a00::/32
-ip6-cidr, 2a07:a240::/29
+ip-cidr, 62.169.4.0/24, proxy, no-resolve
+ip-cidr, 81.169.191.0/24, proxy, no-resolve
+ip-cidr, 85.214.9.0/24, proxy, no-resolve
+ip-cidr, 85.214.11.0/24, proxy, no-resolve
+ip-cidr, 85.215.0.0/19, proxy, no-resolve
+ip-cidr, 185.39.48.0/23, proxy, no-resolve
+ip-cidr, 185.156.224.0/22, proxy, no-resolve
+ip-cidr, 192.166.192.0/21, proxy, no-resolve
+ip-cidr, 192.166.200.0/23, proxy, no-resolve
+ip-cidr, 193.16.175.0/24, proxy, no-resolve
+ip-cidr, 194.121.50.0/24, proxy, no-resolve
+ip-cidr, 217.74.192.0/20, proxy, no-resolve
+ip6-cidr, 2a01:238:cca::/48, proxy, no-resolve
+ip6-cidr, 2a01:238:3000::/36, proxy, no-resolve
+ip6-cidr, 2a01:238:e000::/35, proxy, no-resolve
+ip6-cidr, 2a04:7a00::/32, proxy, no-resolve
+ip6-cidr, 2a07:a240::/29, proxy, no-resolve

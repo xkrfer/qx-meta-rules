@@ -1,14 +1,14 @@
-host-suffix, laohu.com
-host-suffix, pwrd.com
-host-suffix, wanmei.com
-host-suffix, wmsj.cn
-host-suffix, wmupd.com
-host-suffix, allhistory.com
-host-suffix, chengjiaxiangqin.cn
-host-suffix, perfectlingo.com
-host-suffix, pwcinema.com
-host-suffix, pwesports.cn
-host-suffix, 111.com
-host-suffix, 88.com
-host-suffix, 88y.cn
-host-suffix, email.cn
+host-suffix, laohu.com, proxy
+host-suffix, pwrd.com, proxy
+host-suffix, wanmei.com, proxy
+host-suffix, wmsj.cn, proxy
+host-suffix, wmupd.com, proxy
+host-suffix, allhistory.com, proxy
+host-suffix, chengjiaxiangqin.cn, proxy
+host-suffix, perfectlingo.com, proxy
+host-suffix, pwcinema.com, proxy
+host-suffix, pwesports.cn, proxy
+host-suffix, 111.com, proxy
+host-suffix, 88.com, proxy
+host-suffix, 88y.cn, proxy
+host-suffix, email.cn, proxy

@@ -1,8 +1,8 @@
-host-suffix, dns.sb
-host-suffix, ip.gs
-host-suffix, ip.sb
-host-suffix, loli.net
-host-suffix, sb.sb
-host-suffix, sm.ms
-host-suffix, u.nu
-host-suffix, www.sb
+host-suffix, dns.sb, proxy
+host-suffix, ip.gs, proxy
+host-suffix, ip.sb, proxy
+host-suffix, loli.net, proxy
+host-suffix, sb.sb, proxy
+host-suffix, sm.ms, proxy
+host-suffix, u.nu, proxy
+host-suffix, www.sb, proxy

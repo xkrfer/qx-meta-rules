@@ -1,8 +1,8 @@
-host-suffix, dazn.com
-host-suffix, dazn-api.com
-host-suffix, dazndn.com
-host-suffix, daznfeeds.com
-host-suffix, daznplayer.com
-host-suffix, daznservices.com
-host-suffix, indazn.com
-host-suffix, indaznlab.com
+host-suffix, dazn.com, proxy
+host-suffix, dazn-api.com, proxy
+host-suffix, dazndn.com, proxy
+host-suffix, daznfeeds.com, proxy
+host-suffix, daznplayer.com, proxy
+host-suffix, daznservices.com, proxy
+host-suffix, indazn.com, proxy
+host-suffix, indaznlab.com, proxy

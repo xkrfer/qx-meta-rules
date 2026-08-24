@@ -1,5 +1,5 @@
-ip-cidr, 78.83.211.0/24
-ip-cidr, 82.103.79.0/24
-ip-cidr, 151.251.61.0/24
-ip-cidr, 195.34.122.0/24
-ip6-cidr, 2001:678:9e0::/48
+ip-cidr, 78.83.211.0/24, proxy, no-resolve
+ip-cidr, 82.103.79.0/24, proxy, no-resolve
+ip-cidr, 151.251.61.0/24, proxy, no-resolve
+ip-cidr, 195.34.122.0/24, proxy, no-resolve
+ip6-cidr, 2001:678:9e0::/48, proxy, no-resolve

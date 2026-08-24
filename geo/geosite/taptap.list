@@ -1,7 +1,7 @@
-host-suffix, tapapks.com
-host-suffix, tapimg.com
-host-suffix, tapimg.net
-host-suffix, taptap.cn
-host-suffix, taptap.com
-host-suffix, taptapdada.com
-host-suffix, taptap.io
+host-suffix, tapapks.com, proxy
+host-suffix, tapimg.com, proxy
+host-suffix, tapimg.net, proxy
+host-suffix, taptap.cn, proxy
+host-suffix, taptap.com, proxy
+host-suffix, taptapdada.com, proxy
+host-suffix, taptap.io, proxy

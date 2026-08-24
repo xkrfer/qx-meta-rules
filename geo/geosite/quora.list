@@ -1,6 +1,6 @@
-host, www.quora.com.cdn.cloudflare.net
-host-suffix, qr.ae
-host-suffix, quora.com
-host-suffix, quoracdn.net
-host-suffix, poe.com
-host-suffix, poecdn.net
+host, www.quora.com.cdn.cloudflare.net, proxy
+host-suffix, qr.ae, proxy
+host-suffix, quora.com, proxy
+host-suffix, quoracdn.net, proxy
+host-suffix, poe.com, proxy
+host-suffix, poecdn.net, proxy

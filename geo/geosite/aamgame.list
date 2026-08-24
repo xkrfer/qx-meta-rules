@@ -1,5 +1,5 @@
-host-suffix, aamgame.net
-host-suffix, aamgame.com
-host-suffix, aamgame.mobi
-host-suffix, aamsmart.com
-host-suffix, singworld.net
+host-suffix, aamgame.net, proxy
+host-suffix, aamgame.com, proxy
+host-suffix, aamgame.mobi, proxy
+host-suffix, aamsmart.com, proxy
+host-suffix, singworld.net, proxy

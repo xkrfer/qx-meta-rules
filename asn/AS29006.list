@@ -1,3 +1,3 @@
-ip-cidr, 217.27.240.0/20
-ip-cidr, 217.168.16.0/20
-ip6-cidr, 2a01:6c8::/36
+ip-cidr, 217.27.240.0/20, proxy, no-resolve
+ip-cidr, 217.168.16.0/20, proxy, no-resolve
+ip6-cidr, 2a01:6c8::/36, proxy, no-resolve

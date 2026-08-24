@@ -1,4 +1,4 @@
-host-suffix, xedge.cc
-host-suffix, glxcc.net
-host-suffix, xn0.cc
-host-suffix, ganjiangvpn.com
+host-suffix, xedge.cc, proxy
+host-suffix, glxcc.net, proxy
+host-suffix, xn0.cc, proxy
+host-suffix, ganjiangvpn.com, proxy

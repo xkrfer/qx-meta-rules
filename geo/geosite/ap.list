@@ -1,2 +1,2 @@
-host-suffix, ap.org
-host-suffix, apnews.com
+host-suffix, ap.org, proxy
+host-suffix, apnews.com, proxy

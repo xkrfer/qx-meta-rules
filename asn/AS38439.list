@@ -1,5 +1,5 @@
-ip-cidr, 199.127.129.0/24
-ip6-cidr, 2001:470:d0::/48
-ip6-cidr, 2001:470:40a::/48
-ip6-cidr, 2602:f831::/48
-ip6-cidr, 2602:f831:d0::/46
+ip-cidr, 199.127.129.0/24, proxy, no-resolve
+ip6-cidr, 2001:470:d0::/48, proxy, no-resolve
+ip6-cidr, 2001:470:40a::/48, proxy, no-resolve
+ip6-cidr, 2602:f831::/48, proxy, no-resolve
+ip6-cidr, 2602:f831:d0::/46, proxy, no-resolve

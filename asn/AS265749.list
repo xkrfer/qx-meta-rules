@@ -1,3 +1,3 @@
-ip-cidr, 128.201.236.0/22
-ip-cidr, 200.45.223.0/24
-ip6-cidr, 2803:cbc0:1000::/36
+ip-cidr, 128.201.236.0/22, proxy, no-resolve
+ip-cidr, 200.45.223.0/24, proxy, no-resolve
+ip6-cidr, 2803:cbc0:1000::/36, proxy, no-resolve

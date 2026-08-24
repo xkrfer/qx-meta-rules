@@ -1,4 +1,4 @@
-ip-cidr, 177.44.240.0/20
-ip-cidr, 179.106.128.0/20
-ip-cidr, 179.190.64.0/19
-ip6-cidr, 2801:80:2800::/40
+ip-cidr, 177.44.240.0/20, proxy, no-resolve
+ip-cidr, 179.106.128.0/20, proxy, no-resolve
+ip-cidr, 179.190.64.0/19, proxy, no-resolve
+ip6-cidr, 2801:80:2800::/40, proxy, no-resolve

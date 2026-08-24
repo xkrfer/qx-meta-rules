@@ -1,5 +1,5 @@
-ip-cidr, 198.177.8.0/21
-ip-cidr, 198.245.210.0/23
-ip-cidr, 199.242.211.0/24
-ip-cidr, 204.58.224.0/22
-ip6-cidr, 2620:96:8000::/48
+ip-cidr, 198.177.8.0/21, proxy, no-resolve
+ip-cidr, 198.245.210.0/23, proxy, no-resolve
+ip-cidr, 199.242.211.0/24, proxy, no-resolve
+ip-cidr, 204.58.224.0/22, proxy, no-resolve
+ip6-cidr, 2620:96:8000::/48, proxy, no-resolve

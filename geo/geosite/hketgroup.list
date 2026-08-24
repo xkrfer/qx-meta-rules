@@ -1,13 +1,13 @@
-host-suffix, etwealth.com
-host-suffix, hket.com
-host-suffix, hketgroup.com
-host-suffix, apexprint.com.hk
-host-suffix, eprc.com.hk
-host-suffix, etbc.com.hk
-host-suffix, etnet.com.hk
-host-suffix, etpress.com.hk
-host-suffix, ettrade.com.hk
-host-suffix, ulifestyle.com.hk
-host-suffix, umagazine.com.hk
-host-suffix, etnet.com.cn
-host-suffix, etnetchina.com.cn
+host-suffix, etwealth.com, proxy
+host-suffix, hket.com, proxy
+host-suffix, hketgroup.com, proxy
+host-suffix, apexprint.com.hk, proxy
+host-suffix, eprc.com.hk, proxy
+host-suffix, etbc.com.hk, proxy
+host-suffix, etnet.com.hk, proxy
+host-suffix, etpress.com.hk, proxy
+host-suffix, ettrade.com.hk, proxy
+host-suffix, ulifestyle.com.hk, proxy
+host-suffix, umagazine.com.hk, proxy
+host-suffix, etnet.com.cn, proxy
+host-suffix, etnetchina.com.cn, proxy

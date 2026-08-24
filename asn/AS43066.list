@@ -1,4 +1,4 @@
-ip-cidr, 93.184.128.0/20
-ip6-cidr, 2a05:d880:1::/48
-ip6-cidr, 2a05:d880:3::/48
-ip6-cidr, 2a05:d880:4::/48
+ip-cidr, 93.184.128.0/20, proxy, no-resolve
+ip6-cidr, 2a05:d880:1::/48, proxy, no-resolve
+ip6-cidr, 2a05:d880:3::/48, proxy, no-resolve
+ip6-cidr, 2a05:d880:4::/48, proxy, no-resolve

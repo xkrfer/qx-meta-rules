@@ -1,4 +1,4 @@
-ip-cidr, 38.91.54.0/24
-ip-cidr, 193.149.148.0/23
-ip-cidr, 209.71.32.0/22
-ip6-cidr, 2602:fc2d::/36
+ip-cidr, 38.91.54.0/24, proxy, no-resolve
+ip-cidr, 193.149.148.0/23, proxy, no-resolve
+ip-cidr, 209.71.32.0/22, proxy, no-resolve
+ip6-cidr, 2602:fc2d::/36, proxy, no-resolve

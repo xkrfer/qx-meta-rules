@@ -1,19 +1,19 @@
-host-suffix, calgon.fr
-host-suffix, calgon.ru
-host-suffix, calgon.ch
-host-suffix, calgonit.com
-host-suffix, calgon.com
-host-suffix, calgoncarbon.com
-host-suffix, calgon.de
-host-suffix, calgon.es
-host-suffix, calgon.be
-host-suffix, calgon.it
-host-suffix, calgon.ie
-host-suffix, calgon.nl
-host-suffix, calgon.pt
-host-suffix, calgon.at
-host-suffix, calgon.tv
-host-suffix, calgoncarbon-china.com
-host-suffix, calgon.com.tr
-host-suffix, calgon.co.uk
-host-suffix, calgon.cn
+host-suffix, calgon.fr, proxy
+host-suffix, calgon.ru, proxy
+host-suffix, calgon.ch, proxy
+host-suffix, calgonit.com, proxy
+host-suffix, calgon.com, proxy
+host-suffix, calgoncarbon.com, proxy
+host-suffix, calgon.de, proxy
+host-suffix, calgon.es, proxy
+host-suffix, calgon.be, proxy
+host-suffix, calgon.it, proxy
+host-suffix, calgon.ie, proxy
+host-suffix, calgon.nl, proxy
+host-suffix, calgon.pt, proxy
+host-suffix, calgon.at, proxy
+host-suffix, calgon.tv, proxy
+host-suffix, calgoncarbon-china.com, proxy
+host-suffix, calgon.com.tr, proxy
+host-suffix, calgon.co.uk, proxy
+host-suffix, calgon.cn, proxy

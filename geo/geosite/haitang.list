@@ -1,17 +1,17 @@
-host-suffix, haitangbook.com
-host-suffix, haitbook.com
-host-suffix, htlvbooks.com
-host-suffix, htnewbooks.com
-host-suffix, htwhbook.com
-host-suffix, lmbooks.com
-host-suffix, lmebooks.com
-host-suffix, longmabook.com
-host-suffix, longmabookcn.com
-host-suffix, lovehtbooks.com
-host-suffix, lvhtebook.com
-host-suffix, mybookinlm.com
-host-suffix, myhtebook.com
-host-suffix, myhtebooks.com
-host-suffix, myhtlmebook.com
-host-suffix, newhtbook.com
-host-suffix, urhtbooks.com
+host-suffix, haitangbook.com, proxy
+host-suffix, haitbook.com, proxy
+host-suffix, htlvbooks.com, proxy
+host-suffix, htnewbooks.com, proxy
+host-suffix, htwhbook.com, proxy
+host-suffix, lmbooks.com, proxy
+host-suffix, lmebooks.com, proxy
+host-suffix, longmabook.com, proxy
+host-suffix, longmabookcn.com, proxy
+host-suffix, lovehtbooks.com, proxy
+host-suffix, lvhtebook.com, proxy
+host-suffix, mybookinlm.com, proxy
+host-suffix, myhtebook.com, proxy
+host-suffix, myhtebooks.com, proxy
+host-suffix, myhtlmebook.com, proxy
+host-suffix, newhtbook.com, proxy
+host-suffix, urhtbooks.com, proxy

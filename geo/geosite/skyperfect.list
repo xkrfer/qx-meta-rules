@@ -1,7 +1,7 @@
-host-suffix, skyperfectjsat.space
-host-suffix, sptvbroadcast.com
-host-suffix, spcc-sp.com
-host-suffix, hominis.media
-host-suffix, jsati.com
-host-suffix, jsatmobile.com
-host-suffix, skyperfectv.co.jp
+host-suffix, skyperfectjsat.space, proxy
+host-suffix, sptvbroadcast.com, proxy
+host-suffix, spcc-sp.com, proxy
+host-suffix, hominis.media, proxy
+host-suffix, jsati.com, proxy
+host-suffix, jsatmobile.com, proxy
+host-suffix, skyperfectv.co.jp, proxy

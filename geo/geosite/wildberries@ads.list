@@ -1,15 +1,15 @@
-host, ads-gate.wildberries.ru
-host, ads-media.wildberries.ru
-host, ads.wildberries.ru
-host, advert-api.wb.ru
-host, advert-api-sandbox.wb.ru
-host, advert-media-api.wb.ru
-host, advert-api.wildberries.ru
-host, advert-api-sandbox.wildberries.ru
-host, advert-media-api.wildberries.ru
-host, analytics-stage.wildberries.ru
-host, analytics.wildberries.ru
-host, marketing-info.wildberries.ru
-host, marketplace-sentry.wb.ru
-host, sentry.wb.ru
-host, web-analytics.wildberries.ru
+host, ads-gate.wildberries.ru, proxy
+host, ads-media.wildberries.ru, proxy
+host, ads.wildberries.ru, proxy
+host, advert-api.wb.ru, proxy
+host, advert-api-sandbox.wb.ru, proxy
+host, advert-media-api.wb.ru, proxy
+host, advert-api.wildberries.ru, proxy
+host, advert-api-sandbox.wildberries.ru, proxy
+host, advert-media-api.wildberries.ru, proxy
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketing-info.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy

@@ -1,11 +1,11 @@
-host-suffix, booth.pm
-host-suffix, fanbox.cc
-host-suffix, pixiv.help
-host-suffix, pixiv.me
-host-suffix, pixiv.net
-host-suffix, pixiv.org
-host-suffix, pixiv-recommend.net
-host-suffix, pixivision.net
-host-suffix, pximg.net
-host-suffix, pixiv.co.jp
-host-suffix, ads-pixiv.net
+host-suffix, booth.pm, proxy
+host-suffix, fanbox.cc, proxy
+host-suffix, pixiv.help, proxy
+host-suffix, pixiv.me, proxy
+host-suffix, pixiv.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pixiv-recommend.net, proxy
+host-suffix, pixivision.net, proxy
+host-suffix, pximg.net, proxy
+host-suffix, pixiv.co.jp, proxy
+host-suffix, ads-pixiv.net, proxy

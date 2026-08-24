@@ -1,2 +1,2 @@
-host-suffix, mubi.com
-host-suffix, mubicdn.net
+host-suffix, mubi.com, proxy
+host-suffix, mubicdn.net, proxy

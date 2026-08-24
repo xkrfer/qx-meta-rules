@@ -1,2 +1,2 @@
-host-suffix, a.mts.ru
-host-suffix, obs.mts.ru
+host-suffix, a.mts.ru, proxy
+host-suffix, obs.mts.ru, proxy

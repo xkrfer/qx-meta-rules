@@ -1,9 +1,9 @@
-ip-cidr, 65.19.0.0/24
-ip-cidr, 65.19.2.0/23
-ip-cidr, 65.19.5.0/24
-ip-cidr, 65.19.6.0/23
-ip-cidr, 65.19.10.0/23
-ip-cidr, 65.19.12.0/22
-ip-cidr, 65.19.16.0/20
-ip-cidr, 65.19.32.0/19
-ip6-cidr, 2607:6900::/32
+ip-cidr, 65.19.0.0/24, proxy, no-resolve
+ip-cidr, 65.19.2.0/23, proxy, no-resolve
+ip-cidr, 65.19.5.0/24, proxy, no-resolve
+ip-cidr, 65.19.6.0/23, proxy, no-resolve
+ip-cidr, 65.19.10.0/23, proxy, no-resolve
+ip-cidr, 65.19.12.0/22, proxy, no-resolve
+ip-cidr, 65.19.16.0/20, proxy, no-resolve
+ip-cidr, 65.19.32.0/19, proxy, no-resolve
+ip6-cidr, 2607:6900::/32, proxy, no-resolve

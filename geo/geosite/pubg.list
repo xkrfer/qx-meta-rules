@@ -1,4 +1,4 @@
-host, pubg1.battleye.com
-host-suffix, kraftonde.com
-host-suffix, playbattlegrounds.com
-host-suffix, pubg.com
+host, pubg1.battleye.com, proxy
+host-suffix, kraftonde.com, proxy
+host-suffix, playbattlegrounds.com, proxy
+host-suffix, pubg.com, proxy

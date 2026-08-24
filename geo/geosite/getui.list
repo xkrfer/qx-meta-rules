@@ -1,7 +1,7 @@
-host-suffix, gepush.com
-host-suffix, getui.cn
-host-suffix, getui.com
-host-suffix, getui.net
-host-suffix, igehuo.com
-host-suffix, igetui.com
-host-suffix, igexin.com
+host-suffix, gepush.com, proxy
+host-suffix, getui.cn, proxy
+host-suffix, getui.com, proxy
+host-suffix, getui.net, proxy
+host-suffix, igehuo.com, proxy
+host-suffix, igetui.com, proxy
+host-suffix, igexin.com, proxy

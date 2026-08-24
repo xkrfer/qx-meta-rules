@@ -1,12 +1,12 @@
-host-suffix, tclai.top
-host-suffix, tcl.com
-host-suffix, tcltech.com
-host-suffix, leiniao.com
-host-suffix, my7v.com
-host-suffix, tcl.com.cn
-host-suffix, ads-uo.api.leiniao.com
-host-suffix, ads-ut.api.leiniao.com
-host-suffix, ads.api.my7v.com
-host-suffix, euads-o.api.leiniao.com
-host-suffix, hwads-t.api.my7v.com
-host-suffix, testads.api.my7v.com
+host-suffix, tclai.top, proxy
+host-suffix, tcl.com, proxy
+host-suffix, tcltech.com, proxy
+host-suffix, leiniao.com, proxy
+host-suffix, my7v.com, proxy
+host-suffix, tcl.com.cn, proxy
+host-suffix, ads-uo.api.leiniao.com, proxy
+host-suffix, ads-ut.api.leiniao.com, proxy
+host-suffix, ads.api.my7v.com, proxy
+host-suffix, euads-o.api.leiniao.com, proxy
+host-suffix, hwads-t.api.my7v.com, proxy
+host-suffix, testads.api.my7v.com, proxy

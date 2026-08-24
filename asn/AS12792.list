@@ -1,6 +1,6 @@
-ip6-cidr, 2602:fed2:7910::/44
-ip6-cidr, 2a09:4040::/29
-ip6-cidr, 2a09:40c0::/29
-ip6-cidr, 2a09:9740::/29
-ip6-cidr, 2a09:98c0::/29
-ip6-cidr, 2a0f:9400:6170::/44
+ip6-cidr, 2602:fed2:7910::/44, proxy, no-resolve
+ip6-cidr, 2a09:4040::/29, proxy, no-resolve
+ip6-cidr, 2a09:40c0::/29, proxy, no-resolve
+ip6-cidr, 2a09:9740::/29, proxy, no-resolve
+ip6-cidr, 2a09:98c0::/29, proxy, no-resolve
+ip6-cidr, 2a0f:9400:6170::/44, proxy, no-resolve

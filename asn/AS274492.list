@@ -1,14 +1,14 @@
-ip6-cidr, 2804:9500::/44
-ip6-cidr, 2804:9500:38::/45
-ip6-cidr, 2804:9500:48::/45
-ip6-cidr, 2804:9500:50::/44
-ip6-cidr, 2804:9500:60::/43
-ip6-cidr, 2804:9500:80::/41
-ip6-cidr, 2804:9500:100::/40
-ip6-cidr, 2804:9500:200::/39
-ip6-cidr, 2804:9500:400::/38
-ip6-cidr, 2804:9500:800::/37
-ip6-cidr, 2804:9500:1000::/36
-ip6-cidr, 2804:9500:2000::/35
-ip6-cidr, 2804:9500:4000::/34
-ip6-cidr, 2804:9500:8000::/33
+ip6-cidr, 2804:9500::/44, proxy, no-resolve
+ip6-cidr, 2804:9500:38::/45, proxy, no-resolve
+ip6-cidr, 2804:9500:48::/45, proxy, no-resolve
+ip6-cidr, 2804:9500:50::/44, proxy, no-resolve
+ip6-cidr, 2804:9500:60::/43, proxy, no-resolve
+ip6-cidr, 2804:9500:80::/41, proxy, no-resolve
+ip6-cidr, 2804:9500:100::/40, proxy, no-resolve
+ip6-cidr, 2804:9500:200::/39, proxy, no-resolve
+ip6-cidr, 2804:9500:400::/38, proxy, no-resolve
+ip6-cidr, 2804:9500:800::/37, proxy, no-resolve
+ip6-cidr, 2804:9500:1000::/36, proxy, no-resolve
+ip6-cidr, 2804:9500:2000::/35, proxy, no-resolve
+ip6-cidr, 2804:9500:4000::/34, proxy, no-resolve
+ip6-cidr, 2804:9500:8000::/33, proxy, no-resolve

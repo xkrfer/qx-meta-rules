@@ -1,2 +1,2 @@
-host-suffix, applysquare.com
-host-suffix, applysquare.net
+host-suffix, applysquare.com, proxy
+host-suffix, applysquare.net, proxy

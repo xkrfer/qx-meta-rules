@@ -1,2 +1,2 @@
-host-suffix, elevenlabs.com
-host-suffix, elevenlabs.io
+host-suffix, elevenlabs.com, proxy
+host-suffix, elevenlabs.io, proxy

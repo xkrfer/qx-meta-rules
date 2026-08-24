@@ -1,10 +1,10 @@
-ip-cidr, 137.118.92.0/25
-ip-cidr, 137.118.92.128/26
-ip-cidr, 137.118.92.192/27
-ip-cidr, 137.118.92.224/28
-ip-cidr, 137.118.92.240/30
-ip-cidr, 137.118.92.244/32
-ip-cidr, 137.118.92.246/31
-ip-cidr, 137.118.92.248/29
-ip-cidr, 137.118.93.0/24
-ip-cidr, 137.118.94.0/23
+ip-cidr, 137.118.92.0/25, proxy, no-resolve
+ip-cidr, 137.118.92.128/26, proxy, no-resolve
+ip-cidr, 137.118.92.192/27, proxy, no-resolve
+ip-cidr, 137.118.92.224/28, proxy, no-resolve
+ip-cidr, 137.118.92.240/30, proxy, no-resolve
+ip-cidr, 137.118.92.244/32, proxy, no-resolve
+ip-cidr, 137.118.92.246/31, proxy, no-resolve
+ip-cidr, 137.118.92.248/29, proxy, no-resolve
+ip-cidr, 137.118.93.0/24, proxy, no-resolve
+ip-cidr, 137.118.94.0/23, proxy, no-resolve

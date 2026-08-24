@@ -1,14 +1,14 @@
-ip-cidr, 91.213.28.0/24
-ip-cidr, 185.140.52.0/24
-ip6-cidr, 2a05:dfc3:fe00::/48
-ip6-cidr, 2a05:dfc3:fe05::/48
-ip6-cidr, 2a05:dfc3:fe06::/48
-ip6-cidr, 2a05:dfc3:fe11::/48
-ip6-cidr, 2a05:dfc3:fe13::/48
-ip6-cidr, 2a05:dfc3:fe15::/48
-ip6-cidr, 2a05:dfc3:fe17::/48
-ip6-cidr, 2a05:dfc3:fe22::/48
-ip6-cidr, 2a05:dfc3:fe30::/47
-ip6-cidr, 2a05:dfc3:fe32::/48
-ip6-cidr, 2a05:dfc3:fefe::/48
-ip6-cidr, 2a0f:b240:f00::/48
+ip-cidr, 91.213.28.0/24, proxy, no-resolve
+ip-cidr, 185.140.52.0/24, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe00::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe05::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe06::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe11::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe13::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe15::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe17::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe22::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe30::/47, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fe32::/48, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fefe::/48, proxy, no-resolve
+ip6-cidr, 2a0f:b240:f00::/48, proxy, no-resolve

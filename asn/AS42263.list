@@ -1,31 +1,31 @@
-ip-cidr, 5.253.192.0/22
-ip-cidr, 45.94.108.0/22
-ip-cidr, 45.136.96.0/22
-ip-cidr, 45.140.116.0/22
-ip-cidr, 185.32.80.0/22
-ip-cidr, 185.115.48.0/22
-ip-cidr, 185.116.244.0/22
-ip-cidr, 185.145.196.0/23
-ip-cidr, 185.145.198.0/24
-ip-cidr, 185.173.240.0/22
-ip-cidr, 185.182.32.0/22
-ip-cidr, 192.70.192.0/22
-ip6-cidr, 2a00:c320::/38
-ip6-cidr, 2a00:c320:400::/44
-ip6-cidr, 2a00:c320:411::/48
-ip6-cidr, 2a00:c320:412::/47
-ip6-cidr, 2a00:c320:414::/46
-ip6-cidr, 2a00:c320:418::/45
-ip6-cidr, 2a00:c320:420::/43
-ip6-cidr, 2a00:c320:440::/42
-ip6-cidr, 2a00:c320:480::/41
-ip6-cidr, 2a00:c320:500::/40
-ip6-cidr, 2a00:c320:600::/39
-ip6-cidr, 2a00:c320:800::/37
-ip6-cidr, 2a00:c320:1000::/36
-ip6-cidr, 2a00:c320:2000::/35
-ip6-cidr, 2a00:c320:4000::/34
-ip6-cidr, 2a00:c320:8000::/33
-ip6-cidr, 2a00:c321::/32
-ip6-cidr, 2a00:c322::/31
-ip6-cidr, 2a00:c324::/30
+ip-cidr, 5.253.192.0/22, proxy, no-resolve
+ip-cidr, 45.94.108.0/22, proxy, no-resolve
+ip-cidr, 45.136.96.0/22, proxy, no-resolve
+ip-cidr, 45.140.116.0/22, proxy, no-resolve
+ip-cidr, 185.32.80.0/22, proxy, no-resolve
+ip-cidr, 185.115.48.0/22, proxy, no-resolve
+ip-cidr, 185.116.244.0/22, proxy, no-resolve
+ip-cidr, 185.145.196.0/23, proxy, no-resolve
+ip-cidr, 185.145.198.0/24, proxy, no-resolve
+ip-cidr, 185.173.240.0/22, proxy, no-resolve
+ip-cidr, 185.182.32.0/22, proxy, no-resolve
+ip-cidr, 192.70.192.0/22, proxy, no-resolve
+ip6-cidr, 2a00:c320::/38, proxy, no-resolve
+ip6-cidr, 2a00:c320:400::/44, proxy, no-resolve
+ip6-cidr, 2a00:c320:411::/48, proxy, no-resolve
+ip6-cidr, 2a00:c320:412::/47, proxy, no-resolve
+ip6-cidr, 2a00:c320:414::/46, proxy, no-resolve
+ip6-cidr, 2a00:c320:418::/45, proxy, no-resolve
+ip6-cidr, 2a00:c320:420::/43, proxy, no-resolve
+ip6-cidr, 2a00:c320:440::/42, proxy, no-resolve
+ip6-cidr, 2a00:c320:480::/41, proxy, no-resolve
+ip6-cidr, 2a00:c320:500::/40, proxy, no-resolve
+ip6-cidr, 2a00:c320:600::/39, proxy, no-resolve
+ip6-cidr, 2a00:c320:800::/37, proxy, no-resolve
+ip6-cidr, 2a00:c320:1000::/36, proxy, no-resolve
+ip6-cidr, 2a00:c320:2000::/35, proxy, no-resolve
+ip6-cidr, 2a00:c320:4000::/34, proxy, no-resolve
+ip6-cidr, 2a00:c320:8000::/33, proxy, no-resolve
+ip6-cidr, 2a00:c321::/32, proxy, no-resolve
+ip6-cidr, 2a00:c322::/31, proxy, no-resolve
+ip6-cidr, 2a00:c324::/30, proxy, no-resolve

@@ -1,5 +1,5 @@
-host, ppl-ai-file-upload.s3.amazonaws.com
-host, pplx-res.cloudinary.com
-host-suffix, perplexity.ai
-host-suffix, perplexity.com
-host-suffix, pplx.ai
+host, ppl-ai-file-upload.s3.amazonaws.com, proxy
+host, pplx-res.cloudinary.com, proxy
+host-suffix, perplexity.ai, proxy
+host-suffix, perplexity.com, proxy
+host-suffix, pplx.ai, proxy

@@ -1,232 +1,232 @@
-host, zftksc.cdn-settings.appsflyersdk.com
-host, zftksc.launches.appsflyersdk.com
-host, deribit.cdn.prismic.io
-host, bybit-exchange.github.io
-host, bybit.ada.support
-host, d3r7nsslvs6aaf.cloudfront.net
-host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-host, onekey.zendesk.com
-host-suffix, huobigroup.com
-host-suffix, redotpay.com
-host-suffix, base.org
-host-suffix, bingx.com
-host-suffix, bitbank.cc
-host-suffix, bitcoin.org
-host-suffix, bitcoincore.org
-host-suffix, bitfinex.com
-host-suffix, bitget.com
-host-suffix, bitlayer.org
-host-suffix, bitmex.com
-host-suffix, bitquick.co
-host-suffix, bitstamp.net
-host-suffix, bittrex.com
-host-suffix, blast.io
-host-suffix, blockchain.com
-host-suffix, blockfrost.io
-host-suffix, cex.io
-host-suffix, chainid.network
-host-suffix, clearpool.finance
-host-suffix, coinalyze.net
-host-suffix, coinbase.com
-host-suffix, coindesk.com
-host-suffix, coingate.com
-host-suffix, coingecko.com
-host-suffix, coinglass.com
-host-suffix, coinmap.org
-host-suffix, coinmarketcap.com
-host-suffix, coredao.org
-host-suffix, crypto.com
-host-suffix, cryptocompare.com
-host-suffix, cryptomus.com
-host-suffix, curve.fi
-host-suffix, cyberx.com
-host-suffix, debank.com
-host-suffix, delets.online
-host-suffix, dogecoin.com
-host-suffix, drpc.org
-host-suffix, dydx.exchange
-host-suffix, fantom.foundation
-host-suffix, nexo.com
-host-suffix, fiat24.com
-host-suffix, flare.network
-host-suffix, fundingrates.xyz
-host-suffix, gemini.com
-host-suffix, gmgn.ai
-host-suffix, guardarian.com
-host-suffix, hashflow.com
-host-suffix, hyperliquid.xyz
-host-suffix, infura.io
-host-suffix, invity.io
-host-suffix, litecoin.org
-host-suffix, maple.finance
-host-suffix, megaeth.com
-host-suffix, merkl.xyz
-host-suffix, metalpha.finance
-host-suffix, metamask.io
-host-suffix, mexc.co
-host-suffix, mexc.com
-host-suffix, mexcsensors.com
-host-suffix, mytokenapi.com
-host-suffix, nodereal.io
-host-suffix, oasis.io
-host-suffix, onemoment.cc
-host-suffix, onfinality.io
-host-suffix, opensea.io
-host-suffix, osl.com
-host-suffix, paxful.com
-host-suffix, payget.pro
-host-suffix, platov.co
-host-suffix, polymarket.com
-host-suffix, ramon.cash
-host-suffix, ramon.money
-host-suffix, ripple.com
-host-suffix, rsk.co
-host-suffix, satoshilabs.com
-host-suffix, solidifi.app
-host-suffix, stealthex.io
-host-suffix, taiko.xyz
-host-suffix, theblock.co
-host-suffix, thirdweb.com
-host-suffix, trezor.io
-host-suffix, truefi.io
-host-suffix, unisat.io
-host-suffix, uniswap.org
-host-suffix, walletconnect.com
-host-suffix, walletconnect.org
-host-suffix, web3modal.org
-host-suffix, wintermute.com
-host-suffix, zapper.fi
-host-suffix, bestchange.com
-host-suffix, bestchange.net
-host-suffix, bestchange.ru
-host-suffix, bitflyer.com
-host-suffix, bitflyer.jp
-host-suffix, coinonecore.com
-host-suffix, 1inch.io
-host-suffix, gate.io
-host-suffix, gatedata.org
-host-suffix, gateimg.com
-host-suffix, gateio.live
-host-suffix, gateio.services
-host-suffix, htx.com
-host-suffix, hbabit.com
-host-suffix, hbfile.net
-host-suffix, huobi.com
-host-suffix, huobi.me
-host-suffix, huobi.pro
-host-suffix, huobi.sc
-host-suffix, huobiasia.vip
-host-suffix, coinonecorp.com
-host-suffix, aave.com
-host-suffix, fantom.network
-host-suffix, nexo.io
-host-suffix, huobitoken.com
-host-suffix, zb.app
-host-suffix, zb.com
-host-suffix, trustwallet.com
-host-suffix, onekeycn.com
-host-suffix, onekey.so
-host-suffix, onekey-asset.com
-host-suffix, zb.io
-host-suffix, zb.live
-host-suffix, binance.cc
-host-suffix, binance.charity
-host-suffix, binance.cloud
-host-suffix, binance.co
-host-suffix, binance.com
-host-suffix, binance.info
-host-suffix, binance.me
-host-suffix, binance.net
-host-suffix, binance.org
-host-suffix, binance.us
-host-suffix, binance.vision
-host-suffix, binancecnt.com
-host-suffix, binancezh.be
-host-suffix, binancezh.biz
-host-suffix, binancezh.cc
-host-suffix, binancezh.co
-host-suffix, binancezh.com
-host-suffix, binancezh.info
-host-suffix, binancezh.ink
-host-suffix, binancezh.kim
-host-suffix, binancezh.link
-host-suffix, binancezh.live
-host-suffix, binancezh.mobi
-host-suffix, binancezh.net
-host-suffix, binancezh.pro
-host-suffix, binancezh.sh
-host-suffix, binancezh.top
-host-suffix, binanceapi.com
-host-suffix, binanceru.net
-host-suffix, bmwweb.solutions
-host-suffix, bnappweb.black
-host-suffix, bnbstatic.com
-host-suffix, bnbchain.org
-host-suffix, bntrace.com
-host-suffix, bsappapi.cc
-host-suffix, bsappapi.com
-host-suffix, bscdnweb.com
-host-suffix, nftstatic.com
-host-suffix, saasexch.cc
-host-suffix, saasexch.co
-host-suffix, saasexch.com
-host-suffix, saasexch.info
-host-suffix, saasexch.io
-host-suffix, deribit.com
-host-suffix, devcon.org
-host-suffix, ethereum.foundation
-host-suffix, ethereum.org
-host-suffix, etherscan.io
-host-suffix, bisq.io
-host-suffix, bisq.network
-host-suffix, bitsquare.io
-host-suffix, bybit.com
-host-suffix, bycsi.com
-host-suffix, bytick.com
-host-suffix, byapis.com
-host-suffix, bycbe.com
-host-suffix, bymj.io
-host-suffix, byabcde.com
-host-suffix, byapps.net
-host-suffix, byd3c3.com
-host-suffix, bybit.biz
-host-suffix, bybdc6.com
-host-suffix, bybit-global.com
-host-suffix, bybit.cloud
-host-suffix, bybitglobal.com
-host-suffix, lighter.exchange
-host-suffix, lighter.xyz
-host-suffix, localbitcoinschain.com
-host-suffix, localbitcoins.com
-host-suffix, okex.com
-host-suffix, okx-dns.com
-host-suffix, okx-dns1.com
-host-suffix, okx-dns2.com
-host-suffix, okx.ac
-host-suffix, okx.cab
-host-suffix, okx.com
-host-suffix, xlayer.tech
-host-suffix, kucoin.plus
-host-suffix, kucoin.com
-host-suffix, isafepal.com
-host-suffix, safepal.com
-host-suffix, straitsx.com
-host-suffix, wisecoin.com
-host-suffix, wiseid.com
-host-suffix, wisekey.com
-host-suffix, kraken.onl
-host-suffix, wyndlabs.ai
-host-suffix, wynd.network
-host-suffix, asproex.com
-host-suffix, asproexapi.com
-host-suffix, kraken.com
-host-suffix, wisekey.com.hk
-host-suffix, zklighter.elliot.ai
-host-suffix, xhpjc6-cdn-settings.appsflyersdk.com
-host-suffix, pod-15-sunco-ws.zendesk.com
-host-suffix, redotpay.zendesk.com
-host-suffix, coinone.co.kr
-host-suffix, btcbox.co.jp
-host-suffix, okx.com.cdn.cloudflare.net
-host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
-host-suffix, oklink.com
+host, zftksc.cdn-settings.appsflyersdk.com, proxy
+host, zftksc.launches.appsflyersdk.com, proxy
+host, deribit.cdn.prismic.io, proxy
+host, bybit-exchange.github.io, proxy
+host, bybit.ada.support, proxy
+host, d3r7nsslvs6aaf.cloudfront.net, proxy
+host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, proxy
+host, onekey.zendesk.com, proxy
+host-suffix, huobigroup.com, proxy
+host-suffix, redotpay.com, proxy
+host-suffix, base.org, proxy
+host-suffix, bingx.com, proxy
+host-suffix, bitbank.cc, proxy
+host-suffix, bitcoin.org, proxy
+host-suffix, bitcoincore.org, proxy
+host-suffix, bitfinex.com, proxy
+host-suffix, bitget.com, proxy
+host-suffix, bitlayer.org, proxy
+host-suffix, bitmex.com, proxy
+host-suffix, bitquick.co, proxy
+host-suffix, bitstamp.net, proxy
+host-suffix, bittrex.com, proxy
+host-suffix, blast.io, proxy
+host-suffix, blockchain.com, proxy
+host-suffix, blockfrost.io, proxy
+host-suffix, cex.io, proxy
+host-suffix, chainid.network, proxy
+host-suffix, clearpool.finance, proxy
+host-suffix, coinalyze.net, proxy
+host-suffix, coinbase.com, proxy
+host-suffix, coindesk.com, proxy
+host-suffix, coingate.com, proxy
+host-suffix, coingecko.com, proxy
+host-suffix, coinglass.com, proxy
+host-suffix, coinmap.org, proxy
+host-suffix, coinmarketcap.com, proxy
+host-suffix, coredao.org, proxy
+host-suffix, crypto.com, proxy
+host-suffix, cryptocompare.com, proxy
+host-suffix, cryptomus.com, proxy
+host-suffix, curve.fi, proxy
+host-suffix, cyberx.com, proxy
+host-suffix, debank.com, proxy
+host-suffix, delets.online, proxy
+host-suffix, dogecoin.com, proxy
+host-suffix, drpc.org, proxy
+host-suffix, dydx.exchange, proxy
+host-suffix, fantom.foundation, proxy
+host-suffix, nexo.com, proxy
+host-suffix, fiat24.com, proxy
+host-suffix, flare.network, proxy
+host-suffix, fundingrates.xyz, proxy
+host-suffix, gemini.com, proxy
+host-suffix, gmgn.ai, proxy
+host-suffix, guardarian.com, proxy
+host-suffix, hashflow.com, proxy
+host-suffix, hyperliquid.xyz, proxy
+host-suffix, infura.io, proxy
+host-suffix, invity.io, proxy
+host-suffix, litecoin.org, proxy
+host-suffix, maple.finance, proxy
+host-suffix, megaeth.com, proxy
+host-suffix, merkl.xyz, proxy
+host-suffix, metalpha.finance, proxy
+host-suffix, metamask.io, proxy
+host-suffix, mexc.co, proxy
+host-suffix, mexc.com, proxy
+host-suffix, mexcsensors.com, proxy
+host-suffix, mytokenapi.com, proxy
+host-suffix, nodereal.io, proxy
+host-suffix, oasis.io, proxy
+host-suffix, onemoment.cc, proxy
+host-suffix, onfinality.io, proxy
+host-suffix, opensea.io, proxy
+host-suffix, osl.com, proxy
+host-suffix, paxful.com, proxy
+host-suffix, payget.pro, proxy
+host-suffix, platov.co, proxy
+host-suffix, polymarket.com, proxy
+host-suffix, ramon.cash, proxy
+host-suffix, ramon.money, proxy
+host-suffix, ripple.com, proxy
+host-suffix, rsk.co, proxy
+host-suffix, satoshilabs.com, proxy
+host-suffix, solidifi.app, proxy
+host-suffix, stealthex.io, proxy
+host-suffix, taiko.xyz, proxy
+host-suffix, theblock.co, proxy
+host-suffix, thirdweb.com, proxy
+host-suffix, trezor.io, proxy
+host-suffix, truefi.io, proxy
+host-suffix, unisat.io, proxy
+host-suffix, uniswap.org, proxy
+host-suffix, walletconnect.com, proxy
+host-suffix, walletconnect.org, proxy
+host-suffix, web3modal.org, proxy
+host-suffix, wintermute.com, proxy
+host-suffix, zapper.fi, proxy
+host-suffix, bestchange.com, proxy
+host-suffix, bestchange.net, proxy
+host-suffix, bestchange.ru, proxy
+host-suffix, bitflyer.com, proxy
+host-suffix, bitflyer.jp, proxy
+host-suffix, coinonecore.com, proxy
+host-suffix, 1inch.io, proxy
+host-suffix, gate.io, proxy
+host-suffix, gatedata.org, proxy
+host-suffix, gateimg.com, proxy
+host-suffix, gateio.live, proxy
+host-suffix, gateio.services, proxy
+host-suffix, htx.com, proxy
+host-suffix, hbabit.com, proxy
+host-suffix, hbfile.net, proxy
+host-suffix, huobi.com, proxy
+host-suffix, huobi.me, proxy
+host-suffix, huobi.pro, proxy
+host-suffix, huobi.sc, proxy
+host-suffix, huobiasia.vip, proxy
+host-suffix, coinonecorp.com, proxy
+host-suffix, aave.com, proxy
+host-suffix, fantom.network, proxy
+host-suffix, nexo.io, proxy
+host-suffix, huobitoken.com, proxy
+host-suffix, zb.app, proxy
+host-suffix, zb.com, proxy
+host-suffix, trustwallet.com, proxy
+host-suffix, onekeycn.com, proxy
+host-suffix, onekey.so, proxy
+host-suffix, onekey-asset.com, proxy
+host-suffix, zb.io, proxy
+host-suffix, zb.live, proxy
+host-suffix, binance.cc, proxy
+host-suffix, binance.charity, proxy
+host-suffix, binance.cloud, proxy
+host-suffix, binance.co, proxy
+host-suffix, binance.com, proxy
+host-suffix, binance.info, proxy
+host-suffix, binance.me, proxy
+host-suffix, binance.net, proxy
+host-suffix, binance.org, proxy
+host-suffix, binance.us, proxy
+host-suffix, binance.vision, proxy
+host-suffix, binancecnt.com, proxy
+host-suffix, binancezh.be, proxy
+host-suffix, binancezh.biz, proxy
+host-suffix, binancezh.cc, proxy
+host-suffix, binancezh.co, proxy
+host-suffix, binancezh.com, proxy
+host-suffix, binancezh.info, proxy
+host-suffix, binancezh.ink, proxy
+host-suffix, binancezh.kim, proxy
+host-suffix, binancezh.link, proxy
+host-suffix, binancezh.live, proxy
+host-suffix, binancezh.mobi, proxy
+host-suffix, binancezh.net, proxy
+host-suffix, binancezh.pro, proxy
+host-suffix, binancezh.sh, proxy
+host-suffix, binancezh.top, proxy
+host-suffix, binanceapi.com, proxy
+host-suffix, binanceru.net, proxy
+host-suffix, bmwweb.solutions, proxy
+host-suffix, bnappweb.black, proxy
+host-suffix, bnbstatic.com, proxy
+host-suffix, bnbchain.org, proxy
+host-suffix, bntrace.com, proxy
+host-suffix, bsappapi.cc, proxy
+host-suffix, bsappapi.com, proxy
+host-suffix, bscdnweb.com, proxy
+host-suffix, nftstatic.com, proxy
+host-suffix, saasexch.cc, proxy
+host-suffix, saasexch.co, proxy
+host-suffix, saasexch.com, proxy
+host-suffix, saasexch.info, proxy
+host-suffix, saasexch.io, proxy
+host-suffix, deribit.com, proxy
+host-suffix, devcon.org, proxy
+host-suffix, ethereum.foundation, proxy
+host-suffix, ethereum.org, proxy
+host-suffix, etherscan.io, proxy
+host-suffix, bisq.io, proxy
+host-suffix, bisq.network, proxy
+host-suffix, bitsquare.io, proxy
+host-suffix, bybit.com, proxy
+host-suffix, bycsi.com, proxy
+host-suffix, bytick.com, proxy
+host-suffix, byapis.com, proxy
+host-suffix, bycbe.com, proxy
+host-suffix, bymj.io, proxy
+host-suffix, byabcde.com, proxy
+host-suffix, byapps.net, proxy
+host-suffix, byd3c3.com, proxy
+host-suffix, bybit.biz, proxy
+host-suffix, bybdc6.com, proxy
+host-suffix, bybit-global.com, proxy
+host-suffix, bybit.cloud, proxy
+host-suffix, bybitglobal.com, proxy
+host-suffix, lighter.exchange, proxy
+host-suffix, lighter.xyz, proxy
+host-suffix, localbitcoinschain.com, proxy
+host-suffix, localbitcoins.com, proxy
+host-suffix, okex.com, proxy
+host-suffix, okx-dns.com, proxy
+host-suffix, okx-dns1.com, proxy
+host-suffix, okx-dns2.com, proxy
+host-suffix, okx.ac, proxy
+host-suffix, okx.cab, proxy
+host-suffix, okx.com, proxy
+host-suffix, xlayer.tech, proxy
+host-suffix, kucoin.plus, proxy
+host-suffix, kucoin.com, proxy
+host-suffix, isafepal.com, proxy
+host-suffix, safepal.com, proxy
+host-suffix, straitsx.com, proxy
+host-suffix, wisecoin.com, proxy
+host-suffix, wiseid.com, proxy
+host-suffix, wisekey.com, proxy
+host-suffix, kraken.onl, proxy
+host-suffix, wyndlabs.ai, proxy
+host-suffix, wynd.network, proxy
+host-suffix, asproex.com, proxy
+host-suffix, asproexapi.com, proxy
+host-suffix, kraken.com, proxy
+host-suffix, wisekey.com.hk, proxy
+host-suffix, zklighter.elliot.ai, proxy
+host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, proxy
+host-suffix, pod-15-sunco-ws.zendesk.com, proxy
+host-suffix, redotpay.zendesk.com, proxy
+host-suffix, coinone.co.kr, proxy
+host-suffix, btcbox.co.jp, proxy
+host-suffix, okx.com.cdn.cloudflare.net, proxy
+host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, proxy
+host-suffix, oklink.com, proxy

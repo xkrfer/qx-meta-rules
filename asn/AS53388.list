@@ -1,29 +1,29 @@
-ip-cidr, 23.128.236.0/24
-ip-cidr, 23.140.36.0/24
-ip6-cidr, 2607:eb40::/35
-ip6-cidr, 2607:eb40:2000::/48
-ip6-cidr, 2607:eb40:2002::/47
-ip6-cidr, 2607:eb40:2004::/46
-ip6-cidr, 2607:eb40:2008::/45
-ip6-cidr, 2607:eb40:2010::/44
-ip6-cidr, 2607:eb40:2020::/43
-ip6-cidr, 2607:eb40:2040::/42
-ip6-cidr, 2607:eb40:2080::/41
-ip6-cidr, 2607:eb40:2100::/40
-ip6-cidr, 2607:eb40:2200::/39
-ip6-cidr, 2607:eb40:2400::/38
-ip6-cidr, 2607:eb40:2800::/39
-ip6-cidr, 2607:eb40:2a01::/48
-ip6-cidr, 2607:eb40:2a02::/47
-ip6-cidr, 2607:eb40:2a04::/46
-ip6-cidr, 2607:eb40:2a08::/45
-ip6-cidr, 2607:eb40:2a10::/44
-ip6-cidr, 2607:eb40:2a20::/43
-ip6-cidr, 2607:eb40:2a40::/42
-ip6-cidr, 2607:eb40:2a80::/41
-ip6-cidr, 2607:eb40:2b00::/40
-ip6-cidr, 2607:eb40:2c00::/38
-ip6-cidr, 2607:eb40:3000::/36
-ip6-cidr, 2607:eb40:4000::/36
-ip6-cidr, 2607:eb40:7000::/36
-ip6-cidr, 2607:eb40:8000::/33
+ip-cidr, 23.128.236.0/24, proxy, no-resolve
+ip-cidr, 23.140.36.0/24, proxy, no-resolve
+ip6-cidr, 2607:eb40::/35, proxy, no-resolve
+ip6-cidr, 2607:eb40:2000::/48, proxy, no-resolve
+ip6-cidr, 2607:eb40:2002::/47, proxy, no-resolve
+ip6-cidr, 2607:eb40:2004::/46, proxy, no-resolve
+ip6-cidr, 2607:eb40:2008::/45, proxy, no-resolve
+ip6-cidr, 2607:eb40:2010::/44, proxy, no-resolve
+ip6-cidr, 2607:eb40:2020::/43, proxy, no-resolve
+ip6-cidr, 2607:eb40:2040::/42, proxy, no-resolve
+ip6-cidr, 2607:eb40:2080::/41, proxy, no-resolve
+ip6-cidr, 2607:eb40:2100::/40, proxy, no-resolve
+ip6-cidr, 2607:eb40:2200::/39, proxy, no-resolve
+ip6-cidr, 2607:eb40:2400::/38, proxy, no-resolve
+ip6-cidr, 2607:eb40:2800::/39, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a01::/48, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a02::/47, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a04::/46, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a08::/45, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a10::/44, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a20::/43, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a40::/42, proxy, no-resolve
+ip6-cidr, 2607:eb40:2a80::/41, proxy, no-resolve
+ip6-cidr, 2607:eb40:2b00::/40, proxy, no-resolve
+ip6-cidr, 2607:eb40:2c00::/38, proxy, no-resolve
+ip6-cidr, 2607:eb40:3000::/36, proxy, no-resolve
+ip6-cidr, 2607:eb40:4000::/36, proxy, no-resolve
+ip6-cidr, 2607:eb40:7000::/36, proxy, no-resolve
+ip6-cidr, 2607:eb40:8000::/33, proxy, no-resolve

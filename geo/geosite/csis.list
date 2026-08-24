@@ -1,2 +1,2 @@
-host, csis-prod.s3.amazonaws.com
-host-suffix, csis.org
+host, csis-prod.s3.amazonaws.com, proxy
+host-suffix, csis.org, proxy

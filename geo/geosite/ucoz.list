@@ -1,37 +1,37 @@
-host-suffix, ucoz.ru
-host-suffix, ucoz.site
-host-suffix, ucoz.co
-host-suffix, uweb.ru
-host-suffix, usocial.pro
-host-suffix, ucoz.ua
-host-suffix, ucoztemplates.com
-host-suffix, ucozmail.com
-host-suffix, ucoz.de
-host-suffix, ucoz.es
-host-suffix, ucoz.fr
-host-suffix, ucoz.hu
-host-suffix, ucoz.kz
-host-suffix, ucoz.lv
-host-suffix, ucoz.md
-host-suffix, ucoz.net
-host-suffix, ucoz.org
-host-suffix, ucoz.pl
-host-suffix, ucoz.club
-host-suffix, ucoz.ae
-host-suffix, ucoz.com
-host-suffix, ukoz.ru
-host-suffix, ucozmedia.com
-host-suffix, ucozmedia.ru
-host-suffix, uguide.ru
-host-suffix, uguide.su
-host-suffix, ukit.ai
-host-suffix, ukit.com
-host-suffix, ukit.group
-host-suffix, ukit.me
-host-suffix, at.ua
-host-suffix, narod.ru
-host-suffix, scripts-for-ucoz.ru
-host-suffix, ucoz.com.ro
-host-suffix, ucoz.com.br
-host-suffix, ucoz.co.uk
-host-suffix, ucoz.co.il
+host-suffix, ucoz.ru, proxy
+host-suffix, ucoz.site, proxy
+host-suffix, ucoz.co, proxy
+host-suffix, uweb.ru, proxy
+host-suffix, usocial.pro, proxy
+host-suffix, ucoz.ua, proxy
+host-suffix, ucoztemplates.com, proxy
+host-suffix, ucozmail.com, proxy
+host-suffix, ucoz.de, proxy
+host-suffix, ucoz.es, proxy
+host-suffix, ucoz.fr, proxy
+host-suffix, ucoz.hu, proxy
+host-suffix, ucoz.kz, proxy
+host-suffix, ucoz.lv, proxy
+host-suffix, ucoz.md, proxy
+host-suffix, ucoz.net, proxy
+host-suffix, ucoz.org, proxy
+host-suffix, ucoz.pl, proxy
+host-suffix, ucoz.club, proxy
+host-suffix, ucoz.ae, proxy
+host-suffix, ucoz.com, proxy
+host-suffix, ukoz.ru, proxy
+host-suffix, ucozmedia.com, proxy
+host-suffix, ucozmedia.ru, proxy
+host-suffix, uguide.ru, proxy
+host-suffix, uguide.su, proxy
+host-suffix, ukit.ai, proxy
+host-suffix, ukit.com, proxy
+host-suffix, ukit.group, proxy
+host-suffix, ukit.me, proxy
+host-suffix, at.ua, proxy
+host-suffix, narod.ru, proxy
+host-suffix, scripts-for-ucoz.ru, proxy
+host-suffix, ucoz.com.ro, proxy
+host-suffix, ucoz.com.br, proxy
+host-suffix, ucoz.co.uk, proxy
+host-suffix, ucoz.co.il, proxy

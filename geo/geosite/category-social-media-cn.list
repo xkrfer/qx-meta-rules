@@ -1,37 +1,37 @@
-host-suffix, zhihu.com
-host-suffix, zhimg.com
-host-suffix, dandan818.com
-host-suffix, dandanvoice.com
-host-suffix, fanfou.com
-host-suffix, izuiyou.com
-host-suffix, ixiaochuan.cn
-host-suffix, xiaochuankeji.cn
-host-suffix, maimai.cn
-host-suffix, taou.com
-host-suffix, zsxq.com
-host-suffix, jike.city
-host-suffix, jikecdn.com
-host-suffix, okjike.com
-host-suffix, okjk.co
-host-suffix, ruguoapp.com
-host-suffix, tieba.com
-host-suffix, meipian.me
-host-suffix, laiyagushi.com
-host-suffix, vzuu.com
-host-suffix, coolapk.com
-host-suffix, coolapkmarket.com
-host-suffix, coolapkmarket.net
-host-suffix, douban.com
-host-suffix, douban.fm
-host-suffix, doubanio.com
-host-suffix, gracg.com
-host-suffix, procg.cn
-host-suffix, hupu.com
-host-suffix, hupucdn.com
-host-suffix, shihuo.cn
-host-suffix, meipian.cn
-host-suffix, ivwen.com
-host-suffix, hoopchina.com.cn
-host-suffix, tieba.baidu.com
-host-suffix, crash2.zhihu.com
-host-suffix, zhihu-web-analytics.zhihu.com
+host-suffix, zhihu.com, proxy
+host-suffix, zhimg.com, proxy
+host-suffix, dandan818.com, proxy
+host-suffix, dandanvoice.com, proxy
+host-suffix, fanfou.com, proxy
+host-suffix, izuiyou.com, proxy
+host-suffix, ixiaochuan.cn, proxy
+host-suffix, xiaochuankeji.cn, proxy
+host-suffix, maimai.cn, proxy
+host-suffix, taou.com, proxy
+host-suffix, zsxq.com, proxy
+host-suffix, jike.city, proxy
+host-suffix, jikecdn.com, proxy
+host-suffix, okjike.com, proxy
+host-suffix, okjk.co, proxy
+host-suffix, ruguoapp.com, proxy
+host-suffix, tieba.com, proxy
+host-suffix, meipian.me, proxy
+host-suffix, laiyagushi.com, proxy
+host-suffix, vzuu.com, proxy
+host-suffix, coolapk.com, proxy
+host-suffix, coolapkmarket.com, proxy
+host-suffix, coolapkmarket.net, proxy
+host-suffix, douban.com, proxy
+host-suffix, douban.fm, proxy
+host-suffix, doubanio.com, proxy
+host-suffix, gracg.com, proxy
+host-suffix, procg.cn, proxy
+host-suffix, hupu.com, proxy
+host-suffix, hupucdn.com, proxy
+host-suffix, shihuo.cn, proxy
+host-suffix, meipian.cn, proxy
+host-suffix, ivwen.com, proxy
+host-suffix, hoopchina.com.cn, proxy
+host-suffix, tieba.baidu.com, proxy
+host-suffix, crash2.zhihu.com, proxy
+host-suffix, zhihu-web-analytics.zhihu.com, proxy

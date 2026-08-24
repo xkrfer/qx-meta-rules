@@ -1,4 +1,4 @@
-ip-cidr, 56.0.0.0/16
-ip-cidr, 56.105.0.0/16
-ip-cidr, 56.235.0.0/16
-ip6-cidr, 2610:68::/32
+ip-cidr, 56.0.0.0/16, proxy, no-resolve
+ip-cidr, 56.105.0.0/16, proxy, no-resolve
+ip-cidr, 56.235.0.0/16, proxy, no-resolve
+ip6-cidr, 2610:68::/32, proxy, no-resolve

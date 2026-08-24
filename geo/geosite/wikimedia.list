@@ -1,18 +1,18 @@
-host-suffix, mediawiki.org
-host-suffix, wikibooks.org
-host-suffix, wikidata.org
-host-suffix, wikimediafoundation.org
-host-suffix, wikimedia.org
-host-suffix, wikinews.org
-host-suffix, wikipedia.org
-host-suffix, wikiquote.org
-host-suffix, wikisource.org
-host-suffix, wikiversity.org
-host-suffix, wikivoyage.org
-host-suffix, wiktionary.org
-host-suffix, wmfusercontent.org
-host-suffix, w.wiki
-host-suffix, toolforge.org
-host-suffix, wikimediacloud.org
-host-suffix, wmcloud.org
-host-suffix, wmflabs.org
+host-suffix, mediawiki.org, proxy
+host-suffix, wikibooks.org, proxy
+host-suffix, wikidata.org, proxy
+host-suffix, wikimediafoundation.org, proxy
+host-suffix, wikimedia.org, proxy
+host-suffix, wikinews.org, proxy
+host-suffix, wikipedia.org, proxy
+host-suffix, wikiquote.org, proxy
+host-suffix, wikisource.org, proxy
+host-suffix, wikiversity.org, proxy
+host-suffix, wikivoyage.org, proxy
+host-suffix, wiktionary.org, proxy
+host-suffix, wmfusercontent.org, proxy
+host-suffix, w.wiki, proxy
+host-suffix, toolforge.org, proxy
+host-suffix, wikimediacloud.org, proxy
+host-suffix, wmcloud.org, proxy
+host-suffix, wmflabs.org, proxy

@@ -1,3 +1,3 @@
-ip-cidr, 137.229.0.0/16
-ip-cidr, 199.165.64.0/18
-ip6-cidr, 2607:f318::/32
+ip-cidr, 137.229.0.0/16, proxy, no-resolve
+ip-cidr, 199.165.64.0/18, proxy, no-resolve
+ip6-cidr, 2607:f318::/32, proxy, no-resolve

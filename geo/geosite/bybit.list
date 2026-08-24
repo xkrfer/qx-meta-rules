@@ -1,16 +1,16 @@
-host, bybit-exchange.github.io
-host, bybit.ada.support
-host-suffix, bybit.com
-host-suffix, bycsi.com
-host-suffix, bytick.com
-host-suffix, byapis.com
-host-suffix, bycbe.com
-host-suffix, bymj.io
-host-suffix, byabcde.com
-host-suffix, byapps.net
-host-suffix, byd3c3.com
-host-suffix, bybit.biz
-host-suffix, bybdc6.com
-host-suffix, bybit-global.com
-host-suffix, bybit.cloud
-host-suffix, bybitglobal.com
+host, bybit-exchange.github.io, proxy
+host, bybit.ada.support, proxy
+host-suffix, bybit.com, proxy
+host-suffix, bycsi.com, proxy
+host-suffix, bytick.com, proxy
+host-suffix, byapis.com, proxy
+host-suffix, bycbe.com, proxy
+host-suffix, bymj.io, proxy
+host-suffix, byabcde.com, proxy
+host-suffix, byapps.net, proxy
+host-suffix, byd3c3.com, proxy
+host-suffix, bybit.biz, proxy
+host-suffix, bybdc6.com, proxy
+host-suffix, bybit-global.com, proxy
+host-suffix, bybit.cloud, proxy
+host-suffix, bybitglobal.com, proxy

@@ -1,3 +1,3 @@
-host-suffix, douban.com
-host-suffix, douban.fm
-host-suffix, doubanio.com
+host-suffix, douban.com, proxy
+host-suffix, douban.fm, proxy
+host-suffix, doubanio.com, proxy

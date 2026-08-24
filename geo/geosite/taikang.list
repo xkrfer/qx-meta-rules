@@ -1,4 +1,4 @@
-host-suffix, taikang.com
-host-suffix, taikanglife.com
-host-suffix, taikangzhijia.com
-host-suffix, tkhealthcare.com
+host-suffix, taikang.com, proxy
+host-suffix, taikanglife.com, proxy
+host-suffix, taikangzhijia.com, proxy
+host-suffix, tkhealthcare.com, proxy

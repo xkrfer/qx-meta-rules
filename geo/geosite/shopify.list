@@ -1,8 +1,8 @@
-host-suffix, myshopify.com
-host-suffix, shop.app
-host-suffix, shopify.com
-host-suffix, shopify.dev
-host-suffix, shopifycdn.com
-host-suffix, shopifycloud.com
-host-suffix, shopifystatus.com
-host-suffix, shopifysvc.com
+host-suffix, myshopify.com, proxy
+host-suffix, shop.app, proxy
+host-suffix, shopify.com, proxy
+host-suffix, shopify.dev, proxy
+host-suffix, shopifycdn.com, proxy
+host-suffix, shopifycloud.com, proxy
+host-suffix, shopifystatus.com, proxy
+host-suffix, shopifysvc.com, proxy

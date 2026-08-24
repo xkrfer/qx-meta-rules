@@ -1,7 +1,7 @@
-host, amp-api-edge.music.apple.com
-host, amp-api.music.apple.com
-host, js-cdn.music.apple.com
-host, music.apple.com
-host, musicstatus.music.apple.com
-host, play.music.apple.com
-host, speedysub.music.apple.com
+host, amp-api-edge.music.apple.com, proxy
+host, amp-api.music.apple.com, proxy
+host, js-cdn.music.apple.com, proxy
+host, music.apple.com, proxy
+host, musicstatus.music.apple.com, proxy
+host, play.music.apple.com, proxy
+host, speedysub.music.apple.com, proxy

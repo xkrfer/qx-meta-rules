@@ -1,18 +1,18 @@
-ip-cidr, 103.149.56.0/23
-ip6-cidr, 2405:e340::/48
-ip6-cidr, 2405:e340:40::/45
-ip6-cidr, 2405:e340:48::/46
-ip6-cidr, 2405:e340:4c::/47
-ip6-cidr, 2405:e340:4f::/48
-ip6-cidr, 2405:e340:50::/44
-ip6-cidr, 2405:e340:60::/44
-ip6-cidr, 2405:e340:70::/45
-ip6-cidr, 2405:e340:78::/47
-ip6-cidr, 2405:e340:100::/44
-ip6-cidr, 2405:e340:110::/48
-ip6-cidr, 2405:e340:112::/47
-ip6-cidr, 2405:e340:114::/46
-ip6-cidr, 2405:e340:118::/45
-ip6-cidr, 2405:e340:120::/47
-ip6-cidr, 2405:e340:200::/45
-ip6-cidr, 2405:e340:301::/48
+ip-cidr, 103.149.56.0/23, proxy, no-resolve
+ip6-cidr, 2405:e340::/48, proxy, no-resolve
+ip6-cidr, 2405:e340:40::/45, proxy, no-resolve
+ip6-cidr, 2405:e340:48::/46, proxy, no-resolve
+ip6-cidr, 2405:e340:4c::/47, proxy, no-resolve
+ip6-cidr, 2405:e340:4f::/48, proxy, no-resolve
+ip6-cidr, 2405:e340:50::/44, proxy, no-resolve
+ip6-cidr, 2405:e340:60::/44, proxy, no-resolve
+ip6-cidr, 2405:e340:70::/45, proxy, no-resolve
+ip6-cidr, 2405:e340:78::/47, proxy, no-resolve
+ip6-cidr, 2405:e340:100::/44, proxy, no-resolve
+ip6-cidr, 2405:e340:110::/48, proxy, no-resolve
+ip6-cidr, 2405:e340:112::/47, proxy, no-resolve
+ip6-cidr, 2405:e340:114::/46, proxy, no-resolve
+ip6-cidr, 2405:e340:118::/45, proxy, no-resolve
+ip6-cidr, 2405:e340:120::/47, proxy, no-resolve
+ip6-cidr, 2405:e340:200::/45, proxy, no-resolve
+ip6-cidr, 2405:e340:301::/48, proxy, no-resolve

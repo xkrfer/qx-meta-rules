@@ -1,9 +1,9 @@
-host-suffix, comss.club
-host-suffix, comss.info
-host-suffix, comss.me
-host-suffix, comss.net
-host-suffix, comss.news
-host-suffix, comss.one
-host-suffix, comss.online
-host-suffix, comss.org
-host-suffix, comss.ru
+host-suffix, comss.club, proxy
+host-suffix, comss.info, proxy
+host-suffix, comss.me, proxy
+host-suffix, comss.net, proxy
+host-suffix, comss.news, proxy
+host-suffix, comss.one, proxy
+host-suffix, comss.online, proxy
+host-suffix, comss.org, proxy
+host-suffix, comss.ru, proxy

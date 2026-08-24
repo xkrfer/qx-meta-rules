@@ -1,2 +1,2 @@
-ip-cidr, 161.45.0.0/16
-ip-cidr, 204.152.130.0/23
+ip-cidr, 161.45.0.0/16, proxy, no-resolve
+ip-cidr, 204.152.130.0/23, proxy, no-resolve

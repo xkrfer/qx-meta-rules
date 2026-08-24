@@ -1,5 +1,5 @@
-host, browser-intake-datadoghq.com
-host, o33249.ingest.sentry.io
-host, openai.qualtrics.com
-host, copilot-telemetry-service.githubusercontent.com
-host, copilot-telemetry.githubusercontent.com
+host, browser-intake-datadoghq.com, proxy
+host, o33249.ingest.sentry.io, proxy
+host, openai.qualtrics.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy

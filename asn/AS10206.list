@@ -1,6 +1,6 @@
-ip-cidr, 103.251.240.0/23
-ip-cidr, 116.129.224.0/24
-ip-cidr, 116.129.226.0/24
-ip-cidr, 116.129.242.0/23
-ip6-cidr, 2408:8001:e800::/37
-ip6-cidr, 2408:8779::/34
+ip-cidr, 103.251.240.0/23, proxy, no-resolve
+ip-cidr, 116.129.224.0/24, proxy, no-resolve
+ip-cidr, 116.129.226.0/24, proxy, no-resolve
+ip-cidr, 116.129.242.0/23, proxy, no-resolve
+ip6-cidr, 2408:8001:e800::/37, proxy, no-resolve
+ip6-cidr, 2408:8779::/34, proxy, no-resolve

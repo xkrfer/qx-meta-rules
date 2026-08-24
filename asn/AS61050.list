@@ -1,2 +1,2 @@
-ip-cidr, 89.44.122.0/24
-ip6-cidr, 2a00:ece1:1::/48
+ip-cidr, 89.44.122.0/24, proxy, no-resolve
+ip6-cidr, 2a00:ece1:1::/48, proxy, no-resolve

@@ -1,7 +1,7 @@
-host-suffix, landian.news
-host-suffix, lancdn.com
-host-suffix, landiannews.com
-host-suffix, landian.vip
-host-suffix, landian.xyz
-host-suffix, ourl.co
-host-suffix, wsoso.com
+host-suffix, landian.news, proxy
+host-suffix, lancdn.com, proxy
+host-suffix, landiannews.com, proxy
+host-suffix, landian.vip, proxy
+host-suffix, landian.xyz, proxy
+host-suffix, ourl.co, proxy
+host-suffix, wsoso.com, proxy

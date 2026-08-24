@@ -1,4 +1,4 @@
-host-suffix, deps.dev
-host-suffix, deps.info
-host-suffix, opensourceinsight.dev
-host-suffix, opensourceinsights.dev
+host-suffix, deps.dev, proxy
+host-suffix, deps.info, proxy
+host-suffix, opensourceinsight.dev, proxy
+host-suffix, opensourceinsights.dev, proxy

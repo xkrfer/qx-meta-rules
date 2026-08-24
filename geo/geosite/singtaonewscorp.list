@@ -1,18 +1,18 @@
-host-suffix, hkheadline.com
-host-suffix, eduplus.hk
-host-suffix, singtao.com
-host-suffix, singtaobooks.com
-host-suffix, singtaola.com
-host-suffix, singtaousa.com
-host-suffix, stheadline.com
-host-suffix, singtaoopo.com
-host-suffix, sing68.com
-host-suffix, my-magazine.me
-host-suffix, headlinejobs.hk
-host-suffix, singtaonewscorp.com
-host-suffix, bastillepost.com
-host-suffix, easttouch.com.hk
-host-suffix, thestandard.com.hk
-host-suffix, jobmarket.com.hk
-host-suffix, eastweek.com.hk
-host-suffix, pcmarket.com.hk
+host-suffix, hkheadline.com, proxy
+host-suffix, eduplus.hk, proxy
+host-suffix, singtao.com, proxy
+host-suffix, singtaobooks.com, proxy
+host-suffix, singtaola.com, proxy
+host-suffix, singtaousa.com, proxy
+host-suffix, stheadline.com, proxy
+host-suffix, singtaoopo.com, proxy
+host-suffix, sing68.com, proxy
+host-suffix, my-magazine.me, proxy
+host-suffix, headlinejobs.hk, proxy
+host-suffix, singtaonewscorp.com, proxy
+host-suffix, bastillepost.com, proxy
+host-suffix, easttouch.com.hk, proxy
+host-suffix, thestandard.com.hk, proxy
+host-suffix, jobmarket.com.hk, proxy
+host-suffix, eastweek.com.hk, proxy
+host-suffix, pcmarket.com.hk, proxy

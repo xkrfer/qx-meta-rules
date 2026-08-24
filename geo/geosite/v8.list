@@ -1,2 +1,2 @@
-host-suffix, v8.dev
-host-suffix, v8project.org
+host-suffix, v8.dev, proxy
+host-suffix, v8project.org, proxy

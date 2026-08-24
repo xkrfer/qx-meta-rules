@@ -1,4 +1,4 @@
-ip-cidr, 111.235.150.0/24
-ip6-cidr, 2602:f86f:20::/43
-ip6-cidr, 2602:f86f:40::/44
-ip6-cidr, 2a05:dfc3:fd30::/44
+ip-cidr, 111.235.150.0/24, proxy, no-resolve
+ip6-cidr, 2602:f86f:20::/43, proxy, no-resolve
+ip6-cidr, 2602:f86f:40::/44, proxy, no-resolve
+ip6-cidr, 2a05:dfc3:fd30::/44, proxy, no-resolve

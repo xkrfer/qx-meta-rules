@@ -1,4 +1,4 @@
-host, prd-priconne-redive.akamaized.net
-host-suffix, priconne-redive.jp
-host-suffix, api-priconne-redive.cygames.jp
-host-suffix, omotenashi.cygames.jp
+host, prd-priconne-redive.akamaized.net, proxy
+host-suffix, priconne-redive.jp, proxy
+host-suffix, api-priconne-redive.cygames.jp, proxy
+host-suffix, omotenashi.cygames.jp, proxy

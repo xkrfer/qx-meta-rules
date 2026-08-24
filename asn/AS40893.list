@@ -1,4 +1,4 @@
-ip6-cidr, 2620:ae:a000::/48
-ip6-cidr, 2620:ae:a002::/47
-ip6-cidr, 2620:ae:a004::/46
-ip6-cidr, 2620:ae:a008::/45
+ip6-cidr, 2620:ae:a000::/48, proxy, no-resolve
+ip6-cidr, 2620:ae:a002::/47, proxy, no-resolve
+ip6-cidr, 2620:ae:a004::/46, proxy, no-resolve
+ip6-cidr, 2620:ae:a008::/45, proxy, no-resolve

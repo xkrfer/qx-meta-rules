@@ -1,4 +1,4 @@
-ip-cidr, 185.174.168.0/23
-ip-cidr, 185.174.170.0/24
-ip6-cidr, 2a0b:a900::/31
-ip6-cidr, 2a0b:a902::/32
+ip-cidr, 185.174.168.0/23, proxy, no-resolve
+ip-cidr, 185.174.170.0/24, proxy, no-resolve
+ip6-cidr, 2a0b:a900::/31, proxy, no-resolve
+ip6-cidr, 2a0b:a902::/32, proxy, no-resolve

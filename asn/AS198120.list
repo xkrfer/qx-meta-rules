@@ -1,2 +1,2 @@
-ip-cidr, 178.236.226.0/24
-ip6-cidr, 2a0d:2500::/32
+ip-cidr, 178.236.226.0/24, proxy, no-resolve
+ip6-cidr, 2a0d:2500::/32, proxy, no-resolve

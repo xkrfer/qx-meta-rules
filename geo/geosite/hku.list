@@ -1,4 +1,4 @@
-host-suffix, hku.hk
-host-suffix, xn--pssu7cv61af44b.hk
-host-suffix, xn--pssu7cv61af44b.xn--j6w193g
-host-suffix, hku.edu.hk
+host-suffix, hku.hk, proxy
+host-suffix, xn--pssu7cv61af44b.hk, proxy
+host-suffix, xn--pssu7cv61af44b.xn--j6w193g, proxy
+host-suffix, hku.edu.hk, proxy

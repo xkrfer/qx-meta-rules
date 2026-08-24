@@ -1,12 +1,12 @@
-host-suffix, inplat.ru
-host-suffix, megafon.com
-host-suffix, megafon.ru
-host-suffix, megafonpro.ru
-host-suffix, mgfn.ru
-host-suffix, report-megafon.ru
-host-suffix, scartel.ru
-host-suffix, yota.ru
-host-suffix, yotagamer.ru
-host-suffix, xn--80a9a4b.xn--p1ai
-host-suffix, xn--80aj3b.xn--p1ai
-host-suffix, xn--80arpq.xn--p1ai
+host-suffix, inplat.ru, proxy
+host-suffix, megafon.com, proxy
+host-suffix, megafon.ru, proxy
+host-suffix, megafonpro.ru, proxy
+host-suffix, mgfn.ru, proxy
+host-suffix, report-megafon.ru, proxy
+host-suffix, scartel.ru, proxy
+host-suffix, yota.ru, proxy
+host-suffix, yotagamer.ru, proxy
+host-suffix, xn--80a9a4b.xn--p1ai, proxy
+host-suffix, xn--80aj3b.xn--p1ai, proxy
+host-suffix, xn--80arpq.xn--p1ai, proxy

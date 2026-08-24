@@ -1,1 +1,1 @@
-ip6-cidr, 2801:189::/44
+ip6-cidr, 2801:189::/44, proxy, no-resolve

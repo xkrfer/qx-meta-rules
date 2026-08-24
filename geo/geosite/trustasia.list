@@ -1,11 +1,11 @@
-host-suffix, 51ssl.cn
-host-suffix, 51ssl.com
-host-suffix, geossl.cn
-host-suffix, litessl.cn
-host-suffix, litessl.com
-host-suffix, myssl-uri.com
-host-suffix, myssl.com
-host-suffix, trustasia.cn
-host-suffix, trustasia.com
-host-suffix, trustasia.net
-host-suffix, trustasia.com.cn
+host-suffix, 51ssl.cn, proxy
+host-suffix, 51ssl.com, proxy
+host-suffix, geossl.cn, proxy
+host-suffix, litessl.cn, proxy
+host-suffix, litessl.com, proxy
+host-suffix, myssl-uri.com, proxy
+host-suffix, myssl.com, proxy
+host-suffix, trustasia.cn, proxy
+host-suffix, trustasia.com, proxy
+host-suffix, trustasia.net, proxy
+host-suffix, trustasia.com.cn, proxy

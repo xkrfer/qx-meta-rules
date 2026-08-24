@@ -1,151 +1,151 @@
-host, azure.microsoft.com
-host, azuremarketplace.microsoft.com
-host-suffix, azure
-host-suffix, aadrm.com
-host-suffix, azure-api.net
-host-suffix, azure-devices-int.net
-host-suffix, azure-devices.net
-host-suffix, azure-mobile.net
-host-suffix, azure-sphere.com
-host-suffix, azure-test.net
-host-suffix, azure.com
-host-suffix, azure.net
-host-suffix, azurecomcdn.net
-host-suffix, azurecomm.net
-host-suffix, azurecontainer.io
-host-suffix, azurecosmos.net
-host-suffix, azurecosmosdb.com
-host-suffix, azurecosmosdb.info
-host-suffix, azurecosmosdb.net
-host-suffix, azuredatabricks.net
-host-suffix, azuredevopslaunch.com
-host-suffix, azuredigitaltwin.com
-host-suffix, azuredigitaltwins.com
-host-suffix, azuredigitaltwins.net
-host-suffix, azuredns-prd.info
-host-suffix, azuredns-prd.org
-host-suffix, azureedge-test.net
-host-suffix, azureedge.net
-host-suffix, azureedge.us
-host-suffix, azurefd.net
-host-suffix, azureiotcentral.com
-host-suffix, azureiotsolutions.com
-host-suffix, azureiotsuite.com
-host-suffix, azureplanetscale.info
-host-suffix, azureplanetscale.net
-host-suffix, azureserviceprofiler.com
-host-suffix, azuresmartspaces.net
-host-suffix, azurestackvalidation.com
-host-suffix, azurestaticapps.net
-host-suffix, azurewebsites.net
-host-suffix, botframework.com
-host-suffix, cosmosdb.info
-host-suffix, cosmosdb.net
-host-suffix, devopsms.com
-host-suffix, gotcosmos.com
-host-suffix, management-azure-devices-int.net
-host-suffix, management-azure-devices.net
-host-suffix, microsoftazuread-sso.com
-host-suffix, microsoftazuresponsorships.com
-host-suffix, microsofteca.com
-host-suffix, microsoftiotcentral.com
-host-suffix, msn.net
-host-suffix, playfab.com
-host-suffix, playfabapi.com
-host-suffix, serverlesslibrary.net
-host-suffix, trafficmanager.net
-host-suffix, tryfunctions.com
-host-suffix, windowsazure.com
-host-suffix, azure-dns.com
-host-suffix, azure-dns.info
-host-suffix, azure-dns.net
-host-suffix, azure-dns.org
-host-suffix, 21vbc.com
-host-suffix, 21vbluecloud.com
-host-suffix, 21vbluecloud.net
-host-suffix, aadrm.cn
-host-suffix, aggresmart.com
-host-suffix, apihub-internal.cn
-host-suffix, appserviceenvironment.cn
-host-suffix, azcrmc-test.cn
-host-suffix, azcrmc.cn
-host-suffix, azk8s.cn
-host-suffix, aznbcontent.cn
-host-suffix, aztask.cn
-host-suffix, azure-api.cn
-host-suffix, azure-apihub.cn
-host-suffix, azure-automation.cn
-host-suffix, azure-connectedvehicles-stage.cn
-host-suffix, azure-connectedvehicles.cn
-host-suffix, azure-devices-provisioning.cn
-host-suffix, azure-devices.cn
-host-suffix, azure-mobile.cn
-host-suffix, azure.cn
-host-suffix, azurecr-test.cn
-host-suffix, azurecr.cn
-host-suffix, azurehdinsight.cn
-host-suffix, azureiotsuite.cn
-host-suffix, azuremresolver.cn
-host-suffix, azureprivatedns.cn
-host-suffix, azurerms.cn
-host-suffix, azuresandbox.cn
-host-suffix, b2clogin.cn
-host-suffix, b3itech.cn
-host-suffix, blueaggrestore.com
-host-suffix, bluecloudprod.com
-host-suffix, cegid-cloud.cn
-host-suffix, chinacloud-mobile.cn
-host-suffix, chinacloudapi.cn
-host-suffix, chinacloudapp.cn
-host-suffix, chinacloudsites.cn
-host-suffix, hdinsightservices.cn
-host-suffix, management-azure-devices-provisioning.cn
-host-suffix, management-azure-devices.cn
-host-suffix, mcchcdn.com
-host-suffix, mgmt-azure-api.cn
-host-suffix, microsoftazurestatus.cn
-host-suffix, microsoftmetrics.cn
-host-suffix, mncmsidlab1.cn
-host-suffix, msappproxy.cn
-host-suffix, mschcdn.com
-host-suffix, msftcloudes.cn
-host-suffix, msidentity.cn
-host-suffix, msidlabpbmc.cn
-host-suffix, sovcloud-mx.cn
-host-suffix, sovcloud-static.cn
-host-suffix, sovcloud-usercontent.cn
-host-suffix, sovcloud.cn
-host-suffix, trafficmanager.cn
-host-suffix, trustcenter.cn
-host-suffix, windowsazure.cn
-host-suffix, windowsazurestatus.cn
-host-suffix, azchcdna.com
-host-suffix, azchcdnb.com
-host-suffix, azchcdnc.com
-host-suffix, azchcdnd.com
-host-suffix, azchcdne.com
-host-suffix, azchcdnf.com
-host-suffix, azchcdng.com
-host-suffix, azchcdnh.com
-host-suffix, azchcdni.com
-host-suffix, azchcdnj.com
-host-suffix, azchcdnk.com
-host-suffix, azchcdnl.com
-host-suffix, azchcdnm.com
-host-suffix, azchcdnn.com
-host-suffix, azchcdno.com
-host-suffix, azchcdnp.com
-host-suffix, azchcdnq.com
-host-suffix, azchcdnr.com
-host-suffix, azchcdns.com
-host-suffix, azure-dns.cn
-host-suffix, azure-dns-1.cn
-host-suffix, azure-dns-2.cn
-host-suffix, azure-dns-3.cn
-host-suffix, azure-dns-4.cn
-host-suffix, azure-dns-5.cn
-host-suffix, azure-dns-6.cn
-host-suffix, azure-dns-7.cn
-host-suffix, azure-dns-8.cn
-host-suffix, azure-dns-9.cn
-host-suffix, azure-dns-10.cn
+host, azure.microsoft.com, proxy
+host, azuremarketplace.microsoft.com, proxy
+host-suffix, azure, proxy
+host-suffix, aadrm.com, proxy
+host-suffix, azure-api.net, proxy
+host-suffix, azure-devices-int.net, proxy
+host-suffix, azure-devices.net, proxy
+host-suffix, azure-mobile.net, proxy
+host-suffix, azure-sphere.com, proxy
+host-suffix, azure-test.net, proxy
+host-suffix, azure.com, proxy
+host-suffix, azure.net, proxy
+host-suffix, azurecomcdn.net, proxy
+host-suffix, azurecomm.net, proxy
+host-suffix, azurecontainer.io, proxy
+host-suffix, azurecosmos.net, proxy
+host-suffix, azurecosmosdb.com, proxy
+host-suffix, azurecosmosdb.info, proxy
+host-suffix, azurecosmosdb.net, proxy
+host-suffix, azuredatabricks.net, proxy
+host-suffix, azuredevopslaunch.com, proxy
+host-suffix, azuredigitaltwin.com, proxy
+host-suffix, azuredigitaltwins.com, proxy
+host-suffix, azuredigitaltwins.net, proxy
+host-suffix, azuredns-prd.info, proxy
+host-suffix, azuredns-prd.org, proxy
+host-suffix, azureedge-test.net, proxy
+host-suffix, azureedge.net, proxy
+host-suffix, azureedge.us, proxy
+host-suffix, azurefd.net, proxy
+host-suffix, azureiotcentral.com, proxy
+host-suffix, azureiotsolutions.com, proxy
+host-suffix, azureiotsuite.com, proxy
+host-suffix, azureplanetscale.info, proxy
+host-suffix, azureplanetscale.net, proxy
+host-suffix, azureserviceprofiler.com, proxy
+host-suffix, azuresmartspaces.net, proxy
+host-suffix, azurestackvalidation.com, proxy
+host-suffix, azurestaticapps.net, proxy
+host-suffix, azurewebsites.net, proxy
+host-suffix, botframework.com, proxy
+host-suffix, cosmosdb.info, proxy
+host-suffix, cosmosdb.net, proxy
+host-suffix, devopsms.com, proxy
+host-suffix, gotcosmos.com, proxy
+host-suffix, management-azure-devices-int.net, proxy
+host-suffix, management-azure-devices.net, proxy
+host-suffix, microsoftazuread-sso.com, proxy
+host-suffix, microsoftazuresponsorships.com, proxy
+host-suffix, microsofteca.com, proxy
+host-suffix, microsoftiotcentral.com, proxy
+host-suffix, msn.net, proxy
+host-suffix, playfab.com, proxy
+host-suffix, playfabapi.com, proxy
+host-suffix, serverlesslibrary.net, proxy
+host-suffix, trafficmanager.net, proxy
+host-suffix, tryfunctions.com, proxy
+host-suffix, windowsazure.com, proxy
+host-suffix, azure-dns.com, proxy
+host-suffix, azure-dns.info, proxy
+host-suffix, azure-dns.net, proxy
+host-suffix, azure-dns.org, proxy
+host-suffix, 21vbc.com, proxy
+host-suffix, 21vbluecloud.com, proxy
+host-suffix, 21vbluecloud.net, proxy
+host-suffix, aadrm.cn, proxy
+host-suffix, aggresmart.com, proxy
+host-suffix, apihub-internal.cn, proxy
+host-suffix, appserviceenvironment.cn, proxy
+host-suffix, azcrmc-test.cn, proxy
+host-suffix, azcrmc.cn, proxy
+host-suffix, azk8s.cn, proxy
+host-suffix, aznbcontent.cn, proxy
+host-suffix, aztask.cn, proxy
+host-suffix, azure-api.cn, proxy
+host-suffix, azure-apihub.cn, proxy
+host-suffix, azure-automation.cn, proxy
+host-suffix, azure-connectedvehicles-stage.cn, proxy
+host-suffix, azure-connectedvehicles.cn, proxy
+host-suffix, azure-devices-provisioning.cn, proxy
+host-suffix, azure-devices.cn, proxy
+host-suffix, azure-mobile.cn, proxy
+host-suffix, azure.cn, proxy
+host-suffix, azurecr-test.cn, proxy
+host-suffix, azurecr.cn, proxy
+host-suffix, azurehdinsight.cn, proxy
+host-suffix, azureiotsuite.cn, proxy
+host-suffix, azuremresolver.cn, proxy
+host-suffix, azureprivatedns.cn, proxy
+host-suffix, azurerms.cn, proxy
+host-suffix, azuresandbox.cn, proxy
+host-suffix, b2clogin.cn, proxy
+host-suffix, b3itech.cn, proxy
+host-suffix, blueaggrestore.com, proxy
+host-suffix, bluecloudprod.com, proxy
+host-suffix, cegid-cloud.cn, proxy
+host-suffix, chinacloud-mobile.cn, proxy
+host-suffix, chinacloudapi.cn, proxy
+host-suffix, chinacloudapp.cn, proxy
+host-suffix, chinacloudsites.cn, proxy
+host-suffix, hdinsightservices.cn, proxy
+host-suffix, management-azure-devices-provisioning.cn, proxy
+host-suffix, management-azure-devices.cn, proxy
+host-suffix, mcchcdn.com, proxy
+host-suffix, mgmt-azure-api.cn, proxy
+host-suffix, microsoftazurestatus.cn, proxy
+host-suffix, microsoftmetrics.cn, proxy
+host-suffix, mncmsidlab1.cn, proxy
+host-suffix, msappproxy.cn, proxy
+host-suffix, mschcdn.com, proxy
+host-suffix, msftcloudes.cn, proxy
+host-suffix, msidentity.cn, proxy
+host-suffix, msidlabpbmc.cn, proxy
+host-suffix, sovcloud-mx.cn, proxy
+host-suffix, sovcloud-static.cn, proxy
+host-suffix, sovcloud-usercontent.cn, proxy
+host-suffix, sovcloud.cn, proxy
+host-suffix, trafficmanager.cn, proxy
+host-suffix, trustcenter.cn, proxy
+host-suffix, windowsazure.cn, proxy
+host-suffix, windowsazurestatus.cn, proxy
+host-suffix, azchcdna.com, proxy
+host-suffix, azchcdnb.com, proxy
+host-suffix, azchcdnc.com, proxy
+host-suffix, azchcdnd.com, proxy
+host-suffix, azchcdne.com, proxy
+host-suffix, azchcdnf.com, proxy
+host-suffix, azchcdng.com, proxy
+host-suffix, azchcdnh.com, proxy
+host-suffix, azchcdni.com, proxy
+host-suffix, azchcdnj.com, proxy
+host-suffix, azchcdnk.com, proxy
+host-suffix, azchcdnl.com, proxy
+host-suffix, azchcdnm.com, proxy
+host-suffix, azchcdnn.com, proxy
+host-suffix, azchcdno.com, proxy
+host-suffix, azchcdnp.com, proxy
+host-suffix, azchcdnq.com, proxy
+host-suffix, azchcdnr.com, proxy
+host-suffix, azchcdns.com, proxy
+host-suffix, azure-dns.cn, proxy
+host-suffix, azure-dns-1.cn, proxy
+host-suffix, azure-dns-2.cn, proxy
+host-suffix, azure-dns-3.cn, proxy
+host-suffix, azure-dns-4.cn, proxy
+host-suffix, azure-dns-5.cn, proxy
+host-suffix, azure-dns-6.cn, proxy
+host-suffix, azure-dns-7.cn, proxy
+host-suffix, azure-dns-8.cn, proxy
+host-suffix, azure-dns-9.cn, proxy
+host-suffix, azure-dns-10.cn, proxy

@@ -1,17 +1,17 @@
-host-suffix, dreamworks.com
-host-suffix, cnbc.com
-host-suffix, cnbcfm.com
-host-suffix, msnbc.com
-host-suffix, nbc.co
-host-suffix, nbc.com
-host-suffix, nbcnews.com
-host-suffix, nbcolympics.com
-host-suffix, nbcsports.com
-host-suffix, nbcuni.com
-host-suffix, nbcuniversal.com
-host-suffix, s-nbcnews.com
-host-suffix, peacocktv.com
-host-suffix, universalorlando.com
-host-suffix, universalpictures.com
-host-suffix, universalpicturesinternational.com
-host-suffix, universalstudioshollywood.com
+host-suffix, dreamworks.com, proxy
+host-suffix, cnbc.com, proxy
+host-suffix, cnbcfm.com, proxy
+host-suffix, msnbc.com, proxy
+host-suffix, nbc.co, proxy
+host-suffix, nbc.com, proxy
+host-suffix, nbcnews.com, proxy
+host-suffix, nbcolympics.com, proxy
+host-suffix, nbcsports.com, proxy
+host-suffix, nbcuni.com, proxy
+host-suffix, nbcuniversal.com, proxy
+host-suffix, s-nbcnews.com, proxy
+host-suffix, peacocktv.com, proxy
+host-suffix, universalorlando.com, proxy
+host-suffix, universalpictures.com, proxy
+host-suffix, universalpicturesinternational.com, proxy
+host-suffix, universalstudioshollywood.com, proxy

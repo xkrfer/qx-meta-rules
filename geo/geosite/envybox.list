@@ -1,21 +1,21 @@
-host-suffix, bananacall.ru
-host-suffix, beesbfl.ru
-host-suffix, beescrm.ru
-host-suffix, bimsaas.ru
-host-suffix, callbackkiller.com
-host-suffix, cbkiller.com
-host-suffix, envybox.company
-host-suffix, envybox.family
-host-suffix, envybox.io
-host-suffix, envybox.kg
-host-suffix, envybox.su
-host-suffix, envycdp.com
-host-suffix, envycdp.ru
-host-suffix, envycrm.com
-host-suffix, envyday.ru
-host-suffix, killercb.ru
-host-suffix, myenvy.ru
-host-suffix, quizlink.ru
-host-suffix, saas-support.com
-host-suffix, whitesaas.com
-host-suffix, xn--90absjljw3g.xn--p1ai
+host-suffix, bananacall.ru, proxy
+host-suffix, beesbfl.ru, proxy
+host-suffix, beescrm.ru, proxy
+host-suffix, bimsaas.ru, proxy
+host-suffix, callbackkiller.com, proxy
+host-suffix, cbkiller.com, proxy
+host-suffix, envybox.company, proxy
+host-suffix, envybox.family, proxy
+host-suffix, envybox.io, proxy
+host-suffix, envybox.kg, proxy
+host-suffix, envybox.su, proxy
+host-suffix, envycdp.com, proxy
+host-suffix, envycdp.ru, proxy
+host-suffix, envycrm.com, proxy
+host-suffix, envyday.ru, proxy
+host-suffix, killercb.ru, proxy
+host-suffix, myenvy.ru, proxy
+host-suffix, quizlink.ru, proxy
+host-suffix, saas-support.com, proxy
+host-suffix, whitesaas.com, proxy
+host-suffix, xn--90absjljw3g.xn--p1ai, proxy

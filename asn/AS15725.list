@@ -1,23 +1,23 @@
-ip-cidr, 185.98.236.0/22
-ip-cidr, 217.17.192.0/21
-ip-cidr, 217.17.200.0/22
-ip-cidr, 217.17.204.0/23
-ip6-cidr, 2001:4bd8::/42
-ip6-cidr, 2001:4bd8:40::/44
-ip6-cidr, 2001:4bd8:50::/47
-ip6-cidr, 2001:4bd8:53::/48
-ip6-cidr, 2001:4bd8:54::/46
-ip6-cidr, 2001:4bd8:58::/45
-ip6-cidr, 2001:4bd8:60::/43
-ip6-cidr, 2001:4bd8:80::/41
-ip6-cidr, 2001:4bd8:100::/40
-ip6-cidr, 2001:4bd8:200::/39
-ip6-cidr, 2001:4bd8:400::/38
-ip6-cidr, 2001:4bd8:800::/37
-ip6-cidr, 2001:4bd8:1000::/36
-ip6-cidr, 2001:4bd8:2000::/35
-ip6-cidr, 2001:4bd8:4000::/34
-ip6-cidr, 2001:4bd8:8000::/33
-ip6-cidr, 2001:4bd9::/32
-ip6-cidr, 2001:4bda::/31
-ip6-cidr, 2001:4bdc::/30
+ip-cidr, 185.98.236.0/22, proxy, no-resolve
+ip-cidr, 217.17.192.0/21, proxy, no-resolve
+ip-cidr, 217.17.200.0/22, proxy, no-resolve
+ip-cidr, 217.17.204.0/23, proxy, no-resolve
+ip6-cidr, 2001:4bd8::/42, proxy, no-resolve
+ip6-cidr, 2001:4bd8:40::/44, proxy, no-resolve
+ip6-cidr, 2001:4bd8:50::/47, proxy, no-resolve
+ip6-cidr, 2001:4bd8:53::/48, proxy, no-resolve
+ip6-cidr, 2001:4bd8:54::/46, proxy, no-resolve
+ip6-cidr, 2001:4bd8:58::/45, proxy, no-resolve
+ip6-cidr, 2001:4bd8:60::/43, proxy, no-resolve
+ip6-cidr, 2001:4bd8:80::/41, proxy, no-resolve
+ip6-cidr, 2001:4bd8:100::/40, proxy, no-resolve
+ip6-cidr, 2001:4bd8:200::/39, proxy, no-resolve
+ip6-cidr, 2001:4bd8:400::/38, proxy, no-resolve
+ip6-cidr, 2001:4bd8:800::/37, proxy, no-resolve
+ip6-cidr, 2001:4bd8:1000::/36, proxy, no-resolve
+ip6-cidr, 2001:4bd8:2000::/35, proxy, no-resolve
+ip6-cidr, 2001:4bd8:4000::/34, proxy, no-resolve
+ip6-cidr, 2001:4bd8:8000::/33, proxy, no-resolve
+ip6-cidr, 2001:4bd9::/32, proxy, no-resolve
+ip6-cidr, 2001:4bda::/31, proxy, no-resolve
+ip6-cidr, 2001:4bdc::/30, proxy, no-resolve

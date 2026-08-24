@@ -1,4 +1,4 @@
-ip-cidr, 168.205.60.0/22
-ip-cidr, 179.127.152.0/21
-ip6-cidr, 2804:1094::/32
-ip6-cidr, 2804:7b40::/32
+ip-cidr, 168.205.60.0/22, proxy, no-resolve
+ip-cidr, 179.127.152.0/21, proxy, no-resolve
+ip6-cidr, 2804:1094::/32, proxy, no-resolve
+ip6-cidr, 2804:7b40::/32, proxy, no-resolve

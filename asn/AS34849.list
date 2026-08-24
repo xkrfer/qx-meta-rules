@@ -1,2 +1,2 @@
-ip-cidr, 37.18.92.0/23
-ip-cidr, 80.250.174.0/24
+ip-cidr, 37.18.92.0/23, proxy, no-resolve
+ip-cidr, 80.250.174.0/24, proxy, no-resolve

@@ -1,35 +1,35 @@
-host-suffix, andfx.net
-host-suffix, cmicapm.com
-host-suffix, chinamobile.com
-host-suffix, chinamobileltd.com
-host-suffix, cmread.com
-host-suffix, cmvideo.cn
-host-suffix, migu.cn
-host-suffix, migucloud.com
-host-suffix, migufun.com
-host-suffix, miguvideo.com
-host-suffix, zdsdp.com
-host-suffix, cmpay.com
-host-suffix, cmcc-cs.cn
-host-suffix, online-cmcc.cn
-host-suffix, 5gxcx.net
-host-suffix, andfx.cn
-host-suffix, 139.com
-host-suffix, cmicrwx.cn
-host-suffix, 10086.cn
-host-suffix, cmicvip.cn
-host-suffix, cmpassport.com
-host-suffix, fxltsbl.com
-host-suffix, fetion-portal.com
-host-suffix, fetionpic.com
-host-suffix, hfx.net
-host-suffix, mmarket.com
-host-suffix, mmarket6.com
-host-suffix, komect.com
-host-suffix, chinamobiledevice.com
-host-suffix, cmdcxls.com
-host-suffix, cxzx10086.cn
-host-suffix, cytxl.com.cn
-host-suffix, cmft.com.cn
-host-suffix, speedtest.hk.chinamobile.com
-host-suffix, speedtestbb.hk.chinamobile.com
+host-suffix, andfx.net, proxy
+host-suffix, cmicapm.com, proxy
+host-suffix, chinamobile.com, proxy
+host-suffix, chinamobileltd.com, proxy
+host-suffix, cmread.com, proxy
+host-suffix, cmvideo.cn, proxy
+host-suffix, migu.cn, proxy
+host-suffix, migucloud.com, proxy
+host-suffix, migufun.com, proxy
+host-suffix, miguvideo.com, proxy
+host-suffix, zdsdp.com, proxy
+host-suffix, cmpay.com, proxy
+host-suffix, cmcc-cs.cn, proxy
+host-suffix, online-cmcc.cn, proxy
+host-suffix, 5gxcx.net, proxy
+host-suffix, andfx.cn, proxy
+host-suffix, 139.com, proxy
+host-suffix, cmicrwx.cn, proxy
+host-suffix, 10086.cn, proxy
+host-suffix, cmicvip.cn, proxy
+host-suffix, cmpassport.com, proxy
+host-suffix, fxltsbl.com, proxy
+host-suffix, fetion-portal.com, proxy
+host-suffix, fetionpic.com, proxy
+host-suffix, hfx.net, proxy
+host-suffix, mmarket.com, proxy
+host-suffix, mmarket6.com, proxy
+host-suffix, komect.com, proxy
+host-suffix, chinamobiledevice.com, proxy
+host-suffix, cmdcxls.com, proxy
+host-suffix, cxzx10086.cn, proxy
+host-suffix, cytxl.com.cn, proxy
+host-suffix, cmft.com.cn, proxy
+host-suffix, speedtest.hk.chinamobile.com, proxy
+host-suffix, speedtestbb.hk.chinamobile.com, proxy

@@ -1,10 +1,10 @@
-ip-cidr, 66.129.40.0/23
-ip-cidr, 66.129.42.0/26
-ip-cidr, 66.129.42.64/27
-ip-cidr, 66.129.42.96/28
-ip-cidr, 66.129.42.112/30
-ip-cidr, 66.129.42.116/31
-ip-cidr, 66.129.42.118/32
-ip-cidr, 66.129.42.120/29
-ip-cidr, 66.129.42.128/25
-ip-cidr, 66.129.43.0/24
+ip-cidr, 66.129.40.0/23, proxy, no-resolve
+ip-cidr, 66.129.42.0/26, proxy, no-resolve
+ip-cidr, 66.129.42.64/27, proxy, no-resolve
+ip-cidr, 66.129.42.96/28, proxy, no-resolve
+ip-cidr, 66.129.42.112/30, proxy, no-resolve
+ip-cidr, 66.129.42.116/31, proxy, no-resolve
+ip-cidr, 66.129.42.118/32, proxy, no-resolve
+ip-cidr, 66.129.42.120/29, proxy, no-resolve
+ip-cidr, 66.129.42.128/25, proxy, no-resolve
+ip-cidr, 66.129.43.0/24, proxy, no-resolve

@@ -1,4 +1,4 @@
-ip-cidr, 120.88.96.0/20
-ip6-cidr, 2406:f0c0:107::/48
-ip6-cidr, 2406:f0c0:108::/47
-ip6-cidr, 2406:f0c0:110::/47
+ip-cidr, 120.88.96.0/20, proxy, no-resolve
+ip6-cidr, 2406:f0c0:107::/48, proxy, no-resolve
+ip6-cidr, 2406:f0c0:108::/47, proxy, no-resolve
+ip6-cidr, 2406:f0c0:110::/47, proxy, no-resolve

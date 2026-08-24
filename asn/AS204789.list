@@ -1,4 +1,4 @@
-ip6-cidr, 2602:fafd:f04::/48
-ip6-cidr, 2a06:1286::/32
-ip6-cidr, 2a06:a001:a0b0::/44
-ip6-cidr, 2a06:a005:1db0::/44
+ip6-cidr, 2602:fafd:f04::/48, proxy, no-resolve
+ip6-cidr, 2a06:1286::/32, proxy, no-resolve
+ip6-cidr, 2a06:a001:a0b0::/44, proxy, no-resolve
+ip6-cidr, 2a06:a005:1db0::/44, proxy, no-resolve

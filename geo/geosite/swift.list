@@ -1,4 +1,4 @@
-host-suffix, appleswift.com
-host-suffix, swift.org
-host-suffix, swiftui.cn
-host-suffix, swiftui.com.cn
+host-suffix, appleswift.com, proxy
+host-suffix, swift.org, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

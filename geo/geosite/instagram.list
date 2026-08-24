@@ -1,74 +1,74 @@
-host-suffix, achat-followers-instagram.com
-host-suffix, acheter-followers-instagram.com
-host-suffix, acheterdesfollowersinstagram.com
-host-suffix, acheterfollowersinstagram.com
-host-suffix, bookstagram.com
-host-suffix, carstagram.com
-host-suffix, cdninstagram.com
-host-suffix, chickstagram.com
-host-suffix, ig.me
-host-suffix, igcdn.com
-host-suffix, igsonar.com
-host-suffix, igtv.com
-host-suffix, imstagram.com
-host-suffix, imtagram.com
-host-suffix, instaadder.com
-host-suffix, instachecker.com
-host-suffix, instafallow.com
-host-suffix, instafollower.com
-host-suffix, instagainer.com
-host-suffix, instagda.com
-host-suffix, instagify.com
-host-suffix, instagmania.com
-host-suffix, instagor.com
-host-suffix, instagram-brand.com
-host-suffix, instagram-engineering.com
-host-suffix, instagram-help.com
-host-suffix, instagram-press.com
-host-suffix, instagram-press.net
-host-suffix, instagram.com
-host-suffix, instagramci.com
-host-suffix, instagramcn.com
-host-suffix, instagramdi.com
-host-suffix, instagramhashtags.net
-host-suffix, instagramhilecim.com
-host-suffix, instagramhilesi.org
-host-suffix, instagramium.com
-host-suffix, instagramizlenme.com
-host-suffix, instagramkusu.com
-host-suffix, instagramlogin.com
-host-suffix, instagramm.com
-host-suffix, instagramn.com
-host-suffix, instagrampartners.com
-host-suffix, instagramphoto.com
-host-suffix, instagramq.com
-host-suffix, instagramsepeti.com
-host-suffix, instagramtakipcisatinal.net
-host-suffix, instagramtakiphilesi.com
-host-suffix, instagramtips.com
-host-suffix, instagramtr.com
-host-suffix, instagran.com
-host-suffix, instagranm.com
-host-suffix, instagrem.com
-host-suffix, instagrm.com
-host-suffix, instagtram.com
-host-suffix, instagy.com
-host-suffix, instamgram.com
-host-suffix, instangram.com
-host-suffix, instanttelegram.com
-host-suffix, instaplayer.net
-host-suffix, instastyle.tv
-host-suffix, instgram.com
-host-suffix, intagram.com
-host-suffix, intagrm.com
-host-suffix, intgram.com
-host-suffix, kingstagram.com
-host-suffix, lnstagram-help.com
-host-suffix, theinstagramhack.com
-host-suffix, oninstagram.com
-host-suffix, online-instagram.com
-host-suffix, onlineinstagram.com
-host-suffix, web-instagram.net
-host-suffix, wwwinstagram.com
-host-suffix, graph.instagram.com
-host-suffix, graph-fallback.instagram.com
+host-suffix, achat-followers-instagram.com, proxy
+host-suffix, acheter-followers-instagram.com, proxy
+host-suffix, acheterdesfollowersinstagram.com, proxy
+host-suffix, acheterfollowersinstagram.com, proxy
+host-suffix, bookstagram.com, proxy
+host-suffix, carstagram.com, proxy
+host-suffix, cdninstagram.com, proxy
+host-suffix, chickstagram.com, proxy
+host-suffix, ig.me, proxy
+host-suffix, igcdn.com, proxy
+host-suffix, igsonar.com, proxy
+host-suffix, igtv.com, proxy
+host-suffix, imstagram.com, proxy
+host-suffix, imtagram.com, proxy
+host-suffix, instaadder.com, proxy
+host-suffix, instachecker.com, proxy
+host-suffix, instafallow.com, proxy
+host-suffix, instafollower.com, proxy
+host-suffix, instagainer.com, proxy
+host-suffix, instagda.com, proxy
+host-suffix, instagify.com, proxy
+host-suffix, instagmania.com, proxy
+host-suffix, instagor.com, proxy
+host-suffix, instagram-brand.com, proxy
+host-suffix, instagram-engineering.com, proxy
+host-suffix, instagram-help.com, proxy
+host-suffix, instagram-press.com, proxy
+host-suffix, instagram-press.net, proxy
+host-suffix, instagram.com, proxy
+host-suffix, instagramci.com, proxy
+host-suffix, instagramcn.com, proxy
+host-suffix, instagramdi.com, proxy
+host-suffix, instagramhashtags.net, proxy
+host-suffix, instagramhilecim.com, proxy
+host-suffix, instagramhilesi.org, proxy
+host-suffix, instagramium.com, proxy
+host-suffix, instagramizlenme.com, proxy
+host-suffix, instagramkusu.com, proxy
+host-suffix, instagramlogin.com, proxy
+host-suffix, instagramm.com, proxy
+host-suffix, instagramn.com, proxy
+host-suffix, instagrampartners.com, proxy
+host-suffix, instagramphoto.com, proxy
+host-suffix, instagramq.com, proxy
+host-suffix, instagramsepeti.com, proxy
+host-suffix, instagramtakipcisatinal.net, proxy
+host-suffix, instagramtakiphilesi.com, proxy
+host-suffix, instagramtips.com, proxy
+host-suffix, instagramtr.com, proxy
+host-suffix, instagran.com, proxy
+host-suffix, instagranm.com, proxy
+host-suffix, instagrem.com, proxy
+host-suffix, instagrm.com, proxy
+host-suffix, instagtram.com, proxy
+host-suffix, instagy.com, proxy
+host-suffix, instamgram.com, proxy
+host-suffix, instangram.com, proxy
+host-suffix, instanttelegram.com, proxy
+host-suffix, instaplayer.net, proxy
+host-suffix, instastyle.tv, proxy
+host-suffix, instgram.com, proxy
+host-suffix, intagram.com, proxy
+host-suffix, intagrm.com, proxy
+host-suffix, intgram.com, proxy
+host-suffix, kingstagram.com, proxy
+host-suffix, lnstagram-help.com, proxy
+host-suffix, theinstagramhack.com, proxy
+host-suffix, oninstagram.com, proxy
+host-suffix, online-instagram.com, proxy
+host-suffix, onlineinstagram.com, proxy
+host-suffix, web-instagram.net, proxy
+host-suffix, wwwinstagram.com, proxy
+host-suffix, graph.instagram.com, proxy
+host-suffix, graph-fallback.instagram.com, proxy

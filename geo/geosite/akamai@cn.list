@@ -1,11 +1,11 @@
-host-suffix, accdn.com.cn
-host-suffix, akadns88.net
-host-suffix, akadns99.net
-host-suffix, akamai.com
-host-suffix, akcdn.com.cn
-host-suffix, aptdn.net
-host-suffix, edgekey88.net
-host-suffix, janrain.biz
-host-suffix, janrainservices.com
-host-suffix, skycdn.com.cn
-host-suffix, tl88.net
+host-suffix, accdn.com.cn, proxy
+host-suffix, akadns88.net, proxy
+host-suffix, akadns99.net, proxy
+host-suffix, akamai.com, proxy
+host-suffix, akcdn.com.cn, proxy
+host-suffix, aptdn.net, proxy
+host-suffix, edgekey88.net, proxy
+host-suffix, janrain.biz, proxy
+host-suffix, janrainservices.com, proxy
+host-suffix, skycdn.com.cn, proxy
+host-suffix, tl88.net, proxy

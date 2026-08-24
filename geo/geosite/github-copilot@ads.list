@@ -1,2 +1,2 @@
-host, copilot-telemetry-service.githubusercontent.com
-host, copilot-telemetry.githubusercontent.com
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy

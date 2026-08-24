@@ -1,2 +1,2 @@
-host, opgg-static.akamaized.net
-host-suffix, op.gg
+host, opgg-static.akamaized.net, proxy
+host-suffix, op.gg, proxy

@@ -1,3 +1,3 @@
-host-suffix, ptcloud.ru
-host-suffix, ptsecurity.com
-host-suffix, standoff365.com
+host-suffix, ptcloud.ru, proxy
+host-suffix, ptsecurity.com, proxy
+host-suffix, standoff365.com, proxy

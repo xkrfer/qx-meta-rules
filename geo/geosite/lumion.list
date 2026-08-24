@@ -1,6 +1,6 @@
-host-suffix, lumion-la.com
-host-suffix, lumion.com
-host-suffix, lumion3d.net
-host-suffix, lumiontech.net
-host-suffix, mylumion.com
-host-suffix, lumion3d.com.my
+host-suffix, lumion-la.com, proxy
+host-suffix, lumion.com, proxy
+host-suffix, lumion3d.net, proxy
+host-suffix, lumiontech.net, proxy
+host-suffix, mylumion.com, proxy
+host-suffix, lumion3d.com.my, proxy

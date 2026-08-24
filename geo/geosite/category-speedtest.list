@@ -1,75 +1,75 @@
-host, www.speedtest.net.cdn.cloudflare.net
-host-suffix, cdnst.net
-host-suffix, ekahau.com
-host-suffix, linkmeter.net
-host-suffix, measurementlab.net
-host-suffix, meter.net
-host-suffix, nperf.com
-host-suffix, openspeedtest.ru
-host-suffix, openspeedtest.com
-host-suffix, webtest.net
-host-suffix, speed.ee
-host-suffix, speedtestcustom.com
-host-suffix, speedtest.net
-host-suffix, speedtest.co
-host-suffix, ooklaserver.net
-host-suffix, speedcheck.org
-host-suffix, speedgeo.net
-host-suffix, speedof.me
-host-suffix, ookla.com
-host-suffix, speedtest.ch
-host-suffix, ekahau.cloud
-host-suffix, cellmaps.com
-host-suffix, speedtest.de
-host-suffix, fast.com
-host-suffix, testskorosti.ru
-host-suffix, speedtest.im
-host-suffix, testmyspeed.com
-host-suffix, fastspeedtest.com
-host-suffix, testmy.net
-host-suffix, pingtest.net
-host-suffix, speedtest.org
-host-suffix, speedtest24.ru
-host-suffix, speedtest.ru
-host-suffix, speedtest.xyz
-host-suffix, speedtest.su
-host-suffix, speedtest.uz
-host-suffix, speedtest.net.ua
-host-suffix, speedtest.co.za
-host-suffix, speedtest.shaw.ca
-host-suffix, speedtest.rt.ru
-host-suffix, speedtest.net.in
-host-suffix, speedtest.mail.ru
-host-suffix, speedtest.frontier.com
-host-suffix, speedtest.dno-it.ru
-host-suffix, speedtest.cesnet.cz
-host-suffix, speedtest.volia.com
-host-suffix, speedtest.xfinity.com
-host-suffix, open.cachefly.net
-host-suffix, speedtest.citylink.pro
-host-suffix, speedtest.net.uk
-host-suffix, speed2.hinet.net
-host-suffix, speed.cloudflare.com
-host-suffix, speed.hinet.net
-host-suffix, speed.dler.io
-host-suffix, speed.nccu.edu.tw
-host-suffix, speed5.ntu.edu.tw
-host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk
-host-suffix, cnspeedtest.cn
-host-suffix, speed.neu6.edu.cn
-host-suffix, speed.nju.edu.cn
-host-suffix, speed.nuaa.edu.cn
-host-suffix, speed.qlu.edu.cn
-host-suffix, speed.ujs.edu.cn
-host-suffix, speed6.ujs.edu.cn
-host-suffix, speedtest.cn
-host-suffix, speedtest.mfcyun.com
-host-suffix, speedtest.shu.edu.cn
-host-suffix, speedtest.xaut.edu.cn
-host-suffix, speedtest6.shu.edu.cn
-host-suffix, test.nju.edu.cn
-host-suffix, test.ustc.edu.cn
-host-suffix, test6.nju.edu.cn
-host-suffix, test6.ustc.edu.cn
-host-suffix, xnfz.seu.edu.cn
-host, hk-global-bgp.hkg.speedtest.yecaoyun.com
+host, www.speedtest.net.cdn.cloudflare.net, proxy
+host-suffix, cdnst.net, proxy
+host-suffix, ekahau.com, proxy
+host-suffix, linkmeter.net, proxy
+host-suffix, measurementlab.net, proxy
+host-suffix, meter.net, proxy
+host-suffix, nperf.com, proxy
+host-suffix, openspeedtest.ru, proxy
+host-suffix, openspeedtest.com, proxy
+host-suffix, webtest.net, proxy
+host-suffix, speed.ee, proxy
+host-suffix, speedtestcustom.com, proxy
+host-suffix, speedtest.net, proxy
+host-suffix, speedtest.co, proxy
+host-suffix, ooklaserver.net, proxy
+host-suffix, speedcheck.org, proxy
+host-suffix, speedgeo.net, proxy
+host-suffix, speedof.me, proxy
+host-suffix, ookla.com, proxy
+host-suffix, speedtest.ch, proxy
+host-suffix, ekahau.cloud, proxy
+host-suffix, cellmaps.com, proxy
+host-suffix, speedtest.de, proxy
+host-suffix, fast.com, proxy
+host-suffix, testskorosti.ru, proxy
+host-suffix, speedtest.im, proxy
+host-suffix, testmyspeed.com, proxy
+host-suffix, fastspeedtest.com, proxy
+host-suffix, testmy.net, proxy
+host-suffix, pingtest.net, proxy
+host-suffix, speedtest.org, proxy
+host-suffix, speedtest24.ru, proxy
+host-suffix, speedtest.ru, proxy
+host-suffix, speedtest.xyz, proxy
+host-suffix, speedtest.su, proxy
+host-suffix, speedtest.uz, proxy
+host-suffix, speedtest.net.ua, proxy
+host-suffix, speedtest.co.za, proxy
+host-suffix, speedtest.shaw.ca, proxy
+host-suffix, speedtest.rt.ru, proxy
+host-suffix, speedtest.net.in, proxy
+host-suffix, speedtest.mail.ru, proxy
+host-suffix, speedtest.frontier.com, proxy
+host-suffix, speedtest.dno-it.ru, proxy
+host-suffix, speedtest.cesnet.cz, proxy
+host-suffix, speedtest.volia.com, proxy
+host-suffix, speedtest.xfinity.com, proxy
+host-suffix, open.cachefly.net, proxy
+host-suffix, speedtest.citylink.pro, proxy
+host-suffix, speedtest.net.uk, proxy
+host-suffix, speed2.hinet.net, proxy
+host-suffix, speed.cloudflare.com, proxy
+host-suffix, speed.hinet.net, proxy
+host-suffix, speed.dler.io, proxy
+host-suffix, speed.nccu.edu.tw, proxy
+host-suffix, speed5.ntu.edu.tw, proxy
+host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk, proxy
+host-suffix, cnspeedtest.cn, proxy
+host-suffix, speed.neu6.edu.cn, proxy
+host-suffix, speed.nju.edu.cn, proxy
+host-suffix, speed.nuaa.edu.cn, proxy
+host-suffix, speed.qlu.edu.cn, proxy
+host-suffix, speed.ujs.edu.cn, proxy
+host-suffix, speed6.ujs.edu.cn, proxy
+host-suffix, speedtest.cn, proxy
+host-suffix, speedtest.mfcyun.com, proxy
+host-suffix, speedtest.shu.edu.cn, proxy
+host-suffix, speedtest.xaut.edu.cn, proxy
+host-suffix, speedtest6.shu.edu.cn, proxy
+host-suffix, test.nju.edu.cn, proxy
+host-suffix, test.ustc.edu.cn, proxy
+host-suffix, test6.nju.edu.cn, proxy
+host-suffix, test6.ustc.edu.cn, proxy
+host-suffix, xnfz.seu.edu.cn, proxy
+host, hk-global-bgp.hkg.speedtest.yecaoyun.com, proxy

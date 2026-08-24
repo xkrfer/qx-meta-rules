@@ -1,2 +1,2 @@
-host-suffix, pinkcore.com
-host-suffix, pinkcore.net
+host-suffix, pinkcore.com, proxy
+host-suffix, pinkcore.net, proxy

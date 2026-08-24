@@ -1,2 +1,2 @@
-host-suffix, keybase.io
-host-suffix, keybaseapi.com
+host-suffix, keybase.io, proxy
+host-suffix, keybaseapi.com, proxy

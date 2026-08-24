@@ -1,3 +1,3 @@
-host-suffix, vrchat.cloud
-host-suffix, vrchat.com
-host-suffix, vrchat.net
+host-suffix, vrchat.cloud, proxy
+host-suffix, vrchat.com, proxy
+host-suffix, vrchat.net, proxy

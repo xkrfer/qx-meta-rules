@@ -1,1 +1,1 @@
-ip-cidr, 83.137.72.0/21
+ip-cidr, 83.137.72.0/21, proxy, no-resolve

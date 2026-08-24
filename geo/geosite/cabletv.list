@@ -1,5 +1,5 @@
-host-suffix, fantv.hk
-host-suffix, hkopentv.com
-host-suffix, hoy.tv
-host-suffix, i-cable.com
-host-suffix, cabletv.com.hk
+host-suffix, fantv.hk, proxy
+host-suffix, hkopentv.com, proxy
+host-suffix, hoy.tv, proxy
+host-suffix, i-cable.com, proxy
+host-suffix, cabletv.com.hk, proxy

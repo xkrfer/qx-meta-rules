@@ -1,4 +1,4 @@
-host-suffix, intercom.com
-host-suffix, intercom.io
-host-suffix, intercomassets.com
-host-suffix, intercomcdn.com
+host-suffix, intercom.com, proxy
+host-suffix, intercom.io, proxy
+host-suffix, intercomassets.com, proxy
+host-suffix, intercomcdn.com, proxy

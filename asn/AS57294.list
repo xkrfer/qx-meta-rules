@@ -1,2 +1,2 @@
-ip-cidr, 31.132.16.0/20
-ip6-cidr, 2001:678:378::/48
+ip-cidr, 31.132.16.0/20, proxy, no-resolve
+ip6-cidr, 2001:678:378::/48, proxy, no-resolve

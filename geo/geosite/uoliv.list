@@ -1,4 +1,4 @@
-host-suffix, livinno.org
-host-suffix, opac-project.eu
-host-suffix, liv.ac.uk
-host-suffix, liverpool.ac.uk
+host-suffix, livinno.org, proxy
+host-suffix, opac-project.eu, proxy
+host-suffix, liv.ac.uk, proxy
+host-suffix, liverpool.ac.uk, proxy

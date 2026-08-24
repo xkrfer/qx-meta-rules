@@ -1,2 +1,2 @@
-host-suffix, deepin.io
-host-suffix, deepin.org
+host-suffix, deepin.io, proxy
+host-suffix, deepin.org, proxy

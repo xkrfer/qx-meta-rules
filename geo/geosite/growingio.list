@@ -1,6 +1,6 @@
-host-suffix, datayi.cn
-host-suffix, gio.ren
-host-suffix, giocdn.com
-host-suffix, growin.cn
-host-suffix, growingio.cn
-host-suffix, growingio.com
+host-suffix, datayi.cn, proxy
+host-suffix, gio.ren, proxy
+host-suffix, giocdn.com, proxy
+host-suffix, growin.cn, proxy
+host-suffix, growingio.cn, proxy
+host-suffix, growingio.com, proxy

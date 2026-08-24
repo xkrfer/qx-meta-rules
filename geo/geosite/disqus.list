@@ -1,4 +1,4 @@
-host-suffix, disq.us
-host-suffix, disqus.com
-host-suffix, disquscdn.com
-host-suffix, disqusservice.com
+host-suffix, disq.us, proxy
+host-suffix, disqus.com, proxy
+host-suffix, disquscdn.com, proxy
+host-suffix, disqusservice.com, proxy

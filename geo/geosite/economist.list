@@ -1,4 +1,4 @@
-host-suffix, economist.com
-host-suffix, economistgroup.com
-host-suffix, economistgroupcareers.com
-host-suffix, eiu.com
+host-suffix, economist.com, proxy
+host-suffix, economistgroup.com, proxy
+host-suffix, economistgroupcareers.com, proxy
+host-suffix, eiu.com, proxy

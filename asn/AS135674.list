@@ -1,1 +1,1 @@
-ip6-cidr, 2a13:1801:200::/44
+ip6-cidr, 2a13:1801:200::/44, proxy, no-resolve

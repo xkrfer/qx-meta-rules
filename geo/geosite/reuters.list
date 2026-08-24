@@ -1,4 +1,4 @@
-host-suffix, reut.rs
-host-suffix, reuters.com
-host-suffix, reuters.tv
-host-suffix, reutersmedia.net
+host-suffix, reut.rs, proxy
+host-suffix, reuters.com, proxy
+host-suffix, reuters.tv, proxy
+host-suffix, reutersmedia.net, proxy

@@ -1,8 +1,8 @@
-host-suffix, acousticbrainz.org
-host-suffix, bookbrainz.org
-host-suffix, coverartarchive.org
-host-suffix, critiquebrainz.org
-host-suffix, listenbrainz.org
-host-suffix, messybrainz.org
-host-suffix, metabrainz.org
-host-suffix, musicbrainz.org
+host-suffix, acousticbrainz.org, proxy
+host-suffix, bookbrainz.org, proxy
+host-suffix, coverartarchive.org, proxy
+host-suffix, critiquebrainz.org, proxy
+host-suffix, listenbrainz.org, proxy
+host-suffix, messybrainz.org, proxy
+host-suffix, metabrainz.org, proxy
+host-suffix, musicbrainz.org, proxy

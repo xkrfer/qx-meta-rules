@@ -1,2 +1,2 @@
-ip-cidr, 177.70.244.0/23
-ip6-cidr, 2804:6ef8::/35
+ip-cidr, 177.70.244.0/23, proxy, no-resolve
+ip6-cidr, 2804:6ef8::/35, proxy, no-resolve

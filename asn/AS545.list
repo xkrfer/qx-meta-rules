@@ -1,3 +1,3 @@
-ip-cidr, 65.194.67.0/24
-ip-cidr, 132.151.0.0/16
-ip6-cidr, 2602:80d:3000::/44
+ip-cidr, 65.194.67.0/24, proxy, no-resolve
+ip-cidr, 132.151.0.0/16, proxy, no-resolve
+ip6-cidr, 2602:80d:3000::/44, proxy, no-resolve

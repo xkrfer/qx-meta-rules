@@ -1,5 +1,5 @@
-ip-cidr, 172.82.88.0/24
-ip-cidr, 213.145.83.0/24
-ip-cidr, 216.109.176.0/24
-ip-cidr, 216.109.178.0/24
-ip6-cidr, 2602:f71e:200::/40
+ip-cidr, 172.82.88.0/24, proxy, no-resolve
+ip-cidr, 213.145.83.0/24, proxy, no-resolve
+ip-cidr, 216.109.176.0/24, proxy, no-resolve
+ip-cidr, 216.109.178.0/24, proxy, no-resolve
+ip6-cidr, 2602:f71e:200::/40, proxy, no-resolve

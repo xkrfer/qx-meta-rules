@@ -1,2 +1,2 @@
-host-suffix, redhat.com
-host-suffix, redhat.org
+host-suffix, redhat.com, proxy
+host-suffix, redhat.org, proxy

@@ -1,4 +1,4 @@
-host-suffix, dzen.ru
-host-suffix, dzeninfra.ru
-host-suffix, log.dzen.ru
-host-suffix, ms.dzen.ru
+host-suffix, dzen.ru, proxy
+host-suffix, dzeninfra.ru, proxy
+host-suffix, log.dzen.ru, proxy
+host-suffix, ms.dzen.ru, proxy

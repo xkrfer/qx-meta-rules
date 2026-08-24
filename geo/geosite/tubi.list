@@ -1,4 +1,4 @@
-host-suffix, tubi.io
-host-suffix, tubi.tv
-host-suffix, tubi.video
-host-suffix, tubitv.com
+host-suffix, tubi.io, proxy
+host-suffix, tubi.tv, proxy
+host-suffix, tubi.video, proxy
+host-suffix, tubitv.com, proxy

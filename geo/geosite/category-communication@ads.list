@@ -1,3 +1,3 @@
-host-suffix, adsgram.ai
-host-suffix, graph.whatsapp.com
-host-suffix, graph.whatsapp.net
+host-suffix, adsgram.ai, proxy
+host-suffix, graph.whatsapp.com, proxy
+host-suffix, graph.whatsapp.net, proxy

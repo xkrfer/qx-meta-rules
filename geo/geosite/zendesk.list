@@ -1,6 +1,6 @@
-host-suffix, outbound.io
-host-suffix, zdassets.com
-host-suffix, zdusercontent.com
-host-suffix, zendesk.com
-host-suffix, zndsk.com
-host-suffix, zopim.com
+host-suffix, outbound.io, proxy
+host-suffix, zdassets.com, proxy
+host-suffix, zdusercontent.com, proxy
+host-suffix, zendesk.com, proxy
+host-suffix, zndsk.com, proxy
+host-suffix, zopim.com, proxy

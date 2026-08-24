@@ -1,20 +1,20 @@
-host, firebase.google.com
-host, firebase.googleapis.com
-host, firebaseappcheck.googleapis.com
-host, firebasedynamiclinks-ipv4.googleapis.com
-host, firebasedynamiclinks-ipv6.googleapis.com
-host, firebasedynamiclinks.googleapis.com
-host, firebaseinappmessaging.googleapis.com
-host, firebaseinstallations.googleapis.com
-host, firebaselogging-pa.googleapis.com
-host, firebaselogging.googleapis.com
-host, firebaseperusertopics-pa.googleapis.com
-host, firebaseremoteconfig.googleapis.com
-host-suffix, crashlytics.com
-host-suffix, firebase.com
-host-suffix, firebase.io
-host-suffix, firebaseapp.com
-host-suffix, firebaseio.com
-host, crashlyticsreports-pa.googleapis.com
-host, firebase-settings.crashlytics.com
-host, update.crashlytics.com
+host, firebase.google.com, proxy
+host, firebase.googleapis.com, proxy
+host, firebaseappcheck.googleapis.com, proxy
+host, firebasedynamiclinks-ipv4.googleapis.com, proxy
+host, firebasedynamiclinks-ipv6.googleapis.com, proxy
+host, firebasedynamiclinks.googleapis.com, proxy
+host, firebaseinappmessaging.googleapis.com, proxy
+host, firebaseinstallations.googleapis.com, proxy
+host, firebaselogging-pa.googleapis.com, proxy
+host, firebaselogging.googleapis.com, proxy
+host, firebaseperusertopics-pa.googleapis.com, proxy
+host, firebaseremoteconfig.googleapis.com, proxy
+host-suffix, crashlytics.com, proxy
+host-suffix, firebase.com, proxy
+host-suffix, firebase.io, proxy
+host-suffix, firebaseapp.com, proxy
+host-suffix, firebaseio.com, proxy
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, update.crashlytics.com, proxy

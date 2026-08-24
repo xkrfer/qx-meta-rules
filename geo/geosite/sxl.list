@@ -1,4 +1,4 @@
-host-suffix, mysxl.cn
-host-suffix, sxl.cn
-host-suffix, sxlcdn.cn
-host-suffix, sxlcdn.com
+host-suffix, mysxl.cn, proxy
+host-suffix, sxl.cn, proxy
+host-suffix, sxlcdn.cn, proxy
+host-suffix, sxlcdn.com, proxy

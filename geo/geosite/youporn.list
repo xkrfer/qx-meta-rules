@@ -1,8 +1,8 @@
-host-suffix, extremetube.com
-host-suffix, keezmovies.com
-host-suffix, youporn.com
-host-suffix, youporngay.com
-host-suffix, youpornpremium.com
-host-suffix, youpornru.com
-host-suffix, yopornshop.com
-host-suffix, ypncdn.com
+host-suffix, extremetube.com, proxy
+host-suffix, keezmovies.com, proxy
+host-suffix, youporn.com, proxy
+host-suffix, youporngay.com, proxy
+host-suffix, youpornpremium.com, proxy
+host-suffix, youpornru.com, proxy
+host-suffix, yopornshop.com, proxy
+host-suffix, ypncdn.com, proxy

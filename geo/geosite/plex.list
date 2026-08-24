@@ -1,4 +1,4 @@
-host-suffix, plex.com
-host-suffix, plex.services
-host-suffix, plex.tv
-host-suffix, plexapp.com
+host-suffix, plex.com, proxy
+host-suffix, plex.services, proxy
+host-suffix, plex.tv, proxy
+host-suffix, plexapp.com, proxy

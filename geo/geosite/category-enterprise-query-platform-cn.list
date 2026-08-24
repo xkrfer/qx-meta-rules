@@ -1,13 +1,13 @@
-host-suffix, aiqicha.com
-host-suffix, qyyjt.cn
-host-suffix, x315.com
-host-suffix, xcc.cn
-host-suffix, xinchacha.com
-host-suffix, aiqicha.cn
-host-suffix, qichamao.com
-host-suffix, qcc.com
-host-suffix, qichacha.com
-host-suffix, qixin.com
-host-suffix, jindidata.com
-host-suffix, tianyancha.com
-host-suffix, aiqicha.baidu.com
+host-suffix, aiqicha.com, proxy
+host-suffix, qyyjt.cn, proxy
+host-suffix, x315.com, proxy
+host-suffix, xcc.cn, proxy
+host-suffix, xinchacha.com, proxy
+host-suffix, aiqicha.cn, proxy
+host-suffix, qichamao.com, proxy
+host-suffix, qcc.com, proxy
+host-suffix, qichacha.com, proxy
+host-suffix, qixin.com, proxy
+host-suffix, jindidata.com, proxy
+host-suffix, tianyancha.com, proxy
+host-suffix, aiqicha.baidu.com, proxy

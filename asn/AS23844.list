@@ -1,29 +1,29 @@
-ip-cidr, 118.102.22.0/23
-ip-cidr, 119.254.16.0/20
-ip-cidr, 119.254.37.0/24
-ip-cidr, 119.254.40.0/21
-ip-cidr, 119.254.112.0/20
-ip-cidr, 119.254.240.0/21
-ip-cidr, 119.254.255.0/24
-ip-cidr, 124.42.12.0/22
-ip-cidr, 124.42.36.0/22
-ip-cidr, 220.231.32.0/24
-ip6-cidr, 240a:2000::/40
-ip6-cidr, 240a:2001:100::/40
-ip6-cidr, 240a:2001:1000::/37
-ip6-cidr, 240a:2001:1800::/44
-ip6-cidr, 240a:2001:1810::/48
-ip6-cidr, 240a:2001:1812::/47
-ip6-cidr, 240a:2001:1814::/46
-ip6-cidr, 240a:2001:1818::/45
-ip6-cidr, 240a:2001:1820::/43
-ip6-cidr, 240a:2001:1840::/43
-ip6-cidr, 240a:2001:1860::/48
-ip6-cidr, 240a:2001:1862::/47
-ip6-cidr, 240a:2001:1864::/46
-ip6-cidr, 240a:2001:1868::/45
-ip6-cidr, 240a:2001:1870::/44
-ip6-cidr, 240a:2001:1880::/41
-ip6-cidr, 240a:2001:1900::/40
-ip6-cidr, 240a:2001:1a00::/39
-ip6-cidr, 240a:2001:1c00::/38
+ip-cidr, 118.102.22.0/23, proxy, no-resolve
+ip-cidr, 119.254.16.0/20, proxy, no-resolve
+ip-cidr, 119.254.37.0/24, proxy, no-resolve
+ip-cidr, 119.254.40.0/21, proxy, no-resolve
+ip-cidr, 119.254.112.0/20, proxy, no-resolve
+ip-cidr, 119.254.240.0/21, proxy, no-resolve
+ip-cidr, 119.254.255.0/24, proxy, no-resolve
+ip-cidr, 124.42.12.0/22, proxy, no-resolve
+ip-cidr, 124.42.36.0/22, proxy, no-resolve
+ip-cidr, 220.231.32.0/24, proxy, no-resolve
+ip6-cidr, 240a:2000::/40, proxy, no-resolve
+ip6-cidr, 240a:2001:100::/40, proxy, no-resolve
+ip6-cidr, 240a:2001:1000::/37, proxy, no-resolve
+ip6-cidr, 240a:2001:1800::/44, proxy, no-resolve
+ip6-cidr, 240a:2001:1810::/48, proxy, no-resolve
+ip6-cidr, 240a:2001:1812::/47, proxy, no-resolve
+ip6-cidr, 240a:2001:1814::/46, proxy, no-resolve
+ip6-cidr, 240a:2001:1818::/45, proxy, no-resolve
+ip6-cidr, 240a:2001:1820::/43, proxy, no-resolve
+ip6-cidr, 240a:2001:1840::/43, proxy, no-resolve
+ip6-cidr, 240a:2001:1860::/48, proxy, no-resolve
+ip6-cidr, 240a:2001:1862::/47, proxy, no-resolve
+ip6-cidr, 240a:2001:1864::/46, proxy, no-resolve
+ip6-cidr, 240a:2001:1868::/45, proxy, no-resolve
+ip6-cidr, 240a:2001:1870::/44, proxy, no-resolve
+ip6-cidr, 240a:2001:1880::/41, proxy, no-resolve
+ip6-cidr, 240a:2001:1900::/40, proxy, no-resolve
+ip6-cidr, 240a:2001:1a00::/39, proxy, no-resolve
+ip6-cidr, 240a:2001:1c00::/38, proxy, no-resolve

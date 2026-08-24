@@ -1,2 +1,2 @@
-ip-cidr, 38.15.168.0/21
-ip-cidr, 38.15.176.0/21
+ip-cidr, 38.15.168.0/21, proxy, no-resolve
+ip-cidr, 38.15.176.0/21, proxy, no-resolve

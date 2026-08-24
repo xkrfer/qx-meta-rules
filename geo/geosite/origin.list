@@ -1,9 +1,9 @@
-host, cloudsync-prod.s3.amazonaws.com
-host, origin-a.akamaihd.net
-host, rtm.tnt-ea.com
-host, ssl-lvlt.cdn.ea.com
-host-suffix, dawngate.com
-host-suffix, eastore.com
-host-suffix, lordofultima.com
-host-suffix, origin.com
-host-suffix, origin.tv
+host, cloudsync-prod.s3.amazonaws.com, proxy
+host, origin-a.akamaihd.net, proxy
+host, rtm.tnt-ea.com, proxy
+host, ssl-lvlt.cdn.ea.com, proxy
+host-suffix, dawngate.com, proxy
+host-suffix, eastore.com, proxy
+host-suffix, lordofultima.com, proxy
+host-suffix, origin.com, proxy
+host-suffix, origin.tv, proxy

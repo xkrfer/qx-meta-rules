@@ -1,2 +1,2 @@
-host-suffix, doi.org
-host-suffix, doi.info
+host-suffix, doi.org, proxy
+host-suffix, doi.info, proxy

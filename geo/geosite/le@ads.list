@@ -1,4 +1,4 @@
-host-suffix, apple.www.letv.com
-host-suffix, ark.letv.com
-host-suffix, dc.letv.com
-host-suffix, g3.letv.com
+host-suffix, apple.www.letv.com, proxy
+host-suffix, ark.letv.com, proxy
+host-suffix, dc.letv.com, proxy
+host-suffix, g3.letv.com, proxy

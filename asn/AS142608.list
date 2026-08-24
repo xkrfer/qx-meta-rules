@@ -1,7 +1,7 @@
-ip-cidr, 60.170.11.0/24
-ip-cidr, 60.170.244.0/24
-ip-cidr, 61.190.114.0/24
-ip-cidr, 223.247.64.0/20
-ip6-cidr, 240e:6:d012::/48
-ip6-cidr, 240e:958:1000::/40
-ip6-cidr, 240e:958:1200::/40
+ip-cidr, 60.170.11.0/24, proxy, no-resolve
+ip-cidr, 60.170.244.0/24, proxy, no-resolve
+ip-cidr, 61.190.114.0/24, proxy, no-resolve
+ip-cidr, 223.247.64.0/20, proxy, no-resolve
+ip6-cidr, 240e:6:d012::/48, proxy, no-resolve
+ip6-cidr, 240e:958:1000::/40, proxy, no-resolve
+ip6-cidr, 240e:958:1200::/40, proxy, no-resolve

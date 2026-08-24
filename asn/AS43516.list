@@ -1,4 +1,4 @@
-ip-cidr, 185.190.172.0/22
-ip-cidr, 193.160.48.0/21
-ip-cidr, 193.161.120.0/21
-ip6-cidr, 2001:67c:1640::/44
+ip-cidr, 185.190.172.0/22, proxy, no-resolve
+ip-cidr, 193.160.48.0/21, proxy, no-resolve
+ip-cidr, 193.161.120.0/21, proxy, no-resolve
+ip6-cidr, 2001:67c:1640::/44, proxy, no-resolve

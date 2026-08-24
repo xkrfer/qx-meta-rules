@@ -1,2 +1,2 @@
-host-suffix, quickconnect.cn
-host-suffix, synology.cn
+host-suffix, quickconnect.cn, proxy
+host-suffix, synology.cn, proxy

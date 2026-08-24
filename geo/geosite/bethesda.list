@@ -1,6 +1,6 @@
-host-suffix, beth.games
-host-suffix, bethesda.net
-host-suffix, bethesdagamestudios.com
-host-suffix, bethsoft.com
-host-suffix, doom.com
-host-suffix, elderscrolls.com
+host-suffix, beth.games, proxy
+host-suffix, bethesda.net, proxy
+host-suffix, bethesdagamestudios.com, proxy
+host-suffix, bethsoft.com, proxy
+host-suffix, doom.com, proxy
+host-suffix, elderscrolls.com, proxy

@@ -1,4 +1,4 @@
-ip-cidr, 103.131.104.0/23
-ip-cidr, 103.210.35.0/24
-ip-cidr, 103.255.15.0/24
-ip6-cidr, 2400:e320::/32
+ip-cidr, 103.131.104.0/23, proxy, no-resolve
+ip-cidr, 103.210.35.0/24, proxy, no-resolve
+ip-cidr, 103.255.15.0/24, proxy, no-resolve
+ip6-cidr, 2400:e320::/32, proxy, no-resolve

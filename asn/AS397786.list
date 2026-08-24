@@ -1,2 +1,2 @@
-ip-cidr, 204.225.190.0/24
-ip6-cidr, 2605:6140::/32
+ip-cidr, 204.225.190.0/24, proxy, no-resolve
+ip6-cidr, 2605:6140::/32, proxy, no-resolve

@@ -1,6 +1,6 @@
-host-suffix, emome.net
-host-suffix, hinet.net
-host-suffix, xuite.net
-host-suffix, cht.com.tw
-host-suffix, chtf.org.tw
-host-suffix, gtlsca.nat.gov.tw
+host-suffix, emome.net, proxy
+host-suffix, hinet.net, proxy
+host-suffix, xuite.net, proxy
+host-suffix, cht.com.tw, proxy
+host-suffix, chtf.org.tw, proxy
+host-suffix, gtlsca.nat.gov.tw, proxy

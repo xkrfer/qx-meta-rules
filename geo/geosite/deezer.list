@@ -1,2 +1,2 @@
-host-suffix, deezer.com
-host-suffix, dzcdn.net
+host-suffix, deezer.com, proxy
+host-suffix, dzcdn.net, proxy

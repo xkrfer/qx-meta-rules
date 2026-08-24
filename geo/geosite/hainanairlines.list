@@ -1,4 +1,4 @@
-host-suffix, hainanairlines.com
-host-suffix, hnacargo.com
-host-suffix, hnair.com
-host-suffix, 10044.cn
+host-suffix, hainanairlines.com, proxy
+host-suffix, hnacargo.com, proxy
+host-suffix, hnair.com, proxy
+host-suffix, 10044.cn, proxy

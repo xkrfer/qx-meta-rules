@@ -1,4 +1,4 @@
-host-suffix, bilibili.tv
-host-suffix, biliintl.com
-host-suffix, dreamcast.hk
-host, upos-hz-mirrorakam.akamaized.net
+host-suffix, bilibili.tv, proxy
+host-suffix, biliintl.com, proxy
+host-suffix, dreamcast.hk, proxy
+host, upos-hz-mirrorakam.akamaized.net, proxy
