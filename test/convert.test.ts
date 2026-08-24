@@ -48,7 +48,7 @@ describe("convertList", () => {
     const result = convertList("+.google.com\n");
     expect(result).toEqual({
       ok: true,
-      text: "host-suffix, google.com\n",
+      text: "host-suffix, google.com, proxy\n",
     });
   });
 });

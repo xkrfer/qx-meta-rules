@@ -18,14 +18,14 @@ describe("applyPublish", () => {
     await Bun.write(join(outDir, "geo/geosite/old.list"), "stale\n");
 
     const incoming = new Map<string, string | "keep">([
-      ["geo/geosite/google.list", "host-suffix, google.com\n"],
+      ["geo/geosite/google.list", "host-suffix, google.com, proxy\n"],
       ["geo/geosite/ads.list", "keep"],
     ]);
 
     const deleted = await applyPublish(outDir, incoming);
     expect(deleted).toEqual(["geo/geosite/old.list"]);
     expect(await Bun.file(join(outDir, "geo/geosite/google.list")).text()).toBe(
-      "host-suffix, google.com\n",
+      "host-suffix, google.com, proxy\n",
     );
     expect(await Bun.file(join(outDir, "geo/geosite/ads.list")).text()).toBe("old-ads\n");
     expect(await Bun.file(join(outDir, "geo/geosite/old.list")).exists()).toBe(false);
@@ -58,7 +58,7 @@ describe("sync without clone", () => {
       "geo/geosite/google.list",
     ]);
     expect(await Bun.file(join(outDir, "geo/geosite/google.list")).text()).toBe(
-      "host-suffix, google.com\n",
+      "host-suffix, google.com, proxy\n",
     );
     expect(await Bun.file(join(outDir, "geo/geosite/bad.list")).exists()).toBe(false);
     expect(report.failed.some((item) => item.startsWith("geo/geosite/bad.list"))).toBe(true);

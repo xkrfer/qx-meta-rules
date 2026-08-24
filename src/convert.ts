@@ -89,11 +89,11 @@ function mapValue(value: string): string | null {
   }
 
   if (value.includes(":") && IPV6_CIDR.test(value)) {
-    return qx("ip6-cidr", value);
+    return qx("ip6-cidr", value, "no-resolve");
   }
 
   if (IPV4_CIDR.test(value)) {
-    return qx("ip-cidr", value);
+    return qx("ip-cidr", value, "no-resolve");
   }
 
   if (ASN_PREFIX.test(value)) {
@@ -112,6 +112,9 @@ function mapValue(value: string): string | null {
   return null;
 }
 
-function qx(type: string, match: string): string {
-  return `${type}, ${match}`;
+const PLACEHOLDER_POLICY = "proxy";
+
+function qx(type: string, match: string, extra?: string): string {
+  const line = `${type}, ${match}, ${PLACEHOLDER_POLICY}`;
+  return extra ? `${line}, ${extra}` : line;
 }
