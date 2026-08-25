@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, firebase.google.com, proxy
 host, firebase.googleapis.com, proxy
 host, firebaseappcheck.googleapis.com, proxy

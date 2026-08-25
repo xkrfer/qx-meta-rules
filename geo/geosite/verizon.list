@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, cdn.js7k.com, proxy
 host-suffix, yahoo, proxy
 host-suffix, flickr, proxy

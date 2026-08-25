@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, servd-anthropic-website.b-cdn.net, proxy
 host-suffix, anthropic.com, proxy
 host-suffix, clau.de, proxy

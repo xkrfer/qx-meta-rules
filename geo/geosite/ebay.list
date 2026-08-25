@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ebay-25-assets.s3-us-west-1.amazonaws.com, proxy
 host-suffix, ebayjewelry.com, proxy
 host-suffix, ebay-cz.com, proxy

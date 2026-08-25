@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, zoom.com, proxy
 host-suffix, zoom.us, proxy
 host-suffix, zoom.com.cn, proxy

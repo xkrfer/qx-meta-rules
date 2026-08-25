@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, anaconda.cloud, proxy
 host-suffix, anaconda.com, proxy
 host-suffix, anaconda.org, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, lgelectronics.122.2o7.net, proxy
 host-suffix, lg.com, proxy
 host-suffix, lgappstv.com, proxy

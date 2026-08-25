@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, mvideo.edna.io, proxy
 host-suffix, av.ru, proxy
 host-suffix, auchan.ru, proxy

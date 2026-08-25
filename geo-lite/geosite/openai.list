@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ai.com, proxy
 host-suffix, algolia.net, proxy
 host-suffix, api.statsig.com, proxy

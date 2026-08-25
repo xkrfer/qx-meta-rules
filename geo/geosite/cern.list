@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, cern, proxy
 host-suffix, ams02.space, proxy
 host-suffix, cern.ch, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, esm.run, proxy
 host-suffix, jsdelivr.com, proxy
 host-suffix, jsdelivr.net, proxy

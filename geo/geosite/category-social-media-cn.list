@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, zhihu.com, proxy
 host-suffix, zhimg.com, proxy
 host-suffix, dandan818.com, proxy
@@ -18,9 +21,6 @@ host-suffix, tieba.com, proxy
 host-suffix, meipian.me, proxy
 host-suffix, laiyagushi.com, proxy
 host-suffix, vzuu.com, proxy
-host-suffix, coolapk.com, proxy
-host-suffix, coolapkmarket.com, proxy
-host-suffix, coolapkmarket.net, proxy
 host-suffix, douban.com, proxy
 host-suffix, douban.fm, proxy
 host-suffix, doubanio.com, proxy
@@ -30,6 +30,9 @@ host-suffix, hupu.com, proxy
 host-suffix, hupucdn.com, proxy
 host-suffix, shihuo.cn, proxy
 host-suffix, meipian.cn, proxy
+host-suffix, coolapk.com, proxy
+host-suffix, coolapkmarket.com, proxy
+host-suffix, coolapkmarket.net, proxy
 host-suffix, ivwen.com, proxy
 host-suffix, hoopchina.com.cn, proxy
 host-suffix, tieba.baidu.com, proxy

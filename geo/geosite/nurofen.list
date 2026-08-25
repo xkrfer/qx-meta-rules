@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, nurofensk-prod-env.eu-west-1.elasticbeanstalk.com, proxy
 host-suffix, nurofen.fr, proxy
 host-suffix, nurofen.pl, proxy

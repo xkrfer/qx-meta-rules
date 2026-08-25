@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, kaspersky.com.cn, proxy
 host, activation-v2.kaspersky.com, proxy
 host, activation-v2.geo.kaspersky.com, proxy

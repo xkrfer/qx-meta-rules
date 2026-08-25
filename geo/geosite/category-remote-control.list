@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, client-teamviewer-com.trafficmanager.net, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy
 host-suffix, anydesk.com, proxy

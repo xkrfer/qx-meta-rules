@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, cbsi.live.ott.irdeto.com, proxy
 host, cbsplaylistserver.aws.syncbak.com, proxy
 host, cbsservice.aws.syncbak.com, proxy

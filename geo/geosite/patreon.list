@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, live-patreon-marketing.pantheonsite.io, proxy
 host-suffix, patreon.com, proxy
 host-suffix, patreoncommunity.com, proxy

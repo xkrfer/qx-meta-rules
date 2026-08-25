@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, amp.akamaized.net, proxy
 host-suffix, amp.dev, proxy
 host-suffix, ampproject.com, proxy

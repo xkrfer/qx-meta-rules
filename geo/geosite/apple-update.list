@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, appldnld.apple.com, proxy
 host-suffix, configuration.apple.com, proxy
 host-suffix, fcs-keys-pub-prod.cdn-apple.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 ip-cidr, 41.217.240.0/21, proxy, no-resolve
 ip-cidr, 102.38.32.0/20, proxy, no-resolve
 ip6-cidr, 2c0f:f1e8::/32, proxy, no-resolve

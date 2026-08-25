@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ads.service.kugou.com, proxy
 host-suffix, adserviceretry.kglink.cn, proxy
 host-suffix, adserviceretry.kugou.com, proxy

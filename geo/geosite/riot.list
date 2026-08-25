@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, lolstatic-a.akamaihd.net, proxy
 host-suffix, leagueoflegends.com, proxy
 host-suffix, ulol.com, proxy

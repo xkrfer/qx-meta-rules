@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 ip6-cidr, 2602:f75c:f80::/48, proxy, no-resolve
 ip6-cidr, 2a05:1082:f::/48, proxy, no-resolve
 ip6-cidr, 2a0e:b107:198::/48, proxy, no-resolve

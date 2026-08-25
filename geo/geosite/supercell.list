@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, supercell.helpshift.com, proxy
 host, supercell.zendesk.com, proxy
 host-suffix, boombeach.com, proxy

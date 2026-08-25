@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, bisq.io, proxy
 host-suffix, bisq.network, proxy
 host-suffix, bitsquare.io, proxy

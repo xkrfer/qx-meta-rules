@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, developers.facebook.com, proxy
 host-suffix, accountkit.com, proxy
 host-suffix, atscaleconference.com, proxy

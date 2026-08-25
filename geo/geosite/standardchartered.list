@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, standchartbank.sc.omtrdc.net, proxy
 host, standchartbank.tt.omtrdc.net, proxy
 host-suffix, sc.com, proxy

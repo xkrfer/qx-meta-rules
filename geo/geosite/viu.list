@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, api.viu.now.com, proxy
 host, dfp6rglgjqszk.cloudfront.net, proxy
 host, d1k2us671qcoau.cloudfront.net, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, crl.microsoft.com, proxy
 host, mscrl.microsoft.com, proxy
 host, ocsp.microsoft.com, proxy

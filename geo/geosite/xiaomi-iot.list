@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, miot-spec.org, proxy
 host-suffix, account.xiaomi.com, proxy
 host-suffix, cn-ha.mqtt.io.mi.com, proxy

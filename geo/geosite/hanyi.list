@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, hellofontpreview.oss-cn-beijing.aliyuncs.com, proxy
 host, hellowebfonts.oss-cn-beijing.aliyuncs.com, proxy
 host-suffix, hanyi.com, proxy

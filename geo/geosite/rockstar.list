@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, gamedownloads-rockstargames-com.akamaized.net, proxy
 host, media-rockstargames-com.akamaized.net, proxy
 host, videos-rockstargames-com.akamaized.net, proxy

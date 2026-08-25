@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, gismeteo.by, proxy
 host-suffix, gismeteo.com, proxy
 host-suffix, gismeteo.net, proxy

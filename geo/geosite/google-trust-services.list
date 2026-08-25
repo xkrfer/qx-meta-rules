@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, publicca.googleapis.com, proxy
 host, preprod-publicca.googleapis.com, proxy
 host, clients1.google.com, proxy

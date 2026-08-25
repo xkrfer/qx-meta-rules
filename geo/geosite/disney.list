@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, disneyplus.com.ssl.sc.omtrdc.net, proxy
 host, espn.api.edge.bamgrid.com, proxy
 host, espn.hb.omtrdc.net, proxy

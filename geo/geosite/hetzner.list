@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, first-ns.de, proxy
 host-suffix, hetzner-cloud.de, proxy
 host-suffix, hetzner.cloud, proxy

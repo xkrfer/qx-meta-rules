@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, hpstore.corpmerchandise.com, proxy
 host-suffix, 123-hp.com, proxy
 host-suffix, 123hplaserjet.com, proxy

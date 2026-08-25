@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, gigabyte2.azureedge.net, proxy
 host, sa78gs.wpc.edgecastcdn.net, proxy
 host, sni1dcb6gl.wpc.edgecastcdn.net, proxy

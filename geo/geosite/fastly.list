@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, fastly-edge.com, proxy
 host-suffix, fastly-terrarium.com, proxy
 host-suffix, fastly.com, proxy

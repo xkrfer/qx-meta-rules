@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 ip6-cidr, 2a0d:a9c0::/29, proxy, no-resolve
 ip6-cidr, 2a10:3040::/29, proxy, no-resolve
 ip6-cidr, 2a10:6300::/29, proxy, no-resolve

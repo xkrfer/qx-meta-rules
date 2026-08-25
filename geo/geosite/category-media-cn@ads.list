@@ -1,5 +1,8 @@
-host-suffix, adx.36kr.com, proxy
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ad.cctv.com, proxy
+host-suffix, adx.36kr.com, proxy
 host-suffix, adnet.sohu.com, proxy
 host-suffix, ads.sohu.com, proxy
 host-suffix, adv-sv-show.focus.cn, proxy

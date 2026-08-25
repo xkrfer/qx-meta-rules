@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, bing.com.cn, proxy
 host-suffix, cn.bing.com, proxy
 host-suffix, cn.bing.net, proxy

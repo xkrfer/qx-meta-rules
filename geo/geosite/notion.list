@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, notion-static.com, proxy
 host-suffix, notion-status.com, proxy
 host-suffix, notion.com, proxy

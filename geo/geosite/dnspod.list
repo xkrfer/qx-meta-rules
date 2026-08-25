@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, dnspod.net, proxy
 host-suffix, dnsv4.com, proxy
 host-suffix, dnspod.cn, proxy

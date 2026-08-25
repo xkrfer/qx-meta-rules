@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, gog-cdn-lumen.secure2.footprint.net, proxy
 host, gog-cdn.akamaized.net, proxy
 host-suffix, gog.com, proxy

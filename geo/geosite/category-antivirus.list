@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com, proxy
 host, epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com, proxy
 host-suffix, avast.com, proxy
@@ -9,8 +12,6 @@ host-suffix, f-secure.com, proxy
 host-suffix, mcafee.com, proxy
 host-suffix, norton.com, proxy
 host-suffix, pandasecurity.com, proxy
-host-suffix, symantec.com, proxy
-host-suffix, symantecliveupdate.com, proxy
 host-suffix, comodo.com, proxy
 host-suffix, comodo.net, proxy
 host-suffix, drweb.by, proxy
@@ -52,6 +53,8 @@ host-suffix, kaspersky.de, proxy
 host-suffix, kaspersky.dk, proxy
 host-suffix, kaspersky.dz, proxy
 host-suffix, kaspersky.es, proxy
+host-suffix, symantec.com, proxy
+host-suffix, symantecliveupdate.com, proxy
 host-suffix, drweb.co.jp, proxy
 host-suffix, kaspersky.co.uk, proxy
 host-suffix, kaspersky.com.vn, proxy

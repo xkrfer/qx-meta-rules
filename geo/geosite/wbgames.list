@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, datarouter.apps.netherrealm.com, proxy
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, proxy
 host-suffix, warnerbrosgames.com, proxy

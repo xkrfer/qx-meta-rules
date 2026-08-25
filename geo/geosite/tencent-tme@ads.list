@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ad.tencentmusic.com, proxy
 host-suffix, adstats.tencentmusic.com, proxy
 host-suffix, monitor.music.qq.com, proxy

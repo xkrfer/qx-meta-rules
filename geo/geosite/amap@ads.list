@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, adashx.ut.amap.com, proxy
 host-suffix, dualstack-logs.amap.com, proxy
 host-suffix, logs.amap.com, proxy

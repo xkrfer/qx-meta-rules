@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, alt7-mtalk.google.com, proxy
 host, alt8-mtalk.google.com, proxy
 host, mtalk-dev.google.com, proxy

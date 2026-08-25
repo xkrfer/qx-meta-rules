@@ -1,2 +1,5 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, deribit.cdn.prismic.io, proxy
 host-suffix, deribit.com, proxy

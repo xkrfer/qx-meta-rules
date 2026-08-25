@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, gamer2-cds.cdn.hinet.net, proxy
 host, gamer-cds.cdn.hinet.net, proxy
 host-suffix, bahamut.akamaized.net, proxy

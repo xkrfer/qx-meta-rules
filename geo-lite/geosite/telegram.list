@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, cdn-telegram.org, proxy
 host-suffix, comments.app, proxy
 host-suffix, contest.com, proxy

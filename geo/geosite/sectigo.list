@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, enterprisessl.com, proxy
 host-suffix, hackerguardian.com, proxy
 host-suffix, instantssl.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, vercel.blog, proxy
 host-suffix, zeit.co, proxy
 host-suffix, hyper.is, proxy

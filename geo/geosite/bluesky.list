@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, bsky.app, proxy
 host-suffix, bsky.network, proxy
 host-suffix, bsky.social, proxy

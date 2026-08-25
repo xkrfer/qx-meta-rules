@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, flightsimulator.azureedge.net, proxy
 host-suffix, asobostudio.com, proxy
 host-suffix, flightsimulator.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, e122475.dscg.akamaiedge.net, proxy
 host, licdn.cn.cdn20.com, proxy
 host, linkedin.sc.omtrdc.net, proxy

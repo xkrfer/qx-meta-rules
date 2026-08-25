@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ea.tt.omtrdc.net, proxy
 host, eaassets-a.akamaihd.net, proxy
 host, cloudsync-prod.s3.amazonaws.com, proxy

@@ -1,2 +1,5 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, opgg-static.akamaized.net, proxy
 host-suffix, op.gg, proxy

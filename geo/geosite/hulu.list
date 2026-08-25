@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, hulu.playback.edge.bamgrid.com, proxy
 host-suffix, 112263.com, proxy
 host-suffix, callhulu.com, proxy

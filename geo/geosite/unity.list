@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, unity.com, proxy
 host-suffix, unity3d.com, proxy
 host-suffix, analytics.cloud.unity3d.com, proxy

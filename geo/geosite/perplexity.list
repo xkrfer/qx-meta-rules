@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ppl-ai-file-upload.s3.amazonaws.com, proxy
 host, pplx-res.cloudinary.com, proxy
 host-suffix, perplexity.ai, proxy

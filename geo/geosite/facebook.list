@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, fbcdn-a.akamaihd.net, proxy
 host-suffix, aboutfacebook.com, proxy
 host-suffix, accessfacebookfromschool.com, proxy

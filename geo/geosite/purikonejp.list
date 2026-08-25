@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, prd-priconne-redive.akamaized.net, proxy
 host-suffix, priconne-redive.jp, proxy
 host-suffix, api-priconne-redive.cygames.jp, proxy

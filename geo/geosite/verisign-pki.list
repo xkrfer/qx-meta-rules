@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, adobe-crl.verisign.com, proxy
 host-suffix, certipath-aia.verisign.com, proxy
 host-suffix, certipath-crl.verisign.com, proxy

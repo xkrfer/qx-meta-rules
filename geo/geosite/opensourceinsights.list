@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, deps.dev, proxy
 host-suffix, deps.info, proxy
 host-suffix, opensourceinsight.dev, proxy

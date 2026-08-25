@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, verisign.net, proxy
 host-suffix, verisign.org, proxy
 host-suffix, verisign.ch, proxy

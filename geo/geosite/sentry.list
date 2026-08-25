@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, getsentry.com, proxy
 host-suffix, sentry.dev, proxy
 host-suffix, sentry.io, proxy

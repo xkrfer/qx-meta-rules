@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ntp.nict.jp, proxy
 host-suffix, ntp2.wakwak.com, proxy
 host-suffix, ntp1.wakwak.com, proxy

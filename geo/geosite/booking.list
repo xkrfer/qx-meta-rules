@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, booking.com, proxy
 host-suffix, bstatic.com, proxy
 host-suffix, booking.cn, proxy

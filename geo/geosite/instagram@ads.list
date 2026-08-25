@@ -1,2 +1,5 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, graph.instagram.com, proxy
 host-suffix, graph-fallback.instagram.com, proxy

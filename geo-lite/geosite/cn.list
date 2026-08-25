@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, 00cdn.com, proxy
 host-suffix, 0123456789.com, proxy
 host-suffix, 0379home.com, proxy

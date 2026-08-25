@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ntp.aliyun.com, proxy
 host, ntp1.aliyun.com, proxy
 host, ntp2.aliyun.com, proxy

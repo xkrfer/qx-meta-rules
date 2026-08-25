@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, cloudsync-prod.s3.amazonaws.com, proxy
 host, origin-a.akamaihd.net, proxy
 host, rtm.tnt-ea.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, edu.tinkoff.ru, proxy
 host, education.tbank.ru, proxy
 host-suffix, xn----7sbhmncai5a0arm7c1e.xn--p1ai, proxy

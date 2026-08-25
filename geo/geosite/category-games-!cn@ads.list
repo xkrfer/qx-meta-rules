@@ -1,2 +1,5 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, log-upload-os.hoyoverse.com, proxy
 host-suffix, insights-collector.gog.com, proxy

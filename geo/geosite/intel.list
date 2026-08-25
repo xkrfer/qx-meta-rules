@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, intel.wf, proxy
 host-suffix, intel.lc, proxy
 host-suffix, intel.af, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, fedoraforum.org, proxy
 host-suffix, fedorainfracloud.org, proxy
 host-suffix, fedoramagazine.org, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ctan.org, proxy
 host-suffix, latex-project.org, proxy
 host-suffix, miktex.org, proxy

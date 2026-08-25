@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, 1password.drift.click, proxy
 host-suffix, 1infra.net, proxy
 host-suffix, 1password.ca, proxy

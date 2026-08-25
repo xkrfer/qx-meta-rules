@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, grok.com, proxy
 host-suffix, grokipedia.com, proxy
 host-suffix, x.ai, proxy

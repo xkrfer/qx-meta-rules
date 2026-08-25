@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, 3dns-1.adobe.com, proxy
 host, 3dns-2.adobe.com, proxy
 host, 3dns-3.adobe.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, atom.io, proxy
 host-suffix, dependabot.com, proxy
 host-suffix, ghcr.io, proxy

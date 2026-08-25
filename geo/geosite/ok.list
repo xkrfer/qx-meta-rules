@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, st-ok-pts.cdn-vk.ru, proxy
 host, st-ok.cdn-vk.ru, proxy
 host-suffix, odnoklassniki.eu, proxy

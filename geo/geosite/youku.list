@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ykimg.alicdn.com, proxy
 host-suffix, 9xsecndns.cn, proxy
 host-suffix, kumiao.com, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, www.quora.com.cdn.cloudflare.net, proxy
 host-suffix, qr.ae, proxy
 host-suffix, quora.com, proxy

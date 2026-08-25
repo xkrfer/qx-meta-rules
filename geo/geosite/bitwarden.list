@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, bitwarden.com, proxy
 host-suffix, bitwarden.eu, proxy
 host-suffix, bitwarden.net, proxy

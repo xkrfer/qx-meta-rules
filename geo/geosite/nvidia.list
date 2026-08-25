@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, nvidia.custhelp.com, proxy
 host, nvidia.tt.omtrdc.net, proxy
 host-suffix, nvidia.nl, proxy

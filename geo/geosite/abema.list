@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, abematv.akamaized.net, proxy
 host, ds-linear-abematv.akamaized.net, proxy
 host, ds-vod-abematv.akamaized.net, proxy

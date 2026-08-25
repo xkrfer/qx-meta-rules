@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, a.market.xiaomi.com, proxy
 host-suffix, ad.intl.xiaomi.com, proxy
 host-suffix, ad.mi.com, proxy

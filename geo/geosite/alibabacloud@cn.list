@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, account-cn.alibabacloud.com, proxy
 host, api.alibabacloud.com, proxy
 host, cn.alibabacloud.com, proxy

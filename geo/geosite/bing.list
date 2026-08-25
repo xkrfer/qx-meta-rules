@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, location.microsoft.com, proxy
 host-suffix, bing, proxy
 host-suffix, masalladeloslimites.com, proxy

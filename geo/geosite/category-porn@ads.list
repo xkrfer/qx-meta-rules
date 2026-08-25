@@ -1,3 +1,6 @@
-host-suffix, collector.xhamster.com, proxy
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ad-channel.diwodiwo.xyz, proxy
 host, ad-display.diwodiwo.xyz, proxy
+host-suffix, collector.xhamster.com, proxy

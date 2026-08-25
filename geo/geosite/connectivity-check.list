@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, ping.archlinux.org, proxy
 host, redirect.archlinux.org, proxy
 host, nmcheck.gnome.org, proxy

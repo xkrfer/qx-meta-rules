@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, captive.apple.com, proxy
 host, www.gstatic.com, proxy
 host, connectivitycheck.platform.hihonorcloud.com, proxy

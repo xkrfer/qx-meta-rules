@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, 01.org, proxy
 host-suffix, hyperscan.io, proxy
 host-suffix, intellinuxgraphics.com, proxy

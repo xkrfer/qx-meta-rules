@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, fandom.zendesk.com, proxy
 host-suffix, cursecdn.com, proxy
 host-suffix, fandom.com, proxy

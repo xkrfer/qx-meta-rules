@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, discord-attachments-uploads-prd.storage.googleapis.com, proxy
 host, hammerandchisel.ssl.zendesk.com, proxy
 host-suffix, dis.gd, proxy

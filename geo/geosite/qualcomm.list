@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, qualcomm.sc.omtrdc.net, proxy
 host-suffix, qualcommretail.com, proxy
 host-suffix, qualcommventures.cn, proxy

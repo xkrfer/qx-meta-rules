@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ad.browser.qq.com, proxy
 host-suffix, ad.qq.com, proxy
 host-suffix, ad.qun.qq.com, proxy
@@ -47,14 +50,6 @@ host-suffix, tpstelemetry.tencent.com, proxy
 host-suffix, trace.qq.com, proxy
 host-suffix, ugdtimg.com, proxy
 host-suffix, wit.qq.com, proxy
-host-suffix, inte.sogou.com, proxy
-host-suffix, inte.sogoucdn.com, proxy
-host-suffix, lu.sogou.com, proxy
-host-suffix, lu.sogoucdn.com, proxy
-host-suffix, pb.i.sogou.com, proxy
-host-suffix, theta.sogoucdn.com, proxy
-host-suffix, uranus.sogou.com, proxy
-host-suffix, wuliao.epro.sogou.com, proxy
 host-suffix, badjs.weixinbridge.com, proxy
 host-suffix, ad.tencentmusic.com, proxy
 host-suffix, adstats.tencentmusic.com, proxy
@@ -69,3 +64,11 @@ host-suffix, adserviceretry.kugou.com, proxy
 host-suffix, adbehavior.ximalaya.com, proxy
 host-suffix, adse.wsa.ximalaya.com, proxy
 host-suffix, adse.ximalaya.com, proxy
+host-suffix, inte.sogou.com, proxy
+host-suffix, inte.sogoucdn.com, proxy
+host-suffix, lu.sogou.com, proxy
+host-suffix, lu.sogoucdn.com, proxy
+host-suffix, pb.i.sogou.com, proxy
+host-suffix, theta.sogoucdn.com, proxy
+host-suffix, uranus.sogou.com, proxy
+host-suffix, wuliao.epro.sogou.com, proxy

@@ -1,5 +1,8 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
 host, browser-intake-datadoghq.com, proxy
 host, o33249.ingest.sentry.io, proxy
 host, openai.qualtrics.com, proxy
-host, copilot-telemetry-service.githubusercontent.com, proxy
-host, copilot-telemetry.githubusercontent.com, proxy

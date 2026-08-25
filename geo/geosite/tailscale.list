@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, tailscale.com, proxy
 host-suffix, tailscale.io, proxy
 host-suffix, ts.net, proxy

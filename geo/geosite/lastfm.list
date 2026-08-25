@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, lastfm.freetls.fastly.net, proxy
 host, ws.audioscrobbler.com, proxy
 host-suffix, last.fm, proxy

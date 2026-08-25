@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, jquery.com, proxy
 host-suffix, jquerymobile.com, proxy
 host-suffix, jqueryui.com, proxy

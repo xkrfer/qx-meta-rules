@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, pki-goog.l.google.com, proxy
 host, c.pki.goog, proxy
 host, i.pki.goog, proxy

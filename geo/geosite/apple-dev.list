@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
 host, notary-submissions-prod.s3.us-west-2.amazonaws.com, proxy
 host, appleworldwidedeveloper.hb-api.omtrdc.net, proxy

@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, dns.jd.com, proxy
 host, dns.weibo.cn, proxy
 host, dns.weixin.qq.com, proxy

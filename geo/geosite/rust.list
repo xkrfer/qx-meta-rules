@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, rust-lang.org, proxy
 host-suffix, rustup.rs, proxy
 host-suffix, crates.io, proxy

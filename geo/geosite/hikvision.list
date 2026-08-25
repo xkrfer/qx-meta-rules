@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, hik-cloud.com, proxy
 host-suffix, hik-express.com, proxy
 host-suffix, hikiot.com, proxy

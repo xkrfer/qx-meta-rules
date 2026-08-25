@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, mail.com, proxy
 host-suffix, ui-portal.de, proxy
 host-suffix, uicdn.com, proxy

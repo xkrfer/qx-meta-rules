@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, onekey.zendesk.com, proxy
 host-suffix, onekey-asset.com, proxy
 host-suffix, onekey.so, proxy

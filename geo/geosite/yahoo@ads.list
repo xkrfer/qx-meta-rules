@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, ads.yahoo.com, proxy
 host-suffix, gemini.yahoo.com, proxy
 host-suffix, ysm.yahoo.com, proxy

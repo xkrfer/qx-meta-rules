@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, beats1.cn, proxy
 host-suffix, beats1.com.cn, proxy
 host-suffix, beats2.com.cn, proxy

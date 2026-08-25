@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host-suffix, httpdns-api.aliyuncs.com, proxy
 host-suffix, httpdns-sc.aliyuncs.com, proxy
 host-suffix, httpdns.alicdn.com, proxy

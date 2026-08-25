@@ -1,3 +1,6 @@
+#======================================#
+#Update 2026-08-25
+#======================================#
 host, certs-lb.apple.com.akadns.net, proxy
 host, certs.apple.com, proxy
 host, crl-lb.apple.com.akadns.net, proxy
