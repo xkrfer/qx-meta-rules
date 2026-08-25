@@ -12,6 +12,10 @@ export type ConvertFailure = {
 
 export type ConvertResult = ConvertSuccess | ConvertFailure;
 
+export type ConvertOptions = {
+  updatedAt?: Date;
+};
+
 const KEYWORD_PREFIX = /^keyword:/i;
 const SUFFIX_PREFIX = /^\+\./;
 const ASN_PREFIX = /^AS/i;
@@ -21,7 +25,12 @@ const IPV6_CIDR = /^[0-9a-f:.]+\/(?:[0-9]|[1-9][0-9]|1[0-2][0-8])$/i;
 const HOSTNAME = /^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9-]*[a-z0-9])?)*$/i;
 const WILDCARD_CHARS = /[*?]/;
 
-export function convertList(input: string): ConvertResult {
+export function formatUpdateHeader(updatedAt: Date = new Date()): string {
+  const stamp = updatedAt.toISOString().slice(0, 10);
+  return `#======================================#\n#Update ${stamp}\n#======================================#\n`;
+}
+
+export function convertList(input: string, options?: ConvertOptions): ConvertResult {
   const rules: string[] = [];
   const lines = input.split(/\r?\n/);
 
@@ -42,9 +51,10 @@ export function convertList(input: string): ConvertResult {
     rules.push(mapped);
   }
 
+  const header = formatUpdateHeader(options?.updatedAt);
   return {
     ok: true,
-    text: rules.length === 0 ? "" : `${rules.join("\n")}\n`,
+    text: rules.length === 0 ? header : `${header}${rules.join("\n")}\n`,
   };
 }
 

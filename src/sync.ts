@@ -11,6 +11,7 @@ export type SyncOptions = {
   upstreamUrl?: string;
   upstreamDir?: string;
   workDir?: string;
+  updatedAt?: Date;
 };
 
 export type SyncReport = {
@@ -31,7 +32,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
   for (const relativePath of relativePaths) {
     const source = join(upstreamDir, relativePath);
     const text = await Bun.file(source).text();
-    const result = convertList(text);
+    const result = convertList(text, { updatedAt: options.updatedAt });
     if (result.ok) {
       incoming.set(relativePath, result.text);
       written.push(relativePath);
@@ -43,6 +44,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
   }
 
   const deleted = await applyPublish(options.outDir, incoming);
+  await writeReleaseReadme(options.outDir);
 
   if (failed.length > 0) {
     console.error("convert failed:");
@@ -78,6 +80,17 @@ export async function applyPublish(
     }
   }
   return deleted;
+}
+
+const README_SOURCE = join(import.meta.dir, "release-readme.md");
+
+export async function writeReleaseReadme(outDir: string): Promise<void> {
+  const source = Bun.file(README_SOURCE);
+  if (!(await source.exists())) {
+    return;
+  }
+  await mkdir(outDir, { recursive: true });
+  await Bun.write(join(outDir, "README.md"), await source.text());
 }
 
 export async function collectListFiles(root: string): Promise<string[]> {

@@ -1,7 +1,11 @@
 import { afterAll, describe, expect, test } from "bun:test";
 import { mkdir } from "node:fs/promises";
 import { join } from "node:path";
+import { formatUpdateHeader } from "../src/convert";
 import { applyPublish, collectListFiles, sync } from "../src/sync";
+
+const updatedAt = new Date("2026-08-25T00:00:00.000Z");
+const header = formatUpdateHeader(updatedAt);
 
 const tmp = join(import.meta.dir, "..", ".tmp", "sync-test");
 
@@ -30,6 +34,7 @@ describe("applyPublish", () => {
     expect(await Bun.file(join(outDir, "geo/geosite/ads.list")).text()).toBe("old-ads\n");
     expect(await Bun.file(join(outDir, "geo/geosite/old.list")).exists()).toBe(false);
     expect(await Bun.file(join(outDir, "README")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "README.md")).exists()).toBe(false);
     expect(await Bun.file(join(outDir, "index.json")).exists()).toBe(false);
   });
 });
@@ -48,8 +53,9 @@ describe("sync without clone", () => {
     await Bun.write(join(upstreamDir, "asn/cloudflare.list"), "AS13335\n");
     await Bun.write(join(upstreamDir, "geo/geosite/bad.list"), "regexp:foo\n");
 
-    const report = await sync({ outDir, upstreamDir });
+    const report = await sync({ outDir, upstreamDir, updatedAt });
     const files = await collectListFiles(outDir);
+    const readme = await Bun.file(join(import.meta.dir, "..", "src", "release-readme.md")).text();
 
     expect(files).toEqual([
       "asn/cloudflare.list",
@@ -58,8 +64,9 @@ describe("sync without clone", () => {
       "geo/geosite/google.list",
     ]);
     expect(await Bun.file(join(outDir, "geo/geosite/google.list")).text()).toBe(
-      "host-suffix, google.com, proxy\n",
+      `${header}host-suffix, google.com, proxy\n`,
     );
+    expect(await Bun.file(join(outDir, "README.md")).text()).toBe(readme);
     expect(await Bun.file(join(outDir, "geo/geosite/bad.list")).exists()).toBe(false);
     expect(report.failed.some((item) => item.startsWith("geo/geosite/bad.list"))).toBe(true);
   });

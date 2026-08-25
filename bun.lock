@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "qx-rules",
+      "name": "qx-meta-rules",
       "devDependencies": {
         "@types/bun": "latest",
       },

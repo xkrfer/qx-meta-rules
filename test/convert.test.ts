@@ -1,23 +1,33 @@
 import { describe, expect, test } from "bun:test";
-import { convertList } from "../src/convert";
+import { convertList, formatUpdateHeader } from "../src/convert";
 
 const fixtures = import.meta.dir + "/fixtures";
+const updatedAt = new Date("2026-08-25T00:00:00.000Z");
+const header = formatUpdateHeader(updatedAt);
+
+describe("formatUpdateHeader", () => {
+  test("emits the update banner with a UTC date", () => {
+    expect(header).toBe(
+      "#======================================#\n#Update 2026-08-25\n#======================================#\n",
+    );
+  });
+});
 
 describe("convertList", () => {
   test("maps supported lines to QX rules", async () => {
     const input = await Bun.file(`${fixtures}/success.list`).text();
     const expected = await Bun.file(`${fixtures}/success.qx`).text();
-    const result = convertList(input);
+    const result = convertList(input, { updatedAt });
     expect(result.ok).toBe(true);
     if (result.ok) {
-      expect(result.text).toBe(expected);
+      expect(result.text).toBe(`${header}${expected}`);
     }
   });
 
-  test("skips comment-only input", async () => {
+  test("skips comment-only input but keeps the update header", async () => {
     const input = await Bun.file(`${fixtures}/comments-only.list`).text();
-    const result = convertList(input);
-    expect(result).toEqual({ ok: true, text: "" });
+    const result = convertList(input, { updatedAt });
+    expect(result).toEqual({ ok: true, text: header });
   });
 
   test("fails on classical clash rules", async () => {
@@ -44,11 +54,11 @@ describe("convertList", () => {
     }
   });
 
-  test("emits a single rule line without a header", () => {
-    const result = convertList("+.google.com\n");
+  test("prefixes converted rules with an update header", () => {
+    const result = convertList("+.google.com\n", { updatedAt });
     expect(result).toEqual({
       ok: true,
-      text: "host-suffix, google.com, proxy\n",
+      text: `${header}host-suffix, google.com, proxy\n`,
     });
   });
 });
