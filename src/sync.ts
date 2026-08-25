@@ -3,6 +3,7 @@ import { dirname, join, relative } from "node:path";
 import { convertList } from "./convert";
 
 export const LIST_ROOTS = ["geo/geosite", "geo/geoip", "geo-lite", "asn"] as const;
+export const SKIP_DIR_NAMES = new Set(["classical"]);
 export const DEFAULT_UPSTREAM = "https://github.com/MetaCubeX/meta-rules-dat.git";
 export const DEFAULT_BRANCH = "meta";
 
@@ -44,6 +45,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
   }
 
   const deleted = await applyPublish(options.outDir, incoming);
+  await removeSkippedDirs(options.outDir);
   await writeReleaseReadme(options.outDir);
 
   if (failed.length > 0) {
@@ -112,6 +114,9 @@ async function walkLists(dir: string, root: string, files: string[]): Promise<vo
   for (const entry of entries) {
     const full = join(dir, entry.name);
     if (entry.isDirectory()) {
+      if (SKIP_DIR_NAMES.has(entry.name)) {
+        continue;
+      }
       await walkLists(full, root, files);
       continue;
     }
@@ -140,6 +145,33 @@ async function cloneUpstream(options: SyncOptions): Promise<string> {
 async function rmIfExists(path: string): Promise<void> {
   const proc = Bun.spawn(["rm", "-rf", path]);
   await proc.exited;
+}
+
+async function removeSkippedDirs(root: string): Promise<void> {
+  for (const dir of LIST_ROOTS) {
+    await walkAndRemoveSkipped(join(root, dir));
+  }
+}
+
+async function walkAndRemoveSkipped(dir: string): Promise<void> {
+  const entries = await readdir(dir, { withFileTypes: true }).catch((error: unknown) => {
+    if (isNotFound(error)) {
+      return [];
+    }
+    throw error;
+  });
+
+  for (const entry of entries) {
+    if (!entry.isDirectory()) {
+      continue;
+    }
+    const full = join(dir, entry.name);
+    if (SKIP_DIR_NAMES.has(entry.name)) {
+      await rmIfExists(full);
+      continue;
+    }
+    await walkAndRemoveSkipped(full);
+  }
 }
 
 function isNotFound(error: unknown): boolean {

@@ -52,6 +52,10 @@ describe("sync without clone", () => {
     await Bun.write(join(upstreamDir, "geo-lite/geosite/google.list"), "google.com\n");
     await Bun.write(join(upstreamDir, "asn/cloudflare.list"), "AS13335\n");
     await Bun.write(join(upstreamDir, "geo/geosite/bad.list"), "regexp:foo\n");
+    await mkdir(join(upstreamDir, "geo/geoip/classical"), { recursive: true });
+    await Bun.write(join(upstreamDir, "geo/geoip/classical/cn.list"), "IP-CIDR,1.1.8.0/24\n");
+    await mkdir(join(outDir, "geo/geoip/classical"), { recursive: true });
+    await Bun.write(join(outDir, "geo/geoip/classical/legacy.list"), "stale-classical\n");
 
     const report = await sync({ outDir, upstreamDir, updatedAt });
     const files = await collectListFiles(outDir);
@@ -68,6 +72,9 @@ describe("sync without clone", () => {
     );
     expect(await Bun.file(join(outDir, "README.md")).text()).toBe(readme);
     expect(await Bun.file(join(outDir, "geo/geosite/bad.list")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geoip/classical/cn.list")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geoip/classical/legacy.list")).exists()).toBe(false);
+    expect(report.failed.some((item) => item.includes("classical"))).toBe(false);
     expect(report.failed.some((item) => item.startsWith("geo/geosite/bad.list"))).toBe(true);
   });
 });
