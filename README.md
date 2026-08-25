@@ -25,4 +25,6 @@ https://raw.githubusercontent.com/xkrfer/qx-meta-rules/release/geo/geoip/cn.list
 - `geo-lite/...`
 - `asn/...`
 
+上游 `classical/` 目录是 Clash 规则语法，与同名 `.list` 内容重复，不会转换。
+
 未设置 `force-policy` 时，这些规则可能不会按你期望的策略生效。
