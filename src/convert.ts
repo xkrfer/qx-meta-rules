@@ -18,7 +18,7 @@ export type ConvertOptions = {
 
 const KEYWORD_PREFIX = /^keyword:/i;
 const SUFFIX_PREFIX = /^\+\./;
-const ASN_PREFIX = /^AS/i;
+const ASN_PREFIX = /^AS\d+$/i;
 const IPV4_CIDR =
   /^(?:\d{1,3}\.){3}\d{1,3}\/(?:[0-9]|[12][0-9]|3[0-2])$/;
 const IPV6_CIDR = /^[0-9a-f:.]+\/(?:[0-9]|[1-9][0-9]|1[0-2][0-8])$/i;
@@ -107,8 +107,7 @@ function mapValue(value: string): string | null {
   }
 
   if (ASN_PREFIX.test(value)) {
-    const asn = value.slice(2).trim();
-    return /^\d+$/.test(asn) ? qx("ip-asn", asn) : null;
+    return qx("ip-asn", value.slice(2));
   }
 
   if (/^\d+$/.test(value)) {

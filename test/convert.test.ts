@@ -61,4 +61,12 @@ describe("convertList", () => {
       text: `${header}host-suffix, google.com, proxy\n`,
     });
   });
+
+  test("does not treat hostnames starting with as as ASN", () => {
+    const result = convertList("assets.ppy.sh\nasusrouter.com\nAS6185\n", { updatedAt });
+    expect(result).toEqual({
+      ok: true,
+      text: `${header}host, assets.ppy.sh, proxy\nhost, asusrouter.com, proxy\nip-asn, 6185, proxy\n`,
+    });
+  });
 });
