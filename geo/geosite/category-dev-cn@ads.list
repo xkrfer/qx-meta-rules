@@ -1,9 +1,9 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
+host-suffix, badjs.weixinbridge.com, proxy
 host-suffix, ads.unitychina.cn, proxy
 host-suffix, splash-ads.cdn.unity.cn, proxy
 host-suffix, splash-ads.unitychina.cn, proxy
 host-suffix, unityads.unity.cn, proxy
 host-suffix, unityads.unitychina.cn, proxy
-host-suffix, badjs.weixinbridge.com, proxy

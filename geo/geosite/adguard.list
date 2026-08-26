@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, adguard.app, proxy
 host-suffix, adguard.com, proxy
@@ -7,6 +7,7 @@ host-suffix, adguard.info, proxy
 host-suffix, adguard.io, proxy
 host-suffix, adguard.org, proxy
 host-suffix, adguardaccount.com, proxy
+host-suffix, adguardaccount.net, proxy
 host-suffix, adguardcdn.com, proxy
 host-suffix, adtidy.net, proxy
 host-suffix, adtidy.org, proxy

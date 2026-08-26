@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, nix-community.github.io, proxy
 host-suffix, nix.dev, proxy

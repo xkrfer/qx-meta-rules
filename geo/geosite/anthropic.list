@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, servd-anthropic-website.b-cdn.net, proxy
 host-suffix, anthropic.com, proxy

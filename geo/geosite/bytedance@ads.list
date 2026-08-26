@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, ad.toutiao.com, proxy
 host-suffix, bds.snssdk.com, proxy
@@ -29,6 +29,7 @@ host-suffix, pglstatp-toutiao-b.com, proxy
 host-suffix, pglstatp-toutiao.com, proxy
 host-suffix, sf3-ttcdn-tos.pstatp.com, proxy
 host-suffix, shoppingads.cn, proxy
+host-suffix, analytics.tiktok.com, proxy
 host, ads3-normal-hl.zijieapi.com, proxy
 host, ads3-normal.zijieapi.com, proxy
 host, ads5-normal-hl.zijieapi.com, proxy
@@ -44,4 +45,3 @@ host, rtlog3-applog-hl.fqnovel.com, proxy
 host, rtlog3-applog.fqnovel.com, proxy
 host, rtlog5-applog-hl.fqnovel.com, proxy
 host, rtlog5-applog.fqnovel.com, proxy
-host-suffix, analytics.tiktok.com, proxy

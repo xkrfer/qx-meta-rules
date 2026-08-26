@@ -1,10 +1,10 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
-host-suffix, graph.whatsapp.com, proxy
-host-suffix, graph.whatsapp.net, proxy
 host-suffix, analytics.facebook.com, proxy
 host-suffix, facebookads.com, proxy
 host-suffix, pixel.facebook.com, proxy
 host-suffix, graph.instagram.com, proxy
 host-suffix, graph-fallback.instagram.com, proxy
+host-suffix, graph.whatsapp.com, proxy
+host-suffix, graph.whatsapp.net, proxy

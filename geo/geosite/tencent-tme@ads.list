@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, ad.tencentmusic.com, proxy
 host-suffix, adstats.tencentmusic.com, proxy
@@ -8,9 +8,9 @@ host-suffix, report.tencentmusic.com, proxy
 host-suffix, stat.y.qq.com, proxy
 host-suffix, tmead.y.qq.com, proxy
 host-suffix, tmeadcomm.y.qq.com, proxy
-host-suffix, ads.service.kugou.com, proxy
-host-suffix, adserviceretry.kglink.cn, proxy
-host-suffix, adserviceretry.kugou.com, proxy
 host-suffix, adbehavior.ximalaya.com, proxy
 host-suffix, adse.wsa.ximalaya.com, proxy
 host-suffix, adse.ximalaya.com, proxy
+host-suffix, ads.service.kugou.com, proxy
+host-suffix, adserviceretry.kglink.cn, proxy
+host-suffix, adserviceretry.kugou.com, proxy

@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, checkip.amazonaws.com, proxy
 host, checkip.dyndns.org, proxy

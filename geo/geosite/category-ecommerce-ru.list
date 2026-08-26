@@ -1,9 +1,14 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
-host-suffix, wbautomation.tech, proxy
-host-suffix, o3team.ru, proxy
 host-suffix, drom.ru, proxy
+host-suffix, rdrom.ru, proxy
+host-suffix, apiauto.ru, proxy
+host-suffix, auto.ru, proxy
+host-suffix, autoru.me, proxy
+host-suffix, avto.ru, proxy
+host-suffix, cm.expert, proxy
+host-suffix, avito.ru, proxy
 host-suffix, avito.st, proxy
 host-suffix, cian.ru, proxy
 host-suffix, cian.site, proxy
@@ -20,7 +25,7 @@ host-suffix, sfunpay.com, proxy
 host-suffix, ozon.tm, proxy
 host-suffix, ozon.tech, proxy
 host-suffix, o3t.ru, proxy
-host-suffix, wbbasket.ru, proxy
+host-suffix, o3team.ru, proxy
 host-suffix, o-courier.ru, proxy
 host-suffix, ocourier.ru, proxy
 host-suffix, ozon-dostavka.ru, proxy
@@ -83,9 +88,9 @@ host-suffix, wb.kg, proxy
 host-suffix, wb.kz, proxy
 host-suffix, wb.ru, proxy
 host-suffix, wbautomation.ru, proxy
-host-suffix, avito.ru, proxy
-host-suffix, rdrom.ru, proxy
-host-suffix, wildbirris.ru, proxy
+host-suffix, wbautomation.tech, proxy
+host-suffix, wbbasket.ru, proxy
+host-suffix, wbcontent.net, proxy
 host-suffix, wbdubna.ru, proxy
 host-suffix, wbkids.ru, proxy
 host-suffix, wbmail.ru, proxy
@@ -143,7 +148,7 @@ host-suffix, wildberr.ru, proxy
 host-suffix, wildberriess.ru, proxy
 host-suffix, wildberrise.ru, proxy
 host-suffix, wildbiries.ru, proxy
-host-suffix, wbcontent.net, proxy
+host-suffix, wildbirris.ru, proxy
 host-suffix, wildbress.ru, proxy
 host-suffix, wildbries.ru, proxy
 host-suffix, wildbrris.ru, proxy
@@ -156,15 +161,10 @@ host-suffix, wldberris.ru, proxy
 host-suffix, wolfberries.ru, proxy
 host-suffix, xn--80acbjgmges7ca.xn--p1ai, proxy
 host-suffix, xn--80acbjgsdq2cl.xn--p1ai, proxy
-host-suffix, apiauto.ru, proxy
-host-suffix, cm.expert, proxy
-host-suffix, avto.ru, proxy
-host-suffix, autoru.me, proxy
-host-suffix, auto.ru, proxy
-host-suffix, ewisdom.us.kg, proxy
-host-suffix, ozon.com.kz, proxy
-host-suffix, ozonru.co.il, proxy
 host-suffix, ozon.com.by, proxy
+host-suffix, ozonru.co.il, proxy
+host-suffix, ozon.com.kz, proxy
+host-suffix, ewisdom.us.kg, proxy
 host-suffix, wildberries.co.il, proxy
 host, stats.avito.ru, proxy
 host, ad.ozone.ru, proxy

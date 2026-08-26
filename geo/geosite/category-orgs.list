@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, a.ppy.sh, proxy
 host, assets.ppy.sh, proxy
@@ -26,6 +26,11 @@ host-suffix, w3.org, proxy
 host-suffix, who.int, proxy
 host-suffix, wi-fi.org, proxy
 host-suffix, wto.org, proxy
+host-suffix, paskoocheh.com, proxy
+host-suffix, ccstatic.org, proxy
+host-suffix, creativecommons.org, proxy
+host-suffix, creativecommons.engineering, proxy
+host-suffix, licensebuttons.net, proxy
 host-suffix, acousticbrainz.org, proxy
 host-suffix, bookbrainz.org, proxy
 host-suffix, coverartarchive.org, proxy
@@ -34,21 +39,10 @@ host-suffix, listenbrainz.org, proxy
 host-suffix, messybrainz.org, proxy
 host-suffix, metabrainz.org, proxy
 host-suffix, musicbrainz.org, proxy
-host-suffix, nist.gov, proxy
-host-suffix, time.gov, proxy
-host-suffix, openmaps.org, proxy
-host-suffix, openstreetmap.com, proxy
-host-suffix, openstreetmap.net, proxy
-host-suffix, openstreetmap.org, proxy
-host-suffix, openstreetmaps.org, proxy
-host-suffix, osm.org, proxy
-host-suffix, osmfoundation.org, proxy
-host-suffix, stateofthemap.com, proxy
-host-suffix, stateofthemap.org, proxy
-host-suffix, ccstatic.org, proxy
-host-suffix, creativecommons.org, proxy
-host-suffix, creativecommons.engineering, proxy
-host-suffix, licensebuttons.net, proxy
+host-suffix, ppy.sh, proxy
+host-suffix, rolfoundation.org, proxy
+host-suffix, rolsociety.org, proxy
+host-suffix, csis.org, proxy
 host-suffix, emojipedia.org, proxy
 host-suffix, worldemojiawards.com, proxy
 host-suffix, worldemojiday.com, proxy
@@ -73,11 +67,6 @@ host-suffix, grapheneos.page, proxy
 host-suffix, grapheneos.social, proxy
 host-suffix, seamlessupdate.app, proxy
 host-suffix, vanadium.app, proxy
-host-suffix, paskoocheh.com, proxy
-host-suffix, ppy.sh, proxy
-host-suffix, rolfoundation.org, proxy
-host-suffix, rolsociety.org, proxy
-host-suffix, csis.org, proxy
 host-suffix, ieee.org, proxy
 host-suffix, ieee.tv, proxy
 host-suffix, tryengineering.org, proxy
@@ -132,3 +121,14 @@ host-suffix, photonicssociety.org, proxy
 host-suffix, signalprocessingsociety.org, proxy
 host-suffix, technologyandsociety.org, proxy
 host-suffix, vtsociety.org, proxy
+host-suffix, nist.gov, proxy
+host-suffix, time.gov, proxy
+host-suffix, openmaps.org, proxy
+host-suffix, openstreetmap.com, proxy
+host-suffix, openstreetmap.net, proxy
+host-suffix, openstreetmap.org, proxy
+host-suffix, openstreetmaps.org, proxy
+host-suffix, osm.org, proxy
+host-suffix, osmfoundation.org, proxy
+host-suffix, stateofthemap.com, proxy
+host-suffix, stateofthemap.org, proxy

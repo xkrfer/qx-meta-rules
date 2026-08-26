@@ -1,7 +1,6 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
-host-suffix, webnovel.com, proxy
 host-suffix, bytedapm.com, proxy
 host-suffix, muscdn.com, proxy
 host-suffix, musical.ly, proxy
@@ -37,3 +36,4 @@ host, roovza-launches.appsflyersdk.com, proxy
 host, roovza.inapps.appsflyersdk.com, proxy
 host, roovza.launches.appsflyersdk.com, proxy
 host, roovza.skadsdk.appsflyersdk.com, proxy
+host-suffix, webnovel.com, proxy

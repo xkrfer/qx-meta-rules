@@ -1,12 +1,11 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, tencent.co.id, proxy
 host-suffix, tencent.com.hk, proxy
 host-suffix, wetv.vip, proxy
 host-suffix, wetvinfo.com, proxy
 host, wetv.qq.com, proxy
-host-suffix, webnovel.com, proxy
 host-suffix, intltencentcos.com, proxy
 host-suffix, ap-hongkong.myqcloud.com, proxy
 host-suffix, ap-singapore.myqcloud.com, proxy
@@ -70,3 +69,4 @@ host-suffix, ca.file.myqcloud.com, proxy
 host-suffix, ger.file.myqcloud.com, proxy
 host-suffix, rumt-sg.com, proxy
 host-suffix, rumt-us.com, proxy
+host-suffix, webnovel.com, proxy

@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, ubisoft-uplay-savegames.s3.amazonaws.com, proxy
 host, ubisoft-orbit-savegames.s3.amazonaws.com, proxy

@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, aocde.com, proxy
 host-suffix, chuangcache.com, proxy
@@ -8,6 +8,26 @@ host-suffix, funcdn.com, proxy
 host-suffix, hydun.com, proxy
 host-suffix, jiashule.com, proxy
 host-suffix, jiasule.com, proxy
+host-suffix, bsclink.cn, proxy
+host-suffix, qingcdn.com, proxy
+host-suffix, trpcdn.net, proxy
+host-suffix, bootcdn.cn, proxy
+host-suffix, bootcdn.net, proxy
+host-suffix, bootcss.com, proxy
+host-suffix, phpcomposer.com, proxy
+host-suffix, fastcdn.com, proxy
+host-suffix, tlgslb.cn, proxy
+host-suffix, bbbcdns.com, proxy
+host-suffix, dlgslb.cn, proxy
+host-suffix, dlgslb.net, proxy
+host-suffix, dwion.com, proxy
+host-suffix, flxdns.cn, proxy
+host-suffix, acadn.cn, proxy
+host-suffix, acadn.com, proxy
+host-suffix, flxdns.com, proxy
+host-suffix, globalcdn.cn, proxy
+host-suffix, mcadn.cn, proxy
+host-suffix, tlgslb.com, proxy
 host-suffix, qbox.me, proxy
 host-suffix, qiniu.com, proxy
 host-suffix, qiniucdn.com, proxy
@@ -53,26 +73,6 @@ host-suffix, wsglb.com, proxy
 host-suffix, wsglb.net, proxy
 host-suffix, wswebcdn.com, proxy
 host-suffix, wswebpic.com, proxy
-host-suffix, bsclink.cn, proxy
-host-suffix, qingcdn.com, proxy
-host-suffix, trpcdn.net, proxy
-host-suffix, bootcdn.cn, proxy
-host-suffix, bootcdn.net, proxy
-host-suffix, bootcss.com, proxy
-host-suffix, phpcomposer.com, proxy
-host-suffix, fastcdn.com, proxy
-host-suffix, tlgslb.cn, proxy
-host-suffix, bbbcdns.com, proxy
-host-suffix, dlgslb.cn, proxy
-host-suffix, dlgslb.net, proxy
-host-suffix, dwion.com, proxy
-host-suffix, flxdns.cn, proxy
-host-suffix, acadn.cn, proxy
-host-suffix, acadn.com, proxy
-host-suffix, flxdns.com, proxy
-host-suffix, globalcdn.cn, proxy
-host-suffix, mcadn.cn, proxy
-host-suffix, tlgslb.com, proxy
 host-suffix, dfyun.com.cn, proxy
 host-suffix, fastcdn.com.cn, proxy
 host-suffix, cf-china.info, proxy

@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, client-teamviewer-com.trafficmanager.net, proxy
 host, teamviewer.com.cdn.cloudflare.net, proxy

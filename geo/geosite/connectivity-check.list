@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, ping.archlinux.org, proxy
 host, redirect.archlinux.org, proxy

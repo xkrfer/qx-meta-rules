@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, captive.apple.com, proxy
 host, www.gstatic.com, proxy

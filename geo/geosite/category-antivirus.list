@@ -1,19 +1,17 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com, proxy
 host, epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com, proxy
+host-suffix, kaspersky.rs, proxy
+host-suffix, kaspersky-labs.com, proxy
 host-suffix, avast.com, proxy
-host-suffix, avg.com, proxy
-host-suffix, avira.com, proxy
 host-suffix, bitdefender.com, proxy
 host-suffix, clamwin.com, proxy
 host-suffix, f-secure.com, proxy
 host-suffix, mcafee.com, proxy
 host-suffix, norton.com, proxy
 host-suffix, pandasecurity.com, proxy
-host-suffix, comodo.com, proxy
-host-suffix, comodo.net, proxy
 host-suffix, drweb.by, proxy
 host-suffix, drweb.cn, proxy
 host-suffix, drweb.com, proxy
@@ -37,16 +35,16 @@ host-suffix, kaspersky.be, proxy
 host-suffix, kaspersky.ca, proxy
 host-suffix, kaspersky.se, proxy
 host-suffix, kaspersky.ru, proxy
-host-suffix, kaspersky.rs, proxy
-host-suffix, kaspersky.ro, proxy
-host-suffix, kaspersky-labs.com, proxy
+host-suffix, avira.com, proxy
+host-suffix, avg.com, proxy
+host-suffix, kaspersky.gr, proxy
 host-suffix, kaspersky.ma, proxy
 host-suffix, kaspersky.com, proxy
 host-suffix, kaspersky.fi, proxy
 host-suffix, kaspersky.pt, proxy
 host-suffix, kaspersky.kz, proxy
 host-suffix, kaspersky.it, proxy
-host-suffix, kaspersky.gr, proxy
+host-suffix, kaspersky.ro, proxy
 host-suffix, kaspersky.fr, proxy
 host-suffix, kaspersky.cz, proxy
 host-suffix, kaspersky.de, proxy
@@ -55,19 +53,21 @@ host-suffix, kaspersky.dz, proxy
 host-suffix, kaspersky.es, proxy
 host-suffix, symantec.com, proxy
 host-suffix, symantecliveupdate.com, proxy
-host-suffix, drweb.co.jp, proxy
-host-suffix, kaspersky.co.uk, proxy
+host-suffix, comodo.com, proxy
+host-suffix, comodo.net, proxy
+host-suffix, kaspersky.co.za, proxy
+host-suffix, kaspersky.co.jp, proxy
 host-suffix, kaspersky.com.vn, proxy
 host-suffix, kaspersky.com.tw, proxy
 host-suffix, kaspersky.com.tr, proxy
-host-suffix, kaspersky.com.pl, proxy
-host-suffix, kaspersky.com.hk, proxy
-host-suffix, kaspersky.com.br, proxy
+host-suffix, drweb.co.jp, proxy
 host-suffix, kaspersky.com.au, proxy
-host-suffix, kaspersky.co.za, proxy
+host-suffix, kaspersky.com.br, proxy
+host-suffix, kaspersky.co.uk, proxy
+host-suffix, kaspersky.com.hk, proxy
 host-suffix, kaspersky.co.th, proxy
 host-suffix, kaspersky.co.kr, proxy
-host-suffix, kaspersky.co.jp, proxy
+host-suffix, kaspersky.com.pl, proxy
 host-suffix, kaspersky.co.in, proxy
 host-suffix, cn.eset.com, proxy
 host-suffix, kaspersky.com.cn, proxy

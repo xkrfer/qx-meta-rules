@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host-suffix, alihealth.hk, proxy
 host-suffix, ae-rus.net, proxy
@@ -12,14 +12,6 @@ host-suffix, alipaymo.com, proxy
 host-suffix, tmall.hk, proxy
 host-suffix, tmall.ru, proxy
 host-suffix, fliggy.hk, proxy
-host-suffix, alibabacloud.co.in, proxy
-host-suffix, alibabacloud.com, proxy
-host-suffix, alibabacloud.com.au, proxy
-host-suffix, alibabacloud.com.hk, proxy
-host-suffix, alibabacloud.com.my, proxy
-host-suffix, alibabacloud.com.sg, proxy
-host-suffix, alibabacloud.com.tw, proxy
-host-suffix, alicloud.com, proxy
 host-suffix, youku.tv, proxy
 host-suffix, youkuplay.com, proxy
 host-suffix, ap-southeast-1.aliyuncs.com, proxy
@@ -39,3 +31,11 @@ host-suffix, oss-eu-west-1.aliyuncs.com, proxy
 host-suffix, oss-me-east-1.aliyuncs.com, proxy
 host-suffix, oss-us-east-1.aliyuncs.com, proxy
 host-suffix, oss-us-west-1.aliyuncs.com, proxy
+host-suffix, alibabacloud.co.in, proxy
+host-suffix, alibabacloud.com, proxy
+host-suffix, alibabacloud.com.au, proxy
+host-suffix, alibabacloud.com.hk, proxy
+host-suffix, alibabacloud.com.my, proxy
+host-suffix, alibabacloud.com.sg, proxy
+host-suffix, alibabacloud.com.tw, proxy
+host-suffix, alicloud.com, proxy

@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, vmware.tt.omtrdc.net, proxy
 host-suffix, broadcom.com, proxy

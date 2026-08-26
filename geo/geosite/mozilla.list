@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-25
+#Update 2026-08-26
 #======================================#
 host, mozilla-ohttp.fastly-edge.com, proxy
 host, mozilla.map.fastly.net, proxy
