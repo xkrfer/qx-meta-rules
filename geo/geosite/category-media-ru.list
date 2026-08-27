@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host-suffix, 72.ru, proxy
 host-suffix, amic.ru, proxy
@@ -13,6 +13,23 @@ host-suffix, eadaily.net, proxy
 host-suffix, eadaily.org, proxy
 host-suffix, eadaily.su, proxy
 host-suffix, eurasiadaily.su, proxy
+host-suffix, 1prime.ru, proxy
+host-suffix, sputnikimages.com, proxy
+host-suffix, rossiyasegodnya.com, proxy
+host-suffix, xn--c1acbl2abdlkab1og.xn--p1ai, proxy
+host-suffix, arctic.ru, proxy
+host-suffix, baltnews.com, proxy
+host-suffix, baltnews.lt, proxy
+host-suffix, inosmi.ru, proxy
+host-suffix, pressria.ru, proxy
+host-suffix, ukraina.ru, proxy
+host-suffix, ria.ru, proxy
+host-suffix, radiosputnik.ru, proxy
+host-suffix, sputnikglobe.com, proxy
+host-suffix, jinrieluosi.cn, proxy
+host-suffix, sputnikmediabank.com, proxy
+host-suffix, sputniknews.com, proxy
+host-suffix, tok.media, proxy
 host-suffix, asiangooglenetwork.com, proxy
 host-suffix, rt.com, proxy
 host-suffix, rtnewsru.com, proxy
@@ -124,21 +141,4 @@ host-suffix, rt-school.online, proxy
 host-suffix, ruptly.agency, proxy
 host-suffix, ruptly.tv, proxy
 host-suffix, ruptly.video, proxy
-host-suffix, 1prime.ru, proxy
-host-suffix, sputnikimages.com, proxy
-host-suffix, rossiyasegodnya.com, proxy
-host-suffix, xn--c1acbl2abdlkab1og.xn--p1ai, proxy
-host-suffix, arctic.ru, proxy
-host-suffix, baltnews.com, proxy
-host-suffix, baltnews.lt, proxy
-host-suffix, inosmi.ru, proxy
-host-suffix, pressria.ru, proxy
-host-suffix, ukraina.ru, proxy
-host-suffix, ria.ru, proxy
-host-suffix, radiosputnik.ru, proxy
-host-suffix, sputnikglobe.com, proxy
-host-suffix, jinrieluosi.cn, proxy
-host-suffix, sputnikmediabank.com, proxy
-host-suffix, sputniknews.com, proxy
-host-suffix, tok.media, proxy
 host-suffix, gazetarussa.com.br, proxy

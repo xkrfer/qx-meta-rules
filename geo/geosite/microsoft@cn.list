@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host-suffix, dynamics.cn, proxy
 host-suffix, engkoo.com, proxy
@@ -86,7 +86,6 @@ host, volic.download.prss.microsoft.com, proxy
 host, vscode.download.prss.microsoft.com, proxy
 host, vz.download.prss.microsoft.com, proxy
 host, windbg.download.prss.microsoft.com, proxy
-host-suffix, xboxlive.cn, proxy
 host-suffix, 21vbc.com, proxy
 host-suffix, 21vbluecloud.com, proxy
 host-suffix, 21vbluecloud.net, proxy
@@ -190,3 +189,4 @@ host-suffix, reactorms.com.cn, proxy
 host, download.visualstudio.microsoft.com, proxy
 host-suffix, microsoftnews.cn, proxy
 host-suffix, msn.cn, proxy
+host-suffix, xboxlive.cn, proxy

@@ -1,8 +1,8 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
-host-suffix, cdnhwcoem01.com, proxy
-host-suffix, cdnhwcofl101.cn, proxy
+host-suffix, cdnhwcgqa21.com, proxy
+host-suffix, cdnhwcuxc121.cn, proxy
 host-suffix, chaspark.com, proxy
 host-suffix, dbank.com, proxy
 host-suffix, dbankcdn.cn, proxy
@@ -30,26 +30,6 @@ host-suffix, petalmaps.com, proxy
 host-suffix, shanhaitujian.com, proxy
 host-suffix, vmall.com, proxy
 host-suffix, vmallres.com, proxy
-host-suffix, hiascend.com, proxy
-host-suffix, harmonyos.com, proxy
-host-suffix, devui.design, proxy
-host-suffix, gneec.com, proxy
-host-suffix, teleows.com, proxy
-host-suffix, gneec3.com, proxy
-host-suffix, gneec4.com, proxy
-host-suffix, hikunpeng.cn, proxy
-host-suffix, hiclc.com, proxy
-host-suffix, hiascend.cn, proxy
-host-suffix, bishengcompiler.cn, proxy
-host-suffix, bisheng.cn, proxy
-host-suffix, gneec7.com, proxy
-host-suffix, hikunpeng.com, proxy
-host-suffix, saasops.tech, proxy
-host-suffix, hikunpeng.net, proxy
-host-suffix, hisilicon.com, proxy
-host-suffix, owsgo.com, proxy
-host-suffix, huaweiapaas.com, proxy
-host-suffix, mindspore.cn, proxy
 host-suffix, cdnhwckbw08.cn, proxy
 host-suffix, myhuaweicloud-obs.cn, proxy
 host-suffix, b2bgo.com, proxy
@@ -59,6 +39,7 @@ host-suffix, hc-cdn.cn, proxy
 host-suffix, hc-cdn.com, proxy
 host-suffix, hc-sre.com, proxy
 host-suffix, huaweiapaas.cn, proxy
+host-suffix, huaweiapaas.com, proxy
 host-suffix, huaweicloud-dns.cn, proxy
 host-suffix, huaweicloud-dns.com, proxy
 host-suffix, huaweicloud-idme.cn, proxy
@@ -66,7 +47,7 @@ host-suffix, huaweicloud-idme.com, proxy
 host-suffix, huaweicloud-koophone.cn, proxy
 host-suffix, huaweicloud-koophone.com, proxy
 host-suffix, huaweicloud-smn.cn, proxy
-host-suffix, abhouses.com, proxy
+host-suffix, huaweicloud-smn.com, proxy
 host-suffix, huaweicloud-smn.net, proxy
 host-suffix, huaweicloud.cn, proxy
 host-suffix, huaweicloud.com, proxy
@@ -86,7 +67,7 @@ host-suffix, huaweisafehub.cn, proxy
 host-suffix, huaweisre.cn, proxy
 host-suffix, huaweisre.com, proxy
 host-suffix, huaweiyun.cn, proxy
-host-suffix, huaweiyun.com, proxy
+host-suffix, abhouses.com, proxy
 host-suffix, hwastro.cn, proxy
 host-suffix, hwastro.com, proxy
 host-suffix, hwcdnsre.cn, proxy
@@ -148,9 +129,9 @@ host-suffix, cdnhwclxw05.com, proxy
 host-suffix, cdnhwcupf06.com, proxy
 host-suffix, cdnhwcxcy07.com, proxy
 host-suffix, cdnhwcatq08.com, proxy
-host-suffix, cdnhwcljk104.com, proxy
-host-suffix, agconnect.link, proxy
-host-suffix, huaweicloud-smn.com, proxy
+host-suffix, cdnhwcztu09.com, proxy
+host-suffix, cdnhwcedi10.com, proxy
+host-suffix, cdnhwcoem01.com, proxy
 host-suffix, cdnhwcllh11.com, proxy
 host-suffix, cdnhwcjog12.com, proxy
 host-suffix, cdnhwcpsd13.com, proxy
@@ -168,9 +149,9 @@ host-suffix, cdnhwcgrb01.cn, proxy
 host-suffix, cdnhwcyxb02.cn, proxy
 host-suffix, cdnhwcywp03.cn, proxy
 host-suffix, cdnhwclkl04.cn, proxy
-host-suffix, cdnhwcjbj05.cn, proxy
-host-suffix, aadcloud.cn, proxy
-host-suffix, cdnhwcgqa21.com, proxy
+host-suffix, cdnhwcedt124.com, proxy
+host-suffix, agconnect.link, proxy
+host-suffix, huaweiyun.com, proxy
 host-suffix, cdnhwconz06.cn, proxy
 host-suffix, aadcloud.com, proxy
 host-suffix, myhuaweicloud.cn, proxy
@@ -191,7 +172,7 @@ host-suffix, cdnhwckfd24.cn, proxy
 host-suffix, cdnhwczxh101.com, proxy
 host-suffix, cdnhwcbzj102.com, proxy
 host-suffix, cdnhwcjqv17.cn, proxy
-host-suffix, cdnhwcztu09.com, proxy
+host-suffix, cdnhwcljk104.com, proxy
 host-suffix, cdnhwclxu105.com, proxy
 host-suffix, cdnhwcbqs106.com, proxy
 host-suffix, cdnhwctnm107.com, proxy
@@ -211,8 +192,8 @@ host-suffix, cdnhwcjsb120.com, proxy
 host-suffix, cdnhwccmz121.com, proxy
 host-suffix, cdnhwcibv122.com, proxy
 host-suffix, cdnhwcprh113.com, proxy
-host-suffix, cdnhwcedt124.com, proxy
-host-suffix, cdnhwcedi10.com, proxy
+host-suffix, cdnhwcjbj05.cn, proxy
+host-suffix, cdnhwcofl101.cn, proxy
 host-suffix, cdnhwclrd102.cn, proxy
 host-suffix, cdnhwcurr103.cn, proxy
 host-suffix, cdnhwczid104.cn, proxy
@@ -232,7 +213,7 @@ host-suffix, cdnhwcidu117.cn, proxy
 host-suffix, cdnhwclsl119.cn, proxy
 host-suffix, cdnhwcsux118.cn, proxy
 host-suffix, cdnhwcbie120.cn, proxy
-host-suffix, cdnhwcuxc121.cn, proxy
+host-suffix, aadcloud.cn, proxy
 host-suffix, cdnhwcaip122.cn, proxy
 host-suffix, cdnhwcwqz113.cn, proxy
 host-suffix, cdnhwcojn124.cn, proxy
@@ -293,13 +274,32 @@ host-suffix, cdnhwc6.com, proxy
 host-suffix, cdnhwc7.com, proxy
 host-suffix, cdnhwc8.com, proxy
 host-suffix, cdnhwc9.com, proxy
+host-suffix, hiascend.com, proxy
+host-suffix, harmonyos.com, proxy
+host-suffix, devui.design, proxy
+host-suffix, gneec.com, proxy
+host-suffix, teleows.com, proxy
+host-suffix, gneec3.com, proxy
+host-suffix, gneec4.com, proxy
+host-suffix, hikunpeng.cn, proxy
+host-suffix, hiclc.com, proxy
+host-suffix, hiascend.cn, proxy
+host-suffix, bishengcompiler.cn, proxy
+host-suffix, bisheng.cn, proxy
+host-suffix, gneec7.com, proxy
+host-suffix, hikunpeng.com, proxy
+host-suffix, saasops.tech, proxy
+host-suffix, hikunpeng.net, proxy
+host-suffix, hisilicon.com, proxy
+host-suffix, owsgo.com, proxy
+host-suffix, mindspore.cn, proxy
 host-suffix, huawei.com.cn, proxy
-host-suffix, hisilicon.com.cn, proxy
-host-suffix, hikunpeng.com.cn, proxy
-host-suffix, gneec.com.cn, proxy
 host-suffix, ami-alliance.org.cn, proxy
 host-suffix, hwclouds.org.cn, proxy
 host-suffix, myhwclouds.com.cn, proxy
+host-suffix, hisilicon.com.cn, proxy
+host-suffix, hikunpeng.com.cn, proxy
+host-suffix, gneec.com.cn, proxy
 host-suffix, dbankcloud.ru, proxy
 host-suffix, dt.dbankcloud.ru, proxy
 host-suffix, huaweicloud-dns.net, proxy

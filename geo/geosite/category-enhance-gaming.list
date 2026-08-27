@@ -1,17 +1,17 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host-suffix, battleye.com, proxy
 host-suffix, bluestacks.com, proxy
 host-suffix, maa.plus, proxy
 host-suffix, prts.plus, proxy
 host-suffix, poi.moe, proxy
-host-suffix, playcover.io, proxy
-host-suffix, fflogs.com, proxy
-host-suffix, rpglogs.com, proxy
 host-suffix, thetrackernetwork.com, proxy
 host-suffix, tracker.gg, proxy
 host-suffix, tracker.network, proxy
+host-suffix, playcover.io, proxy
+host-suffix, fflogs.com, proxy
+host-suffix, rpglogs.com, proxy
 host-suffix, playcover.workers.dev, proxy
 host-suffix, ldmnq.com, proxy
 host-suffix, lsplayer.com, proxy

@@ -1,8 +1,8 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
-host-suffix, thetype.cloud, proxy
+host-suffix, tvbc.com.cn, proxy
 host-suffix, etnet.com.cn, proxy
 host-suffix, etnetchina.com.cn, proxy
 host-suffix, cn-cdn1.skymansion.net, proxy
-host-suffix, tvbc.com.cn, proxy
+host-suffix, thetype.cloud, proxy

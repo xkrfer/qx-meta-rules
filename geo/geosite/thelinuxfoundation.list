@@ -1,11 +1,9 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host, amp.akamaized.net, proxy
 host-suffix, lfai.foundation, proxy
 host-suffix, linuxfoundation.org, proxy
-host-suffix, kernel.org, proxy
-host-suffix, linux.org, proxy
 host-suffix, openjsf.org, proxy
 host-suffix, amp.dev, proxy
 host-suffix, ampproject.com, proxy
@@ -17,4 +15,6 @@ host-suffix, jquerymobile.com, proxy
 host-suffix, jqueryui.com, proxy
 host-suffix, mochajs.org, proxy
 host-suffix, nodejs.org, proxy
+host-suffix, kernel.org, proxy
+host-suffix, linux.org, proxy
 host, cdn.ampproject.org, proxy

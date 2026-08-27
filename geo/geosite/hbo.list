@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host-suffix, hbo, proxy
 host-suffix, beforeigners.com, proxy
@@ -59,6 +59,7 @@ host-suffix, homeboxoffice.com, proxy
 host-suffix, max.com, proxy
 host-suffix, maxgo.com, proxy
 host-suffix, redbyhbo.com, proxy
+host-suffix, h264.io, proxy
 host-suffix, hbogo.co.th, proxy
 host-suffix, hbomax-images.warnermediacdn.com, proxy
 host-suffix, hbo.com.edgesuite.net, proxy

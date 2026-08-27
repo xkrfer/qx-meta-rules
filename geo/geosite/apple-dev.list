@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host, notary-submissions-prod.s3-accelerate.amazonaws.com, proxy
 host, notary-submissions-prod.s3.us-west-2.amazonaws.com, proxy

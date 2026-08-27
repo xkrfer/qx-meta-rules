@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host, 1password.drift.click, proxy
 host, 3dns-1.adobe.com, proxy
@@ -820,8 +820,8 @@ host-suffix, aws, proxy
 host-suffix, apple, proxy
 host-suffix, android, proxy
 host-suffix, amazon, proxy
-host-suffix, jfrog.com, proxy
-host-suffix, karta-banka-rf.ru, proxy
+host-suffix, jfn.su, proxy
+host-suffix, easyanticheat.net, proxy
 host-suffix, 12vpn.com, proxy
 host-suffix, 12vpn.net, proxy
 host-suffix, 1337x.gd, proxy
@@ -3384,7 +3384,7 @@ host-suffix, av11.org, proxy
 host-suffix, av1688.cc, proxy
 host-suffix, av369.net, proxy
 host-suffix, av4.us, proxy
-host-suffix, jiuse823.com, proxy
+host-suffix, av69.tv, proxy
 host-suffix, av69.us, proxy
 host-suffix, av6k.com, proxy
 host-suffix, av6k.vip, proxy
@@ -5004,7 +5004,7 @@ host-suffix, bmwmagazine.de, proxy
 host-suffix, bmwmass.com, proxy
 host-suffix, bmwmass.net, proxy
 host-suffix, bmwmc.net, proxy
-host-suffix, bmwmontreal.ca, proxy
+host-suffix, jiuse6666.com, proxy
 host-suffix, bmwmotorcycles.com, proxy
 host-suffix, bmwmotorcycleusa.com, proxy
 host-suffix, younger19.com, proxy
@@ -7043,7 +7043,7 @@ host-suffix, dditsadn.com, proxy
 host-suffix, dditscdn.com, proxy
 host-suffix, de-rt.com, proxy
 host-suffix, de-rt.org, proxy
-host-suffix, de-rtnews.com, proxy
+host-suffix, jiuse822.com, proxy
 host-suffix, de-rtnews.net, proxy
 host-suffix, de1lib.org, proxy
 host-suffix, deadhouse.org, proxy
@@ -8172,7 +8172,7 @@ host-suffix, eastturkistangovernmentinexile.us, proxy
 host-suffix, xxxpornhd.pro, proxy
 host-suffix, easy-jtag.com, proxy
 host-suffix, easy.ac, proxy
-host-suffix, easyanticheat.net, proxy
+host-suffix, jiuse821.com, proxy
 host-suffix, easylist.to, proxy
 host-suffix, easynike.com, proxy
 host-suffix, easypic.com, proxy
@@ -11366,6 +11366,7 @@ host-suffix, xn--pssu7ci2j23mp9ny48b.hk, proxy
 host-suffix, h-webtoon.com, proxy
 host-suffix, h0930.com, proxy
 host-suffix, h18ani1.vip, proxy
+host-suffix, h264.io, proxy
 host-suffix, h2o.ai, proxy
 host-suffix, h2porn.com, proxy
 host-suffix, h528.com, proxy
@@ -13884,8 +13885,8 @@ host-suffix, jetfuelapps.com, proxy
 host-suffix, jex.com, proxy
 host-suffix, xboxone.co, proxy
 host-suffix, jfengtime.com, proxy
-host-suffix, jfn.su, proxy
 host-suffix, 000webhost.com, proxy
+host-suffix, jfrog.com, proxy
 host-suffix, jfrog.org, proxy
 host-suffix, jgg18.xyz, proxy
 host-suffix, jgoodies.com, proxy
@@ -13919,10 +13920,10 @@ host-suffix, jiuse.ai, proxy
 host-suffix, xboxgamestudios.com, proxy
 host-suffix, jiuse.icu, proxy
 host-suffix, jiuse.io, proxy
-host-suffix, jiuse6666.com, proxy
-host-suffix, smpte.org, proxy
+host-suffix, bmwmontreal.ca, proxy
 host-suffix, 12joursdecadeauxdeitunes.com, proxy
-host-suffix, av69.tv, proxy
+host-suffix, de-rtnews.com, proxy
+host-suffix, jiuse823.com, proxy
 host-suffix, jivara.global, proxy
 host-suffix, jivo.chat, proxy
 host-suffix, jivo.ru, proxy
@@ -14185,7 +14186,7 @@ host-suffix, karinahart.com, proxy
 host-suffix, karing.app, proxy
 host-suffix, karlajames.com, proxy
 host-suffix, karmahelp.ru, proxy
-host-suffix, jiuse822.com, proxy
+host-suffix, karta-banka-rf.ru, proxy
 host-suffix, karupsha.com, proxy
 host-suffix, karupspc.com, proxy
 host-suffix, kaspersky-labs.com, proxy
@@ -17216,6 +17217,7 @@ host-suffix, nftstatic.com, proxy
 host-suffix, nftstorage.link, proxy
 host-suffix, nga.mil, proxy
 host-suffix, ngeo.com, proxy
+host-suffix, ngfiles.com, proxy
 host-suffix, nginx.com, proxy
 host-suffix, nginx.org, proxy
 host-suffix, nginxconfig.io, proxy
@@ -21514,7 +21516,7 @@ host-suffix, smn.news, proxy
 host-suffix, smokinmovies.com, proxy
 host-suffix, smotreshka.tv, proxy
 host-suffix, smplace.com, proxy
-host-suffix, jiuse821.com, proxy
+host-suffix, smpte.org, proxy
 host-suffix, smtb.jp, proxy
 host-suffix, smutcam.com, proxy
 host-suffix, smutcams.com, proxy

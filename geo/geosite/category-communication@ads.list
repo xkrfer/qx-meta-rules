@@ -1,6 +1,6 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
+host-suffix, adsgram.ai, proxy
 host-suffix, graph.whatsapp.com, proxy
 host-suffix, graph.whatsapp.net, proxy
-host-suffix, adsgram.ai, proxy

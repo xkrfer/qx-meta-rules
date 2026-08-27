@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host-suffix, google.cn, proxy
 host-suffix, g.cn, proxy
@@ -123,5 +123,5 @@ host, ocsp.pki.goog, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, update.crashlytics.com, proxy
-host-suffix, ggpht.cn, proxy
 host, redirector.c.play.google.com, proxy
+host-suffix, ggpht.cn, proxy

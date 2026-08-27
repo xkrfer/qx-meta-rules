@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, proxy
 host-suffix, fansta.me, proxy

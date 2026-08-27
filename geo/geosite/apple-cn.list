@@ -1,5 +1,5 @@
 #======================================#
-#Update 2026-08-26
+#Update 2026-08-27
 #======================================#
 host, a1.mzstatic.com, proxy
 host, a2.mzstatic.com, proxy
@@ -67,6 +67,7 @@ host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, proxy
 host, gsp4-cn.ls.apple.com, proxy
 host, gsp5-cn.ls.apple.com, proxy
 host, gsp85-cn-ssl.ls.apple.com, proxy
+host, gspe11-2-cn-ssl.ls.apple.com, proxy
 host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, proxy
 host, gspe19-2-cn-ssl.ls.apple.com, proxy
 host, gspe19-cn-ssl.ls.apple.com, proxy
