@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, apkmirror.disqus.com, proxy
 host-suffix, apkmirror.com, proxy

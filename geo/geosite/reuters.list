@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, reut.rs, proxy
 host-suffix, reuters.com, proxy
 host-suffix, reuters.tv, proxy

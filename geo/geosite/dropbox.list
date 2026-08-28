@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, paper-attachments.s3.amazonaws.com, proxy
 host-suffix, db.tt, proxy
 host-suffix, dropbox-dns.com, proxy

@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, dell-brand.com, proxy
 host-suffix, dell.com.cn, proxy
 host-suffix, dell-alw.com, proxy

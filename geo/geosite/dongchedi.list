@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, dcarapi.com, proxy
 host-suffix, dcarimg.com, proxy
 host-suffix, dcarlive.com, proxy

@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, digitalocean.com, proxy
 host-suffix, digitalocean-ui.com, proxy
 host-suffix, digitaloceanspaces.com, proxy

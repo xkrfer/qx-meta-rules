@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, wps.cn, proxy
 host-suffix, wps.com, proxy
 host-suffix, wpscdn.cn, proxy

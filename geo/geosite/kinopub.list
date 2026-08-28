@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, cdn-service.space, proxy
 host-suffix, cdn2cdn.com, proxy
 host-suffix, kinopub.online, proxy

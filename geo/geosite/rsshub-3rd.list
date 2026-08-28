@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, holoxx.f5.si, proxy
 host, hub.slarker.me, proxy
 host, rss.4040940.xyz, proxy

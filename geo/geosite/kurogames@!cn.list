@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, kurogame-service.com, proxy
 host-suffix, kurogame.net, proxy
 host-suffix, kurogames.net, proxy

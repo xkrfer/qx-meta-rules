@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, alibaba, proxy
 host-suffix, yun, proxy
 host-suffix, xn--zfr164b, proxy

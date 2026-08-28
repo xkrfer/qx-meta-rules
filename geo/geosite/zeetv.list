@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, z5.app, proxy
 host-suffix, z5.com, proxy
 host-suffix, zee5.com, proxy

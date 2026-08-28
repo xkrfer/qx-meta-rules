@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, vmware.tt.omtrdc.net, proxy
 host-suffix, broadcom.com, proxy
 host-suffix, cfblob.com, proxy

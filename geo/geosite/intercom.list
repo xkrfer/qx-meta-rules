@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, intercom.com, proxy
 host-suffix, intercom.io, proxy
 host-suffix, intercomassets.com, proxy

@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, hk.weibo.com, proxy
 host-suffix, my.weibo.com, proxy
 host-suffix, overseas.weibo.com, proxy

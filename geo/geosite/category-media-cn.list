@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, ctdsb.clouddiffuse.xyz, proxy
 host-suffix, sohu, proxy
 host-suffix, ifanr.in, proxy

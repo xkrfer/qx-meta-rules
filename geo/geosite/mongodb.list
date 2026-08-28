@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, mongodb.com, proxy
 host-suffix, mongodb.org, proxy

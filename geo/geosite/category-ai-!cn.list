@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, copilot-proxy.githubusercontent.com, proxy
 host, copilot-workspace.githubnext.com, proxy
 host, copilotprodattachments.blob.core.windows.net, proxy

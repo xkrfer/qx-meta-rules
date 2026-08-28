@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, espn.api.edge.bamgrid.com, proxy
 host, espn.hb.omtrdc.net, proxy
 host, espndotcom.tt.omtrdc.net, proxy

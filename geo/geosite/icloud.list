@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, www-cdn.icloud.com.akadns.net, proxy
 host-suffix, applemx-icloud.com, proxy
 host-suffix, icloud-content.com, proxy

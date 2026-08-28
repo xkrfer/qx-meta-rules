@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, amp.akamaized.net, proxy
 host-suffix, openjsf.org, proxy
 host-suffix, amp.dev, proxy

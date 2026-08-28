@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, proxy
 host, android.googlesource.com, proxy
 host, publicca.googleapis.com, proxy

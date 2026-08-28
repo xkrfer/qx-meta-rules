@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, nginx.com, proxy
 host-suffix, nginx.org, proxy

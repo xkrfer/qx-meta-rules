@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, snapcraft.io, proxy
 host-suffix, snapstore.io, proxy

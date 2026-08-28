@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, geetest.datasink.sensorsdata.cn, proxy
 host-suffix, geetest.com, proxy

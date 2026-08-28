@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, mozilla-ohttp.fastly-edge.com, proxy
 host, mozilla.map.fastly.net, proxy
 host-suffix, extendfirefox.com, proxy

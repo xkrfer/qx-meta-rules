@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, acd89244c803f7181.awsglobalaccelerator.com, proxy
 host, afa7f374f51cc8991.awsglobalaccelerator.com, proxy
 host, d33wubrfki0l68.cloudfront.net, proxy

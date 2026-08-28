@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, ad.browser.qq.com, proxy
 host-suffix, ad.qq.com, proxy
 host-suffix, ad.qun.qq.com, proxy

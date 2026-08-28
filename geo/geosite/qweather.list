@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, hecdn.net, proxy
 host-suffix, heweather.net, proxy
 host-suffix, qweather.com, proxy

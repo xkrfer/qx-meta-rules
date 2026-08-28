@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, audio-ak-spotify-com.akamaized.net, proxy
 host-suffix, byspotify.com, proxy
 host-suffix, heads4-ak-spotify-com.akamaized.net, proxy

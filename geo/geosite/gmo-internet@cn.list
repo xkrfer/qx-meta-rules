@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, alphassl.com, proxy
 host-suffix, easy-signing.com, proxy
 host-suffix, globalsign.cn, proxy

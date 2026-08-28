@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, openweathermap.org, proxy
 host-suffix, openweather.co.uk, proxy

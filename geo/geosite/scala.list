@@ -1,5 +1,2 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, scala-lang.org, proxy
 host-suffix, scala-sbt.org, proxy

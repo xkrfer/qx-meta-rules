@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, apple.com.akadns.net, proxy
 host, configuration-lb.ls-apple.com.akadns.net, proxy
 host, push-apple.com.akadns.net, proxy

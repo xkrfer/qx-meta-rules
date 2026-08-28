@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, hospital.pku.edu.cn, proxy
 host, ss.bjmu.edu.cn, proxy
 host-suffix, fuwai.com, proxy

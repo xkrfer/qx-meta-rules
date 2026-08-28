@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, ads-twitter.com, proxy
 host-suffix, cms-twdigitalassets.com, proxy
 host-suffix, grok.com, proxy

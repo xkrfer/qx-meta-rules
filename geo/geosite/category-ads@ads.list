@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, api-eu.carrotquest.app, proxy
 host, api-eu.carrotquest.io, proxy
 host, api-ru.carrotquest.app, proxy

@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host, amp-api-edge.music.apple.com, proxy
 host, amp-api.music.apple.com, proxy
 host, js-cdn.music.apple.com, proxy

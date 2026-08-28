@@ -8,8 +8,6 @@ QX 要求每行必须带第三段策略，否则更新资源会报 `invalid line
 
 `ip-cidr` / `ip6-cidr` 会额外带 `no-resolve`，避免为匹配 IP 规则去解析域名。
 
-每个规则文件顶部有 `#Update YYYY-MM-DD` 注释，标记本次转换日期。
-
 ## 订阅
 
 ```ini

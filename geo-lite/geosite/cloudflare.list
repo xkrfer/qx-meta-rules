@@ -1,6 +1,3 @@
-#======================================#
-#Update 2026-08-27
-#======================================#
 host-suffix, cf-ipfs.com, proxy
 host-suffix, cf-ns.com, proxy
 host-suffix, cf-ns.net, proxy
