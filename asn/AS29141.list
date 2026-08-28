@@ -29,3 +29,4 @@ ip6-cidr, 2a02:e00:ffea::/47, proxy, no-resolve
 ip6-cidr, 2a02:e00:ffec::/46, proxy, no-resolve
 ip6-cidr, 2a02:e00:fff0::/44, proxy, no-resolve
 ip6-cidr, 2a03:402::/32, proxy, no-resolve
+ip6-cidr, 2a0a:3d80::/29, proxy, no-resolve

@@ -1,5 +1,6 @@
 ip-cidr, 131.143.20.0/23, proxy, no-resolve
 ip-cidr, 131.143.22.0/24, proxy, no-resolve
+ip6-cidr, 2602:f8ab:1::/48, proxy, no-resolve
 ip6-cidr, 2602:f8ab:a::/47, proxy, no-resolve
 ip6-cidr, 2602:f8ab:c::/48, proxy, no-resolve
 ip6-cidr, 2602:f8ab:a01::/48, proxy, no-resolve

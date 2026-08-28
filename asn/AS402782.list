@@ -1,1 +1,2 @@
 ip6-cidr, 2602:faa8:800::/44, proxy, no-resolve
+ip6-cidr, 2602:faa8:ab0::/44, proxy, no-resolve

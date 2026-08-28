@@ -38,7 +38,7 @@ ip-cidr, 94.131.1.32/27, proxy, no-resolve
 ip-cidr, 94.131.1.64/26, proxy, no-resolve
 ip-cidr, 94.131.1.128/25, proxy, no-resolve
 ip-cidr, 94.131.52.0/24, proxy, no-resolve
-ip-cidr, 94.131.54.0/23, proxy, no-resolve
+ip-cidr, 94.131.55.0/24, proxy, no-resolve
 ip-cidr, 94.131.56.0/23, proxy, no-resolve
 ip-cidr, 94.131.59.0/24, proxy, no-resolve
 ip-cidr, 94.131.124.0/24, proxy, no-resolve

@@ -783,7 +783,6 @@ ip-cidr, 103.6.80.0/22, proxy, no-resolve
 ip-cidr, 103.7.32.0/24, proxy, no-resolve
 ip-cidr, 103.49.44.0/22, proxy, no-resolve
 ip-cidr, 103.116.67.0/24, proxy, no-resolve
-ip-cidr, 103.124.100.0/22, proxy, no-resolve
 ip-cidr, 108.165.140.0/24, proxy, no-resolve
 ip-cidr, 109.176.10.0/24, proxy, no-resolve
 ip-cidr, 110.8.0.0/16, proxy, no-resolve

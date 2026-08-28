@@ -42,6 +42,7 @@ ip6-cidr, 2631:0:800::/38, proxy, no-resolve
 ip6-cidr, 2631:0:e00::/39, proxy, no-resolve
 ip6-cidr, 2631:0:1000::/38, proxy, no-resolve
 ip6-cidr, 2631:0:1400::/39, proxy, no-resolve
+ip6-cidr, 2631:0:1800::/48, proxy, no-resolve
 ip6-cidr, 2631:0:2000::/37, proxy, no-resolve
 ip6-cidr, 2631:0:2800::/38, proxy, no-resolve
 ip6-cidr, 2631:0:3000::/37, proxy, no-resolve

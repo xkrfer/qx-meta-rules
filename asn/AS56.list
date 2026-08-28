@@ -255,8 +255,7 @@ ip-cidr, 132.25.0.0/16, proxy, no-resolve
 ip-cidr, 132.26.0.0/15, proxy, no-resolve
 ip-cidr, 132.28.0.0/16, proxy, no-resolve
 ip-cidr, 132.30.0.0/16, proxy, no-resolve
-ip-cidr, 132.32.0.0/15, proxy, no-resolve
-ip-cidr, 132.34.0.0/16, proxy, no-resolve
+ip-cidr, 132.32.0.0/14, proxy, no-resolve
 ip-cidr, 132.36.0.0/15, proxy, no-resolve
 ip-cidr, 132.38.0.0/16, proxy, no-resolve
 ip-cidr, 132.39.0.0/17, proxy, no-resolve

@@ -18,5 +18,6 @@ ip-cidr, 216.234.156.0/24, proxy, no-resolve
 ip6-cidr, 2001:df3:808::/48, proxy, no-resolve
 ip6-cidr, 2001:df3:811::/48, proxy, no-resolve
 ip6-cidr, 2620:107:9098::/47, proxy, no-resolve
+ip6-cidr, 2620:107:90d0::/48, proxy, no-resolve
 ip6-cidr, 2620:107:90e1::/48, proxy, no-resolve
 ip6-cidr, 2620:107:90f1::/48, proxy, no-resolve

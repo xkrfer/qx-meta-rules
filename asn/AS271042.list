@@ -2,7 +2,6 @@ ip-cidr, 177.36.16.0/22, proxy, no-resolve
 ip6-cidr, 2804:7560::/39, proxy, no-resolve
 ip6-cidr, 2804:7560:200::/41, proxy, no-resolve
 ip6-cidr, 2804:7560:280::/42, proxy, no-resolve
-ip6-cidr, 2804:7560:2c8::/45, proxy, no-resolve
 ip6-cidr, 2804:7560:2d0::/44, proxy, no-resolve
 ip6-cidr, 2804:7560:2e0::/43, proxy, no-resolve
 ip6-cidr, 2804:7560:300::/40, proxy, no-resolve

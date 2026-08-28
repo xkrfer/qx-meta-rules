@@ -34,6 +34,7 @@ ip-cidr, 103.167.154.0/23, proxy, no-resolve
 ip-cidr, 103.167.182.0/23, proxy, no-resolve
 ip-cidr, 103.167.225.0/24, proxy, no-resolve
 ip-cidr, 103.169.242.0/24, proxy, no-resolve
+ip-cidr, 103.170.37.0/24, proxy, no-resolve
 ip-cidr, 103.170.52.0/23, proxy, no-resolve
 ip-cidr, 103.170.84.0/23, proxy, no-resolve
 ip-cidr, 103.183.86.0/23, proxy, no-resolve

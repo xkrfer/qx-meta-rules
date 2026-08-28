@@ -1,6 +1,4 @@
 ip-cidr, 2.57.100.0/22, proxy, no-resolve
-ip-cidr, 5.158.221.0/24, proxy, no-resolve
-ip-cidr, 5.158.222.0/23, proxy, no-resolve
 ip-cidr, 5.181.96.0/23, proxy, no-resolve
 ip-cidr, 5.181.98.0/24, proxy, no-resolve
 ip-cidr, 5.183.148.0/23, proxy, no-resolve

@@ -70,6 +70,7 @@ ip6-cidr, 2604:9b00::/38, proxy, no-resolve
 ip6-cidr, 2604:9b00:c00::/38, proxy, no-resolve
 ip6-cidr, 2604:9b00:1802::/48, proxy, no-resolve
 ip6-cidr, 2604:9b00:1806::/48, proxy, no-resolve
+ip6-cidr, 2604:9b00:1808::/48, proxy, no-resolve
 ip6-cidr, 2604:9b00:2800::/48, proxy, no-resolve
 ip6-cidr, 2604:9b00:2802::/48, proxy, no-resolve
 ip6-cidr, 2604:9b00:3c00::/47, proxy, no-resolve

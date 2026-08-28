@@ -1,6 +1,5 @@
 ip-cidr, 64.136.0.0/23, proxy, no-resolve
-ip-cidr, 64.136.5.0/24, proxy, no-resolve
-ip-cidr, 64.136.6.0/23, proxy, no-resolve
+ip-cidr, 64.136.4.0/22, proxy, no-resolve
 ip-cidr, 64.136.8.0/21, proxy, no-resolve
 ip-cidr, 64.136.16.0/20, proxy, no-resolve
 ip-cidr, 64.136.32.0/19, proxy, no-resolve

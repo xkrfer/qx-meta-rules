@@ -1,3 +1,4 @@
+ip-cidr, 38.9.128.0/19, proxy, no-resolve
 ip-cidr, 38.9.224.0/19, proxy, no-resolve
 ip-cidr, 38.18.64.0/19, proxy, no-resolve
 ip-cidr, 38.77.160.0/19, proxy, no-resolve

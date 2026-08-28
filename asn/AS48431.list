@@ -1,4 +1,2 @@
-ip-cidr, 95.80.136.0/21, proxy, no-resolve
-ip-cidr, 95.80.144.0/20, proxy, no-resolve
-ip-cidr, 95.80.160.0/19, proxy, no-resolve
+ip-cidr, 95.80.128.0/18, proxy, no-resolve
 ip-cidr, 185.57.132.0/22, proxy, no-resolve

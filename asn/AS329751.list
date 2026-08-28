@@ -1,1 +1,2 @@
 ip-cidr, 102.202.100.0/22, proxy, no-resolve
+ip6-cidr, 2001:43fd:a800::/48, proxy, no-resolve

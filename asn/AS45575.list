@@ -1,2 +1,5 @@
-ip-cidr, 203.158.176.0/20, proxy, no-resolve
+ip-cidr, 203.158.177.0/24, proxy, no-resolve
+ip-cidr, 203.158.178.0/23, proxy, no-resolve
+ip-cidr, 203.158.180.0/22, proxy, no-resolve
+ip-cidr, 203.158.184.0/21, proxy, no-resolve
 ip6-cidr, 2001:3c8:900c::/48, proxy, no-resolve

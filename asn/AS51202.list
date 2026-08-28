@@ -29,7 +29,6 @@ ip6-cidr, 2a14:6781:200::/39, proxy, no-resolve
 ip6-cidr, 2a14:6781:400::/38, proxy, no-resolve
 ip6-cidr, 2a14:6781:800::/37, proxy, no-resolve
 ip6-cidr, 2a14:6781:1000::/38, proxy, no-resolve
-ip6-cidr, 2a14:6781:2400::/38, proxy, no-resolve
 ip6-cidr, 2a14:6781:2800::/37, proxy, no-resolve
 ip6-cidr, 2a14:6781:3000::/36, proxy, no-resolve
 ip6-cidr, 2a14:6781:4000::/34, proxy, no-resolve

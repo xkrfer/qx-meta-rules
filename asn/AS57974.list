@@ -1,0 +1,2 @@
+ip-cidr, 185.108.205.0/24, proxy, no-resolve
+ip6-cidr, 2602:2d4:d00::/40, proxy, no-resolve

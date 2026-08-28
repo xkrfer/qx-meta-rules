@@ -1,4 +1,5 @@
 ip-cidr, 121.79.131.0/24, proxy, no-resolve
 ip-cidr, 121.79.132.0/24, proxy, no-resolve
 ip-cidr, 121.79.134.0/23, proxy, no-resolve
-ip6-cidr, 2403:7580::/32, proxy, no-resolve
+ip6-cidr, 2403:7580::/44, proxy, no-resolve
+ip6-cidr, 2403:7580:10::/46, proxy, no-resolve

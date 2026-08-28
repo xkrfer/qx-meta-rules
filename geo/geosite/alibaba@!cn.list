@@ -26,8 +26,6 @@ host-suffix, oss-eu-west-1.aliyuncs.com, proxy
 host-suffix, oss-me-east-1.aliyuncs.com, proxy
 host-suffix, oss-us-east-1.aliyuncs.com, proxy
 host-suffix, oss-us-west-1.aliyuncs.com, proxy
-host-suffix, youku.tv, proxy
-host-suffix, youkuplay.com, proxy
 host-suffix, alibabacloud.co.in, proxy
 host-suffix, alibabacloud.com, proxy
 host-suffix, alibabacloud.com.au, proxy
@@ -36,3 +34,5 @@ host-suffix, alibabacloud.com.my, proxy
 host-suffix, alibabacloud.com.sg, proxy
 host-suffix, alibabacloud.com.tw, proxy
 host-suffix, alicloud.com, proxy
+host-suffix, youku.tv, proxy
+host-suffix, youkuplay.com, proxy

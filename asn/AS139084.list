@@ -379,6 +379,7 @@ ip6-cidr, 2404:bf40:e820::/43, proxy, no-resolve
 ip6-cidr, 2404:bf40:e840::/42, proxy, no-resolve
 ip6-cidr, 2404:bf40:e880::/41, proxy, no-resolve
 ip6-cidr, 2404:bf40:e900::/47, proxy, no-resolve
+ip6-cidr, 2404:bf40:e902::/48, proxy, no-resolve
 ip6-cidr, 2404:bf40:e904::/46, proxy, no-resolve
 ip6-cidr, 2404:bf40:e908::/45, proxy, no-resolve
 ip6-cidr, 2404:bf40:e910::/44, proxy, no-resolve

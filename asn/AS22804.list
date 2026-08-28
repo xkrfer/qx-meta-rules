@@ -1,5 +1,5 @@
 ip-cidr, 161.129.0.0/24, proxy, no-resolve
-ip-cidr, 161.129.4.0/24, proxy, no-resolve
+ip-cidr, 161.129.4.0/23, proxy, no-resolve
 ip-cidr, 161.129.6.0/24, proxy, no-resolve
 ip-cidr, 161.129.8.0/24, proxy, no-resolve
 ip-cidr, 198.186.255.0/24, proxy, no-resolve

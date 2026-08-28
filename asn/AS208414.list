@@ -30,7 +30,6 @@ ip6-cidr, 2a0e:acc0:ac73::/48, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac74::/46, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac78::/47, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac80::/45, proxy, no-resolve
-ip6-cidr, 2a0e:acc0:ac88::/48, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac90::/47, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac92::/48, proxy, no-resolve
 ip6-cidr, 2a0e:acc0:ac95::/48, proxy, no-resolve

@@ -94,7 +94,13 @@ ip6-cidr, 2800:330:4180::/41, proxy, no-resolve
 ip6-cidr, 2800:330:4200::/39, proxy, no-resolve
 ip6-cidr, 2800:330:4400::/38, proxy, no-resolve
 ip6-cidr, 2800:330:4800::/37, proxy, no-resolve
-ip6-cidr, 2800:330:5000::/36, proxy, no-resolve
+ip6-cidr, 2800:330:5030::/44, proxy, no-resolve
+ip6-cidr, 2800:330:5040::/42, proxy, no-resolve
+ip6-cidr, 2800:330:5080::/41, proxy, no-resolve
+ip6-cidr, 2800:330:5100::/40, proxy, no-resolve
+ip6-cidr, 2800:330:5200::/39, proxy, no-resolve
+ip6-cidr, 2800:330:5400::/38, proxy, no-resolve
+ip6-cidr, 2800:330:5800::/37, proxy, no-resolve
 ip6-cidr, 2800:330:6000::/35, proxy, no-resolve
 ip6-cidr, 2800:330:8000::/34, proxy, no-resolve
 ip6-cidr, 2800:330:c000::/35, proxy, no-resolve

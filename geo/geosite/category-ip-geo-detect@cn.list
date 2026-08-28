@@ -1,4 +1,5 @@
 host-suffix, ipify.cn, proxy
 host-suffix, iplark.com, proxy
 host-suffix, ipw.cn, proxy
+host-suffix, testipv6.cn, proxy
 host-suffix, whois.pconline.com.cn, proxy

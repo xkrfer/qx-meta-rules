@@ -49,6 +49,7 @@ ip6-cidr, 2a09:8280:70::/46, proxy, no-resolve
 ip6-cidr, 2a09:8280:74::/47, proxy, no-resolve
 ip6-cidr, 2a09:8280:76::/48, proxy, no-resolve
 ip6-cidr, 2a09:8280:200::/48, proxy, no-resolve
+ip6-cidr, 2a09:8280:d007::/48, proxy, no-resolve
 ip6-cidr, 2a09:8280:e600::/45, proxy, no-resolve
 ip6-cidr, 2a09:8280:e608::/47, proxy, no-resolve
 ip6-cidr, 2a09:8280:e610::/46, proxy, no-resolve

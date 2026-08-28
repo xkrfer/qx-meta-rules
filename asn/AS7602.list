@@ -8,7 +8,15 @@ ip-cidr, 116.118.80.0/21, proxy, no-resolve
 ip-cidr, 116.118.96.0/19, proxy, no-resolve
 ip-cidr, 180.93.0.0/20, proxy, no-resolve
 ip-cidr, 180.93.32.0/19, proxy, no-resolve
-ip-cidr, 180.93.64.0/18, proxy, no-resolve
+ip-cidr, 180.93.64.0/19, proxy, no-resolve
+ip-cidr, 180.93.96.0/23, proxy, no-resolve
+ip-cidr, 180.93.98.0/24, proxy, no-resolve
+ip-cidr, 180.93.100.0/23, proxy, no-resolve
+ip-cidr, 180.93.102.0/24, proxy, no-resolve
+ip-cidr, 180.93.104.0/23, proxy, no-resolve
+ip-cidr, 180.93.107.0/24, proxy, no-resolve
+ip-cidr, 180.93.108.0/22, proxy, no-resolve
+ip-cidr, 180.93.112.0/20, proxy, no-resolve
 ip-cidr, 180.93.128.0/21, proxy, no-resolve
 ip-cidr, 180.93.140.0/22, proxy, no-resolve
 ip-cidr, 180.93.144.0/20, proxy, no-resolve

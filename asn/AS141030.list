@@ -21,6 +21,8 @@ ip6-cidr, 2400:3dc0:72::/47, proxy, no-resolve
 ip6-cidr, 2400:3dc0:74::/46, proxy, no-resolve
 ip6-cidr, 2400:3dc0:79::/48, proxy, no-resolve
 ip6-cidr, 2400:3dc0:7a::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:7d::/48, proxy, no-resolve
+ip6-cidr, 2400:3dc0:7f::/48, proxy, no-resolve
 ip6-cidr, 2400:3dc0:81::/48, proxy, no-resolve
 ip6-cidr, 2400:3dc0:82::/48, proxy, no-resolve
 ip6-cidr, 2400:3dc0:90::/45, proxy, no-resolve

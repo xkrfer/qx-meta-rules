@@ -13,6 +13,7 @@ ip-cidr, 155.2.196.0/22, proxy, no-resolve
 ip-cidr, 155.2.200.0/21, proxy, no-resolve
 ip-cidr, 185.12.157.0/24, proxy, no-resolve
 ip-cidr, 185.106.88.0/23, proxy, no-resolve
+ip-cidr, 185.113.232.0/22, proxy, no-resolve
 ip-cidr, 185.138.112.0/22, proxy, no-resolve
 ip-cidr, 185.145.80.0/22, proxy, no-resolve
 ip-cidr, 185.167.196.0/22, proxy, no-resolve
