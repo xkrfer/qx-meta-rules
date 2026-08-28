@@ -1,0 +1,5 @@
+IP-CIDR,191.243.224.0/20,no-resolve
+IP-CIDR6,2804:1320::/36,no-resolve
+IP-CIDR6,2804:1320:3000::/36,no-resolve
+IP-CIDR6,2804:1320:4000::/34,no-resolve
+IP-CIDR6,2804:1320:8000::/33,no-resolve

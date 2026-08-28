@@ -1,0 +1,6 @@
+IP-CIDR,58.42.112.0/20,no-resolve
+IP-CIDR,111.123.40.0/21,no-resolve
+IP-CIDR,218.86.240.0/22,no-resolve
+IP-CIDR6,240e:103:8b20::/44,no-resolve
+IP-CIDR6,240e:938:f900::/48,no-resolve
+IP-CIDR6,240e:938:f910::/44,no-resolve

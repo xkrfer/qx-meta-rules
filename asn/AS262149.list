@@ -1,0 +1,3 @@
+IP-CIDR,170.83.8.0/23,no-resolve
+IP-CIDR,200.59.16.0/21,no-resolve
+IP-CIDR6,2800:640::/32,no-resolve

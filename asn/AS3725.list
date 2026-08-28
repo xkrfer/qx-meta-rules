@@ -1,0 +1,5 @@
+IP-CIDR,160.33.98.0/24,no-resolve
+IP-CIDR,160.33.110.0/24,no-resolve
+IP-CIDR,160.33.192.0/20,no-resolve
+IP-CIDR6,2607:fd28:a000::/48,no-resolve
+IP-CIDR6,2607:fd28:a010::/47,no-resolve

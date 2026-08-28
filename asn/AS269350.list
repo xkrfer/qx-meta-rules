@@ -1,0 +1,9 @@
+IP-CIDR,45.184.244.0/22,no-resolve
+IP-CIDR6,2804:6344::/34,no-resolve
+IP-CIDR6,2804:6344:4000::/35,no-resolve
+IP-CIDR6,2804:6344:6100::/40,no-resolve
+IP-CIDR6,2804:6344:6200::/39,no-resolve
+IP-CIDR6,2804:6344:6400::/38,no-resolve
+IP-CIDR6,2804:6344:6800::/37,no-resolve
+IP-CIDR6,2804:6344:7000::/36,no-resolve
+IP-CIDR6,2804:6344:8000::/33,no-resolve

@@ -1,0 +1,15 @@
+IP-CIDR,103.28.84.0/22,no-resolve
+IP-CIDR,103.98.128.0/22,no-resolve
+IP-CIDR,103.167.187.0/24,no-resolve
+IP-CIDR,103.167.232.0/23,no-resolve
+IP-CIDR,103.171.243.0/24,no-resolve
+IP-CIDR,150.107.204.0/22,no-resolve
+IP-CIDR6,2001:df7:5680::/48,no-resolve
+IP-CIDR6,2406:b700::/48,no-resolve
+IP-CIDR6,2406:b700:2::/47,no-resolve
+IP-CIDR6,2406:b700:4::/46,no-resolve
+IP-CIDR6,2406:b700:8::/48,no-resolve
+IP-CIDR6,2406:b700:a::/47,no-resolve
+IP-CIDR6,2406:b700:c::/47,no-resolve
+IP-CIDR6,2406:b700:10::/47,no-resolve
+IP-CIDR6,2406:b700:12::/48,no-resolve

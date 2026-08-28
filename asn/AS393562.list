@@ -1,0 +1,7 @@
+IP-CIDR,12.239.64.0/24,no-resolve
+IP-CIDR6,2604:640::/48,no-resolve
+IP-CIDR6,2604:640:105::/48,no-resolve
+IP-CIDR6,2604:640:106::/48,no-resolve
+IP-CIDR6,2604:640:aaa::/48,no-resolve
+IP-CIDR6,2604:640:acdc::/48,no-resolve
+IP-CIDR6,2604:640:e000::/48,no-resolve

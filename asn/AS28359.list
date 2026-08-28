@@ -1,0 +1,6 @@
+IP-CIDR,177.70.192.0/20,no-resolve
+IP-CIDR,179.97.192.0/19,no-resolve
+IP-CIDR,187.94.128.0/19,no-resolve
+IP-CIDR,189.76.176.0/20,no-resolve
+IP-CIDR,189.76.192.0/20,no-resolve
+IP-CIDR6,2804:15fc::/32,no-resolve

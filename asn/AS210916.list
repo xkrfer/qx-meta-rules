@@ -1,0 +1,4 @@
+IP-CIDR6,2a11:6c6:1000::/36,no-resolve
+IP-CIDR6,2a11:6c6:2000::/35,no-resolve
+IP-CIDR6,2a11:6c6:4000::/34,no-resolve
+IP-CIDR6,2a11:6c6:8000::/36,no-resolve

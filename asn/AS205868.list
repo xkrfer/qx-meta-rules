@@ -1,0 +1,4 @@
+IP-CIDR,37.130.140.0/24,no-resolve
+IP-CIDR,37.130.142.0/24,no-resolve
+IP-CIDR,146.66.228.0/24,no-resolve
+IP-CIDR6,2a00:7380:feed::/48,no-resolve

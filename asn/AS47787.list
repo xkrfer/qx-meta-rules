@@ -1,0 +1,4 @@
+IP-CIDR6,2001:b18:1014::/48,no-resolve
+IP-CIDR6,2a0d:82c3::/32,no-resolve
+IP-CIDR6,2a0d:82c4::/32,no-resolve
+IP-CIDR6,2a0d:82c7:3::/48,no-resolve

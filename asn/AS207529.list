@@ -1,0 +1,13 @@
+IP-CIDR6,2602:f429:10::/48,no-resolve
+IP-CIDR6,2602:f92a:a479::/48,no-resolve
+IP-CIDR6,2a12:cb41:1400::/39,no-resolve
+IP-CIDR6,2a14:67c1:c200::/44,no-resolve
+IP-CIDR6,2a14:67c1:c210::/46,no-resolve
+IP-CIDR6,2a14:67c1:c240::/44,no-resolve
+IP-CIDR6,2a14:7581:3001::/48,no-resolve
+IP-CIDR6,2a14:7581:3004::/48,no-resolve
+IP-CIDR6,2a14:7581:3007::/48,no-resolve
+IP-CIDR6,2a14:7581:3009::/48,no-resolve
+IP-CIDR6,2a14:7581:3010::/46,no-resolve
+IP-CIDR6,2a14:7581:3044::/48,no-resolve
+IP-CIDR6,2a14:7581:30c0::/44,no-resolve

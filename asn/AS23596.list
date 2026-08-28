@@ -1,0 +1,7 @@
+IP-CIDR,1.18.127.0/24,no-resolve
+IP-CIDR,1.18.128.0/23,no-resolve
+IP-CIDR,1.18.130.0/24,no-resolve
+IP-CIDR,202.30.124.0/24,no-resolve
+IP-CIDR6,2001:dcc:5::/48,no-resolve
+IP-CIDR6,2001:dcc:500::/47,no-resolve
+IP-CIDR6,2001:dcc:502::/48,no-resolve

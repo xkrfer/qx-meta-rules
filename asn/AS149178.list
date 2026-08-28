@@ -1,0 +1,7 @@
+IP-CIDR,223.244.0.0/18,no-resolve
+IP-CIDR6,240e:6:d1a0::/44,no-resolve
+IP-CIDR6,240e:108:1153::/48,no-resolve
+IP-CIDR6,240e:108:1154::/48,no-resolve
+IP-CIDR6,240e:95a:4000::/36,no-resolve
+IP-CIDR6,240e:982:5300::/40,no-resolve
+IP-CIDR6,240e:982:5400::/40,no-resolve

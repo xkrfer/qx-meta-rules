@@ -1,0 +1,4 @@
+IP-CIDR,192.140.64.0/22,no-resolve
+IP-CIDR6,2804:3dbc::/38,no-resolve
+IP-CIDR6,2804:3dbc:700::/40,no-resolve
+IP-CIDR6,2804:3dbc:c000::/38,no-resolve

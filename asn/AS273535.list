@@ -1,0 +1,4 @@
+IP-CIDR6,2804:9030::/33,no-resolve
+IP-CIDR6,2804:9030:8000::/34,no-resolve
+IP-CIDR6,2804:9030:c000::/35,no-resolve
+IP-CIDR6,2804:9030:e000::/36,no-resolve

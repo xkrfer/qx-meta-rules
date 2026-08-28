@@ -1,0 +1,4 @@
+IP-CIDR,194.8.133.0/24,no-resolve
+IP-CIDR6,2a13:d6c0:1::/48,no-resolve
+IP-CIDR6,2a13:d6c0:20::/48,no-resolve
+IP-CIDR6,2a13:d6c0:100::/48,no-resolve

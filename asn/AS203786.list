@@ -1,0 +1,4 @@
+IP-CIDR,193.101.13.0/24,no-resolve
+IP-CIDR6,2a01:e540:100::/40,no-resolve
+IP-CIDR6,2a01:e541:1000::/36,no-resolve
+IP-CIDR6,2a01:e542:1000::/36,no-resolve

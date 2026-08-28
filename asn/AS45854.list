@@ -1,0 +1,4 @@
+IP-CIDR,180.92.160.0/20,no-resolve
+IP-CIDR6,2404:a500::/48,no-resolve
+IP-CIDR6,2404:a500:4::/47,no-resolve
+IP-CIDR6,2404:a500:7::/48,no-resolve

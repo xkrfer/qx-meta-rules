@@ -1,0 +1,8 @@
+IP-CIDR,152.216.0.0/19,no-resolve
+IP-CIDR6,2610:30::/33,no-resolve
+IP-CIDR6,2610:30:8000::/34,no-resolve
+IP-CIDR6,2610:30:c000::/35,no-resolve
+IP-CIDR6,2610:30:e500::/40,no-resolve
+IP-CIDR6,2610:30:e600::/39,no-resolve
+IP-CIDR6,2610:30:e800::/37,no-resolve
+IP-CIDR6,2610:30:f000::/36,no-resolve

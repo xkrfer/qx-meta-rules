@@ -1,0 +1,6 @@
+IP-CIDR,128.195.0.0/16,no-resolve
+IP-CIDR,128.200.0.0/16,no-resolve
+IP-CIDR,160.87.0.0/16,no-resolve
+IP-CIDR,169.234.0.0/16,no-resolve
+IP-CIDR,192.5.19.0/24,no-resolve
+IP-CIDR6,2607:f538::/32,no-resolve

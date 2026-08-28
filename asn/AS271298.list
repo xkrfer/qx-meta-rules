@@ -1,0 +1,4 @@
+IP-CIDR,200.53.84.0/22,no-resolve
+IP-CIDR6,2804:7950::/33,no-resolve
+IP-CIDR6,2804:7950:8000::/39,no-resolve
+IP-CIDR6,2804:7950:8200::/40,no-resolve

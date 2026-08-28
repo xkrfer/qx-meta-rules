@@ -1,0 +1,5 @@
+IP-CIDR,213.184.84.0/23,no-resolve
+IP-CIDR,213.184.86.0/24,no-resolve
+IP-CIDR6,2a09:3a00:3000::/40,no-resolve
+IP-CIDR6,2a09:3a00:3a00::/40,no-resolve
+IP-CIDR6,2a09:3a00:4000::/40,no-resolve

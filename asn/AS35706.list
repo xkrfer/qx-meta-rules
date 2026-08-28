@@ -1,0 +1,9 @@
+IP-CIDR,31.210.248.0/21,no-resolve
+IP-CIDR,77.105.192.0/18,no-resolve
+IP-CIDR,82.197.224.0/19,no-resolve
+IP-CIDR,85.195.0.0/18,no-resolve
+IP-CIDR,151.252.128.0/18,no-resolve
+IP-CIDR,178.249.144.0/21,no-resolve
+IP-CIDR,185.51.224.0/22,no-resolve
+IP-CIDR,217.10.96.0/19,no-resolve
+IP-CIDR6,2001:4db8::/32,no-resolve

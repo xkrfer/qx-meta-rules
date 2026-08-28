@@ -1,0 +1,16 @@
+IP-CIDR6,2804:83c4::/33,no-resolve
+IP-CIDR6,2804:83c4:8000::/48,no-resolve
+IP-CIDR6,2804:83c4:8008::/48,no-resolve
+IP-CIDR6,2804:83c4:800b::/48,no-resolve
+IP-CIDR6,2804:83c4:801c::/48,no-resolve
+IP-CIDR6,2804:83c4:a000::/40,no-resolve
+IP-CIDR6,2804:83c4:a200::/40,no-resolve
+IP-CIDR6,2804:83c4:a400::/39,no-resolve
+IP-CIDR6,2804:83c4:aa30::/44,no-resolve
+IP-CIDR6,2804:83c4:ad00::/40,no-resolve
+IP-CIDR6,2804:83c4:b500::/40,no-resolve
+IP-CIDR6,2804:83c4:b700::/40,no-resolve
+IP-CIDR6,2804:83c4:bb00::/40,no-resolve
+IP-CIDR6,2804:83c4:bd00::/40,no-resolve
+IP-CIDR6,2804:83c4:be00::/40,no-resolve
+IP-CIDR6,2804:83c4:c000::/34,no-resolve

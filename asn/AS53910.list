@@ -1,0 +1,11 @@
+IP-CIDR,50.117.160.0/20,no-resolve
+IP-CIDR,50.117.184.0/21,no-resolve
+IP-CIDR,76.9.40.0/22,no-resolve
+IP-CIDR,76.9.56.0/24,no-resolve
+IP-CIDR,76.9.62.0/24,no-resolve
+IP-CIDR,198.235.198.0/24,no-resolve
+IP-CIDR,199.85.221.0/24,no-resolve
+IP-CIDR,199.85.227.0/24,no-resolve
+IP-CIDR,207.189.248.0/24,no-resolve
+IP-CIDR,207.189.254.0/24,no-resolve
+IP-CIDR,216.126.108.0/24,no-resolve

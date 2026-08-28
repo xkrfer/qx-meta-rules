@@ -1,0 +1,5 @@
+IP-CIDR,177.22.16.0/20,no-resolve
+IP-CIDR6,2804:454:8::/48,no-resolve
+IP-CIDR6,2804:454:e::/47,no-resolve
+IP-CIDR6,2804:454:10::/44,no-resolve
+IP-CIDR6,2804:454:20::/43,no-resolve

@@ -1,0 +1,4 @@
+IP-CIDR6,2620:ae:a000::/48,no-resolve
+IP-CIDR6,2620:ae:a002::/47,no-resolve
+IP-CIDR6,2620:ae:a004::/46,no-resolve
+IP-CIDR6,2620:ae:a008::/45,no-resolve

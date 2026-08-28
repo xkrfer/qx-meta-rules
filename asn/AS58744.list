@@ -1,0 +1,6 @@
+IP-CIDR,103.31.96.0/23,no-resolve
+IP-CIDR,103.31.98.0/24,no-resolve
+IP-CIDR,185.252.252.0/22,no-resolve
+IP-CIDR6,2402:9880:100::/40,no-resolve
+IP-CIDR6,2402:9880:200::/39,no-resolve
+IP-CIDR6,2402:9880:400::/38,no-resolve

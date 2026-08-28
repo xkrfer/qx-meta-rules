@@ -1,0 +1,8 @@
+IP-CIDR,85.118.200.0/21,no-resolve
+IP-CIDR,185.112.136.0/22,no-resolve
+IP-CIDR6,2a06:6180::/40,no-resolve
+IP-CIDR6,2a06:6180:4000::/40,no-resolve
+IP-CIDR6,2a06:6180:8000::/40,no-resolve
+IP-CIDR6,2a06:6187::/35,no-resolve
+IP-CIDR6,2a06:6187:4000::/35,no-resolve
+IP-CIDR6,2a06:6187:8000::/35,no-resolve

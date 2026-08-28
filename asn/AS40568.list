@@ -1,0 +1,4 @@
+IP-CIDR,149.112.121.0/24,no-resolve
+IP-CIDR,149.112.122.0/24,no-resolve
+IP-CIDR6,2620:10a:80bb::/48,no-resolve
+IP-CIDR6,2620:10a:80bc::/48,no-resolve

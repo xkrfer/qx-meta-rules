@@ -1,0 +1,5 @@
+IP-CIDR6,2602:81a:3000::/47,no-resolve
+IP-CIDR6,2602:81a:3004::/46,no-resolve
+IP-CIDR6,2602:81a:3008::/46,no-resolve
+IP-CIDR6,2602:81a:300c::/47,no-resolve
+IP-CIDR6,2602:81a:300e::/48,no-resolve

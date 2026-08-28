@@ -1,0 +1,5 @@
+IP-CIDR,138.59.80.0/23,no-resolve
+IP-CIDR,138.59.83.0/24,no-resolve
+IP-CIDR6,2804:225c::/36,no-resolve
+IP-CIDR6,2804:225c:7000::/36,no-resolve
+IP-CIDR6,2804:225c:e000::/35,no-resolve

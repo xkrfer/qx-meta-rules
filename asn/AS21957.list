@@ -1,0 +1,3 @@
+IP-CIDR,104.37.41.0/24,no-resolve
+IP-CIDR6,2605:f440:5600::/47,no-resolve
+IP-CIDR6,2605:f440:5652::/47,no-resolve

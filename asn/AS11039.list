@@ -1,0 +1,4 @@
+IP-CIDR,128.164.0.0/16,no-resolve
+IP-CIDR,161.253.0.0/16,no-resolve
+IP-CIDR6,2606:69c0:5000::/36,no-resolve
+IP-CIDR6,2606:69c0:9000::/36,no-resolve

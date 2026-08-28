@@ -1,0 +1,4 @@
+IP-CIDR,151.247.21.0/24,no-resolve
+IP-CIDR,192.141.163.0/24,no-resolve
+IP-CIDR6,2804:9644:100::/40,no-resolve
+IP-CIDR6,2804:9644:201::/48,no-resolve

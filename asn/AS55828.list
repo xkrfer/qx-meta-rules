@@ -1,0 +1,14 @@
+IP-CIDR,45.115.112.0/22,no-resolve
+IP-CIDR,103.10.52.0/22,no-resolve
+IP-CIDR,121.200.60.0/22,no-resolve
+IP-CIDR6,2401:3300:1::/48,no-resolve
+IP-CIDR6,2401:3300:2::/47,no-resolve
+IP-CIDR6,2401:3300:4::/47,no-resolve
+IP-CIDR6,2401:3300:6::/48,no-resolve
+IP-CIDR6,2401:3300:bd::/48,no-resolve
+IP-CIDR6,2401:3300:dd::/48,no-resolve
+IP-CIDR6,2401:3300:ff::/48,no-resolve
+IP-CIDR6,2401:3300:1bd::/48,no-resolve
+IP-CIDR6,2401:3300:310::/45,no-resolve
+IP-CIDR6,2401:3300:318::/47,no-resolve
+IP-CIDR6,2401:3300:320::/48,no-resolve

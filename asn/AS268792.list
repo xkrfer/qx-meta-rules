@@ -1,0 +1,3 @@
+IP-CIDR,45.173.20.0/24,no-resolve
+IP-CIDR,45.173.22.0/23,no-resolve
+IP-CIDR6,2804:5abc::/32,no-resolve

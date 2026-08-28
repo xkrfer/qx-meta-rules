@@ -1,0 +1,10 @@
+IP-CIDR,103.108.228.0/24,no-resolve
+IP-CIDR,185.199.227.0/24,no-resolve
+IP-CIDR,195.114.14.0/23,no-resolve
+IP-CIDR,195.114.126.0/23,no-resolve
+IP-CIDR6,2402:7340:1::/48,no-resolve
+IP-CIDR6,2402:7340:2::/47,no-resolve
+IP-CIDR6,2402:7340:5::/48,no-resolve
+IP-CIDR6,2402:7340:4000::/34,no-resolve
+IP-CIDR6,2402:7340:8000::/37,no-resolve
+IP-CIDR6,2a14:7581:d000::/40,no-resolve

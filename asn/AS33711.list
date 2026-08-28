@@ -1,0 +1,15 @@
+IP-CIDR,128.254.225.0/24,no-resolve
+IP-CIDR6,2602:fbec::/39,no-resolve
+IP-CIDR6,2602:fbec:200::/40,no-resolve
+IP-CIDR6,2602:fbec:300::/43,no-resolve
+IP-CIDR6,2602:fbec:320::/44,no-resolve
+IP-CIDR6,2602:fbec:330::/48,no-resolve
+IP-CIDR6,2602:fbec:334::/47,no-resolve
+IP-CIDR6,2602:fbec:337::/48,no-resolve
+IP-CIDR6,2602:fbec:339::/48,no-resolve
+IP-CIDR6,2602:fbec:33a::/47,no-resolve
+IP-CIDR6,2602:fbec:33c::/46,no-resolve
+IP-CIDR6,2602:fbec:340::/42,no-resolve
+IP-CIDR6,2602:fbec:380::/41,no-resolve
+IP-CIDR6,2602:fbec:400::/38,no-resolve
+IP-CIDR6,2602:fbec:800::/37,no-resolve

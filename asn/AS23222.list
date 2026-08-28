@@ -1,0 +1,7 @@
+IP-CIDR,76.58.18.0/23,no-resolve
+IP-CIDR,192.61.88.0/21,no-resolve
+IP-CIDR6,2602:107:4200::/44,no-resolve
+IP-CIDR6,2602:107:4220::/43,no-resolve
+IP-CIDR6,2602:107:4240::/42,no-resolve
+IP-CIDR6,2602:107:4280::/41,no-resolve
+IP-CIDR6,2602:107:e800::/43,no-resolve

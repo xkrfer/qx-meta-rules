@@ -1,0 +1,8 @@
+IP-CIDR,147.160.161.0/32,no-resolve
+IP-CIDR,147.160.161.2/31,no-resolve
+IP-CIDR,147.160.161.4/30,no-resolve
+IP-CIDR,147.160.161.8/29,no-resolve
+IP-CIDR,147.160.161.16/28,no-resolve
+IP-CIDR,147.160.161.32/27,no-resolve
+IP-CIDR,147.160.161.64/26,no-resolve
+IP-CIDR,147.160.161.128/25,no-resolve

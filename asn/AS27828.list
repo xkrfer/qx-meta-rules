@@ -1,0 +1,8 @@
+IP-CIDR,200.7.160.0/20,no-resolve
+IP-CIDR6,2801:104:8::/47,no-resolve
+IP-CIDR6,2801:104:16::/47,no-resolve
+IP-CIDR6,2801:104:20::/44,no-resolve
+IP-CIDR6,2801:104:40::/44,no-resolve
+IP-CIDR6,2801:104:a6::/47,no-resolve
+IP-CIDR6,2801:104:c0::/47,no-resolve
+IP-CIDR6,2801:104:dc::/46,no-resolve

@@ -1,0 +1,6 @@
+IP-CIDR,160.20.142.0/24,no-resolve
+IP-CIDR,182.237.60.0/24,no-resolve
+IP-CIDR6,2a06:9f81:3000::/48,no-resolve
+IP-CIDR6,2a06:9f81:3002::/47,no-resolve
+IP-CIDR6,2a06:9f81:3030::/48,no-resolve
+IP-CIDR6,2a06:9f81:3044::/48,no-resolve

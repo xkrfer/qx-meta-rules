@@ -1,0 +1,11 @@
+IP-CIDR,37.148.0.0/18,no-resolve
+IP-CIDR,37.148.64.0/20,no-resolve
+IP-CIDR,37.148.80.0/21,no-resolve
+IP-CIDR,37.148.88.0/22,no-resolve
+IP-CIDR,37.148.92.0/24,no-resolve
+IP-CIDR,37.148.94.0/23,no-resolve
+IP-CIDR,37.148.96.0/19,no-resolve
+IP-CIDR,37.202.128.0/21,no-resolve
+IP-CIDR,37.202.144.0/20,no-resolve
+IP-CIDR,37.202.160.0/19,no-resolve
+IP-CIDR,37.202.252.0/22,no-resolve

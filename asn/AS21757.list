@@ -1,0 +1,6 @@
+IP-CIDR,45.42.216.0/22,no-resolve
+IP-CIDR,163.123.134.0/23,no-resolve
+IP-CIDR,192.234.34.0/24,no-resolve
+IP-CIDR,204.144.136.0/22,no-resolve
+IP-CIDR,208.71.96.0/21,no-resolve
+IP-CIDR6,2602:ffcb::/32,no-resolve

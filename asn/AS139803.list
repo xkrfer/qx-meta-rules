@@ -1,0 +1,8 @@
+IP-CIDR,85.149.192.0/20,no-resolve
+IP-CIDR6,2a0b:d904::/30,no-resolve
+IP-CIDR6,2a0d:b140::/32,no-resolve
+IP-CIDR6,2a10:bc42::/32,no-resolve
+IP-CIDR6,2a11:c946::/32,no-resolve
+IP-CIDR6,2a12:28c4::/30,no-resolve
+IP-CIDR6,2a12:5f44::/32,no-resolve
+IP-CIDR6,2a14:e04::/30,no-resolve

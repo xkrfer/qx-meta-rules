@@ -1,0 +1,6 @@
+IP-CIDR,103.251.240.0/23,no-resolve
+IP-CIDR,116.129.224.0/24,no-resolve
+IP-CIDR,116.129.226.0/24,no-resolve
+IP-CIDR,116.129.242.0/23,no-resolve
+IP-CIDR6,2408:8001:e800::/37,no-resolve
+IP-CIDR6,2408:8779::/34,no-resolve

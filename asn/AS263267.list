@@ -1,0 +1,4 @@
+IP-CIDR,179.108.24.0/21,no-resolve
+IP-CIDR6,2804:1618::/34,no-resolve
+IP-CIDR6,2804:1618:4000::/35,no-resolve
+IP-CIDR6,2804:1618:8000::/33,no-resolve

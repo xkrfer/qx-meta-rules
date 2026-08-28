@@ -1,0 +1,4 @@
+IP-CIDR,130.238.0.0/18,no-resolve
+IP-CIDR,130.238.64.0/19,no-resolve
+IP-CIDR,130.238.128.0/17,no-resolve
+IP-CIDR,193.10.132.0/22,no-resolve

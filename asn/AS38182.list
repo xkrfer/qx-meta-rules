@@ -1,0 +1,7 @@
+IP-CIDR,58.84.16.0/22,no-resolve
+IP-CIDR,113.23.128.0/17,no-resolve
+IP-CIDR,203.188.232.0/21,no-resolve
+IP-CIDR6,2407:f800::/38,no-resolve
+IP-CIDR6,2407:f800:400::/39,no-resolve
+IP-CIDR6,2407:f800:700::/40,no-resolve
+IP-CIDR6,2407:f800:800::/40,no-resolve

@@ -1,0 +1,5 @@
+IP-CIDR,200.114.88.0/21,no-resolve
+IP-CIDR6,2803:420::/33,no-resolve
+IP-CIDR6,2803:420:8000::/34,no-resolve
+IP-CIDR6,2803:420:c000::/35,no-resolve
+IP-CIDR6,2803:420:e000::/36,no-resolve

@@ -1,0 +1,5 @@
+IP-CIDR,103.47.78.0/24,no-resolve
+IP-CIDR,103.87.150.0/23,no-resolve
+IP-CIDR,103.230.101.0/24,no-resolve
+IP-CIDR,103.230.102.0/23,no-resolve
+IP-CIDR6,2001:df1:fb40::/48,no-resolve

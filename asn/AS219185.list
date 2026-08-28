@@ -1,0 +1,3 @@
+IP-CIDR,82.110.112.0/24,no-resolve
+IP-CIDR6,2a06:9801:f1c::/48,no-resolve
+IP-CIDR6,2a13:9500:1ab::/48,no-resolve

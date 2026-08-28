@@ -1,0 +1,6 @@
+IP-CIDR,200.106.188.0/24,no-resolve
+IP-CIDR,200.106.190.0/23,no-resolve
+IP-CIDR6,2804:78a4:1::/48,no-resolve
+IP-CIDR6,2804:78a4:2::/48,no-resolve
+IP-CIDR6,2804:78a4:4::/47,no-resolve
+IP-CIDR6,2804:78a4:6::/48,no-resolve

@@ -1,0 +1,5 @@
+IP-CIDR,203.119.2.0/24,no-resolve
+IP-CIDR,203.119.87.0/24,no-resolve
+IP-CIDR6,2001:dca:1000::/36,no-resolve
+IP-CIDR6,2001:dca:2000::/35,no-resolve
+IP-CIDR6,2001:dca:4000::/36,no-resolve

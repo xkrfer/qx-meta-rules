@@ -1,0 +1,4 @@
+IP-CIDR,120.88.96.0/20,no-resolve
+IP-CIDR6,2406:f0c0:107::/48,no-resolve
+IP-CIDR6,2406:f0c0:108::/47,no-resolve
+IP-CIDR6,2406:f0c0:110::/47,no-resolve

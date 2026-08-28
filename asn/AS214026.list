@@ -1,0 +1,6 @@
+IP-CIDR,23.26.139.0/24,no-resolve
+IP-CIDR,23.129.68.0/24,no-resolve
+IP-CIDR,84.54.0.0/23,no-resolve
+IP-CIDR,141.11.150.0/23,no-resolve
+IP-CIDR6,2602:faa8:260::/44,no-resolve
+IP-CIDR6,2602:faa8:601::/48,no-resolve

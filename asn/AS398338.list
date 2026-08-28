@@ -1,0 +1,6 @@
+IP-CIDR,23.140.212.0/24,no-resolve
+IP-CIDR6,2602:f605::/40,no-resolve
+IP-CIDR6,2602:f605:100::/47,no-resolve
+IP-CIDR6,2602:f605:103::/48,no-resolve
+IP-CIDR6,2602:f605:111::/48,no-resolve
+IP-CIDR6,2602:f605:112::/47,no-resolve

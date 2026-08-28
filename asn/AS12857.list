@@ -1,0 +1,8 @@
+IP-CIDR,194.147.133.0/24,no-resolve
+IP-CIDR6,2a00:b400::/30,no-resolve
+IP-CIDR6,2a00:b404::/33,no-resolve
+IP-CIDR6,2a00:b404:8000::/34,no-resolve
+IP-CIDR6,2a00:b404:c000::/35,no-resolve
+IP-CIDR6,2a00:b404:f000::/36,no-resolve
+IP-CIDR6,2a00:b405::/32,no-resolve
+IP-CIDR6,2a00:b406::/31,no-resolve

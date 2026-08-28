@@ -1,0 +1,4 @@
+IP-CIDR,45.168.48.0/22,no-resolve
+IP-CIDR6,2804:56cc:c000::/40,no-resolve
+IP-CIDR6,2804:5700::/33,no-resolve
+IP-CIDR6,2804:5700:8000::/34,no-resolve

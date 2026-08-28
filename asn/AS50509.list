@@ -1,0 +1,4 @@
+IP-CIDR,5.188.236.0/23,no-resolve
+IP-CIDR,146.185.212.0/23,no-resolve
+IP-CIDR,146.185.222.0/24,no-resolve
+IP-CIDR6,2001:678:c5c::/48,no-resolve

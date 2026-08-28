@@ -1,0 +1,4 @@
+IP-CIDR,23.138.32.0/24,no-resolve
+IP-CIDR,134.195.12.0/22,no-resolve
+IP-CIDR6,2602:fcdf::/36,no-resolve
+IP-CIDR6,2602:febc::/36,no-resolve

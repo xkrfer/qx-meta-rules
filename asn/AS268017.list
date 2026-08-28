@@ -1,0 +1,6 @@
+IP-CIDR,45.167.164.0/22,no-resolve
+IP-CIDR6,2804:56ac::/36,no-resolve
+IP-CIDR6,2804:56ac:8000::/36,no-resolve
+IP-CIDR6,2804:56ac:c800::/40,no-resolve
+IP-CIDR6,2804:56ac:f001::/48,no-resolve
+IP-CIDR6,2804:56ac:ffff::/48,no-resolve

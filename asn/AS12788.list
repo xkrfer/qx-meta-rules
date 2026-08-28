@@ -1,0 +1,5 @@
+IP-CIDR,80.78.32.0/20,no-resolve
+IP-CIDR,80.78.48.0/21,no-resolve
+IP-CIDR,80.78.56.0/22,no-resolve
+IP-CIDR,80.78.60.0/24,no-resolve
+IP-CIDR,80.78.62.0/24,no-resolve

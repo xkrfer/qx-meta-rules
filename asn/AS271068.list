@@ -1,0 +1,6 @@
+IP-CIDR,179.48.72.0/22,no-resolve
+IP-CIDR6,2804:75c4::/33,no-resolve
+IP-CIDR6,2804:75c4:8000::/35,no-resolve
+IP-CIDR6,2804:75c4:a100::/40,no-resolve
+IP-CIDR6,2804:75c4:b000::/36,no-resolve
+IP-CIDR6,2804:75c4:c000::/34,no-resolve

@@ -1,0 +1,8 @@
+IP-CIDR,170.239.0.0/22,no-resolve
+IP-CIDR,186.232.200.0/21,no-resolve
+IP-CIDR6,2804:93c::/38,no-resolve
+IP-CIDR6,2804:93c:400::/40,no-resolve
+IP-CIDR6,2804:93c:8100::/40,no-resolve
+IP-CIDR6,2804:93c:8200::/39,no-resolve
+IP-CIDR6,2804:93c:fb00::/40,no-resolve
+IP-CIDR6,2804:93c:fc00::/38,no-resolve

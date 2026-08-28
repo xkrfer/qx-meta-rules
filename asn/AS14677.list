@@ -1,0 +1,7 @@
+IP-CIDR,131.191.0.0/18,no-resolve
+IP-CIDR,131.191.64.0/19,no-resolve
+IP-CIDR,131.191.96.0/20,no-resolve
+IP-CIDR,131.191.112.0/21,no-resolve
+IP-CIDR,131.191.120.0/22,no-resolve
+IP-CIDR,131.191.124.0/23,no-resolve
+IP-CIDR,192.173.160.0/20,no-resolve

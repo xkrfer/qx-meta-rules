@@ -1,0 +1,5 @@
+IP-CIDR,64.98.4.0/23,no-resolve
+IP-CIDR,64.98.14.0/23,no-resolve
+IP-CIDR,98.124.212.0/24,no-resolve
+IP-CIDR6,2604:4000:6800::/37,no-resolve
+IP-CIDR6,2604:4000:7000::/37,no-resolve

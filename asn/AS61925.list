@@ -1,0 +1,5 @@
+IP-CIDR,190.107.192.0/23,no-resolve
+IP-CIDR,190.107.196.0/22,no-resolve
+IP-CIDR6,2804:1838::/36,no-resolve
+IP-CIDR6,2804:1838:8000::/36,no-resolve
+IP-CIDR6,2804:1838:e000::/36,no-resolve

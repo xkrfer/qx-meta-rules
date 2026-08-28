@@ -1,0 +1,4 @@
+IP-CIDR,202.28.128.0/18,no-resolve
+IP-CIDR6,2001:3c8:1202::/48,no-resolve
+IP-CIDR6,2001:3c8:1606::/48,no-resolve
+IP-CIDR6,2001:3c8:2707::/48,no-resolve

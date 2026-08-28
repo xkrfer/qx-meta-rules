@@ -1,0 +1,6 @@
+IP-CIDR,182.161.72.0/22,no-resolve
+IP-CIDR6,2406:2600:4::/47,no-resolve
+IP-CIDR6,2406:2600:7::/48,no-resolve
+IP-CIDR6,2406:2600:8::/47,no-resolve
+IP-CIDR6,2406:2600:b::/48,no-resolve
+IP-CIDR6,2406:2600:c::/47,no-resolve

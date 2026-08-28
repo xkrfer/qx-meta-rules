@@ -1,0 +1,5 @@
+IP-CIDR,23.157.200.0/24,no-resolve
+IP-CIDR6,2602:815:3000::/47,no-resolve
+IP-CIDR6,2602:815:3002::/48,no-resolve
+IP-CIDR6,2602:815:3004::/46,no-resolve
+IP-CIDR6,2602:815:3008::/45,no-resolve

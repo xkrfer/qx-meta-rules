@@ -1,0 +1,4 @@
+IP-CIDR6,2602:fafd:f04::/48,no-resolve
+IP-CIDR6,2a06:1286::/32,no-resolve
+IP-CIDR6,2a06:a001:a0b0::/44,no-resolve
+IP-CIDR6,2a06:a005:1db0::/44,no-resolve

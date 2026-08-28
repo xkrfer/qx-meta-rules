@@ -1,0 +1,3 @@
+IP-CIDR,177.190.216.0/21,no-resolve
+IP-CIDR6,2804:123c:2000::/35,no-resolve
+IP-CIDR6,2804:123c:e000::/35,no-resolve

@@ -1,0 +1,5 @@
+IP-CIDR6,2001:e60::/34,no-resolve
+IP-CIDR6,2001:e60:4000::/36,no-resolve
+IP-CIDR6,2001:e60:8000::/34,no-resolve
+IP-CIDR6,2001:e60:c000::/35,no-resolve
+IP-CIDR6,2001:e60:e990::/48,no-resolve

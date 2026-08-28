@@ -1,0 +1,4 @@
+IP-CIDR,177.84.72.0/23,no-resolve
+IP-CIDR,177.84.75.0/24,no-resolve
+IP-CIDR6,2804:c80::/34,no-resolve
+IP-CIDR6,2804:c80:c000::/34,no-resolve

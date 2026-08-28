@@ -1,0 +1,5 @@
+IP-CIDR,177.129.136.0/21,no-resolve
+IP-CIDR6,2804:f68::/35,no-resolve
+IP-CIDR6,2804:f68:3000::/36,no-resolve
+IP-CIDR6,2804:f68:4000::/35,no-resolve
+IP-CIDR6,2804:f68:7000::/36,no-resolve

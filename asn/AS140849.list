@@ -1,0 +1,6 @@
+IP-CIDR,103.152.104.0/23,no-resolve
+IP-CIDR,103.231.35.0/24,no-resolve
+IP-CIDR,138.252.144.0/23,no-resolve
+IP-CIDR,162.4.178.0/23,no-resolve
+IP-CIDR6,2001:df4:a80::/48,no-resolve
+IP-CIDR6,2402:37a0::/32,no-resolve

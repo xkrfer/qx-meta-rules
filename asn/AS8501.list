@@ -1,0 +1,6 @@
+IP-CIDR,212.191.224.0/23,no-resolve
+IP-CIDR,212.191.227.0/24,no-resolve
+IP-CIDR,212.191.229.0/24,no-resolve
+IP-CIDR,212.191.240.0/23,no-resolve
+IP-CIDR,212.191.244.0/24,no-resolve
+IP-CIDR6,2001:b10:c000::/35,no-resolve

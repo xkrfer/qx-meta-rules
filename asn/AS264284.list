@@ -1,0 +1,3 @@
+IP-CIDR,138.121.0.0/22,no-resolve
+IP-CIDR6,2804:2580::/35,no-resolve
+IP-CIDR6,2804:2580:4000::/35,no-resolve

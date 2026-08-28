@@ -1,0 +1,4 @@
+IP-CIDR,207.245.144.0/22,no-resolve
+IP-CIDR,207.245.148.0/24,no-resolve
+IP-CIDR6,2607:4060::/46,no-resolve
+IP-CIDR6,2607:4060:4::/48,no-resolve
