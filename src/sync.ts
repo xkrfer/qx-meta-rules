@@ -1,6 +1,6 @@
 import { mkdir, readdir, unlink } from "node:fs/promises";
 import { dirname, join, relative } from "node:path";
-import { convertList } from "./convert";
+import { convertList, type ConvertTarget } from "./convert";
 
 export const LIST_ROOTS = ["geo/geosite", "geo/geoip", "geo-lite", "asn"] as const;
 export const SKIP_DIR_NAMES = new Set(["classical"]);
@@ -9,6 +9,7 @@ export const DEFAULT_BRANCH = "meta";
 
 export type SyncOptions = {
   outDir: string;
+  target?: ConvertTarget;
   upstreamUrl?: string;
   upstreamDir?: string;
   workDir?: string;
@@ -22,6 +23,7 @@ export type SyncReport = {
 };
 
 export async function sync(options: SyncOptions): Promise<SyncReport> {
+  const target = options.target ?? "qx";
   const upstreamDir = options.upstreamDir ?? (await cloneUpstream(options));
   const relativePaths = await collectListFiles(upstreamDir);
   const incoming = new Map<string, string | "keep">();
@@ -32,7 +34,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
   for (const relativePath of relativePaths) {
     const source = join(upstreamDir, relativePath);
     const text = await Bun.file(source).text();
-    const result = convertList(text);
+    const result = convertList(text, target);
     if (result.ok) {
       incoming.set(relativePath, result.text);
       written.push(relativePath);
@@ -45,7 +47,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
 
   const deleted = await applyPublish(options.outDir, incoming);
   await removeSkippedDirs(options.outDir);
-  await writeReleaseReadme(options.outDir);
+  await writeReleaseReadme(options.outDir, target);
 
   if (failed.length > 0) {
     console.error("convert failed:");
@@ -83,10 +85,16 @@ export async function applyPublish(
   return deleted;
 }
 
-const README_SOURCE = join(import.meta.dir, "release-readme.md");
+const README_BY_TARGET: Record<ConvertTarget, string> = {
+  qx: "release-readme.md",
+  loon: "loon-readme.md",
+};
 
-export async function writeReleaseReadme(outDir: string): Promise<void> {
-  const source = Bun.file(README_SOURCE);
+export async function writeReleaseReadme(
+  outDir: string,
+  target: ConvertTarget = "qx",
+): Promise<void> {
+  const source = Bun.file(join(import.meta.dir, README_BY_TARGET[target]));
   if (!(await source.exists())) {
     return;
   }

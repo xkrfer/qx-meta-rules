@@ -73,4 +73,55 @@ describe("sync without clone", () => {
     expect(report.failed.some((item) => item.includes("classical"))).toBe(false);
     expect(report.failed.some((item) => item.startsWith("geo/geosite/bad.list"))).toBe(true);
   });
+
+  test("converts every list to Loon under the four roots", async () => {
+    const upstreamDir = join(tmp, "loon-upstream");
+    const outDir = join(tmp, "loon-out");
+    await mkdir(join(upstreamDir, "geo/geosite"), { recursive: true });
+    await mkdir(join(upstreamDir, "geo/geoip"), { recursive: true });
+    await mkdir(join(upstreamDir, "geo-lite/geosite"), { recursive: true });
+    await mkdir(join(upstreamDir, "asn"), { recursive: true });
+    await Bun.write(join(upstreamDir, "geo/geosite/google.list"), "+.google.com\n*.google.com\n*.goo?le.com\n");
+    await Bun.write(join(upstreamDir, "geo/geosite/ads.list"), "regexp:foo\n");
+    await Bun.write(join(upstreamDir, "geo/geoip/cn.list"), "1.1.8.0/24\n");
+    await Bun.write(join(upstreamDir, "geo-lite/geosite/google.list"), "google.com\n");
+    await Bun.write(join(upstreamDir, "asn/cloudflare.list"), "AS13335\n");
+    await Bun.write(join(upstreamDir, "geo/geosite/bad.list"), "regexp:foo\n");
+    await mkdir(join(upstreamDir, "geo/geoip/classical"), { recursive: true });
+    await Bun.write(join(upstreamDir, "geo/geoip/classical/cn.list"), "IP-CIDR,1.1.8.0/24\n");
+    await mkdir(join(outDir, "geo/geosite"), { recursive: true });
+    await mkdir(join(outDir, "geo/geoip/classical"), { recursive: true });
+    await Bun.write(join(outDir, "geo/geosite/google.list"), "old-google\n");
+    await Bun.write(join(outDir, "geo/geosite/ads.list"), "old-ads\n");
+    await Bun.write(join(outDir, "geo/geosite/old.list"), "stale\n");
+    await Bun.write(join(outDir, "geo/geoip/classical/legacy.list"), "stale-classical\n");
+
+    const report = await sync({ outDir, upstreamDir, target: "loon" });
+    const files = await collectListFiles(outDir);
+    const readme = await Bun.file(join(import.meta.dir, "..", "src", "loon-readme.md")).text();
+
+    expect(files).toEqual([
+      "asn/cloudflare.list",
+      "geo-lite/geosite/google.list",
+      "geo/geoip/cn.list",
+      "geo/geosite/ads.list",
+      "geo/geosite/google.list",
+    ]);
+    expect(await Bun.file(join(outDir, "geo/geosite/google.list")).text()).toBe(
+      "DOMAIN-SUFFIX,google.com\nDOMAIN-SUFFIX,google.com\n",
+    );
+    expect(await Bun.file(join(outDir, "geo/geosite/ads.list")).text()).toBe("old-ads\n");
+    expect(await Bun.file(join(outDir, "geo/geoip/cn.list")).text()).toBe(
+      "IP-CIDR,1.1.8.0/24,no-resolve\n",
+    );
+    expect(await Bun.file(join(outDir, "README.md")).text()).toBe(readme);
+    expect(await Bun.file(join(outDir, "index.json")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geosite/bad.list")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geosite/old.list")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geoip/classical/cn.list")).exists()).toBe(false);
+    expect(await Bun.file(join(outDir, "geo/geoip/classical/legacy.list")).exists()).toBe(false);
+    expect(report.failed.some((item) => item.includes("classical"))).toBe(false);
+    expect(report.failed.some((item) => item.startsWith("geo/geosite/ads.list"))).toBe(true);
+    expect(report.failed.some((item) => item.startsWith("geo/geosite/bad.list"))).toBe(true);
+  });
 });

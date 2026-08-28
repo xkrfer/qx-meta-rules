@@ -20,21 +20,29 @@ jobs:
         with:
           bun-version: 1.3.13
 
-      - name: Prepare release worktree
+      - name: Prepare publish worktrees
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git ls-remote --exit-code --heads origin release; then
-            git fetch origin release
-            git worktree add release-out origin/release
-          else
-            git worktree add --detach release-out
-            git -C release-out checkout --orphan release
-            git -C release-out rm -rf --ignore-unmatch .
-          fi
+          prepare_worktree() {
+            local branch="$1"
+            local dir="$2"
+            if git ls-remote --exit-code --heads origin "$branch"; then
+              git fetch origin "$branch"
+              git worktree add "$dir" "origin/$branch"
+            else
+              git worktree add --detach "$dir"
+              git -C "$dir" checkout --orphan "$branch"
+              git -C "$dir" rm -rf --ignore-unmatch .
+            fi
+          }
+          prepare_worktree release release-out
+          prepare_worktree loon loon-out
 
       - name: Convert and publish
-        run: bun src/cli.ts sync --out release-out
+        run: |
+          bun src/cli.ts sync --target qx --out release-out --workdir .tmp/upstream-meta
+          bun src/cli.ts sync --target loon --out loon-out --upstream-dir .tmp/upstream-meta
 
       - name: Commit release
         run: |
@@ -46,3 +54,14 @@ jobs:
           fi
           git commit -m "sync: update Quantumult X rules"
           git push origin HEAD:release
+
+      - name: Commit loon
+        run: |
+          cd loon-out
+          git add --all -- ':!.git'
+          if git diff --cached --quiet; then
+            echo "No rule changes"
+            exit 0
+          fi
+          git commit -m "sync: update Loon rules"
+          git push origin HEAD:loon

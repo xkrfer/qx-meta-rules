@@ -1,6 +1,6 @@
 import { mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import { convertList } from "./convert";
+import { convertList, type ConvertTarget } from "./convert";
 import { sync } from "./sync";
 
 const args = process.argv.slice(2);
@@ -14,10 +14,19 @@ function flag(name: string, fallback?: string): string | undefined {
   return args[index + 1];
 }
 
+function parseTarget(): ConvertTarget {
+  const value = flag("--target", "qx") ?? "qx";
+  if (value !== "qx" && value !== "loon") {
+    console.error("target must be qx or loon");
+    process.exit(1);
+  }
+  return value;
+}
+
 if (command === "convert") {
   const input = args[1];
   if (!input) {
-    console.error("usage: bun src/cli.ts convert <file> [--out <dir>]");
+    console.error("usage: bun src/cli.ts convert <file> [--target qx|loon] [--out <dir>]");
     process.exit(1);
   }
 
@@ -29,7 +38,7 @@ if (command === "convert") {
     process.exit(1);
   }
 
-  const result = convertList(await source.text());
+  const result = convertList(await source.text(), parseTarget());
   if (!result.ok) {
     console.error(`convert failed ${input}:${result.lineNumber}: ${result.reason}`);
     process.exit(1);
@@ -41,6 +50,7 @@ if (command === "convert") {
   const outDir = flag("--out", ".tmp") ?? ".tmp";
   const report = await sync({
     outDir,
+    target: parseTarget(),
     upstreamUrl: flag("--upstream"),
     upstreamDir: flag("--upstream-dir"),
     workDir: flag("--workdir"),
@@ -52,6 +62,6 @@ if (command === "convert") {
     process.exitCode = 0;
   }
 } else {
-  console.error("usage: bun src/cli.ts <convert|sync>");
+  console.error("usage: bun src/cli.ts <convert|sync> [--target qx|loon]");
   process.exit(1);
 }
