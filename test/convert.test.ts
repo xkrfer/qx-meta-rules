@@ -1,33 +1,23 @@
 import { describe, expect, test } from "bun:test";
-import { convertList, formatUpdateHeader } from "../src/convert";
+import { convertList } from "../src/convert";
 
 const fixtures = import.meta.dir + "/fixtures";
-const updatedAt = new Date("2026-08-25T00:00:00.000Z");
-const header = formatUpdateHeader(updatedAt);
-
-describe("formatUpdateHeader", () => {
-  test("emits the update banner with a UTC date", () => {
-    expect(header).toBe(
-      "#======================================#\n#Update 2026-08-25\n#======================================#\n",
-    );
-  });
-});
 
 describe("convertList", () => {
   test("maps supported lines to QX rules", async () => {
     const input = await Bun.file(`${fixtures}/success.list`).text();
     const expected = await Bun.file(`${fixtures}/success.qx`).text();
-    const result = convertList(input, { updatedAt });
+    const result = convertList(input);
     expect(result.ok).toBe(true);
     if (result.ok) {
-      expect(result.text).toBe(`${header}${expected}`);
+      expect(result.text).toBe(expected);
     }
   });
 
-  test("skips comment-only input but keeps the update header", async () => {
+  test("skips comment-only input and emits an empty file", async () => {
     const input = await Bun.file(`${fixtures}/comments-only.list`).text();
-    const result = convertList(input, { updatedAt });
-    expect(result).toEqual({ ok: true, text: header });
+    const result = convertList(input);
+    expect(result).toEqual({ ok: true, text: "" });
   });
 
   test("fails on classical clash rules", async () => {
@@ -54,19 +44,19 @@ describe("convertList", () => {
     }
   });
 
-  test("prefixes converted rules with an update header", () => {
-    const result = convertList("+.google.com\n", { updatedAt });
+  test("emits converted rules without an update header", () => {
+    const result = convertList("+.google.com\n");
     expect(result).toEqual({
       ok: true,
-      text: `${header}host-suffix, google.com, proxy\n`,
+      text: "host-suffix, google.com, proxy\n",
     });
   });
 
   test("does not treat hostnames starting with as as ASN", () => {
-    const result = convertList("assets.ppy.sh\nasusrouter.com\nAS6185\n", { updatedAt });
+    const result = convertList("assets.ppy.sh\nasusrouter.com\nAS6185\n");
     expect(result).toEqual({
       ok: true,
-      text: `${header}host, assets.ppy.sh, proxy\nhost, asusrouter.com, proxy\nip-asn, 6185, proxy\n`,
+      text: "host, assets.ppy.sh, proxy\nhost, asusrouter.com, proxy\nip-asn, 6185, proxy\n",
     });
   });
 });

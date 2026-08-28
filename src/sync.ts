@@ -12,7 +12,6 @@ export type SyncOptions = {
   upstreamUrl?: string;
   upstreamDir?: string;
   workDir?: string;
-  updatedAt?: Date;
 };
 
 export type SyncReport = {
@@ -33,7 +32,7 @@ export async function sync(options: SyncOptions): Promise<SyncReport> {
   for (const relativePath of relativePaths) {
     const source = join(upstreamDir, relativePath);
     const text = await Bun.file(source).text();
-    const result = convertList(text, { updatedAt: options.updatedAt });
+    const result = convertList(text);
     if (result.ok) {
       incoming.set(relativePath, result.text);
       written.push(relativePath);

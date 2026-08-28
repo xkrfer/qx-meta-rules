@@ -1,11 +1,7 @@
 import { afterAll, describe, expect, test } from "bun:test";
 import { mkdir } from "node:fs/promises";
 import { join } from "node:path";
-import { formatUpdateHeader } from "../src/convert";
 import { applyPublish, collectListFiles, sync } from "../src/sync";
-
-const updatedAt = new Date("2026-08-25T00:00:00.000Z");
-const header = formatUpdateHeader(updatedAt);
 
 const tmp = join(import.meta.dir, "..", ".tmp", "sync-test");
 
@@ -57,7 +53,7 @@ describe("sync without clone", () => {
     await mkdir(join(outDir, "geo/geoip/classical"), { recursive: true });
     await Bun.write(join(outDir, "geo/geoip/classical/legacy.list"), "stale-classical\n");
 
-    const report = await sync({ outDir, upstreamDir, updatedAt });
+    const report = await sync({ outDir, upstreamDir });
     const files = await collectListFiles(outDir);
     const readme = await Bun.file(join(import.meta.dir, "..", "src", "release-readme.md")).text();
 
@@ -68,7 +64,7 @@ describe("sync without clone", () => {
       "geo/geosite/google.list",
     ]);
     expect(await Bun.file(join(outDir, "geo/geosite/google.list")).text()).toBe(
-      `${header}host-suffix, google.com, proxy\n`,
+      "host-suffix, google.com, proxy\n",
     );
     expect(await Bun.file(join(outDir, "README.md")).text()).toBe(readme);
     expect(await Bun.file(join(outDir, "geo/geosite/bad.list")).exists()).toBe(false);
