@@ -1,3 +1,6 @@
+host-suffix, collector.github.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
 host-suffix, analytics.cloud.unity3d.com, proxy
 host-suffix, api2.amplitude.com, proxy
 host-suffix, config.uca.cloud.unity3d.com, proxy
@@ -7,6 +10,3 @@ host-suffix, iads.unity3d.com, proxy
 host-suffix, perf.cloud.unity3d.com, proxy
 host-suffix, perf-events.cloud.unity3d.com, proxy
 host-suffix, unityads.unity3d.com, proxy
-host-suffix, collector.github.com, proxy
-host, copilot-telemetry-service.githubusercontent.com, proxy
-host, copilot-telemetry.githubusercontent.com, proxy
