@@ -817,8 +817,8 @@ host-suffix, aws, proxy
 host-suffix, apple, proxy
 host-suffix, android, proxy
 host-suffix, amazon, proxy
-host-suffix, jfrog.org, proxy
-host-suffix, youtube.se, proxy
+host-suffix, jfrog.com, proxy
+host-suffix, usercontent.dev, proxy
 host-suffix, 12vpn.com, proxy
 host-suffix, 12vpn.net, proxy
 host-suffix, 1337x.gd, proxy
@@ -2839,7 +2839,7 @@ host-suffix, appleone.community, proxy
 host-suffix, appleone.film, proxy
 host-suffix, appleone.guide, proxy
 host-suffix, appleone.host, proxy
-host-suffix, appleone.space, proxy
+host-suffix, jiuse823.com, proxy
 host-suffix, appleone.tech, proxy
 host-suffix, appleone.website, proxy
 host-suffix, appleonline.com, proxy
@@ -3739,7 +3739,7 @@ host-suffix, youtube.si, proxy
 host-suffix, youtube.sg, proxy
 host-suffix, bbcchinese.com, proxy
 host-suffix, bbchat.tv, proxy
-host-suffix, jiuse823.com, proxy
+host-suffix, youtube.se, proxy
 host-suffix, youtube.sa, proxy
 host-suffix, bbcpersian.com, proxy
 host-suffix, bbcpornonly.com, proxy
@@ -9130,7 +9130,7 @@ host-suffix, faceebook.com, proxy
 host-suffix, faceebot.com, proxy
 host-suffix, facegbok.com, proxy
 host-suffix, facegbook.com, proxy
-host-suffix, jivara.global, proxy
+host-suffix, faceid99.com, proxy
 host-suffix, faceid99.net, proxy
 host-suffix, faceidglobal.com, proxy
 host-suffix, faceit-cdn.net, proxy
@@ -10526,6 +10526,7 @@ host-suffix, geti2p.net, proxy
 host-suffix, getlantern.org, proxy
 host-suffix, getmalus.com, proxy
 host-suffix, getmdl.io, proxy
+host-suffix, getmonero.org, proxy
 host-suffix, getnews.jp, proxy
 host-suffix, getoutline.org, proxy
 host-suffix, getpaint.net, proxy
@@ -13379,7 +13380,7 @@ host-suffix, ipadair.tw, proxy
 host-suffix, ipadaustralia.com, proxy
 host-suffix, ipadmini.cm, proxy
 host-suffix, xfockers.com, proxy
-host-suffix, ipadmini.lk, proxy
+host-suffix, jiuse821.com, proxy
 host-suffix, ipadpro.buzz, proxy
 host-suffix, ipdefenseforum.com, proxy
 host-suffix, ipfire.org, proxy
@@ -13883,8 +13884,8 @@ host-suffix, jex.com, proxy
 host-suffix, xboxone.co, proxy
 host-suffix, jfengtime.com, proxy
 host-suffix, jfn.su, proxy
-host-suffix, jfrog.com, proxy
 host-suffix, 000webhost.com, proxy
+host-suffix, jfrog.org, proxy
 host-suffix, jgg18.xyz, proxy
 host-suffix, jgoodies.com, proxy
 host-suffix, jhelab.org, proxy
@@ -13918,10 +13919,10 @@ host-suffix, xboxgamestudios.com, proxy
 host-suffix, jiuse.icu, proxy
 host-suffix, jiuse.io, proxy
 host-suffix, jiuse6666.com, proxy
-host-suffix, jiuse821.com, proxy
-host-suffix, spaceforce.mil, proxy
+host-suffix, ipadmini.lk, proxy
 host-suffix, 12joursdecadeauxdeitunes.com, proxy
-host-suffix, faceid99.com, proxy
+host-suffix, appleone.space, proxy
+host-suffix, jivara.global, proxy
 host-suffix, jivo.chat, proxy
 host-suffix, jivo.ru, proxy
 host-suffix, xboxgamepass.com, proxy
@@ -21763,7 +21764,7 @@ host-suffix, soyjak.party, proxy
 host-suffix, soyjak.st, proxy
 host-suffix, sp.cool, proxy
 host-suffix, spaceexplored.com, proxy
-host-suffix, jiuse822.com, proxy
+host-suffix, spaceforce.mil, proxy
 host-suffix, waltermartin.com, proxy
 host-suffix, spacemail.com, proxy
 host-suffix, waltdisneystudios.com, proxy
@@ -23841,7 +23842,7 @@ host-suffix, useplannr.com, proxy
 host-suffix, userapi.com, proxy
 host-suffix, userapi.ru, proxy
 host-suffix, usercentrics.eu, proxy
-host-suffix, usercontent.dev, proxy
+host-suffix, jiuse822.com, proxy
 host-suffix, userdrive.org, proxy
 host-suffix, userpxt.io, proxy
 host-suffix, usersdrive.com, proxy

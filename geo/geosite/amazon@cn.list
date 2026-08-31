@@ -22,6 +22,8 @@ host-suffix, yamaxun.cn, proxy
 host-suffix, z.cn, proxy
 host, images-cn.ssl-images-amazon.com, proxy
 host, images-cn-8.ssl-images-amazon.com, proxy
+host-suffix, amazonprimevideo.cn, proxy
+host-suffix, amazonprimevideo.com.cn, proxy
 host-suffix, a2z.org.cn, proxy
 host-suffix, amazonaws.cn, proxy
 host-suffix, amazonaws.com.cn, proxy
@@ -51,5 +53,3 @@ host-suffix, amzndns-cn.net, proxy
 host-suffix, kindle.cn, proxy
 host-suffix, kindleoasis.cn, proxy
 host-suffix, kindleoasis.com.cn, proxy
-host-suffix, amazonprimevideo.cn, proxy
-host-suffix, amazonprimevideo.com.cn, proxy
