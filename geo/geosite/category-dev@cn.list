@@ -1,3 +1,6 @@
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, update.crashlytics.com, proxy
 host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
@@ -5,9 +8,6 @@ host, download.visualstudio.microsoft.com, proxy
 host-suffix, jetbrains.com.cn, proxy
 host-suffix, cdn.jetbrains.com, proxy
 host, cdn.ampproject.org, proxy
-host, crashlyticsreports-pa.googleapis.com, proxy
-host, firebase-settings.crashlytics.com, proxy
-host, update.crashlytics.com, proxy
 host, cdn.apple-mapkit.com, proxy
 host, cdn1.apple-mapkit.com, proxy
 host, cdn2.apple-mapkit.com, proxy

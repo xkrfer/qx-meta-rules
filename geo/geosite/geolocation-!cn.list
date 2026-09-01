@@ -817,8 +817,8 @@ host-suffix, aws, proxy
 host-suffix, apple, proxy
 host-suffix, android, proxy
 host-suffix, amazon, proxy
-host-suffix, jfrog.com, proxy
-host-suffix, usercontent.dev, proxy
+host-suffix, jfrog.org, proxy
+host-suffix, bang-movies.com, proxy
 host-suffix, 12vpn.com, proxy
 host-suffix, 12vpn.net, proxy
 host-suffix, 1337x.gd, proxy
@@ -2839,7 +2839,7 @@ host-suffix, appleone.community, proxy
 host-suffix, appleone.film, proxy
 host-suffix, appleone.guide, proxy
 host-suffix, appleone.host, proxy
-host-suffix, jiuse823.com, proxy
+host-suffix, appleone.space, proxy
 host-suffix, appleone.tech, proxy
 host-suffix, appleone.website, proxy
 host-suffix, appleonline.com, proxy
@@ -3656,7 +3656,7 @@ host-suffix, bandgirlz.com, proxy
 host-suffix, bandpage.com, proxy
 host-suffix, bandwagonhost.com, proxy
 host-suffix, bang-dream.com, proxy
-host-suffix, bang-movies.com, proxy
+host-suffix, jiuse823.com, proxy
 host-suffix, bangbros.com, proxy
 host-suffix, bangbrosnetwork.com, proxy
 host-suffix, bangchen.net, proxy
@@ -4444,6 +4444,7 @@ host-suffix, blackamateursvideos.com, proxy
 host-suffix, blackandstacked.com, proxy
 host-suffix, blackboxgames.com, proxy
 host-suffix, blacked.com, proxy
+host-suffix, blackedraw.com, proxy
 host-suffix, blackfridaydrebeatsnew.com, proxy
 host-suffix, blackfridaydrebeatsshop.com, proxy
 host-suffix, blackhomeporn.com, proxy
@@ -10346,6 +10347,8 @@ host-suffix, gastrointestinalexam.com, proxy
 host-suffix, gate.cc, proxy
 host-suffix, gate.com, proxy
 host-suffix, gate.io, proxy
+host-suffix, gate.tv, proxy
+host-suffix, gateapi.io, proxy
 host-suffix, gatecoin.com, proxy
 host-suffix, gatedata.org, proxy
 host-suffix, gateimg.com, proxy
@@ -13380,7 +13383,7 @@ host-suffix, ipadair.tw, proxy
 host-suffix, ipadaustralia.com, proxy
 host-suffix, ipadmini.cm, proxy
 host-suffix, xfockers.com, proxy
-host-suffix, jiuse821.com, proxy
+host-suffix, ipadmini.lk, proxy
 host-suffix, ipadpro.buzz, proxy
 host-suffix, ipdefenseforum.com, proxy
 host-suffix, ipfire.org, proxy
@@ -13884,8 +13887,8 @@ host-suffix, jex.com, proxy
 host-suffix, xboxone.co, proxy
 host-suffix, jfengtime.com, proxy
 host-suffix, jfn.su, proxy
+host-suffix, jfrog.com, proxy
 host-suffix, 000webhost.com, proxy
-host-suffix, jfrog.org, proxy
 host-suffix, jgg18.xyz, proxy
 host-suffix, jgoodies.com, proxy
 host-suffix, jhelab.org, proxy
@@ -13919,10 +13922,10 @@ host-suffix, xboxgamestudios.com, proxy
 host-suffix, jiuse.icu, proxy
 host-suffix, jiuse.io, proxy
 host-suffix, jiuse6666.com, proxy
-host-suffix, ipadmini.lk, proxy
+host-suffix, jiuse821.com, proxy
+host-suffix, wix.com, proxy
 host-suffix, 12joursdecadeauxdeitunes.com, proxy
-host-suffix, appleone.space, proxy
-host-suffix, jivara.global, proxy
+host-suffix, npmjs.org, proxy
 host-suffix, jivo.chat, proxy
 host-suffix, jivo.ru, proxy
 host-suffix, xboxgamepass.com, proxy
@@ -15833,6 +15836,7 @@ host-suffix, milfthreesomes.com, proxy
 host-suffix, milftube.pro, proxy
 host-suffix, milftugs.com, proxy
 host-suffix, milfvr.com, proxy
+host-suffix, milfy.com, proxy
 host-suffix, milfzr.com, proxy
 host-suffix, miliav.com, proxy
 host-suffix, milkmanbook.com, proxy
@@ -16189,7 +16193,7 @@ host-suffix, mixi.net, proxy
 host-suffix, mixmaturesex.com, proxy
 host-suffix, mixvintagesex.com, proxy
 host-suffix, mixx.com, proxy
-host-suffix, wix.com, proxy
+host-suffix, jiuse822.com, proxy
 host-suffix, wix-code.com, proxy
 host-suffix, mizzmona.com, proxy
 host-suffix, mji.rip, proxy
@@ -17582,7 +17586,7 @@ host-suffix, nozomi.la, proxy
 host-suffix, wikileaks.pl, proxy
 host-suffix, npm.community, proxy
 host-suffix, npmjs.com, proxy
-host-suffix, npmjs.org, proxy
+host-suffix, jivara.global, proxy
 host-suffix, npnt.me, proxy
 host-suffix, npr.org, proxy
 host-suffix, npsboost.com, proxy
@@ -21458,6 +21462,7 @@ host-suffix, slashdot.org, proxy
 host-suffix, slashine.onl, proxy
 host-suffix, slavbank.ru, proxy
 host-suffix, slavicstar.com, proxy
+host-suffix, slayed.com, proxy
 host-suffix, slc.tl, proxy
 host-suffix, sldolls.com, proxy
 host-suffix, sleazyfork.org, proxy
@@ -23476,6 +23481,7 @@ host-suffix, turntable.fm, proxy
 host-suffix, tusco.ru, proxy
 host-suffix, tushy.com, proxy
 host-suffix, tushycash.com, proxy
+host-suffix, tushyraw.com, proxy
 host-suffix, tuta.com, proxy
 host-suffix, tuta.io, proxy
 host-suffix, tutamail.com, proxy
@@ -23842,7 +23848,7 @@ host-suffix, useplannr.com, proxy
 host-suffix, userapi.com, proxy
 host-suffix, userapi.ru, proxy
 host-suffix, usercentrics.eu, proxy
-host-suffix, jiuse822.com, proxy
+host-suffix, usercontent.dev, proxy
 host-suffix, userdrive.org, proxy
 host-suffix, userpxt.io, proxy
 host-suffix, usersdrive.com, proxy
@@ -24458,6 +24464,7 @@ host-suffix, vivaldi.com, proxy
 host-suffix, vivaxnxx.com, proxy
 host-suffix, vivthomas.com, proxy
 host-suffix, vixen.com, proxy
+host-suffix, vixengroup.com, proxy
 host-suffix, vixvids.to, proxy
 host-suffix, vjav.com, proxy
 host-suffix, voachinese.com, proxy
