@@ -110,10 +110,11 @@ host, www-googletagmanager.l.google.com, proxy
 host, www.destinationurl.com, proxy
 host, www.gstatic.com, proxy
 host, www.pxcc.com, proxy
+host, redirector.c.play.google.com, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, update.crashlytics.com, proxy
-host, redirector.c.play.google.com, proxy
+host-suffix, ggpht.cn, proxy
 host, pki-goog.l.google.com, proxy
 host, c.pki.goog, proxy
 host, i.pki.goog, proxy
@@ -121,4 +122,3 @@ host, o.pki.goog, proxy
 host, crl.pki.goog, proxy
 host, crls.pki.goog, proxy
 host, ocsp.pki.goog, proxy
-host-suffix, ggpht.cn, proxy
