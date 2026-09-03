@@ -18,11 +18,8 @@ host, xz.pphimalayanrt.com, proxy
 host-suffix, steamchina.com, proxy
 host-suffix, gstore.val.manlaxy.com, proxy
 host-suffix, bluearchive-cn.com, proxy
-host-suffix, leagueoflegends.cn, proxy
-host-suffix, lpl.com.cn, proxy
 host-suffix, xboxlive.cn, proxy
 host, gog.qtlglb.com, proxy
-host-suffix, yostar.cn, proxy
 host-suffix, legendofzelda.cn, proxy
 host-suffix, legendofzelda.com.cn, proxy
 host-suffix, miitomo.com.cn, proxy
@@ -35,3 +32,6 @@ host-suffix, xn--mts47c3w9b1qr.cn, proxy
 host-suffix, mariokart.cn, proxy
 host-suffix, mariokart.com.cn, proxy
 host-suffix, supermariobros.com.cn, proxy
+host-suffix, yostar.cn, proxy
+host-suffix, leagueoflegends.cn, proxy
+host-suffix, lpl.com.cn, proxy
