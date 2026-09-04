@@ -242,7 +242,6 @@ ip6-cidr, 240e:108:11c1::/48, proxy, no-resolve
 ip6-cidr, 240e:974:e00::/48, proxy, no-resolve
 ip6-cidr, 240e:974:1200::/48, proxy, no-resolve
 ip6-cidr, 240e:974:1700::/40, proxy, no-resolve
-ip6-cidr, 240e:974:c100::/40, proxy, no-resolve
 ip6-cidr, 240e:974:d200::/40, proxy, no-resolve
 ip6-cidr, 240e:974:df00::/40, proxy, no-resolve
 ip6-cidr, 240e:974:e200::/47, proxy, no-resolve

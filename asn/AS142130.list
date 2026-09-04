@@ -1,1 +1,4 @@
 ip6-cidr, 2404:f4c0:fa80::/44, proxy, no-resolve
+ip6-cidr, 2602:feda:b42::/47, proxy, no-resolve
+ip6-cidr, 2602:feda:b44::/48, proxy, no-resolve
+ip6-cidr, 2a0e:b107:1204::/48, proxy, no-resolve

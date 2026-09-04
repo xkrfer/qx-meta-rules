@@ -1,5 +1,4 @@
 ip6-cidr, 2801:1e5:11::/48, proxy, no-resolve
-ip6-cidr, 2801:1e5:12::/48, proxy, no-resolve
 ip6-cidr, 2801:1e5:14::/47, proxy, no-resolve
 ip6-cidr, 2801:1e5:17::/48, proxy, no-resolve
 ip6-cidr, 2801:1e5:18::/47, proxy, no-resolve

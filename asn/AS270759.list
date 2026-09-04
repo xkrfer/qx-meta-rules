@@ -1,5 +1,2 @@
 ip-cidr, 190.89.16.0/23, proxy, no-resolve
-ip6-cidr, 2804:70f8:2000::/46, proxy, no-resolve
-ip6-cidr, 2804:70f8:2004::/48, proxy, no-resolve
-ip6-cidr, 2804:70f8:2006::/48, proxy, no-resolve
-ip6-cidr, 2804:70f8:a000::/48, proxy, no-resolve
+ip6-cidr, 2804:70f8::/32, proxy, no-resolve

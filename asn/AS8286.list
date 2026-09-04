@@ -2,4 +2,3 @@ ip-cidr, 31.193.96.0/21, proxy, no-resolve
 ip-cidr, 82.145.64.0/19, proxy, no-resolve
 ip-cidr, 212.14.0.0/19, proxy, no-resolve
 ip-cidr, 212.14.32.0/20, proxy, no-resolve
-ip6-cidr, 2001:4c58::/30, proxy, no-resolve

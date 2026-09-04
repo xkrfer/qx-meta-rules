@@ -4,5 +4,4 @@ ip6-cidr, 2602:fbec:332::/47, proxy, no-resolve
 ip6-cidr, 2602:fbec:336::/48, proxy, no-resolve
 ip6-cidr, 2602:fbec:338::/48, proxy, no-resolve
 ip6-cidr, 2a13:c8c4:2100::/44, proxy, no-resolve
-ip6-cidr, 2a13:c8c4:21e0::/44, proxy, no-resolve
 ip6-cidr, 2a13:c8c4:2200::/44, proxy, no-resolve

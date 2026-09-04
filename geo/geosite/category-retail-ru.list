@@ -35,12 +35,6 @@ host-suffix, myspar.ru, proxy
 host-suffix, sushiwok.ru, proxy
 host-suffix, winelab.ru, proxy
 host-suffix, vkusvill.ru, proxy
-host-suffix, sokolov.io, proxy
-host-suffix, sokolov.ru, proxy
-host-suffix, kazanexpress.ru, proxy
-host-suffix, magnit.com, proxy
-host-suffix, magnit.ru, proxy
-host-suffix, mm.ru, proxy
 host-suffix, acmvid.com, proxy
 host-suffix, mvideo.ru, proxy
 host-suffix, oskelly.co, proxy
@@ -77,6 +71,12 @@ host-suffix, x5paket.ru, proxy
 host-suffix, x5q.ru, proxy
 host-suffix, x5static.net, proxy
 host-suffix, x5w.ru, proxy
+host-suffix, sokolov.io, proxy
+host-suffix, sokolov.ru, proxy
+host-suffix, kazanexpress.ru, proxy
+host-suffix, magnit.com, proxy
+host-suffix, magnit.ru, proxy
+host-suffix, mm.ru, proxy
 host, ads.x5.ru, proxy
 host, ads.x5media.ru, proxy
 host, sentry.x5.ru, proxy

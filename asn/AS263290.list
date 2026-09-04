@@ -1,7 +1,6 @@
 ip-cidr, 170.150.208.0/22, proxy, no-resolve
 ip-cidr, 201.7.164.0/22, proxy, no-resolve
 ip6-cidr, 2804:1688::/34, proxy, no-resolve
-ip6-cidr, 2804:1688:6000::/35, proxy, no-resolve
 ip6-cidr, 2804:1688:8000::/34, proxy, no-resolve
 ip6-cidr, 2804:1688:c000::/35, proxy, no-resolve
 ip6-cidr, 2804:1688:e400::/39, proxy, no-resolve

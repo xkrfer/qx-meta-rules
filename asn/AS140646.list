@@ -1,3 +1,6 @@
 ip-cidr, 103.12.36.0/22, proxy, no-resolve
 ip-cidr, 103.189.212.0/23, proxy, no-resolve
-ip6-cidr, 2400:88e0::/32, proxy, no-resolve
+ip6-cidr, 2400:88e0::/35, proxy, no-resolve
+ip6-cidr, 2400:88e0:2000::/36, proxy, no-resolve
+ip6-cidr, 2400:88e0:4000::/34, proxy, no-resolve
+ip6-cidr, 2400:88e0:8000::/33, proxy, no-resolve

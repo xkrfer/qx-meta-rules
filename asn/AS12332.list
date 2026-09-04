@@ -13,7 +13,7 @@ ip-cidr, 77.34.62.0/23, proxy, no-resolve
 ip-cidr, 77.34.64.0/23, proxy, no-resolve
 ip-cidr, 77.34.66.0/24, proxy, no-resolve
 ip-cidr, 77.34.68.0/22, proxy, no-resolve
-ip-cidr, 77.34.72.0/23, proxy, no-resolve
+ip-cidr, 77.34.73.0/24, proxy, no-resolve
 ip-cidr, 77.34.78.0/23, proxy, no-resolve
 ip-cidr, 77.34.129.0/24, proxy, no-resolve
 ip-cidr, 77.34.130.0/24, proxy, no-resolve

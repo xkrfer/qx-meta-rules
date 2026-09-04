@@ -57,6 +57,7 @@ ip6-cidr, 2a0d:b201:1080::/44, proxy, no-resolve
 ip6-cidr, 2a0d:b201:10a0::/44, proxy, no-resolve
 ip6-cidr, 2a0d:b201:10c0::/43, proxy, no-resolve
 ip6-cidr, 2a0d:b201:10e0::/44, proxy, no-resolve
+ip6-cidr, 2a0d:b201:70b0::/44, proxy, no-resolve
 ip6-cidr, 2a0d:b201:8040::/44, proxy, no-resolve
 ip6-cidr, 2a0d:b201:9030::/44, proxy, no-resolve
 ip6-cidr, 2a0d:b201:90c0::/44, proxy, no-resolve

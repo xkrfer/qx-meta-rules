@@ -254,6 +254,7 @@ ip6-cidr, 2408:400a::/31, proxy, no-resolve
 ip6-cidr, 2408:400c::/30, proxy, no-resolve
 ip6-cidr, 2408:4010::/30, proxy, no-resolve
 ip6-cidr, 2408:4014::/31, proxy, no-resolve
+ip6-cidr, 2408:4016:1::/48, proxy, no-resolve
 ip6-cidr, 2408:4016:2::/48, proxy, no-resolve
 ip6-cidr, 2408:4016:8::/45, proxy, no-resolve
 ip6-cidr, 2408:4016:10::/44, proxy, no-resolve

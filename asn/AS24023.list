@@ -2,4 +2,4 @@ ip-cidr, 116.197.180.0/24, proxy, no-resolve
 ip-cidr, 116.197.182.0/24, proxy, no-resolve
 ip-cidr, 116.197.184.0/22, proxy, no-resolve
 ip-cidr, 116.197.188.0/23, proxy, no-resolve
-ip6-cidr, 2403:8100:1000::/40, proxy, no-resolve
+ip6-cidr, 2403:8100:1002::/48, proxy, no-resolve

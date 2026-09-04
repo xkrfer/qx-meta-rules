@@ -3,8 +3,6 @@ ip-cidr, 40.6.0.0/16, proxy, no-resolve
 ip-cidr, 40.8.0.0/14, proxy, no-resolve
 ip-cidr, 40.12.0.0/15, proxy, no-resolve
 ip-cidr, 40.15.0.0/16, proxy, no-resolve
-ip-cidr, 40.16.0.0/16, proxy, no-resolve
-ip-cidr, 40.18.0.0/15, proxy, no-resolve
 ip-cidr, 40.28.0.0/14, proxy, no-resolve
 ip-cidr, 40.44.0.0/16, proxy, no-resolve
 ip-cidr, 40.46.0.0/16, proxy, no-resolve

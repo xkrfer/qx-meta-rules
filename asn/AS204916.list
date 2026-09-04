@@ -54,6 +54,7 @@ ip6-cidr, 2a09:407:9000::/36, proxy, no-resolve
 ip6-cidr, 2a09:407:e000::/35, proxy, no-resolve
 ip6-cidr, 2a09:3500::/32, proxy, no-resolve
 ip6-cidr, 2a09:3b02::/32, proxy, no-resolve
+ip6-cidr, 2a09:3d01::/32, proxy, no-resolve
 ip6-cidr, 2a09:3d02::/32, proxy, no-resolve
 ip6-cidr, 2a09:3d05::/32, proxy, no-resolve
 ip6-cidr, 2a09:3d07::/32, proxy, no-resolve

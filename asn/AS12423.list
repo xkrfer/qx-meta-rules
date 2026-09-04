@@ -1,2 +1,1 @@
 ip-cidr, 158.75.0.0/17, proxy, no-resolve
-ip6-cidr, 2a03:1380::/32, proxy, no-resolve

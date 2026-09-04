@@ -94,6 +94,7 @@ ip6-cidr, 2001:470:49a1::/48, proxy, no-resolve
 ip6-cidr, 2001:470:8cdc::/48, proxy, no-resolve
 ip6-cidr, 2001:470:dd6f::/48, proxy, no-resolve
 ip6-cidr, 2001:470:ff39::/48, proxy, no-resolve
+ip6-cidr, 2401:3620:231:7d::/64, proxy, no-resolve
 ip6-cidr, 2401:dfc0::/32, proxy, no-resolve
 ip6-cidr, 2402:1de0::/32, proxy, no-resolve
 ip6-cidr, 2406:2d40:a800::/40, proxy, no-resolve

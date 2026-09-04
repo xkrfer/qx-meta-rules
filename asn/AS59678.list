@@ -17,4 +17,7 @@ ip6-cidr, 2602:fa9b:1000::/36, proxy, no-resolve
 ip6-cidr, 2602:fa9b:2000::/35, proxy, no-resolve
 ip6-cidr, 2602:fa9b:4000::/34, proxy, no-resolve
 ip6-cidr, 2602:fa9b:8000::/33, proxy, no-resolve
+ip6-cidr, 2a06:a005:2c60::/44, proxy, no-resolve
 ip6-cidr, 2a07:54c0:ffee::/48, proxy, no-resolve
+ip6-cidr, 2a0a:6040:4b00::/40, proxy, no-resolve
+ip6-cidr, 2a0f:b241:15::/48, proxy, no-resolve

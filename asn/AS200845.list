@@ -332,6 +332,7 @@ ip-cidr, 212.63.116.0/22, proxy, no-resolve
 ip-cidr, 212.63.120.0/22, proxy, no-resolve
 ip-cidr, 212.104.160.0/19, proxy, no-resolve
 ip-cidr, 212.119.48.0/22, proxy, no-resolve
+ip-cidr, 212.121.231.0/24, proxy, no-resolve
 ip-cidr, 212.121.233.0/24, proxy, no-resolve
 ip-cidr, 212.121.234.0/23, proxy, no-resolve
 ip-cidr, 212.121.236.0/24, proxy, no-resolve

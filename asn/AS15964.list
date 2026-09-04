@@ -28,3 +28,5 @@ ip6-cidr, 2001:4268::/47, proxy, no-resolve
 ip6-cidr, 2001:4268:2::/48, proxy, no-resolve
 ip6-cidr, 2001:4268:200::/48, proxy, no-resolve
 ip6-cidr, 2001:4268:2a0::/48, proxy, no-resolve
+ip6-cidr, 2001:4268:4600::/48, proxy, no-resolve
+ip6-cidr, 2001:4268:8000::/48, proxy, no-resolve

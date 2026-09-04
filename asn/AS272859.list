@@ -1,4 +1,4 @@
 ip-cidr, 206.1.80.0/22, proxy, no-resolve
 ip6-cidr, 2803:6290:1::/48, proxy, no-resolve
 ip6-cidr, 2803:6290:2::/47, proxy, no-resolve
-ip6-cidr, 2803:6290:8::/48, proxy, no-resolve
+ip6-cidr, 2803:6290:8::/47, proxy, no-resolve

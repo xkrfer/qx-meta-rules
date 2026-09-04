@@ -37,6 +37,9 @@ ip-cidr, 133.127.0.0/16, proxy, no-resolve
 ip-cidr, 133.137.0.0/16, proxy, no-resolve
 ip-cidr, 133.142.0.0/16, proxy, no-resolve
 ip-cidr, 133.157.32.0/19, proxy, no-resolve
+ip-cidr, 133.157.72.0/21, proxy, no-resolve
+ip-cidr, 133.157.80.0/20, proxy, no-resolve
+ip-cidr, 133.157.96.0/21, proxy, no-resolve
 ip-cidr, 133.159.0.0/16, proxy, no-resolve
 ip-cidr, 133.169.0.0/21, proxy, no-resolve
 ip-cidr, 133.169.8.0/22, proxy, no-resolve

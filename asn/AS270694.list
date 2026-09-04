@@ -1,6 +1,2 @@
 ip-cidr, 200.225.100.0/22, proxy, no-resolve
-ip6-cidr, 2804:1f42::/36, proxy, no-resolve
-ip6-cidr, 2804:1f42:1000::/37, proxy, no-resolve
-ip6-cidr, 2804:1f42:2000::/35, proxy, no-resolve
-ip6-cidr, 2804:1f42:4000::/34, proxy, no-resolve
-ip6-cidr, 2804:1f42:8000::/33, proxy, no-resolve
+ip6-cidr, 2804:1f42::/32, proxy, no-resolve
