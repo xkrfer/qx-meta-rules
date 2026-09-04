@@ -29,3 +29,4 @@ IP-CIDR,195.110.38.0/23,no-resolve
 IP-CIDR,195.211.44.0/22,no-resolve
 IP-CIDR,212.16.71.0/24,no-resolve
 IP-CIDR,212.80.31.0/24,no-resolve
+IP-CIDR6,2a0a:5e80::/48,no-resolve

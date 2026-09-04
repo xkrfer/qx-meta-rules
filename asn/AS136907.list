@@ -12,7 +12,6 @@ IP-CIDR,14.137.170.0/23,no-resolve
 IP-CIDR,14.137.172.0/22,no-resolve
 IP-CIDR,14.137.179.0/24,no-resolve
 IP-CIDR,14.137.180.0/23,no-resolve
-IP-CIDR,14.137.190.0/23,no-resolve
 IP-CIDR,27.106.0.0/17,no-resolve
 IP-CIDR,27.255.0.0/18,no-resolve
 IP-CIDR,42.201.128.0/17,no-resolve

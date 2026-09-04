@@ -9,3 +9,5 @@ IP-CIDR,37.202.128.0/21,no-resolve
 IP-CIDR,37.202.144.0/20,no-resolve
 IP-CIDR,37.202.160.0/19,no-resolve
 IP-CIDR,37.202.252.0/22,no-resolve
+IP-CIDR6,2a0e:38::/30,no-resolve
+IP-CIDR6,2a0e:3c:ffe0::/43,no-resolve

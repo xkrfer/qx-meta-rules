@@ -152,7 +152,6 @@ IP-CIDR6,2001:b000:598::/45,no-resolve
 IP-CIDR6,2001:b000:5a0::/43,no-resolve
 IP-CIDR6,2001:b000:5c0::/42,no-resolve
 IP-CIDR6,2001:b000:600::/39,no-resolve
-IP-CIDR6,2001:b001::/32,no-resolve
 IP-CIDR6,2001:b010::/32,no-resolve
 IP-CIDR6,2001:b011::/35,no-resolve
 IP-CIDR6,2001:b011:2000::/44,no-resolve

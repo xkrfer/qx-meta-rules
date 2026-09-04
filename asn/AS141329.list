@@ -13,5 +13,6 @@ IP-CIDR,103.200.74.0/23,no-resolve
 IP-CIDR,103.210.0.0/24,no-resolve
 IP-CIDR,103.217.80.0/23,no-resolve
 IP-CIDR6,2001:df2:8140::/48,no-resolve
-IP-CIDR6,2407:c040::/45,no-resolve
+IP-CIDR6,2407:c040::/47,no-resolve
+IP-CIDR6,2407:c040:2::/48,no-resolve
 IP-CIDR6,2407:c040:8::/47,no-resolve

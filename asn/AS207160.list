@@ -1,4 +1,3 @@
-IP-CIDR,185.65.243.0/24,no-resolve
 IP-CIDR,185.98.25.0/24,no-resolve
 IP-CIDR6,2a14:d100::/32,no-resolve
 IP-CIDR6,2a14:d102:3::/48,no-resolve

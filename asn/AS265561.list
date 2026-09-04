@@ -10,7 +10,6 @@ IP-CIDR,204.157.161.0/24,no-resolve
 IP-CIDR,209.178.128.0/19,no-resolve
 IP-CIDR,209.178.160.0/21,no-resolve
 IP-CIDR,209.178.176.0/24,no-resolve
-IP-CIDR,209.178.191.0/24,no-resolve
 IP-CIDR6,2806:30f::/42,no-resolve
 IP-CIDR6,2806:30f:40::/46,no-resolve
 IP-CIDR6,2806:30f:44::/47,no-resolve

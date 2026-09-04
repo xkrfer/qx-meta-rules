@@ -1,3 +1,4 @@
 IP-CIDR,38.224.164.0/23,no-resolve
 IP-CIDR,204.157.70.0/24,no-resolve
-IP-CIDR6,2806:408::/32,no-resolve
+IP-CIDR6,2806:408:100::/44,no-resolve
+IP-CIDR6,2806:408:800::/37,no-resolve

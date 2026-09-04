@@ -1,3 +1,10 @@
 IP-CIDR,94.249.231.0/24,no-resolve
-IP-CIDR6,2a0d:b287:dd00::/40,no-resolve
+IP-CIDR6,2a0d:b287:dd00::/41,no-resolve
+IP-CIDR6,2a0d:b287:dd80::/42,no-resolve
+IP-CIDR6,2a0d:b287:ddc0::/44,no-resolve
+IP-CIDR6,2a0d:b287:ddd0::/45,no-resolve
+IP-CIDR6,2a0d:b287:ddd8::/46,no-resolve
+IP-CIDR6,2a0d:b287:dddc::/48,no-resolve
+IP-CIDR6,2a0d:b287:ddde::/47,no-resolve
+IP-CIDR6,2a0d:b287:dde0::/43,no-resolve
 IP-CIDR6,2a14:7584:4100::/40,no-resolve

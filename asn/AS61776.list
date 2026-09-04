@@ -1,6 +1,5 @@
 IP-CIDR,143.208.136.0/22,no-resolve
-IP-CIDR,177.53.137.0/24,no-resolve
-IP-CIDR,177.53.138.0/23,no-resolve
+IP-CIDR,177.53.136.0/22,no-resolve
 IP-CIDR,200.196.136.0/22,no-resolve
 IP-CIDR6,2804:192c::/36,no-resolve
 IP-CIDR6,2804:192c:2000::/35,no-resolve

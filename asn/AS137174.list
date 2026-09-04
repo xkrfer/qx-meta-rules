@@ -1,3 +1,2 @@
 IP-CIDR,103.112.84.0/22,no-resolve
-IP-CIDR6,2400:e4e0::/46,no-resolve
-IP-CIDR6,2400:e4e0:4::/48,no-resolve
+IP-CIDR6,2400:e4e0::/48,no-resolve

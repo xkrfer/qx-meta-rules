@@ -1,9 +1,7 @@
 IP-CIDR,38.250.4.0/23,no-resolve
 IP-CIDR,149.78.188.0/23,no-resolve
 IP-CIDR,149.78.191.0/24,no-resolve
-IP-CIDR,201.234.118.0/24,no-resolve
 IP-CIDR6,2801:161::/47,no-resolve
 IP-CIDR6,2801:161:3::/48,no-resolve
-IP-CIDR6,2801:161:4::/48,no-resolve
 IP-CIDR6,2801:161:7::/48,no-resolve
 IP-CIDR6,2801:161:8::/48,no-resolve

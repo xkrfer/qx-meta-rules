@@ -1,4 +1,4 @@
-IP-CIDR,147.68.0.0/23,no-resolve
+IP-CIDR,147.68.0.0/24,no-resolve
 IP-CIDR,147.68.8.0/24,no-resolve
 IP-CIDR,147.68.112.0/20,no-resolve
 IP-CIDR,147.185.40.0/22,no-resolve

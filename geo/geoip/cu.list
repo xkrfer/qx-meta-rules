@@ -131,6 +131,7 @@ IP-CIDR6,2001:1340::/32,no-resolve
 IP-CIDR6,2001:1358::/32,no-resolve
 IP-CIDR6,2001:13c8::/32,no-resolve
 IP-CIDR6,2001:3786:5004:100::/56,no-resolve
+IP-CIDR6,2401:3620:231:3c::/64,no-resolve
 IP-CIDR6,2600:70ff:ac74::/48,no-resolve
 IP-CIDR6,2606:54c0:2718::/45,no-resolve
 IP-CIDR6,2606:54c0:2720::/44,no-resolve

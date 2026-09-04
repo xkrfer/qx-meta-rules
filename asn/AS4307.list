@@ -15,5 +15,9 @@ IP-CIDR,216.139.16.0/21,no-resolve
 IP-CIDR,216.139.24.0/23,no-resolve
 IP-CIDR,216.139.26.0/24,no-resolve
 IP-CIDR,216.139.28.0/22,no-resolve
-IP-CIDR,216.139.32.0/19,no-resolve
+IP-CIDR,216.139.32.0/20,no-resolve
+IP-CIDR,216.139.48.0/21,no-resolve
+IP-CIDR,216.139.56.0/22,no-resolve
+IP-CIDR,216.139.60.0/23,no-resolve
+IP-CIDR,216.139.62.0/24,no-resolve
 IP-CIDR6,2607:4b00::/32,no-resolve

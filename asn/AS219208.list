@@ -1,4 +1,9 @@
+IP-CIDR6,2a06:9801:1300::/40,no-resolve
+IP-CIDR6,2a0a:d682:d000::/36,no-resolve
+IP-CIDR6,2a0d:2681:8000::/33,no-resolve
+IP-CIDR6,2a0d:d941::/37,no-resolve
 IP-CIDR6,2a0f:9fc0::/29,no-resolve
 IP-CIDR6,2a10:fa86::/34,no-resolve
-IP-CIDR6,2a14:5f00::/29,no-resolve
+IP-CIDR6,2a14:4380::/30,no-resolve
+IP-CIDR6,2a14:5f00::/30,no-resolve
 IP-CIDR6,2a14:7582:7000::/37,no-resolve

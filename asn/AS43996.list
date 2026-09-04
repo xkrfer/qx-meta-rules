@@ -8,6 +8,5 @@ IP-CIDR,37.10.56.0/23,no-resolve
 IP-CIDR,37.10.58.0/24,no-resolve
 IP-CIDR,37.10.60.0/23,no-resolve
 IP-CIDR6,2a01:5040::/36,no-resolve
-IP-CIDR6,2a01:5041:5::/48,no-resolve
 IP-CIDR6,2a01:5041:2005::/48,no-resolve
 IP-CIDR6,2a01:5041:2009::/48,no-resolve

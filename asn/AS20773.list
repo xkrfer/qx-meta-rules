@@ -53,6 +53,7 @@ IP-CIDR6,2a01:488:b800::/39,no-resolve
 IP-CIDR6,2a01:488:ba00::/40,no-resolve
 IP-CIDR6,2a01:488:bb00::/46,no-resolve
 IP-CIDR6,2a01:488:bb05::/48,no-resolve
+IP-CIDR6,2a01:488:bb0a::/48,no-resolve
 IP-CIDR6,2a01:488:bb12::/47,no-resolve
 IP-CIDR6,2a01:488:bb14::/46,no-resolve
 IP-CIDR6,2a01:488:bb18::/46,no-resolve

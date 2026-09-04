@@ -45,7 +45,14 @@ IP-CIDR,205.214.168.90/31,no-resolve
 IP-CIDR,205.214.168.92/30,no-resolve
 IP-CIDR,205.214.168.96/27,no-resolve
 IP-CIDR,205.214.168.128/25,no-resolve
-IP-CIDR,205.214.169.0/24,no-resolve
+IP-CIDR,205.214.169.0/26,no-resolve
+IP-CIDR,205.214.169.64/27,no-resolve
+IP-CIDR,205.214.169.96/29,no-resolve
+IP-CIDR,205.214.169.104/31,no-resolve
+IP-CIDR,205.214.169.107/32,no-resolve
+IP-CIDR,205.214.169.108/30,no-resolve
+IP-CIDR,205.214.169.112/28,no-resolve
+IP-CIDR,205.214.169.128/25,no-resolve
 IP-CIDR,205.214.170.0/23,no-resolve
 IP-CIDR,205.214.172.0/22,no-resolve
 IP-CIDR,209.73.80.0/23,no-resolve

@@ -81,4 +81,5 @@ IP-CIDR6,2605:f700:540::/42,no-resolve
 IP-CIDR6,2605:f700:580::/41,no-resolve
 IP-CIDR6,2605:f700:800::/40,no-resolve
 IP-CIDR6,2605:f700:a00::/42,no-resolve
+IP-CIDR6,2a0f:e841::/32,no-resolve
 IP-CIDR6,2a10:a9c0::/29,no-resolve

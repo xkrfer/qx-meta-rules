@@ -1,5 +1,4 @@
-IP-CIDR,160.238.180.0/23,no-resolve
-IP-CIDR,160.238.182.0/24,no-resolve
+IP-CIDR,160.238.180.0/22,no-resolve
 IP-CIDR6,2804:3f20::/33,no-resolve
 IP-CIDR6,2804:3f20:8000::/34,no-resolve
 IP-CIDR6,2804:3f20:c000::/43,no-resolve

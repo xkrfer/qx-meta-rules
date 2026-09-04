@@ -2,8 +2,7 @@ IP-CIDR,62.108.192.0/20,no-resolve
 IP-CIDR,62.108.208.0/21,no-resolve
 IP-CIDR,83.68.224.0/23,no-resolve
 IP-CIDR,83.68.226.0/24,no-resolve
-IP-CIDR,83.68.229.0/24,no-resolve
-IP-CIDR,83.68.230.0/23,no-resolve
+IP-CIDR,83.68.228.0/22,no-resolve
 IP-CIDR,83.68.232.0/21,no-resolve
 IP-CIDR,83.68.240.0/22,no-resolve
 IP-CIDR,83.68.244.0/23,no-resolve

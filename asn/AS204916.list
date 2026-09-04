@@ -54,6 +54,7 @@ IP-CIDR6,2a09:407:9000::/36,no-resolve
 IP-CIDR6,2a09:407:e000::/35,no-resolve
 IP-CIDR6,2a09:3500::/32,no-resolve
 IP-CIDR6,2a09:3b02::/32,no-resolve
+IP-CIDR6,2a09:3d01::/32,no-resolve
 IP-CIDR6,2a09:3d02::/32,no-resolve
 IP-CIDR6,2a09:3d05::/32,no-resolve
 IP-CIDR6,2a09:3d07::/32,no-resolve

@@ -9,6 +9,7 @@ IP-CIDR,45.143.92.0/24,no-resolve
 IP-CIDR,45.143.94.0/23,no-resolve
 IP-CIDR,45.151.144.0/24,no-resolve
 IP-CIDR,45.153.230.0/24,no-resolve
+IP-CIDR,45.158.46.0/24,no-resolve
 IP-CIDR,46.17.248.0/24,no-resolve
 IP-CIDR,62.76.228.0/24,no-resolve
 IP-CIDR,62.233.35.0/24,no-resolve

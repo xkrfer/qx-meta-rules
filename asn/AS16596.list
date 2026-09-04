@@ -1,7 +1,2 @@
-IP-CIDR,148.231.0.0/17,no-resolve
-IP-CIDR,148.231.128.0/22,no-resolve
-IP-CIDR,148.231.140.0/22,no-resolve
-IP-CIDR,148.231.144.0/20,no-resolve
-IP-CIDR,148.231.160.0/19,no-resolve
-IP-CIDR,148.231.192.0/18,no-resolve
+IP-CIDR,148.231.0.0/16,no-resolve
 IP-CIDR6,2801:c0:3::/48,no-resolve

@@ -18,7 +18,9 @@ IP-CIDR,61.28.128.0/19,no-resolve
 IP-CIDR,61.28.160.0/24,no-resolve
 IP-CIDR,61.28.162.0/23,no-resolve
 IP-CIDR,61.28.164.0/22,no-resolve
-IP-CIDR,61.28.168.0/21,no-resolve
+IP-CIDR,61.28.168.0/22,no-resolve
+IP-CIDR,61.28.172.0/24,no-resolve
+IP-CIDR,61.28.174.0/23,no-resolve
 IP-CIDR,61.28.176.0/20,no-resolve
 IP-CIDR,112.196.224.0/19,no-resolve
 IP-CIDR,112.199.0.0/18,no-resolve

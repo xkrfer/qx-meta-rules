@@ -3,4 +3,3 @@ IP-CIDR,82.146.224.0/19,no-resolve
 IP-CIDR,89.191.128.0/20,no-resolve
 IP-CIDR,212.122.192.0/20,no-resolve
 IP-CIDR,212.122.208.0/21,no-resolve
-IP-CIDR6,2001:908::/30,no-resolve

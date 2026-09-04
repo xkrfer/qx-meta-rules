@@ -3,5 +3,3 @@ IP-CIDR6,2804:2bd8::/43,no-resolve
 IP-CIDR6,2804:2bd8:20::/44,no-resolve
 IP-CIDR6,2804:2bd8:1000::/43,no-resolve
 IP-CIDR6,2804:2bd8:1020::/44,no-resolve
-IP-CIDR6,2804:2bd8:2000::/43,no-resolve
-IP-CIDR6,2804:2bd8:2020::/44,no-resolve

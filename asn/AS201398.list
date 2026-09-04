@@ -1,4 +1,4 @@
-IP-CIDR6,2a06:9801:d::/48,no-resolve
-IP-CIDR6,2a0b:4e07:b0::/46,no-resolve
-IP-CIDR6,2a0b:4e07:2000::/48,no-resolve
+IP-CIDR,91.226.56.0/24,no-resolve
+IP-CIDR6,2a0b:4e07:b1::/48,no-resolve
+IP-CIDR6,2a0b:4e07:b3::/48,no-resolve
 IP-CIDR6,2a0b:4e07:2002::/48,no-resolve

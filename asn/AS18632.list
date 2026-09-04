@@ -44,7 +44,16 @@ IP-CIDR,170.75.130.160/27,no-resolve
 IP-CIDR,170.75.130.192/26,no-resolve
 IP-CIDR,170.75.131.0/24,no-resolve
 IP-CIDR,170.75.132.0/22,no-resolve
-IP-CIDR,170.75.136.0/22,no-resolve
+IP-CIDR,170.75.136.0/25,no-resolve
+IP-CIDR,170.75.136.128/27,no-resolve
+IP-CIDR,170.75.136.160/31,no-resolve
+IP-CIDR,170.75.136.163/32,no-resolve
+IP-CIDR,170.75.136.164/30,no-resolve
+IP-CIDR,170.75.136.168/29,no-resolve
+IP-CIDR,170.75.136.176/28,no-resolve
+IP-CIDR,170.75.136.192/26,no-resolve
+IP-CIDR,170.75.137.0/24,no-resolve
+IP-CIDR,170.75.138.0/23,no-resolve
 IP-CIDR,170.75.140.0/23,no-resolve
 IP-CIDR,170.75.142.0/24,no-resolve
 IP-CIDR,170.75.143.0/26,no-resolve

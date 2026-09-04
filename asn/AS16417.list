@@ -55,6 +55,5 @@ IP-CIDR6,2620:101:2002::/47,no-resolve
 IP-CIDR6,2620:101:2005::/48,no-resolve
 IP-CIDR6,2620:101:2006::/47,no-resolve
 IP-CIDR6,2620:101:200b::/48,no-resolve
-IP-CIDR6,2620:101:200c::/48,no-resolve
 IP-CIDR6,2620:101:200f::/48,no-resolve
 IP-CIDR6,2620:101:2010::/48,no-resolve

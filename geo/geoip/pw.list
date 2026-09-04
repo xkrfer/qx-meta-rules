@@ -67,6 +67,7 @@ IP-CIDR6,2001:470:887f::/48,no-resolve
 IP-CIDR6,2001:470:efca::/48,no-resolve
 IP-CIDR6,2001:67c:ec8::/48,no-resolve
 IP-CIDR6,2401:6e0::/32,no-resolve
+IP-CIDR6,2401:3620:231:bc::/64,no-resolve
 IP-CIDR6,2404:7800::/32,no-resolve
 IP-CIDR6,2406:2d40:2d00::/40,no-resolve
 IP-CIDR6,2606:54c0:5018::/45,no-resolve

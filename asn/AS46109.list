@@ -2,3 +2,4 @@ IP-CIDR,23.156.248.0/23,no-resolve
 IP-CIDR,142.249.45.0/24,no-resolve
 IP-CIDR6,2602:f5ef::/48,no-resolve
 IP-CIDR6,2602:fa64:2::/47,no-resolve
+IP-CIDR6,2602:fa64:5::/48,no-resolve

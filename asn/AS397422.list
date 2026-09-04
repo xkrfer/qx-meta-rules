@@ -31,6 +31,7 @@ IP-CIDR,67.59.85.191/32,no-resolve
 IP-CIDR,67.59.85.192/26,no-resolve
 IP-CIDR,67.59.88.0/24,no-resolve
 IP-CIDR,67.59.91.0/24,no-resolve
+IP-CIDR,67.210.197.0/24,no-resolve
 IP-CIDR,67.210.199.0/24,no-resolve
 IP-CIDR,67.210.200.0/23,no-resolve
 IP-CIDR,69.1.114.0/24,no-resolve

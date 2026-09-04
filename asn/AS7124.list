@@ -1,6 +1,8 @@
 IP-CIDR,199.59.210.0/24,no-resolve
 IP-CIDR6,2602:ffa9::/48,no-resolve
 IP-CIDR6,2602:ffa9:68::/48,no-resolve
+IP-CIDR6,2602:ffa9:71::/48,no-resolve
 IP-CIDR6,2602:ffa9:72::/47,no-resolve
 IP-CIDR6,2602:ffa9:db2::/48,no-resolve
 IP-CIDR6,2602:ffa9:f22::/47,no-resolve
+IP-CIDR6,2602:ffa9:fb00::/40,no-resolve

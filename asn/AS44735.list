@@ -1,9 +1,7 @@
 IP-CIDR,46.182.184.0/21,no-resolve
 IP-CIDR,78.40.248.0/21,no-resolve
 IP-CIDR,91.220.138.0/24,no-resolve
-IP-CIDR,149.126.80.0/23,no-resolve
-IP-CIDR,149.126.83.0/24,no-resolve
-IP-CIDR,149.126.86.0/23,no-resolve
+IP-CIDR,149.126.80.0/21,no-resolve
 IP-CIDR,153.92.128.0/19,no-resolve
 IP-CIDR,157.97.0.0/19,no-resolve
 IP-CIDR,178.19.48.0/20,no-resolve

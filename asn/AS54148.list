@@ -1,9 +1,10 @@
 IP-CIDR,23.160.152.0/24,no-resolve
-IP-CIDR,216.238.40.0/22,no-resolve
+IP-CIDR,216.238.40.0/23,no-resolve
+IP-CIDR,216.238.43.0/24,no-resolve
 IP-CIDR6,2602:fa43::/47,no-resolve
 IP-CIDR6,2602:fa43:2::/48,no-resolve
 IP-CIDR6,2602:fa43:10::/44,no-resolve
-IP-CIDR6,2602:fa43:20::/43,no-resolve
+IP-CIDR6,2602:fa43:20::/44,no-resolve
 IP-CIDR6,2602:fa43:40::/43,no-resolve
 IP-CIDR6,2602:fa43:60::/44,no-resolve
 IP-CIDR6,2602:fa43:80::/44,no-resolve

@@ -39,8 +39,7 @@ IP-CIDR6,2a00:79e0:180::/41,no-resolve
 IP-CIDR6,2a00:79e0:200::/39,no-resolve
 IP-CIDR6,2a00:79e0:400::/40,no-resolve
 IP-CIDR6,2a00:79e0:502::/48,no-resolve
-IP-CIDR6,2a00:79e0:505::/48,no-resolve
-IP-CIDR6,2a00:79e0:506::/47,no-resolve
+IP-CIDR6,2a00:79e0:504::/46,no-resolve
 IP-CIDR6,2a00:79e0:508::/47,no-resolve
 IP-CIDR6,2a00:79e0:50a::/48,no-resolve
 IP-CIDR6,2a00:79e0:50c::/46,no-resolve

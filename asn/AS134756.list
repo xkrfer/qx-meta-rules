@@ -117,6 +117,8 @@ IP-CIDR,203.0.106.0/23,no-resolve
 IP-CIDR,203.0.111.0/24,no-resolve
 IP-CIDR,203.110.232.0/23,no-resolve
 IP-CIDR,203.119.115.0/24,no-resolve
+IP-CIDR,203.205.64.0/21,no-resolve
+IP-CIDR,203.205.72.0/22,no-resolve
 IP-CIDR,220.154.128.0/21,no-resolve
 IP-CIDR,221.226.232.0/23,no-resolve
 IP-CIDR,222.94.104.0/23,no-resolve
@@ -147,9 +149,7 @@ IP-CIDR6,240e:982:d600::/40,no-resolve
 IP-CIDR6,240e:982:d900::/47,no-resolve
 IP-CIDR6,240e:982:d903::/48,no-resolve
 IP-CIDR6,240e:982:d904::/46,no-resolve
-IP-CIDR6,240e:982:d908::/46,no-resolve
-IP-CIDR6,240e:982:d90c::/48,no-resolve
-IP-CIDR6,240e:982:d90e::/47,no-resolve
+IP-CIDR6,240e:982:d908::/45,no-resolve
 IP-CIDR6,240e:982:d910::/44,no-resolve
 IP-CIDR6,240e:982:d920::/43,no-resolve
 IP-CIDR6,240e:982:d940::/46,no-resolve
@@ -208,10 +208,7 @@ IP-CIDR6,240e:982:da78::/46,no-resolve
 IP-CIDR6,240e:982:da7c::/48,no-resolve
 IP-CIDR6,240e:982:da7e::/47,no-resolve
 IP-CIDR6,240e:982:da80::/43,no-resolve
-IP-CIDR6,240e:982:daa0::/48,no-resolve
-IP-CIDR6,240e:982:daa2::/47,no-resolve
-IP-CIDR6,240e:982:daa4::/46,no-resolve
-IP-CIDR6,240e:982:daa8::/45,no-resolve
+IP-CIDR6,240e:982:daa0::/44,no-resolve
 IP-CIDR6,240e:982:dab0::/46,no-resolve
 IP-CIDR6,240e:982:dab4::/47,no-resolve
 IP-CIDR6,240e:982:dab7::/48,no-resolve

@@ -22,7 +22,9 @@ IP-CIDR,110.164.80.0/23,no-resolve
 IP-CIDR,110.164.82.0/24,no-resolve
 IP-CIDR,110.164.85.0/24,no-resolve
 IP-CIDR,110.164.86.0/23,no-resolve
-IP-CIDR,110.164.88.0/21,no-resolve
+IP-CIDR,110.164.88.0/22,no-resolve
+IP-CIDR,110.164.93.0/24,no-resolve
+IP-CIDR,110.164.94.0/23,no-resolve
 IP-CIDR,110.164.96.0/19,no-resolve
 IP-CIDR,110.164.128.0/22,no-resolve
 IP-CIDR,110.164.132.0/23,no-resolve

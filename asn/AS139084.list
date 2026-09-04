@@ -1,4 +1,5 @@
-IP-CIDR,103.138.38.0/23,no-resolve
+IP-CIDR,103.138.36.0/24,no-resolve
+IP-CIDR,103.138.38.0/24,no-resolve
 IP-CIDR6,2404:bf40:8000::/47,no-resolve
 IP-CIDR6,2404:bf40:8003::/48,no-resolve
 IP-CIDR6,2404:bf40:8004::/46,no-resolve

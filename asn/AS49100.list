@@ -80,3 +80,6 @@ IP-CIDR,193.32.80.0/23,no-resolve
 IP-CIDR,194.33.122.0/23,no-resolve
 IP-CIDR,195.230.105.0/24,no-resolve
 IP-CIDR,195.230.124.0/24,no-resolve
+IP-CIDR6,2001:4c88::/32,no-resolve
+IP-CIDR6,2a02:cd80::/29,no-resolve
+IP-CIDR6,2a03:54a0::/32,no-resolve

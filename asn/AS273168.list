@@ -3,14 +3,12 @@ IP-CIDR6,2803:3250:ea09::/48,no-resolve
 IP-CIDR6,2803:3250:ea19::/48,no-resolve
 IP-CIDR6,2803:3250:ea2d::/48,no-resolve
 IP-CIDR6,2803:3250:ea33::/48,no-resolve
-IP-CIDR6,2803:3250:ea34::/48,no-resolve
 IP-CIDR6,2803:3250:ea4a::/48,no-resolve
 IP-CIDR6,2803:3250:ea4d::/48,no-resolve
 IP-CIDR6,2803:3250:ea50::/48,no-resolve
 IP-CIDR6,2803:3250:ea72::/48,no-resolve
 IP-CIDR6,2803:3250:ea75::/48,no-resolve
 IP-CIDR6,2803:3250:ea7e::/48,no-resolve
-IP-CIDR6,2803:3250:ea81::/48,no-resolve
 IP-CIDR6,2803:3250:ea88::/48,no-resolve
 IP-CIDR6,2803:3250:eabb::/48,no-resolve
 IP-CIDR6,2803:3250:eac3::/48,no-resolve

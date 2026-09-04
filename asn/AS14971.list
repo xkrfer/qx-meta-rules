@@ -5,7 +5,12 @@ IP-CIDR,38.159.128.0/22,no-resolve
 IP-CIDR,38.159.132.0/23,no-resolve
 IP-CIDR,38.159.134.0/24,no-resolve
 IP-CIDR,38.159.135.0/25,no-resolve
-IP-CIDR,38.159.135.128/26,no-resolve
+IP-CIDR,38.159.135.128/27,no-resolve
+IP-CIDR,38.159.135.160/28,no-resolve
+IP-CIDR,38.159.135.176/29,no-resolve
+IP-CIDR,38.159.135.184/30,no-resolve
+IP-CIDR,38.159.135.188/31,no-resolve
+IP-CIDR,38.159.135.191/32,no-resolve
 IP-CIDR,38.159.135.192/27,no-resolve
 IP-CIDR,38.159.135.224/28,no-resolve
 IP-CIDR,38.159.135.240/31,no-resolve

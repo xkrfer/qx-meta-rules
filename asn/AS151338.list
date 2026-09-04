@@ -29,14 +29,10 @@ IP-CIDR6,2400:8a20:123::/48,no-resolve
 IP-CIDR6,2400:8a20:124::/47,no-resolve
 IP-CIDR6,2400:8a20:1a0::/44,no-resolve
 IP-CIDR6,2407:d840:20::/47,no-resolve
-IP-CIDR6,2407:d840:200::/40,no-resolve
 IP-CIDR6,2a0c:9a40:9200::/46,no-resolve
 IP-CIDR6,2a0c:9a40:9204::/47,no-resolve
 IP-CIDR6,2a0c:9a40:9210::/48,no-resolve
-IP-CIDR6,2a12:6e40:eff1::/48,no-resolve
-IP-CIDR6,2a12:6e40:eff2::/47,no-resolve
-IP-CIDR6,2a12:6e40:eff4::/46,no-resolve
-IP-CIDR6,2a12:6e40:eff8::/45,no-resolve
+IP-CIDR6,2a12:6e40:eff0::/44,no-resolve
 IP-CIDR6,2a13:a5c7:3701::/48,no-resolve
 IP-CIDR6,2a13:a5c7:3702::/47,no-resolve
 IP-CIDR6,2a13:a5c7:3704::/46,no-resolve

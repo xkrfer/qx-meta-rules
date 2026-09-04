@@ -4,4 +4,4 @@ IP-CIDR6,2804:6b34:c000::/39,no-resolve
 IP-CIDR6,2804:6b34:c200::/40,no-resolve
 IP-CIDR6,2804:6b34:c400::/40,no-resolve
 IP-CIDR6,2804:6b34:c500::/48,no-resolve
-IP-CIDR6,2804:6b34:c600::/40,no-resolve
+IP-CIDR6,2804:6b34:c600::/44,no-resolve

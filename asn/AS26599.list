@@ -195,7 +195,7 @@ IP-CIDR6,2804:18:10f0::/44,no-resolve
 IP-CIDR6,2804:18:1100::/42,no-resolve
 IP-CIDR6,2804:18:1140::/43,no-resolve
 IP-CIDR6,2804:18:1170::/44,no-resolve
-IP-CIDR6,2804:18:1180::/44,no-resolve
+IP-CIDR6,2804:18:1180::/43,no-resolve
 IP-CIDR6,2804:18:1810::/44,no-resolve
 IP-CIDR6,2804:18:1830::/44,no-resolve
 IP-CIDR6,2804:18:1840::/44,no-resolve

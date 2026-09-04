@@ -3,4 +3,4 @@ IP-CIDR,45.159.151.0/24,no-resolve
 IP-CIDR,185.88.177.0/24,no-resolve
 IP-CIDR,185.88.178.0/23,no-resolve
 IP-CIDR,193.35.230.0/24,no-resolve
-IP-CIDR6,2a05:cd00::/32,no-resolve
+IP-CIDR6,2a05:cd00::/31,no-resolve

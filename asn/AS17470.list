@@ -7,4 +7,6 @@ IP-CIDR,203.189.188.0/22,no-resolve
 IP-CIDR6,2404:8a00::/48,no-resolve
 IP-CIDR6,2404:8a00:65::/48,no-resolve
 IP-CIDR6,2404:8a00:66::/47,no-resolve
-IP-CIDR6,2404:8a00:68::/47,no-resolve
+IP-CIDR6,2404:8a00:68::/46,no-resolve
+IP-CIDR6,2404:8a00:6c::/47,no-resolve
+IP-CIDR6,2404:8a00:6e::/48,no-resolve

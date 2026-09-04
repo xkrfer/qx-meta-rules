@@ -1,1 +1,4 @@
 IP-CIDR6,2404:f4c0:fa80::/44,no-resolve
+IP-CIDR6,2602:feda:b42::/47,no-resolve
+IP-CIDR6,2602:feda:b44::/48,no-resolve
+IP-CIDR6,2a0e:b107:1204::/48,no-resolve

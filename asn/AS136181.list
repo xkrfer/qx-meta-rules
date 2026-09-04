@@ -1,4 +1,5 @@
-IP-CIDR,103.138.36.0/23,no-resolve
+IP-CIDR,103.138.37.0/24,no-resolve
+IP-CIDR,103.138.39.0/24,no-resolve
 IP-CIDR,163.223.176.0/23,no-resolve
 IP-CIDR6,2001:9600:2::/47,no-resolve
 IP-CIDR6,2001:9600:100::/47,no-resolve

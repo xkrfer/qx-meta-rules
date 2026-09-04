@@ -11,4 +11,5 @@ IP-CIDR,106.0.48.0/22,no-resolve
 IP-CIDR,202.43.228.0/22,no-resolve
 IP-CIDR,202.154.184.0/21,no-resolve
 IP-CIDR6,2407:7c0:100::/43,no-resolve
+IP-CIDR6,2407:7c0:120::/48,no-resolve
 IP-CIDR6,2407:7c0:9422::/48,no-resolve

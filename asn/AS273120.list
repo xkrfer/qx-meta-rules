@@ -1,8 +1,9 @@
 IP-CIDR,38.188.178.0/24,no-resolve
 IP-CIDR,51.194.196.0/24,no-resolve
 IP-CIDR6,2803:b850::/47,no-resolve
+IP-CIDR6,2803:b850:2::/48,no-resolve
 IP-CIDR6,2803:b850:4::/48,no-resolve
-IP-CIDR6,2803:b850:6::/47,no-resolve
+IP-CIDR6,2803:b850:7::/48,no-resolve
 IP-CIDR6,2803:b850:40::/42,no-resolve
 IP-CIDR6,2803:b850:c0::/42,no-resolve
 IP-CIDR6,2803:b850:100::/42,no-resolve

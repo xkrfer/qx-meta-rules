@@ -54,4 +54,5 @@ IP-CIDR6,2602:fa80:40::/48,no-resolve
 IP-CIDR6,2602:fa80:43::/48,no-resolve
 IP-CIDR6,2602:fa80:44::/47,no-resolve
 IP-CIDR6,2602:fa80:46::/48,no-resolve
+IP-CIDR6,2602:fa80:4a::/47,no-resolve
 IP-CIDR6,2602:fa80:50::/47,no-resolve

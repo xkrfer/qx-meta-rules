@@ -1,4 +1,4 @@
-IP-CIDR6,2406:840:9962::/47,no-resolve
+IP-CIDR6,2406:840:9962::/48,no-resolve
 IP-CIDR6,2406:840:9964::/48,no-resolve
 IP-CIDR6,2406:840:9966::/47,no-resolve
 IP-CIDR6,2406:840:996c::/48,no-resolve
