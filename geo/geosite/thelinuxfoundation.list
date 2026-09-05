@@ -1,6 +1,7 @@
 host, amp.akamaized.net, proxy
 host-suffix, lfai.foundation, proxy
 host-suffix, linuxfoundation.org, proxy
+host-suffix, kernel.org, proxy
 host-suffix, linux.org, proxy
 host-suffix, openjsf.org, proxy
 host-suffix, electronjs.org, proxy
@@ -13,5 +14,4 @@ host-suffix, amp.dev, proxy
 host-suffix, ampproject.com, proxy
 host-suffix, ampproject.net, proxy
 host-suffix, ampproject.org, proxy
-host-suffix, kernel.org, proxy
 host, cdn.ampproject.org, proxy

@@ -1,5 +1,5 @@
 host-suffix, xiaomiprint.com, proxy
-host-suffix, miot-spec.org, proxy
+host-suffix, xiaomiinc.cn, proxy
 host-suffix, mi-fds.com, proxy
 host-suffix, mi-idc.com, proxy
 host-suffix, mi-img.com, proxy
@@ -25,8 +25,8 @@ host-suffix, xiaomiinc.net, proxy
 host-suffix, xiaomimobile.com, proxy
 host-suffix, xiaominr.com, proxy
 host-suffix, mi-dun.com, proxy
+host-suffix, xiaomimimo.com, proxy
 host-suffix, mgslb.com, proxy
-host-suffix, xiaomiinc.cn, proxy
 host-suffix, xiaomisa.net, proxy
 host-suffix, xiaomisa.org, proxy
 host-suffix, xiaomiwear.com, proxy
@@ -41,13 +41,13 @@ host-suffix, xiaomiyoupin.com, proxy
 host-suffix, youpin.cn, proxy
 host-suffix, zmifi.com, proxy
 host-suffix, saxyit.com, proxy
-host-suffix, xiaomisa.cn, proxy
-host-suffix, miaibox.com, proxy
 host-suffix, xiaoaiassist.com, proxy
-host-suffix, xiaomimimo.com, proxy
-host-suffix, xiaomidns.com.cn, proxy
-host-suffix, xiaomiinc.com.cn, proxy
+host-suffix, miot-spec.org, proxy
+host-suffix, miaibox.com, proxy
+host-suffix, xiaomisa.cn, proxy
 host-suffix, youpin.com.cn, proxy
+host-suffix, xiaomiinc.com.cn, proxy
+host-suffix, xiaomidns.com.cn, proxy
 host-suffix, c.mi.com, proxy
 host-suffix, global.market.xiaomi.com, proxy
 host-suffix, a.market.xiaomi.com, proxy
