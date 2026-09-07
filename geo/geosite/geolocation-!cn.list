@@ -261,6 +261,7 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, proxy
 host, img-s-msn-com.akamaized.net, proxy
 host, impala-media-production.s3.amazonaws.com, proxy
 host, imperial.insendi.com, proxy
+host, lastfm-img.freetls.fastly.net, proxy
 host, lastfm.freetls.fastly.net, proxy
 host, lazer.ppy.sh, proxy
 host, lgcscc-hamivideo2.cdn.hinet.net, proxy

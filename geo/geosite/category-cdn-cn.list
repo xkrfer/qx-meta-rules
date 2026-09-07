@@ -5,12 +5,6 @@ host-suffix, funcdn.com, proxy
 host-suffix, hydun.com, proxy
 host-suffix, jiashule.com, proxy
 host-suffix, jiasule.com, proxy
-host-suffix, aicdn.com, proxy
-host-suffix, upai.com, proxy
-host-suffix, upaiyun.com, proxy
-host-suffix, upcdn.net, proxy
-host-suffix, upyun.com, proxy
-host-suffix, oncdp.com, proxy
 host-suffix, 51cdn.com, proxy
 host-suffix, 8686c.com, proxy
 host-suffix, cdn20.com, proxy
@@ -70,6 +64,12 @@ host-suffix, qnsdk.com, proxy
 host-suffix, qnssl.com, proxy
 host-suffix, staticfile.net, proxy
 host-suffix, staticfile.org, proxy
+host-suffix, aicdn.com, proxy
+host-suffix, upai.com, proxy
+host-suffix, upaiyun.com, proxy
+host-suffix, upcdn.net, proxy
+host-suffix, upyun.com, proxy
+host-suffix, oncdp.com, proxy
 host-suffix, dfyun.com.cn, proxy
 host-suffix, fastcdn.com.cn, proxy
 host-suffix, cf-china.info, proxy

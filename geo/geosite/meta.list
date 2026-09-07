@@ -4,6 +4,10 @@ host-suffix, atmeta.com, proxy
 host-suffix, llama.com, proxy
 host-suffix, meta.ai, proxy
 host-suffix, meta.com, proxy
+host-suffix, fbmessenger.com, proxy
+host-suffix, m.me, proxy
+host-suffix, messenger.com, proxy
+host-suffix, nbabot.net, proxy
 host-suffix, binoculus.com, proxy
 host-suffix, buyoculus.com, proxy
 host-suffix, ocul.us, proxy
@@ -541,10 +545,6 @@ host-suffix, online-instagram.com, proxy
 host-suffix, onlineinstagram.com, proxy
 host-suffix, web-instagram.net, proxy
 host-suffix, wwwinstagram.com, proxy
-host-suffix, fbmessenger.com, proxy
-host-suffix, m.me, proxy
-host-suffix, messenger.com, proxy
-host-suffix, nbabot.net, proxy
 host-suffix, graph.whatsapp.com, proxy
 host-suffix, graph.whatsapp.net, proxy
 host-suffix, analytics.facebook.com, proxy
