@@ -819,7 +819,7 @@ host-suffix, apple, proxy
 host-suffix, android, proxy
 host-suffix, amazon, proxy
 host-suffix, jgoodies.com, proxy
-host-suffix, mpweekly.com, proxy
+host-suffix, gvt0.com, proxy
 host-suffix, 12diasderegalosdeitunes.pe, proxy
 host-suffix, 12joursdecadeauxdeitunes.com, proxy
 host-suffix, 12vpn.com, proxy
@@ -6759,7 +6759,7 @@ host-suffix, cruel-furies.com, proxy
 host-suffix, crunchyroll.com, proxy
 host-suffix, crustwebsites.net, proxy
 host-suffix, cruxpool.com, proxy
-host-suffix, jivara.global, proxy
+host-suffix, crypto.com, proxy
 host-suffix, cryptocompare.com, proxy
 host-suffix, cryptomus.com, proxy
 host-suffix, yandex.kg, proxy
@@ -11341,7 +11341,7 @@ host-suffix, guysnightlife.com, proxy
 host-suffix, gv.com, proxy
 host-suffix, gvlib.com, proxy
 host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, proxy
-host-suffix, gvt0.com, proxy
+host-suffix, jivo.chat, proxy
 host-suffix, gvt1-cn.com, proxy
 host-suffix, gvt1.com, proxy
 host-suffix, gvt2-cn.com, proxy
@@ -11517,7 +11517,7 @@ host-suffix, hboinflight.com, proxy
 host-suffix, hbolacontent.net, proxy
 host-suffix, hbolaunchpad.com, proxy
 host-suffix, hbomailman.com, proxy
-host-suffix, xn--i2ru8q2qg.com, proxy
+host-suffix, jivo.ru, proxy
 host-suffix, hbomax.com, proxy
 host-suffix, hbomax.eu, proxy
 host-suffix, hbomaxcdn.com, proxy
@@ -13928,9 +13928,9 @@ host-suffix, jiuse6666.com, proxy
 host-suffix, jiuse821.com, proxy
 host-suffix, jiuse822.com, proxy
 host-suffix, jiuse823.com, proxy
-host-suffix, crypto.com, proxy
+host-suffix, vrsumo.com, proxy
 host-suffix, 12diasderegalosdeitunes.hn, proxy
-host-suffix, pornky.com, proxy
+host-suffix, xn--i2ru8q2qg.com, proxy
 host-suffix, xboxgamepass.com, proxy
 host-suffix, xboxab.com, proxy
 host-suffix, jivochat.com, proxy
@@ -16526,7 +16526,7 @@ host-suffix, mpinews.com, proxy
 host-suffix, mplstudios.com, proxy
 host-suffix, mpnevolution.com, proxy
 host-suffix, mpv.io, proxy
-host-suffix, jivo.chat, proxy
+host-suffix, mpweekly.com, proxy
 host-suffix, mql5.com, proxy
 host-suffix, winning11.com, proxy
 host-suffix, mr-tireman.jp, proxy
@@ -17530,6 +17530,7 @@ host-suffix, nodejs.org, proxy
 host-suffix, nodequality.com, proxy
 host-suffix, nodereal.io, proxy
 host-suffix, nodeseek.com, proxy
+host-suffix, nodeseek.org, proxy
 host-suffix, nodesource.com, proxy
 host-suffix, noisullifb.com, proxy
 host-suffix, nokiantyres.com, proxy
@@ -19220,7 +19221,7 @@ host-suffix, pornking.fun, proxy
 host-suffix, pornkino.cc, proxy
 host-suffix, pornkro.com, proxy
 host-suffix, pornktube.com, proxy
-host-suffix, jivo.ru, proxy
+host-suffix, pornky.com, proxy
 host-suffix, pornlaundry.com, proxy
 host-suffix, pornlegendsclub.com, proxy
 host-suffix, pornlist18.com, proxy
@@ -22513,7 +22514,7 @@ host-suffix, 101xxx.xyz, proxy
 host-suffix, target.com, proxy
 host-suffix, targetimg1.com, proxy
 host-suffix, tarkov.com, proxy
-host-suffix, vrsumo.com, proxy
+host-suffix, jivara.global, proxy
 host-suffix, tasexy.com, proxy
 host-suffix, tasexy.top, proxy
 host-suffix, vrsmash.com, proxy
