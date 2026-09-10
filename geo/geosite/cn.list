@@ -51,7 +51,7 @@ host-suffix, baidu, proxy
 host-suffix, anquan, proxy
 host-suffix, alipay, proxy
 host-suffix, jsjgbxg.com, proxy
-host-suffix, cargai.com, proxy
+host-suffix, taoyougou.com, proxy
 host-suffix, 027htxt.com, proxy
 host-suffix, 027hxzy.com, proxy
 host-suffix, 027hy.com, proxy
@@ -11295,7 +11295,7 @@ host-suffix, alu-ledprofile.com, proxy
 host-suffix, aluaa.com, proxy
 host-suffix, aluminiumchina.com, proxy
 host-suffix, aluntan.com, proxy
-host-suffix, alwaysnb.com, proxy
+host-suffix, jssihuan.com, proxy
 host-suffix, alwayzev.com, proxy
 host-suffix, alwindoor.com, proxy
 host-suffix, alxw.com, proxy
@@ -18293,7 +18293,7 @@ host-suffix, carellicpa.com, proxy
 host-suffix, carertec.com, proxy
 host-suffix, careuc.com, proxy
 host-suffix, carezb.com, proxy
-host-suffix, jssia.org, proxy
+host-suffix, cargai.com, proxy
 host-suffix, cargeer.com, proxy
 host-suffix, cargo001.com, proxy
 host-suffix, cargodiscovery.com, proxy
@@ -18951,7 +18951,7 @@ host-suffix, cded23c0b11011.beer, proxy
 host-suffix, cdedu.com, proxy
 host-suffix, cdeledu.com, proxy
 host-suffix, cdenvironment.com, proxy
-host-suffix, jssihuan.com, proxy
+host-suffix, cdfanmu.com, proxy
 host-suffix, cdfcjg.com, proxy
 host-suffix, cdfcn.com, proxy
 host-suffix, cdfeimi.com, proxy
@@ -52366,7 +52366,7 @@ host-suffix, jcnqqnf.com, proxy
 host-suffix, jcodecraeer.com, proxy
 host-suffix, jcorv.org, proxy
 host-suffix, jcpeixun.com, proxy
-host-suffix, jcpesz.com, proxy
+host-suffix, jsshuntai.com, proxy
 host-suffix, jcqzw.com, proxy
 host-suffix, jcrb.com, proxy
 host-suffix, jcrcw.com, proxy
@@ -55534,9 +55534,9 @@ host-suffix, jsshichuang.com, proxy
 host-suffix, jsshow.net, proxy
 host-suffix, jsshrzx.com, proxy
 host-suffix, jsshuangxin.com, proxy
-host-suffix, lianqi.net, proxy
+host-suffix, jcpesz.com, proxy
 host-suffix, 027hpit.com, proxy
-host-suffix, cdfanmu.com, proxy
+host-suffix, alwaysnb.com, proxy
 host-suffix, jssjchyxh.com, proxy
 host-suffix, jssjrfw.com, proxy
 host-suffix, jssjxgyw.com, proxy
@@ -60493,7 +60493,7 @@ host-suffix, lianok.com, proxy
 host-suffix, lianouyiyuan.com, proxy
 host-suffix, lianpingroup.com, proxy
 host-suffix, lianpunet.com, proxy
-host-suffix, jsshuntai.com, proxy
+host-suffix, lianqi.net, proxy
 host-suffix, lianqigong.com, proxy
 host-suffix, liansaipiao.com, proxy
 host-suffix, lianshang.com, proxy
@@ -86838,7 +86838,7 @@ host-suffix, taoxuemiao.com, proxy
 host-suffix, taoyaohh.site, proxy
 host-suffix, taoyitu.com, proxy
 host-suffix, taoyizhu.com, proxy
-host-suffix, taoyougou.com, proxy
+host-suffix, jssia.org, proxy
 host-suffix, taoyuanc.com, proxy
 host-suffix, taoyuewenhua.net, proxy
 host-suffix, taozg.store, proxy
@@ -104879,6 +104879,7 @@ host-suffix, yuano.cc, proxy
 host-suffix, yuanpanguoji.com, proxy
 host-suffix, yuanqiao.net, proxy
 host-suffix, yuanqiao.pw, proxy
+host-suffix, yuanqidesk.com, proxy
 host-suffix, yuanqilt.com, proxy
 host-suffix, yuanqingsh.com, proxy
 host-suffix, yuanqisenlin.com, proxy
