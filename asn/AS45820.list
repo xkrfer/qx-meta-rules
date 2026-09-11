@@ -113,7 +113,6 @@ ip-cidr, 61.12.80.0/21, proxy, no-resolve
 ip-cidr, 61.12.88.0/22, proxy, no-resolve
 ip-cidr, 61.12.92.0/23, proxy, no-resolve
 ip-cidr, 61.12.94.0/24, proxy, no-resolve
-ip-cidr, 61.16.38.0/24, proxy, no-resolve
 ip-cidr, 61.16.128.0/20, proxy, no-resolve
 ip-cidr, 103.8.47.0/24, proxy, no-resolve
 ip-cidr, 103.77.110.0/24, proxy, no-resolve

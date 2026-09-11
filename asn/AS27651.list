@@ -8,7 +8,6 @@ ip-cidr, 164.77.0.0/20, proxy, no-resolve
 ip-cidr, 164.77.16.0/21, proxy, no-resolve
 ip-cidr, 164.77.24.0/23, proxy, no-resolve
 ip-cidr, 164.77.26.0/24, proxy, no-resolve
-ip-cidr, 164.77.29.0/24, proxy, no-resolve
 ip-cidr, 164.77.30.0/23, proxy, no-resolve
 ip-cidr, 164.77.32.0/19, proxy, no-resolve
 ip-cidr, 164.77.64.0/22, proxy, no-resolve
@@ -203,7 +202,6 @@ ip6-cidr, 2800:300:6320::/43, proxy, no-resolve
 ip6-cidr, 2800:300:6360::/43, proxy, no-resolve
 ip6-cidr, 2800:300:6380::/41, proxy, no-resolve
 ip6-cidr, 2800:300:6400::/43, proxy, no-resolve
-ip6-cidr, 2800:300:6440::/43, proxy, no-resolve
 ip6-cidr, 2800:300:6480::/41, proxy, no-resolve
 ip6-cidr, 2800:300:6500::/41, proxy, no-resolve
 ip6-cidr, 2800:300:6580::/42, proxy, no-resolve
@@ -229,7 +227,6 @@ ip6-cidr, 2800:300:8320::/43, proxy, no-resolve
 ip6-cidr, 2800:300:8360::/43, proxy, no-resolve
 ip6-cidr, 2800:300:8380::/41, proxy, no-resolve
 ip6-cidr, 2800:300:8400::/43, proxy, no-resolve
-ip6-cidr, 2800:300:8440::/43, proxy, no-resolve
 ip6-cidr, 2800:300:8480::/41, proxy, no-resolve
 ip6-cidr, 2800:300:8500::/41, proxy, no-resolve
 ip6-cidr, 2800:300:8580::/42, proxy, no-resolve

@@ -365,8 +365,7 @@ ip6-cidr, 2402:3a80:487e::/48, proxy, no-resolve
 ip6-cidr, 2402:3a80:48db::/48, proxy, no-resolve
 ip6-cidr, 2402:3a80:48fb::/48, proxy, no-resolve
 ip6-cidr, 2402:3a80:4940::/47, proxy, no-resolve
-ip6-cidr, 2402:3a80:4980::/42, proxy, no-resolve
-ip6-cidr, 2402:3a80:49c0::/43, proxy, no-resolve
+ip6-cidr, 2402:3a80:4980::/41, proxy, no-resolve
 ip6-cidr, 2402:3a80:4a10::/44, proxy, no-resolve
 ip6-cidr, 2402:3a80:4a20::/43, proxy, no-resolve
 ip6-cidr, 2402:3a80:4a40::/43, proxy, no-resolve

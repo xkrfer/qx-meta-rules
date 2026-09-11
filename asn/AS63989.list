@@ -13,5 +13,6 @@ ip-cidr, 202.9.89.0/24, proxy, no-resolve
 ip-cidr, 202.9.90.0/24, proxy, no-resolve
 ip-cidr, 202.94.166.0/24, proxy, no-resolve
 ip6-cidr, 2402:6880:2000::/48, proxy, no-resolve
+ip6-cidr, 2402:6880:2100::/48, proxy, no-resolve
 ip6-cidr, 2402:6880:3000::/48, proxy, no-resolve
 ip6-cidr, 2602:ff96:4::/48, proxy, no-resolve

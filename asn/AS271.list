@@ -96,7 +96,6 @@ ip6-cidr, 2607:f8f0:200::/48, proxy, no-resolve
 ip6-cidr, 2607:f8f0:202::/48, proxy, no-resolve
 ip6-cidr, 2607:f8f0:204::/48, proxy, no-resolve
 ip6-cidr, 2607:f8f0:210::/44, proxy, no-resolve
-ip6-cidr, 2607:f8f0:220::/44, proxy, no-resolve
 ip6-cidr, 2607:f8f0:250::/44, proxy, no-resolve
 ip6-cidr, 2607:f8f0:260::/48, proxy, no-resolve
 ip6-cidr, 2607:f8f0:400::/40, proxy, no-resolve

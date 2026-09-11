@@ -4,6 +4,7 @@ ip-cidr, 103.160.48.0/24, proxy, no-resolve
 ip6-cidr, 2001:df4:1780::/48, proxy, no-resolve
 ip6-cidr, 2406:7ec0::/36, proxy, no-resolve
 ip6-cidr, 2406:7ec0:1005::/48, proxy, no-resolve
+ip6-cidr, 2406:7ec0:1006::/48, proxy, no-resolve
 ip6-cidr, 2406:7ec0:100c::/46, proxy, no-resolve
 ip6-cidr, 2406:7ec0:1010::/44, proxy, no-resolve
 ip6-cidr, 2406:7ec0:1020::/43, proxy, no-resolve

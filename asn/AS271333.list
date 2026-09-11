@@ -1,3 +1,2 @@
 ip-cidr, 200.39.32.0/22, proxy, no-resolve
-ip6-cidr, 2804:79e0::/34, proxy, no-resolve
-ip6-cidr, 2804:79e0:8000::/34, proxy, no-resolve
+ip6-cidr, 2804:79e0::/32, proxy, no-resolve

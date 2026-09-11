@@ -380,8 +380,7 @@ ip6-cidr, 2607:18c0::/32, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc80:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc80:ca20::/63, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc81:4000::/64, proxy, no-resolve
-ip6-cidr, 2a02:26f7:cc82:4000::/64, proxy, no-resolve
-ip6-cidr, 2a02:26f7:cc82:ca20::/63, proxy, no-resolve
+ip6-cidr, 2a02:26f7:cc82::/48, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc83:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc84:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:cc84:ca20::/63, proxy, no-resolve

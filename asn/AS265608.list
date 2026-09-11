@@ -3,3 +3,4 @@ ip-cidr, 201.234.161.0/24, proxy, no-resolve
 ip6-cidr, 2806:365::/33, proxy, no-resolve
 ip6-cidr, 2806:365:8000::/34, proxy, no-resolve
 ip6-cidr, 2806:365:c000::/35, proxy, no-resolve
+ip6-cidr, 2806:453::/32, proxy, no-resolve

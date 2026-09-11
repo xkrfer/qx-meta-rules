@@ -128,12 +128,13 @@ ip-cidr, 195.133.63.0/24, proxy, no-resolve
 ip-cidr, 195.133.66.0/24, proxy, no-resolve
 ip-cidr, 195.133.76.0/23, proxy, no-resolve
 ip-cidr, 195.133.81.0/24, proxy, no-resolve
+ip-cidr, 201.51.10.0/24, proxy, no-resolve
 ip-cidr, 201.51.16.0/24, proxy, no-resolve
 ip-cidr, 201.51.18.0/23, proxy, no-resolve
 ip-cidr, 201.51.20.0/22, proxy, no-resolve
-ip-cidr, 201.51.24.0/23, proxy, no-resolve
-ip-cidr, 201.51.26.0/24, proxy, no-resolve
+ip-cidr, 201.51.24.0/22, proxy, no-resolve
 ip-cidr, 212.192.217.0/24, proxy, no-resolve
 ip-cidr, 216.57.104.0/21, proxy, no-resolve
+ip-cidr, 217.149.24.0/24, proxy, no-resolve
 ip-cidr, 217.151.229.0/24, proxy, no-resolve
 ip-cidr, 217.151.231.0/24, proxy, no-resolve

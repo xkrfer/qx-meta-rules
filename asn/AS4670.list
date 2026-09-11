@@ -51,6 +51,7 @@ ip-cidr, 61.110.20.0/23, proxy, no-resolve
 ip-cidr, 61.110.22.0/24, proxy, no-resolve
 ip-cidr, 61.110.24.0/23, proxy, no-resolve
 ip-cidr, 61.110.26.0/24, proxy, no-resolve
+ip-cidr, 61.110.29.0/24, proxy, no-resolve
 ip-cidr, 61.110.48.0/20, proxy, no-resolve
 ip-cidr, 61.110.64.0/19, proxy, no-resolve
 ip-cidr, 61.110.101.0/24, proxy, no-resolve

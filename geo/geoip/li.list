@@ -457,7 +457,6 @@ ip6-cidr, 2a0c:d780::/29, proxy, no-resolve
 ip6-cidr, 2a0d:3344:3e00::/40, proxy, no-resolve
 ip6-cidr, 2a0d:d300::/32, proxy, no-resolve
 ip6-cidr, 2a0e:11c0::/32, proxy, no-resolve
-ip6-cidr, 2a0e:97c0:1ba::/47, proxy, no-resolve
 ip6-cidr, 2a0e:97c0:3d5::/48, proxy, no-resolve
 ip6-cidr, 2a0e:97c0:3d6::/48, proxy, no-resolve
 ip6-cidr, 2a0e:97c0:450::/44, proxy, no-resolve

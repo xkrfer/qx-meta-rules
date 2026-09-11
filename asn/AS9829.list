@@ -99,7 +99,8 @@ ip6-cidr, 2001:4490:3bf8::/45, proxy, no-resolve
 ip6-cidr, 2001:4490:3df8::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:3e00::/42, proxy, no-resolve
 ip6-cidr, 2001:4490:3f00::/42, proxy, no-resolve
-ip6-cidr, 2001:4490:3fbc::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:3fb4::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:3fb8::/45, proxy, no-resolve
 ip6-cidr, 2001:4490:3fdc::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:3fe0::/43, proxy, no-resolve
 ip6-cidr, 2001:4490:4000::/41, proxy, no-resolve
@@ -137,8 +138,7 @@ ip6-cidr, 2001:4490:7a00::/43, proxy, no-resolve
 ip6-cidr, 2001:4490:7a20::/44, proxy, no-resolve
 ip6-cidr, 2001:4490:7a30::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:7c00::/46, proxy, no-resolve
-ip6-cidr, 2001:4490:d000::/45, proxy, no-resolve
-ip6-cidr, 2001:4490:d00c::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:d000::/44, proxy, no-resolve
 ip6-cidr, 2001:4490:d040::/45, proxy, no-resolve
 ip6-cidr, 2001:4490:d04c::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d080::/45, proxy, no-resolve
@@ -158,7 +158,8 @@ ip6-cidr, 2001:4490:d24c::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d280::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d4c0::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d500::/46, proxy, no-resolve
-ip6-cidr, 2001:4490:d664::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:d660::/45, proxy, no-resolve
+ip6-cidr, 2001:4490:d760::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d780::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d7a0::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d800::/46, proxy, no-resolve
@@ -169,7 +170,10 @@ ip6-cidr, 2001:4490:d970::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d980::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:d9b0::/44, proxy, no-resolve
 ip6-cidr, 2001:4490:d9c0::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:da10::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:da30::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:da70::/46, proxy, no-resolve
+ip6-cidr, 2001:4490:dad0::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:db40::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:dc4c::/46, proxy, no-resolve
 ip6-cidr, 2001:4490:dd18::/46, proxy, no-resolve

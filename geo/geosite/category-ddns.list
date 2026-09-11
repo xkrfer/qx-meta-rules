@@ -3,6 +3,8 @@ host-suffix, duckdns.org, proxy
 host-suffix, nip.io, proxy
 host-suffix, sslip.io, proxy
 host-suffix, traefik.me, proxy
+host-suffix, cloudns.nz, proxy
+host-suffix, cloudns.ph, proxy
 host-suffix, 1cooldns.com, proxy
 host-suffix, 4cloud.click, proxy
 host-suffix, accesscam.org, proxy
@@ -107,5 +109,3 @@ host-suffix, viewdns.net, proxy
 host-suffix, webhop.me, proxy
 host-suffix, workisboring.com, proxy
 host-suffix, zapto.org, proxy
-host-suffix, cloudns.nz, proxy
-host-suffix, cloudns.ph, proxy

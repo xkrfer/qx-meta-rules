@@ -2,6 +2,7 @@ ip6-cidr, 2406:840:f100::/47, proxy, no-resolve
 ip6-cidr, 2602:fb08::/48, proxy, no-resolve
 ip6-cidr, 2602:fed2:7020::/47, proxy, no-resolve
 ip6-cidr, 2602:fed2:7023::/48, proxy, no-resolve
+ip6-cidr, 2602:feda:ca1::/48, proxy, no-resolve
 ip6-cidr, 2a0d:2406:511::/48, proxy, no-resolve
 ip6-cidr, 2a0d:2406:512::/48, proxy, no-resolve
 ip6-cidr, 2a0d:2406:515::/48, proxy, no-resolve

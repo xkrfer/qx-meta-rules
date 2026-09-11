@@ -236,7 +236,7 @@ ip6-cidr, 2001:250:6038::/48, proxy, no-resolve
 ip6-cidr, 2001:250:603a::/48, proxy, no-resolve
 ip6-cidr, 2001:250:603c::/48, proxy, no-resolve
 ip6-cidr, 2001:250:603f::/48, proxy, no-resolve
-ip6-cidr, 2001:250:6040::/48, proxy, no-resolve
+ip6-cidr, 2001:250:6040::/47, proxy, no-resolve
 ip6-cidr, 2001:250:7000::/47, proxy, no-resolve
 ip6-cidr, 2001:250:7002::/48, proxy, no-resolve
 ip6-cidr, 2001:250:7004::/47, proxy, no-resolve
@@ -434,6 +434,7 @@ ip6-cidr, 2001:da8:b81c::/48, proxy, no-resolve
 ip6-cidr, 2001:daa:1::/48, proxy, no-resolve
 ip6-cidr, 2001:daa:2::/47, proxy, no-resolve
 ip6-cidr, 2001:daa:4::/47, proxy, no-resolve
+ip6-cidr, 2001:daa:6::/48, proxy, no-resolve
 ip6-cidr, 2001:daa:9::/48, proxy, no-resolve
 ip6-cidr, 2400:a980:ee::/48, proxy, no-resolve
 ip6-cidr, 2401:cc00::/32, proxy, no-resolve
@@ -505,7 +506,13 @@ ip6-cidr, 240a:a040::/26, proxy, no-resolve
 ip6-cidr, 240a:a080::/25, proxy, no-resolve
 ip6-cidr, 240a:a100::/24, proxy, no-resolve
 ip6-cidr, 240a:a200::/23, proxy, no-resolve
-ip6-cidr, 240a:a400::/25, proxy, no-resolve
+ip6-cidr, 240a:a400::/29, proxy, no-resolve
+ip6-cidr, 240a:a408::/30, proxy, no-resolve
+ip6-cidr, 240a:a40c::/31, proxy, no-resolve
+ip6-cidr, 240a:a40e::/32, proxy, no-resolve
+ip6-cidr, 240a:a410::/28, proxy, no-resolve
+ip6-cidr, 240a:a420::/27, proxy, no-resolve
+ip6-cidr, 240a:a440::/26, proxy, no-resolve
 ip6-cidr, 240a:a480::/26, proxy, no-resolve
 ip6-cidr, 240a:a4c0::/28, proxy, no-resolve
 ip6-cidr, 240a:a4d0::/30, proxy, no-resolve

@@ -27,10 +27,8 @@ ip-cidr, 223.123.112.0/21, proxy, no-resolve
 ip-cidr, 223.123.120.0/22, proxy, no-resolve
 ip6-cidr, 2402:ad80::/46, proxy, no-resolve
 ip6-cidr, 2402:ad80:4::/48, proxy, no-resolve
-ip6-cidr, 2402:ad80:10::/47, proxy, no-resolve
-ip6-cidr, 2402:ad80:12::/48, proxy, no-resolve
-ip6-cidr, 2402:ad80:20::/47, proxy, no-resolve
-ip6-cidr, 2402:ad80:22::/48, proxy, no-resolve
+ip6-cidr, 2402:ad80:10::/46, proxy, no-resolve
+ip6-cidr, 2402:ad80:20::/46, proxy, no-resolve
 ip6-cidr, 2402:ad80:60::/43, proxy, no-resolve
 ip6-cidr, 2402:ad80:80::/42, proxy, no-resolve
 ip6-cidr, 2402:ad80:f0::/44, proxy, no-resolve

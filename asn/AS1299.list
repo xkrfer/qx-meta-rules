@@ -101,7 +101,6 @@ ip-cidr, 217.74.19.0/24, proxy, no-resolve
 ip6-cidr, 2001:2000:3000::/40, proxy, no-resolve
 ip6-cidr, 2001:2030::/28, proxy, no-resolve
 ip6-cidr, 2407:1600::/32, proxy, no-resolve
-ip6-cidr, 2602:247:8230::/48, proxy, no-resolve
 ip6-cidr, 2607:41c0::/32, proxy, no-resolve
 ip6-cidr, 2a00:d0c0:1299::/48, proxy, no-resolve
 ip6-cidr, 2a02:60a0:1000::/48, proxy, no-resolve

@@ -13,6 +13,7 @@ ip6-cidr, 2803:3250:ea88::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:eabb::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:eac3::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:eac8::/48, proxy, no-resolve
+ip6-cidr, 2803:3250:eace::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:ead6::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:eadf::/48, proxy, no-resolve
 ip6-cidr, 2803:3250:eae8::/48, proxy, no-resolve

@@ -13,7 +13,6 @@ ip-cidr, 168.238.254.0/24, proxy, no-resolve
 ip6-cidr, 2602:fbde::/48, proxy, no-resolve
 ip6-cidr, 2602:fbde:4::/47, proxy, no-resolve
 ip6-cidr, 2602:fbde:6::/48, proxy, no-resolve
-ip6-cidr, 2602:fbde:64::/48, proxy, no-resolve
 ip6-cidr, 2602:fbde:128::/48, proxy, no-resolve
 ip6-cidr, 2602:fbde:130::/48, proxy, no-resolve
 ip6-cidr, 2602:fbde:194::/48, proxy, no-resolve

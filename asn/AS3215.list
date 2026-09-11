@@ -221,7 +221,7 @@ ip-cidr, 90.88.128.0/18, proxy, no-resolve
 ip-cidr, 90.89.0.0/16, proxy, no-resolve
 ip-cidr, 90.90.0.0/15, proxy, no-resolve
 ip-cidr, 90.92.0.0/15, proxy, no-resolve
-ip-cidr, 90.98.0.0/15, proxy, no-resolve
+ip-cidr, 90.99.0.0/16, proxy, no-resolve
 ip-cidr, 90.100.0.0/14, proxy, no-resolve
 ip-cidr, 90.104.0.0/15, proxy, no-resolve
 ip-cidr, 90.107.0.0/16, proxy, no-resolve

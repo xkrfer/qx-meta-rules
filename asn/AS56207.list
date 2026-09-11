@@ -1,2 +1,5 @@
-ip-cidr, 139.135.192.0/18, proxy, no-resolve
+ip-cidr, 139.135.192.0/20, proxy, no-resolve
+ip-cidr, 139.135.208.0/21, proxy, no-resolve
+ip-cidr, 139.135.216.0/22, proxy, no-resolve
+ip-cidr, 139.135.224.0/19, proxy, no-resolve
 ip6-cidr, 2403:4c0:7800::/37, proxy, no-resolve

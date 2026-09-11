@@ -19,8 +19,3 @@ ip6-cidr, 2400:b340:2000::/35, proxy, no-resolve
 ip6-cidr, 2400:b340:4000::/34, proxy, no-resolve
 ip6-cidr, 2400:b340:8000::/33, proxy, no-resolve
 ip6-cidr, 2400:e260::/32, proxy, no-resolve
-ip6-cidr, 2403:1e40:1210::/44, proxy, no-resolve
-ip6-cidr, 2403:1e40:1220::/45, proxy, no-resolve
-ip6-cidr, 2403:1e40:1228::/46, proxy, no-resolve
-ip6-cidr, 2403:1e40:1242::/48, proxy, no-resolve
-ip6-cidr, 2403:1e40:fffc::/48, proxy, no-resolve
