@@ -5,7 +5,6 @@ IP-CIDR6,2804:13b0:4c00::/44,no-resolve
 IP-CIDR6,2804:13b0:4c40::/44,no-resolve
 IP-CIDR6,2804:13b0:5c00::/44,no-resolve
 IP-CIDR6,2804:13b0:5c30::/44,no-resolve
-IP-CIDR6,2804:13b0:6c00::/43,no-resolve
 IP-CIDR6,2804:13b0:6c50::/44,no-resolve
 IP-CIDR6,2804:13b0:6c60::/44,no-resolve
 IP-CIDR6,2804:13b0:7f80::/41,no-resolve

@@ -1242,12 +1242,7 @@ IP-CIDR,124.137.60.0/22,no-resolve
 IP-CIDR,124.137.64.0/19,no-resolve
 IP-CIDR,124.137.104.0/21,no-resolve
 IP-CIDR,124.137.112.0/20,no-resolve
-IP-CIDR,124.137.128.0/19,no-resolve
-IP-CIDR,124.137.160.0/22,no-resolve
-IP-CIDR,124.137.166.0/23,no-resolve
-IP-CIDR,124.137.168.0/21,no-resolve
-IP-CIDR,124.137.176.0/20,no-resolve
-IP-CIDR,124.137.192.0/18,no-resolve
+IP-CIDR,124.137.128.0/17,no-resolve
 IP-CIDR,124.139.210.0/24,no-resolve
 IP-CIDR,124.139.232.0/23,no-resolve
 IP-CIDR,125.61.27.0/24,no-resolve

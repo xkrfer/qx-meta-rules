@@ -5,6 +5,7 @@ IP-CIDR,113.203.192.0/24,no-resolve
 IP-CIDR,113.203.194.0/24,no-resolve
 IP-CIDR,113.203.196.0/22,no-resolve
 IP-CIDR,118.103.224.0/23,no-resolve
+IP-CIDR,151.123.232.0/24,no-resolve
 IP-CIDR6,2406:d00:ee00::/46,no-resolve
 IP-CIDR6,2406:d00:ee04::/47,no-resolve
 IP-CIDR6,2406:d00:ee0b::/48,no-resolve

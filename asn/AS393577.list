@@ -29,8 +29,7 @@ IP-CIDR6,2602:f9ba:ab::/48,no-resolve
 IP-CIDR6,2602:f9ba:ac::/46,no-resolve
 IP-CIDR6,2602:f9ba:b0::/48,no-resolve
 IP-CIDR6,2602:f9ba:b2::/48,no-resolve
-IP-CIDR6,2602:f9ba:b4::/48,no-resolve
-IP-CIDR6,2602:f9ba:b6::/47,no-resolve
+IP-CIDR6,2602:f9ba:b4::/46,no-resolve
 IP-CIDR6,2602:f9ba:b8::/47,no-resolve
 IP-CIDR6,2602:f9ba:ba::/48,no-resolve
 IP-CIDR6,2602:f9ba:bc::/46,no-resolve

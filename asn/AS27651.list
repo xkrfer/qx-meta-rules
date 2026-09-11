@@ -8,7 +8,6 @@ IP-CIDR,164.77.0.0/20,no-resolve
 IP-CIDR,164.77.16.0/21,no-resolve
 IP-CIDR,164.77.24.0/23,no-resolve
 IP-CIDR,164.77.26.0/24,no-resolve
-IP-CIDR,164.77.29.0/24,no-resolve
 IP-CIDR,164.77.30.0/23,no-resolve
 IP-CIDR,164.77.32.0/19,no-resolve
 IP-CIDR,164.77.64.0/22,no-resolve
@@ -203,7 +202,6 @@ IP-CIDR6,2800:300:6320::/43,no-resolve
 IP-CIDR6,2800:300:6360::/43,no-resolve
 IP-CIDR6,2800:300:6380::/41,no-resolve
 IP-CIDR6,2800:300:6400::/43,no-resolve
-IP-CIDR6,2800:300:6440::/43,no-resolve
 IP-CIDR6,2800:300:6480::/41,no-resolve
 IP-CIDR6,2800:300:6500::/41,no-resolve
 IP-CIDR6,2800:300:6580::/42,no-resolve
@@ -229,7 +227,6 @@ IP-CIDR6,2800:300:8320::/43,no-resolve
 IP-CIDR6,2800:300:8360::/43,no-resolve
 IP-CIDR6,2800:300:8380::/41,no-resolve
 IP-CIDR6,2800:300:8400::/43,no-resolve
-IP-CIDR6,2800:300:8440::/43,no-resolve
 IP-CIDR6,2800:300:8480::/41,no-resolve
 IP-CIDR6,2800:300:8500::/41,no-resolve
 IP-CIDR6,2800:300:8580::/42,no-resolve

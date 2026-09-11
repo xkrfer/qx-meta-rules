@@ -2,3 +2,4 @@ IP-CIDR,31.6.20.0/24,no-resolve
 IP-CIDR,103.190.28.0/23,no-resolve
 IP-CIDR,193.163.127.0/24,no-resolve
 IP-CIDR,203.100.57.0/24,no-resolve
+IP-CIDR6,2401:8a0::/32,no-resolve

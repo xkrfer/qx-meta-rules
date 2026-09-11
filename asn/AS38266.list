@@ -365,8 +365,7 @@ IP-CIDR6,2402:3a80:487e::/48,no-resolve
 IP-CIDR6,2402:3a80:48db::/48,no-resolve
 IP-CIDR6,2402:3a80:48fb::/48,no-resolve
 IP-CIDR6,2402:3a80:4940::/47,no-resolve
-IP-CIDR6,2402:3a80:4980::/42,no-resolve
-IP-CIDR6,2402:3a80:49c0::/43,no-resolve
+IP-CIDR6,2402:3a80:4980::/41,no-resolve
 IP-CIDR6,2402:3a80:4a10::/44,no-resolve
 IP-CIDR6,2402:3a80:4a20::/43,no-resolve
 IP-CIDR6,2402:3a80:4a40::/43,no-resolve

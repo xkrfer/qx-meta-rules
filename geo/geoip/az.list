@@ -123,7 +123,6 @@ IP-CIDR,93.88.80.0/20,no-resolve
 IP-CIDR,93.114.130.0/24,no-resolve
 IP-CIDR,93.184.224.0/20,no-resolve
 IP-CIDR,94.20.0.0/16,no-resolve
-IP-CIDR,94.158.191.0/24,no-resolve
 IP-CIDR,95.86.128.0/18,no-resolve
 IP-CIDR,95.142.150.0/24,no-resolve
 IP-CIDR,95.210.236.0/24,no-resolve
@@ -643,6 +642,7 @@ IP-CIDR6,2a10:25c0::/29,no-resolve
 IP-CIDR6,2a10:9007::/64,no-resolve
 IP-CIDR6,2a10:d880::/29,no-resolve
 IP-CIDR6,2a12:8bc0::/29,no-resolve
+IP-CIDR6,2a12:a403::/32,no-resolve
 IP-CIDR6,2a12:d1c0::/29,no-resolve
 IP-CIDR6,2a12:f4c0::/29,no-resolve
 IP-CIDR6,2a13:240:fd00::/40,no-resolve

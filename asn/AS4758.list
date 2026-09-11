@@ -36,9 +36,7 @@ IP-CIDR,164.100.160.0/20,no-resolve
 IP-CIDR,164.100.176.0/22,no-resolve
 IP-CIDR,164.100.180.0/24,no-resolve
 IP-CIDR,164.100.182.0/23,no-resolve
-IP-CIDR,164.100.184.0/22,no-resolve
-IP-CIDR,164.100.188.0/24,no-resolve
-IP-CIDR,164.100.190.0/23,no-resolve
+IP-CIDR,164.100.184.0/21,no-resolve
 IP-CIDR,164.100.192.0/22,no-resolve
 IP-CIDR,164.100.197.0/24,no-resolve
 IP-CIDR,164.100.198.0/23,no-resolve
@@ -58,13 +56,7 @@ IP-CIDR6,2001:4408:4310::/44,no-resolve
 IP-CIDR6,2001:4408:4320::/43,no-resolve
 IP-CIDR6,2001:4408:4340::/42,no-resolve
 IP-CIDR6,2001:4408:4380::/41,no-resolve
-IP-CIDR6,2001:4408:4400::/40,no-resolve
-IP-CIDR6,2001:4408:4500::/45,no-resolve
-IP-CIDR6,2001:4408:4510::/44,no-resolve
-IP-CIDR6,2001:4408:4520::/43,no-resolve
-IP-CIDR6,2001:4408:4540::/42,no-resolve
-IP-CIDR6,2001:4408:4580::/41,no-resolve
-IP-CIDR6,2001:4408:4600::/39,no-resolve
+IP-CIDR6,2001:4408:4400::/38,no-resolve
 IP-CIDR6,2001:4408:4800::/38,no-resolve
 IP-CIDR6,2001:4408:4c00::/40,no-resolve
 IP-CIDR6,2001:4408:4d09::/48,no-resolve

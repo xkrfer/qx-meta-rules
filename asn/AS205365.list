@@ -1,3 +1,4 @@
 IP-CIDR,195.191.80.0/23,no-resolve
 IP-CIDR6,2a00:1908:fffa::/48,no-resolve
-IP-CIDR6,2a00:1908:fffc::/46,no-resolve
+IP-CIDR6,2a00:1908:fffc::/48,no-resolve
+IP-CIDR6,2a00:1908:fffe::/47,no-resolve

@@ -36,6 +36,7 @@ IP-CIDR,104.28.220.15/32,no-resolve
 IP-CIDR,104.28.220.16/30,no-resolve
 IP-CIDR,104.28.252.15/32,no-resolve
 IP-CIDR,104.28.252.16/30,no-resolve
+IP-CIDR,109.107.60.0/24,no-resolve
 IP-CIDR,140.248.36.106/31,no-resolve
 IP-CIDR,140.248.56.68/32,no-resolve
 IP-CIDR,140.248.57.68/32,no-resolve

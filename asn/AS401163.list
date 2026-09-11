@@ -8,10 +8,7 @@ IP-CIDR,103.140.220.0/24,no-resolve
 IP-CIDR6,2a0b:d900::/30,no-resolve
 IP-CIDR6,2a10:bc40::/32,no-resolve
 IP-CIDR6,2a11:c944::/32,no-resolve
-IP-CIDR6,2a12:28c0::/33,no-resolve
-IP-CIDR6,2a12:28c1::/33,no-resolve
-IP-CIDR6,2a12:28c2::/33,no-resolve
-IP-CIDR6,2a12:28c3::/33,no-resolve
+IP-CIDR6,2a12:28c0::/30,no-resolve
 IP-CIDR6,2a12:5f42::/32,no-resolve
 IP-CIDR6,2a14:e01::/32,no-resolve
 IP-CIDR6,2a14:e02::/31,no-resolve

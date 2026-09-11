@@ -5,7 +5,7 @@ IP-CIDR6,2400:7400:25::/48,no-resolve
 IP-CIDR6,2400:7400:26::/48,no-resolve
 IP-CIDR6,2400:7400:30::/46,no-resolve
 IP-CIDR6,2400:7400:34::/48,no-resolve
-IP-CIDR6,2400:7400:36::/47,no-resolve
+IP-CIDR6,2400:7400:37::/48,no-resolve
 IP-CIDR6,2400:7400:39::/48,no-resolve
 IP-CIDR6,2400:7400:3b::/48,no-resolve
 IP-CIDR6,2400:7400:41::/48,no-resolve

@@ -250,7 +250,6 @@ IP-CIDR6,2001:1a11:2ba::/48,no-resolve
 IP-CIDR6,2001:1a11:2c1::/48,no-resolve
 IP-CIDR6,2001:1a11:2cd::/48,no-resolve
 IP-CIDR6,2001:1a11:2ce::/48,no-resolve
-IP-CIDR6,2001:1a11:2d1::/48,no-resolve
 IP-CIDR6,2001:1a11:2d8::/46,no-resolve
 IP-CIDR6,2001:1a11:2e7::/48,no-resolve
 IP-CIDR6,2001:1a11:2ea::/48,no-resolve
@@ -301,6 +300,7 @@ IP-CIDR6,2001:1a11:3cf::/48,no-resolve
 IP-CIDR6,2001:1a11:3d1::/48,no-resolve
 IP-CIDR6,2001:1a11:3d4::/48,no-resolve
 IP-CIDR6,2001:1a11:3d6::/47,no-resolve
+IP-CIDR6,2001:1a11:3d9::/48,no-resolve
 IP-CIDR6,2001:1a11:3db::/48,no-resolve
 IP-CIDR6,2001:1a11:3e3::/48,no-resolve
 IP-CIDR6,2001:1a11:3e5::/48,no-resolve
@@ -316,7 +316,7 @@ IP-CIDR6,2001:1a11:40f::/48,no-resolve
 IP-CIDR6,2001:1a11:413::/48,no-resolve
 IP-CIDR6,2001:1a11:415::/48,no-resolve
 IP-CIDR6,2001:1a11:419::/48,no-resolve
-IP-CIDR6,2001:1a11:41e::/47,no-resolve
+IP-CIDR6,2001:1a11:41f::/48,no-resolve
 IP-CIDR6,2001:1a11:420::/43,no-resolve
 IP-CIDR6,2001:1a11:440::/42,no-resolve
 IP-CIDR6,2001:1a11:480::/41,no-resolve

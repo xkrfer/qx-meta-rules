@@ -176,12 +176,13 @@ IP-CIDR6,2800:bf0:83b0::/48,no-resolve
 IP-CIDR6,2800:bf0:83c1::/48,no-resolve
 IP-CIDR6,2800:bf0:83c4::/46,no-resolve
 IP-CIDR6,2800:bf0:83e0::/47,no-resolve
-IP-CIDR6,2800:bf0:a00a::/47,no-resolve
+IP-CIDR6,2800:bf0:a00a::/48,no-resolve
 IP-CIDR6,2800:bf0:a040::/47,no-resolve
 IP-CIDR6,2800:bf0:a043::/48,no-resolve
 IP-CIDR6,2800:bf0:a102::/47,no-resolve
 IP-CIDR6,2800:bf0:a107::/48,no-resolve
-IP-CIDR6,2800:bf0:a108::/46,no-resolve
+IP-CIDR6,2800:bf0:a109::/48,no-resolve
+IP-CIDR6,2800:bf0:a10a::/47,no-resolve
 IP-CIDR6,2800:bf0:a10c::/47,no-resolve
 IP-CIDR6,2800:bf0:a10f::/48,no-resolve
 IP-CIDR6,2800:bf0:a110::/47,no-resolve

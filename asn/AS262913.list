@@ -20,7 +20,6 @@ IP-CIDR6,2806:21a:20::/43,no-resolve
 IP-CIDR6,2806:21a:40::/42,no-resolve
 IP-CIDR6,2806:21a:80::/41,no-resolve
 IP-CIDR6,2806:21a:a05::/48,no-resolve
-IP-CIDR6,2806:21a:a12::/48,no-resolve
 IP-CIDR6,2806:21a:1400::/40,no-resolve
 IP-CIDR6,2806:21a:2407::/48,no-resolve
 IP-CIDR6,2806:21a:2421::/48,no-resolve

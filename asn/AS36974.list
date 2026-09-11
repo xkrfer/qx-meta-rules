@@ -1,4 +1,6 @@
+IP-CIDR,41.67.88.0/21,no-resolve
 IP-CIDR,41.76.136.0/21,no-resolve
+IP-CIDR,41.77.160.0/21,no-resolve
 IP-CIDR,102.136.0.0/14,no-resolve
 IP-CIDR,105.235.0.0/17,no-resolve
 IP-CIDR,154.232.0.0/14,no-resolve

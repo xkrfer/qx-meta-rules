@@ -295,5 +295,4 @@ IP-CIDR6,2801:1b1:1::/48,no-resolve
 IP-CIDR6,2801:1c6::/44,no-resolve
 IP-CIDR6,2801:1ca::/44,no-resolve
 IP-CIDR6,2801:1d9::/47,no-resolve
-IP-CIDR6,2801:1f9:7::/48,no-resolve
 IP-CIDR6,2801:1f9:9::/48,no-resolve

@@ -110,6 +110,7 @@ IP-CIDR,212.42.197.0/24,no-resolve
 IP-CIDR,212.42.205.0/24,no-resolve
 IP-CIDR6,2605:fe80::/32,no-resolve
 IP-CIDR6,2a09:30c0::/29,no-resolve
+IP-CIDR6,2a0a:2d07:b3::/48,no-resolve
 IP-CIDR6,2a0f:1e84::/43,no-resolve
 IP-CIDR6,2a0f:1e84:20::/44,no-resolve
 IP-CIDR6,2a0f:1e84:30::/45,no-resolve

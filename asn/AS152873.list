@@ -15,7 +15,15 @@ IP-CIDR6,2402:2f60:1c00::/38,no-resolve
 IP-CIDR6,2402:2f60:2000::/35,no-resolve
 IP-CIDR6,2402:2f60:4000::/34,no-resolve
 IP-CIDR6,2402:2f60:8000::/34,no-resolve
-IP-CIDR6,2402:2f60:c000::/39,no-resolve
+IP-CIDR6,2402:2f60:c000::/40,no-resolve
+IP-CIDR6,2402:2f60:c100::/48,no-resolve
+IP-CIDR6,2402:2f60:c102::/47,no-resolve
+IP-CIDR6,2402:2f60:c104::/46,no-resolve
+IP-CIDR6,2402:2f60:c108::/45,no-resolve
+IP-CIDR6,2402:2f60:c110::/44,no-resolve
+IP-CIDR6,2402:2f60:c120::/43,no-resolve
+IP-CIDR6,2402:2f60:c140::/42,no-resolve
+IP-CIDR6,2402:2f60:c180::/41,no-resolve
 IP-CIDR6,2402:2f60:c201::/48,no-resolve
 IP-CIDR6,2402:2f60:c202::/47,no-resolve
 IP-CIDR6,2402:2f60:c204::/46,no-resolve

@@ -8,5 +8,3 @@ IP-CIDR6,2607:ed40:40::/44,no-resolve
 IP-CIDR6,2607:ed40:1fa::/48,no-resolve
 IP-CIDR6,2607:ed40:1fd::/48,no-resolve
 IP-CIDR6,2607:ed40:1fe::/47,no-resolve
-IP-CIDR6,2607:ed40:8001::/48,no-resolve
-IP-CIDR6,2607:ed40:8002::/48,no-resolve

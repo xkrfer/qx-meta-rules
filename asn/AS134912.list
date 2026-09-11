@@ -5,3 +5,4 @@ IP-CIDR,160.30.124.0/23,no-resolve
 IP-CIDR,165.101.174.0/23,no-resolve
 IP-CIDR6,2402:6660::/40,no-resolve
 IP-CIDR6,2402:6660:300::/40,no-resolve
+IP-CIDR6,2402:6660:400::/40,no-resolve

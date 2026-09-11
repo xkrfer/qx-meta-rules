@@ -33,5 +33,6 @@ IP-CIDR,205.185.0.0/21,no-resolve
 IP-CIDR,205.185.13.0/24,no-resolve
 IP-CIDR,205.185.14.0/23,no-resolve
 IP-CIDR,216.23.240.0/20,no-resolve
+IP-CIDR6,2605:2300::/32,no-resolve
 IP-CIDR6,2606:9d00::/32,no-resolve
 IP-CIDR6,2607:f340::/32,no-resolve

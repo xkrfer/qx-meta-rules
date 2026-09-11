@@ -277,16 +277,7 @@ IP-CIDR,199.45.207.16/28,no-resolve
 IP-CIDR,199.45.207.32/27,no-resolve
 IP-CIDR,199.45.207.64/26,no-resolve
 IP-CIDR,199.45.207.128/25,no-resolve
-IP-CIDR,199.45.208.0/23,no-resolve
-IP-CIDR,199.45.210.0/30,no-resolve
-IP-CIDR,199.45.210.4/31,no-resolve
-IP-CIDR,199.45.210.6/32,no-resolve
-IP-CIDR,199.45.210.8/29,no-resolve
-IP-CIDR,199.45.210.16/28,no-resolve
-IP-CIDR,199.45.210.32/27,no-resolve
-IP-CIDR,199.45.210.64/26,no-resolve
-IP-CIDR,199.45.210.128/25,no-resolve
-IP-CIDR,199.45.211.0/24,no-resolve
+IP-CIDR,199.45.208.0/22,no-resolve
 IP-CIDR,199.45.212.0/28,no-resolve
 IP-CIDR,199.45.212.16/30,no-resolve
 IP-CIDR,199.45.212.20/31,no-resolve

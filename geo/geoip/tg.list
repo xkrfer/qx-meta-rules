@@ -81,6 +81,7 @@ IP-CIDR,196.197.191.0/24,no-resolve
 IP-CIDR,196.198.191.0/24,no-resolve
 IP-CIDR,196.199.191.0/24,no-resolve
 IP-CIDR,197.148.96.0/19,no-resolve
+IP-CIDR,198.228.97.25/32,no-resolve
 IP-CIDR,212.32.93.0/24,no-resolve
 IP-CIDR,213.156.254.17/32,no-resolve
 IP-CIDR6,2001:470:1f0b:11c6::/64,no-resolve

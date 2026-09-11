@@ -89,5 +89,6 @@ IP-CIDR6,2402:e280:3d30::/44,no-resolve
 IP-CIDR6,2402:e280:3d40::/42,no-resolve
 IP-CIDR6,2402:e280:3d80::/41,no-resolve
 IP-CIDR6,2402:e280:3e00::/39,no-resolve
-IP-CIDR6,2402:e280:4000::/39,no-resolve
+IP-CIDR6,2402:e280:4000::/48,no-resolve
+IP-CIDR6,2402:e280:4100::/40,no-resolve
 IP-CIDR6,2402:e280:5a00::/40,no-resolve

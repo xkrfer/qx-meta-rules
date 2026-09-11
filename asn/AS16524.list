@@ -23,5 +23,5 @@ IP-CIDR6,2620:0:150::/48,no-resolve
 IP-CIDR6,2620:0:154::/48,no-resolve
 IP-CIDR6,2620:0:156::/48,no-resolve
 IP-CIDR6,2620:0:15a::/48,no-resolve
-IP-CIDR6,2620:0:15c::/47,no-resolve
+IP-CIDR6,2620:0:15c::/48,no-resolve
 IP-CIDR6,2620:0:15e::/48,no-resolve

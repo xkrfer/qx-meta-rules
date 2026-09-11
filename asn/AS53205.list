@@ -4,4 +4,3 @@ IP-CIDR6,2804:8a90:9000::/47,no-resolve
 IP-CIDR6,2804:8a90:fc00::/40,no-resolve
 IP-CIDR6,2804:8a90:fe00::/46,no-resolve
 IP-CIDR6,2804:8a90:ff00::/45,no-resolve
-IP-CIDR6,2804:8a90:ff08::/46,no-resolve

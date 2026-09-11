@@ -54,10 +54,7 @@ IP-CIDR6,2a14:1ec1:7b41::/48,no-resolve
 IP-CIDR6,2a14:1ec1:7b42::/47,no-resolve
 IP-CIDR6,2a14:1ec1:7b44::/46,no-resolve
 IP-CIDR6,2a14:1ec1:7b48::/45,no-resolve
-IP-CIDR6,2a14:1ec1:7b51::/48,no-resolve
-IP-CIDR6,2a14:1ec1:7b52::/47,no-resolve
-IP-CIDR6,2a14:1ec1:7b54::/46,no-resolve
-IP-CIDR6,2a14:1ec1:7b58::/45,no-resolve
+IP-CIDR6,2a14:1ec1:7b50::/44,no-resolve
 IP-CIDR6,2a14:1ec1:7b60::/43,no-resolve
 IP-CIDR6,2a14:1ec1:7b80::/41,no-resolve
 IP-CIDR6,2a14:1ec1:7c00::/38,no-resolve

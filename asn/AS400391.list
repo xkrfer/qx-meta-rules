@@ -8,16 +8,7 @@ IP-CIDR,38.44.193.32/27,no-resolve
 IP-CIDR,38.44.193.64/26,no-resolve
 IP-CIDR,38.44.193.128/25,no-resolve
 IP-CIDR,38.44.194.0/23,no-resolve
-IP-CIDR,38.44.196.0/23,no-resolve
-IP-CIDR,38.44.198.0/24,no-resolve
-IP-CIDR,38.44.199.0/25,no-resolve
-IP-CIDR,38.44.199.128/27,no-resolve
-IP-CIDR,38.44.199.160/29,no-resolve
-IP-CIDR,38.44.199.168/30,no-resolve
-IP-CIDR,38.44.199.172/31,no-resolve
-IP-CIDR,38.44.199.175/32,no-resolve
-IP-CIDR,38.44.199.176/28,no-resolve
-IP-CIDR,38.44.199.192/26,no-resolve
+IP-CIDR,38.44.196.0/22,no-resolve
 IP-CIDR,38.44.200.0/29,no-resolve
 IP-CIDR,38.44.200.8/30,no-resolve
 IP-CIDR,38.44.200.12/31,no-resolve

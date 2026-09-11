@@ -556,6 +556,7 @@ IP-CIDR6,2800:bf0:8800::/37,no-resolve
 IP-CIDR6,2800:bf0:9000::/36,no-resolve
 IP-CIDR6,2800:bf0:a000::/45,no-resolve
 IP-CIDR6,2800:bf0:a008::/47,no-resolve
+IP-CIDR6,2800:bf0:a00b::/48,no-resolve
 IP-CIDR6,2800:bf0:a00c::/46,no-resolve
 IP-CIDR6,2800:bf0:a010::/44,no-resolve
 IP-CIDR6,2800:bf0:a020::/43,no-resolve
@@ -568,6 +569,7 @@ IP-CIDR6,2800:bf0:a080::/41,no-resolve
 IP-CIDR6,2800:bf0:a100::/47,no-resolve
 IP-CIDR6,2800:bf0:a104::/47,no-resolve
 IP-CIDR6,2800:bf0:a106::/48,no-resolve
+IP-CIDR6,2800:bf0:a108::/48,no-resolve
 IP-CIDR6,2800:bf0:a10e::/48,no-resolve
 IP-CIDR6,2800:bf0:a112::/47,no-resolve
 IP-CIDR6,2800:bf0:a114::/46,no-resolve

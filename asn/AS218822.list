@@ -1,0 +1,4 @@
+IP-CIDR6,2a06:9801:ff0::/45,no-resolve
+IP-CIDR6,2a06:9801:ff8::/47,no-resolve
+IP-CIDR6,2a06:9801:ffa::/48,no-resolve
+IP-CIDR6,2a06:9801:ffc::/46,no-resolve

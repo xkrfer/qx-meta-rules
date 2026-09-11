@@ -35,7 +35,6 @@ IP-CIDR,89.149.0.0/21,no-resolve
 IP-CIDR,89.149.8.0/22,no-resolve
 IP-CIDR,89.149.12.0/23,no-resolve
 IP-CIDR,89.149.15.0/24,no-resolve
-IP-CIDR,89.149.17.0/24,no-resolve
 IP-CIDR,89.149.19.0/24,no-resolve
 IP-CIDR,89.149.20.0/23,no-resolve
 IP-CIDR,89.149.23.0/24,no-resolve

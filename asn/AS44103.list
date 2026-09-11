@@ -34,7 +34,6 @@ IP-CIDR6,2a0e:fd45:da2::/47,no-resolve
 IP-CIDR6,2a0e:fd45:da4::/46,no-resolve
 IP-CIDR6,2a0e:fd45:da8::/45,no-resolve
 IP-CIDR6,2a0e:fd45:db0::/44,no-resolve
-IP-CIDR6,2a0e:fd45:dc6::/48,no-resolve
 IP-CIDR6,2a0e:fd45:dc8::/48,no-resolve
 IP-CIDR6,2a0e:fd45:dca::/47,no-resolve
 IP-CIDR6,2a0e:fd45:dcc::/48,no-resolve

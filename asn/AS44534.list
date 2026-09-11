@@ -12,7 +12,5 @@ IP-CIDR,77.88.12.0/23,no-resolve
 IP-CIDR,84.252.160.0/20,no-resolve
 IP-CIDR,87.250.240.0/24,no-resolve
 IP-CIDR,93.158.144.0/22,no-resolve
-IP-CIDR,93.158.168.0/23,no-resolve
-IP-CIDR,93.158.170.0/24,no-resolve
 IP-CIDR,93.158.184.0/21,no-resolve
 IP-CIDR6,2a02:6bf:8000::/34,no-resolve
