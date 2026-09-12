@@ -819,7 +819,7 @@ host-suffix, apple, proxy
 host-suffix, android, proxy
 host-suffix, amazon, proxy
 host-suffix, jgoodies.com, proxy
-host-suffix, gvt0.com, proxy
+host-suffix, cmx.im, proxy
 host-suffix, 12diasderegalosdeitunes.pe, proxy
 host-suffix, 12joursdecadeauxdeitunes.com, proxy
 host-suffix, 12vpn.com, proxy
@@ -6411,7 +6411,7 @@ host-suffix, cms-twdigitalassets.com, proxy
 host-suffix, cms.gov, proxy
 host-suffix, cmu.edu, proxy
 host-suffix, cmule.com, proxy
-host-suffix, cmx.im, proxy
+host-suffix, jivo.chat, proxy
 host-suffix, cn-proxy.com, proxy
 host-suffix, yandexgo.com, proxy
 host-suffix, yandexcom.net, proxy
@@ -11341,7 +11341,7 @@ host-suffix, guysnightlife.com, proxy
 host-suffix, gv.com, proxy
 host-suffix, gvlib.com, proxy
 host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, proxy
-host-suffix, jivo.chat, proxy
+host-suffix, gvt0.com, proxy
 host-suffix, gvt1-cn.com, proxy
 host-suffix, gvt1.com, proxy
 host-suffix, gvt2-cn.com, proxy
@@ -11517,7 +11517,7 @@ host-suffix, hboinflight.com, proxy
 host-suffix, hbolacontent.net, proxy
 host-suffix, hbolaunchpad.com, proxy
 host-suffix, hbomailman.com, proxy
-host-suffix, jivo.ru, proxy
+host-suffix, xn--i2ru8q2qg.com, proxy
 host-suffix, hbomax.com, proxy
 host-suffix, hbomax.eu, proxy
 host-suffix, hbomaxcdn.com, proxy
@@ -13094,7 +13094,7 @@ host-suffix, installbuzzsaw.com, proxy
 host-suffix, instamgram.com, proxy
 host-suffix, instangram.com, proxy
 host-suffix, instantfap.com, proxy
-host-suffix, instantfapgay.com, proxy
+host-suffix, jivo.ru, proxy
 host-suffix, instantink.com, proxy
 host-suffix, instantssl.com, proxy
 host-suffix, instanttelegram.com, proxy
@@ -13928,9 +13928,9 @@ host-suffix, jiuse6666.com, proxy
 host-suffix, jiuse821.com, proxy
 host-suffix, jiuse822.com, proxy
 host-suffix, jiuse823.com, proxy
-host-suffix, vrsumo.com, proxy
+host-suffix, movefreerewards.com, proxy
 host-suffix, 12diasderegalosdeitunes.hn, proxy
-host-suffix, xn--i2ru8q2qg.com, proxy
+host-suffix, instantfapgay.com, proxy
 host-suffix, xboxgamepass.com, proxy
 host-suffix, xboxab.com, proxy
 host-suffix, jivochat.com, proxy
@@ -16469,7 +16469,7 @@ host-suffix, move-free.net, proxy
 host-suffix, move.com, proxy
 host-suffix, moveaws.com, proxy
 host-suffix, movefreeoffers.com, proxy
-host-suffix, movefreerewards.com, proxy
+host-suffix, jivara.global, proxy
 host-suffix, movefrees.com, proxy
 host-suffix, movements.org, proxy
 host-suffix, movenetworks.com, proxy
@@ -19776,6 +19776,7 @@ host-suffix, qstatus.com, proxy
 host-suffix, qt-project.org, proxy
 host-suffix, qt.io, proxy
 host-suffix, qtrac.eu, proxy
+host-suffix, quakemachinex.com, proxy
 host-suffix, qualcomm-email.com, proxy
 host-suffix, qualcomm-inc.com, proxy
 host-suffix, weknowporn.com, proxy
@@ -22514,7 +22515,7 @@ host-suffix, 101xxx.xyz, proxy
 host-suffix, target.com, proxy
 host-suffix, targetimg1.com, proxy
 host-suffix, tarkov.com, proxy
-host-suffix, jivara.global, proxy
+host-suffix, vrsumo.com, proxy
 host-suffix, tasexy.com, proxy
 host-suffix, tasexy.top, proxy
 host-suffix, vrsmash.com, proxy
