@@ -10,8 +10,8 @@ host, mscrl.microsoft.com, proxy
 host, ocsp.microsoft.com, proxy
 host, oneocsp.microsoft.com, proxy
 host, www.microsoft.com, proxy
-host, prodforza.blob.core.windows.net, proxy
 host, flightsimulator.azureedge.net, proxy
+host, prodforza.blob.core.windows.net, proxy
 host, azure.microsoft.com, proxy
 host, azuremarketplace.microsoft.com, proxy
 host, location.microsoft.com, proxy
@@ -362,10 +362,6 @@ host-suffix, xboxplayanywhere.com, proxy
 host-suffix, xboxservices.com, proxy
 host-suffix, xboxstudios.com, proxy
 host-suffix, xbx.lv, proxy
-host-suffix, forza.net, proxy
-host-suffix, forzamotorsport.net, proxy
-host-suffix, forzaracingchampionship.com, proxy
-host-suffix, forzarc.com, proxy
 host-suffix, callersbane.com, proxy
 host-suffix, minecraft-services.net, proxy
 host-suffix, minecraft.net, proxy
@@ -380,6 +376,10 @@ host-suffix, bethesdagamestudios.com, proxy
 host-suffix, bethsoft.com, proxy
 host-suffix, doom.com, proxy
 host-suffix, elderscrolls.com, proxy
+host-suffix, forza.net, proxy
+host-suffix, forzamotorsport.net, proxy
+host-suffix, forzaracingchampionship.com, proxy
+host-suffix, forzarc.com, proxy
 host-suffix, microsoft.be, proxy
 host-suffix, aadrm.com, proxy
 host-suffix, azure-api.net, proxy
