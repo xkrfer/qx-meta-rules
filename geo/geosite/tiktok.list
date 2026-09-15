@@ -29,6 +29,7 @@ host-suffix, tiktokcdn.com.edgesuite.net, proxy
 host-suffix, tiktokv.com.edgekey.net, proxy
 host-suffix, tiktokv.com.edgesuite.net, proxy
 host, p16-tiktokcdn-com.akamaized.net, proxy
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, proxy
 host, roovza-launches.appsflyersdk.com, proxy
 host, roovza.inapps.appsflyersdk.com, proxy
 host, roovza.launches.appsflyersdk.com, proxy
