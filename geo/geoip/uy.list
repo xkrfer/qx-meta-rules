@@ -341,6 +341,7 @@ IP-CIDR6,2801:0:2000::/36,no-resolve
 IP-CIDR6,2801:14:a000::/47,no-resolve
 IP-CIDR6,2801:17:7800::/48,no-resolve
 IP-CIDR6,2801:1b:2000::/48,no-resolve
+IP-CIDR6,2801:1d:8400::/48,no-resolve
 IP-CIDR6,2801:165::/44,no-resolve
 IP-CIDR6,2801:1b8::/43,no-resolve
 IP-CIDR6,2803:850::/32,no-resolve
