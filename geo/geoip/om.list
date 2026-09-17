@@ -290,6 +290,7 @@ ip-cidr, 188.66.128.0/17, proxy, no-resolve
 ip-cidr, 188.135.0.0/17, proxy, no-resolve
 ip-cidr, 188.136.61.81/32, proxy, no-resolve
 ip-cidr, 188.140.128.0/17, proxy, no-resolve
+ip-cidr, 189.25.101.36/32, proxy, no-resolve
 ip-cidr, 192.109.41.176/29, proxy, no-resolve
 ip-cidr, 193.3.37.0/24, proxy, no-resolve
 ip-cidr, 193.22.144.0/23, proxy, no-resolve

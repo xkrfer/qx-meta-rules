@@ -479,3 +479,4 @@ ip6-cidr, 2a13:8500::/29, proxy, no-resolve
 ip6-cidr, 2a13:9500:31::/48, proxy, no-resolve
 ip6-cidr, 2a13:a880::/29, proxy, no-resolve
 ip6-cidr, 2a14:67c2:831::/48, proxy, no-resolve
+ip6-cidr, 2a14:67c3:417::/48, proxy, no-resolve
