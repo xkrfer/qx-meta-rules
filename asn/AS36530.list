@@ -13,7 +13,7 @@ IP-CIDR6,2602:f864:211::/48,no-resolve
 IP-CIDR6,2602:f864:21d::/48,no-resolve
 IP-CIDR6,2602:f864:221::/48,no-resolve
 IP-CIDR6,2602:f864:222::/48,no-resolve
-IP-CIDR6,2602:f864:225::/48,no-resolve
+IP-CIDR6,2602:f864:224::/47,no-resolve
 IP-CIDR6,2602:f864:242::/48,no-resolve
 IP-CIDR6,2602:f864:262::/48,no-resolve
 IP-CIDR6,2602:f864:26d::/48,no-resolve

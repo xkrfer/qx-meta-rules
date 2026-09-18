@@ -20,3 +20,4 @@ IP-CIDR,210.211.96.0/19,no-resolve
 IP-CIDR6,2401:5f80::/34,no-resolve
 IP-CIDR6,2401:5f80:4000::/35,no-resolve
 IP-CIDR6,2401:5f80:6000::/36,no-resolve
+IP-CIDR6,2406:4c40::/48,no-resolve

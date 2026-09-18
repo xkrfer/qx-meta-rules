@@ -38,3 +38,4 @@ IP-CIDR6,2a12:1cc6::/32,no-resolve
 IP-CIDR6,2a12:2205::/32,no-resolve
 IP-CIDR6,2a12:2207::/32,no-resolve
 IP-CIDR6,2a12:9502::/32,no-resolve
+IP-CIDR6,2a13:93c3::/32,no-resolve

@@ -78,7 +78,15 @@ IP-CIDR,146.86.157.184/30,no-resolve
 IP-CIDR,146.86.157.188/32,no-resolve
 IP-CIDR,146.86.157.190/31,no-resolve
 IP-CIDR,146.86.157.192/26,no-resolve
-IP-CIDR,146.86.158.0/23,no-resolve
+IP-CIDR,146.86.158.0/25,no-resolve
+IP-CIDR,146.86.158.129/32,no-resolve
+IP-CIDR,146.86.158.130/31,no-resolve
+IP-CIDR,146.86.158.132/30,no-resolve
+IP-CIDR,146.86.158.136/29,no-resolve
+IP-CIDR,146.86.158.144/28,no-resolve
+IP-CIDR,146.86.158.160/27,no-resolve
+IP-CIDR,146.86.158.192/26,no-resolve
+IP-CIDR,146.86.159.0/24,no-resolve
 IP-CIDR,146.86.160.0/24,no-resolve
 IP-CIDR,146.86.161.0/31,no-resolve
 IP-CIDR,146.86.161.2/32,no-resolve

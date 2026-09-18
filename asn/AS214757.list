@@ -1,9 +1,7 @@
 IP-CIDR,169.128.49.0/24,no-resolve
 IP-CIDR6,2a05:dfc3:f800::/44,no-resolve
 IP-CIDR6,2a0a:6044:a1e0::/48,no-resolve
-IP-CIDR6,2a14:6f44:1000::/43,no-resolve
-IP-CIDR6,2a14:6f44:1020::/44,no-resolve
-IP-CIDR6,2a14:6f44:1040::/44,no-resolve
+IP-CIDR6,2a14:6f44:1000::/42,no-resolve
 IP-CIDR6,2a14:6f44:1101::/48,no-resolve
 IP-CIDR6,2a14:6f44:1102::/47,no-resolve
 IP-CIDR6,2a14:6f44:1104::/46,no-resolve

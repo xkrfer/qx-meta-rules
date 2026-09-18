@@ -3,6 +3,7 @@ IP-CIDR6,2602:f7a7:11::/48,no-resolve
 IP-CIDR6,2602:f7a7:12::/47,no-resolve
 IP-CIDR6,2602:f7a7:14::/46,no-resolve
 IP-CIDR6,2602:f7a7:18::/45,no-resolve
+IP-CIDR6,2602:f7a7:21::/48,no-resolve
 IP-CIDR6,2602:f7a7:22::/47,no-resolve
 IP-CIDR6,2602:f7a7:24::/46,no-resolve
 IP-CIDR6,2602:f7a7:28::/45,no-resolve

@@ -1,4 +1,4 @@
-IP-CIDR6,2406:840:f100::/47,no-resolve
+IP-CIDR6,2406:840:f100::/48,no-resolve
 IP-CIDR6,2602:fb08::/48,no-resolve
 IP-CIDR6,2602:fed2:7020::/47,no-resolve
 IP-CIDR6,2602:fed2:7023::/48,no-resolve

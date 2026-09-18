@@ -71,7 +71,8 @@ IP-CIDR6,2404:4a00:4:4000::/50,no-resolve
 IP-CIDR6,2404:4a00:4:8000::/49,no-resolve
 IP-CIDR6,2404:4a00:5::/48,no-resolve
 IP-CIDR6,2404:4a00:6::/47,no-resolve
-IP-CIDR6,2404:4a00:8::/45,no-resolve
+IP-CIDR6,2404:4a00:8::/47,no-resolve
+IP-CIDR6,2404:4a00:c::/46,no-resolve
 IP-CIDR6,2404:4a00:10::/44,no-resolve
 IP-CIDR6,2404:4a00:20::/43,no-resolve
 IP-CIDR6,2404:4a00:40::/42,no-resolve

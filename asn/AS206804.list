@@ -45,5 +45,5 @@ IP-CIDR6,2a03:efc0:2100::/40,no-resolve
 IP-CIDR6,2a0b:b87:ffd7::/48,no-resolve
 IP-CIDR6,2a0e:4940:1::/48,no-resolve
 IP-CIDR6,2a0e:4940:2::/47,no-resolve
-IP-CIDR6,2a0e:4940:4::/47,no-resolve
+IP-CIDR6,2a0e:4940:4::/48,no-resolve
 IP-CIDR6,2a0e:4940:6::/48,no-resolve

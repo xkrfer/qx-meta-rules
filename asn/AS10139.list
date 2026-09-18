@@ -21,7 +21,11 @@ IP-CIDR6,2407:9800:b800::/37,no-resolve
 IP-CIDR6,2407:9800:c000::/34,no-resolve
 IP-CIDR6,2407:9801::/32,no-resolve
 IP-CIDR6,2407:9802::/32,no-resolve
-IP-CIDR6,2407:9803::/33,no-resolve
+IP-CIDR6,2407:9803::/36,no-resolve
+IP-CIDR6,2407:9803:1400::/38,no-resolve
+IP-CIDR6,2407:9803:1800::/37,no-resolve
+IP-CIDR6,2407:9803:2000::/35,no-resolve
+IP-CIDR6,2407:9803:4000::/34,no-resolve
 IP-CIDR6,2407:9803:8000::/34,no-resolve
 IP-CIDR6,2407:9803:c000::/36,no-resolve
 IP-CIDR6,2407:9803:d0d0::/44,no-resolve

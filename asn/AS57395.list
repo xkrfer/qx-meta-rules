@@ -21,4 +21,5 @@ IP-CIDR6,2a0b:33c0:112::/47,no-resolve
 IP-CIDR6,2a0b:33c0:114::/48,no-resolve
 IP-CIDR6,2a0b:33c0:117::/48,no-resolve
 IP-CIDR6,2a0b:33c0:118::/48,no-resolve
+IP-CIDR6,2a0b:33c0:134::/48,no-resolve
 IP-CIDR6,2a0e:d200::/29,no-resolve

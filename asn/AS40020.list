@@ -1,6 +1,7 @@
 IP-CIDR,64.178.224.0/23,no-resolve
 IP-CIDR,64.178.226.0/24,no-resolve
 IP-CIDR,64.178.228.0/24,no-resolve
+IP-CIDR,64.178.231.0/24,no-resolve
 IP-CIDR,64.178.232.0/21,no-resolve
 IP-CIDR,64.178.241.0/24,no-resolve
 IP-CIDR,64.178.243.0/24,no-resolve

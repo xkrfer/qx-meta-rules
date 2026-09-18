@@ -26,7 +26,7 @@ IP-CIDR,200.94.240.0/22,no-resolve
 IP-CIDR,201.149.120.0/22,no-resolve
 IP-CIDR6,2804:880::/36,no-resolve
 IP-CIDR6,2804:880:1000::/48,no-resolve
-IP-CIDR6,2804:880:1002::/47,no-resolve
+IP-CIDR6,2804:880:1003::/48,no-resolve
 IP-CIDR6,2804:880:1004::/46,no-resolve
 IP-CIDR6,2804:880:1008::/45,no-resolve
 IP-CIDR6,2804:880:1010::/44,no-resolve
@@ -34,9 +34,10 @@ IP-CIDR6,2804:880:1020::/43,no-resolve
 IP-CIDR6,2804:880:1040::/42,no-resolve
 IP-CIDR6,2804:880:1080::/41,no-resolve
 IP-CIDR6,2804:880:1100::/40,no-resolve
-IP-CIDR6,2804:880:1200::/39,no-resolve
+IP-CIDR6,2804:880:1200::/40,no-resolve
 IP-CIDR6,2804:880:1400::/39,no-resolve
-IP-CIDR6,2804:880:1800::/37,no-resolve
+IP-CIDR6,2804:880:1a00::/39,no-resolve
+IP-CIDR6,2804:880:1c00::/38,no-resolve
 IP-CIDR6,2804:880:2000::/35,no-resolve
 IP-CIDR6,2804:880:4000::/34,no-resolve
 IP-CIDR6,2804:880:8000::/33,no-resolve

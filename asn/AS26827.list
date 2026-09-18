@@ -66,13 +66,7 @@ IP-CIDR,108.174.96.0/20,no-resolve
 IP-CIDR,173.247.0.0/22,no-resolve
 IP-CIDR,173.247.4.0/23,no-resolve
 IP-CIDR,173.247.6.0/24,no-resolve
-IP-CIDR,173.247.7.0/29,no-resolve
-IP-CIDR,173.247.7.8/30,no-resolve
-IP-CIDR,173.247.7.13/32,no-resolve
-IP-CIDR,173.247.7.14/31,no-resolve
-IP-CIDR,173.247.7.16/28,no-resolve
-IP-CIDR,173.247.7.32/27,no-resolve
-IP-CIDR,173.247.7.64/26,no-resolve
+IP-CIDR,173.247.7.0/25,no-resolve
 IP-CIDR,173.247.7.129/32,no-resolve
 IP-CIDR,173.247.7.130/31,no-resolve
 IP-CIDR,173.247.7.132/30,no-resolve

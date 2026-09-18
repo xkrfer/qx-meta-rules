@@ -43,7 +43,6 @@ IP-CIDR6,2a14:7c0:40::/44,no-resolve
 IP-CIDR6,2a14:7c0:100::/40,no-resolve
 IP-CIDR6,2a14:7c0:1742::/48,no-resolve
 IP-CIDR6,2a14:7c0:3a00::/40,no-resolve
-IP-CIDR6,2a14:7c0:9200::/40,no-resolve
 IP-CIDR6,2a14:7c0:f400::/38,no-resolve
 IP-CIDR6,2a14:7c1::/32,no-resolve
 IP-CIDR6,2a14:7c2::/31,no-resolve

@@ -3862,14 +3862,6 @@ IP-CIDR6,2408:8957:fe00::/39,no-resolve
 IP-CIDR6,2408:8958::/30,no-resolve
 IP-CIDR6,2408:8a05:6000::/39,no-resolve
 IP-CIDR6,2408:8a05:6200::/40,no-resolve
-IP-CIDR6,2408:8a05:6301::/48,no-resolve
-IP-CIDR6,2408:8a05:6302::/47,no-resolve
-IP-CIDR6,2408:8a05:6304::/46,no-resolve
-IP-CIDR6,2408:8a05:6308::/45,no-resolve
-IP-CIDR6,2408:8a05:6310::/44,no-resolve
-IP-CIDR6,2408:8a05:6320::/43,no-resolve
-IP-CIDR6,2408:8a05:6340::/42,no-resolve
-IP-CIDR6,2408:8a05:6380::/41,no-resolve
 IP-CIDR6,2408:8a05:6400::/38,no-resolve
 IP-CIDR6,2408:8a05:6800::/37,no-resolve
 IP-CIDR6,2408:8a05:7000::/36,no-resolve

@@ -13,7 +13,3 @@ IP-CIDR,207.187.140.0/23,no-resolve
 IP-CIDR,207.187.224.0/20,no-resolve
 IP-CIDR,216.231.224.0/24,no-resolve
 IP-CIDR,216.231.228.0/24,no-resolve
-IP-CIDR6,2620:1f8:f011::/48,no-resolve
-IP-CIDR6,2620:1f8:f012::/48,no-resolve
-IP-CIDR6,2620:1f8:f046::/48,no-resolve
-IP-CIDR6,2620:1f8:f0ef::/48,no-resolve

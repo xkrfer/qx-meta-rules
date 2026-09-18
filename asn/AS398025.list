@@ -343,12 +343,7 @@ IP-CIDR,216.128.82.35/32,no-resolve
 IP-CIDR,216.128.82.36/30,no-resolve
 IP-CIDR,216.128.82.40/29,no-resolve
 IP-CIDR,216.128.82.48/28,no-resolve
-IP-CIDR,216.128.82.64/27,no-resolve
-IP-CIDR,216.128.82.96/28,no-resolve
-IP-CIDR,216.128.82.112/29,no-resolve
-IP-CIDR,216.128.82.120/30,no-resolve
-IP-CIDR,216.128.82.124/32,no-resolve
-IP-CIDR,216.128.82.126/31,no-resolve
+IP-CIDR,216.128.82.64/26,no-resolve
 IP-CIDR,216.128.82.128/25,no-resolve
 IP-CIDR,216.128.83.0/24,no-resolve
 IP-CIDR,216.128.84.0/23,no-resolve

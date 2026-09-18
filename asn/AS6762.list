@@ -233,14 +233,7 @@ IP-CIDR,216.131.39.0/24,no-resolve
 IP-CIDR6,2001:41a8::/37,no-resolve
 IP-CIDR6,2001:41a8:800::/46,no-resolve
 IP-CIDR6,2001:41a8:804::/47,no-resolve
-IP-CIDR6,2001:41a8:806::/55,no-resolve
-IP-CIDR6,2001:41a8:806:300::/56,no-resolve
-IP-CIDR6,2001:41a8:806:400::/54,no-resolve
-IP-CIDR6,2001:41a8:806:800::/53,no-resolve
-IP-CIDR6,2001:41a8:806:1000::/52,no-resolve
-IP-CIDR6,2001:41a8:806:2000::/51,no-resolve
-IP-CIDR6,2001:41a8:806:4000::/50,no-resolve
-IP-CIDR6,2001:41a8:806:8000::/49,no-resolve
+IP-CIDR6,2001:41a8:806::/48,no-resolve
 IP-CIDR6,2001:41a8:807::/56,no-resolve
 IP-CIDR6,2001:41a8:807:200::/55,no-resolve
 IP-CIDR6,2001:41a8:807:400::/54,no-resolve

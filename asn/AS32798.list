@@ -91,15 +91,7 @@ IP-CIDR6,2607:7b80:2040:3f40::/58,no-resolve
 IP-CIDR6,2607:7b80:2040:3f80::/57,no-resolve
 IP-CIDR6,2607:7b80:2040:4000::/53,no-resolve
 IP-CIDR6,2607:7b80:2040:4800::/54,no-resolve
-IP-CIDR6,2607:7b80:2040:4c00::/56,no-resolve
-IP-CIDR6,2607:7b80:2040:4d00::/58,no-resolve
-IP-CIDR6,2607:7b80:2040:4d40::/59,no-resolve
-IP-CIDR6,2607:7b80:2040:4d60::/60,no-resolve
-IP-CIDR6,2607:7b80:2040:4d70::/63,no-resolve
-IP-CIDR6,2607:7b80:2040:4d72::/64,no-resolve
-IP-CIDR6,2607:7b80:2040:4d74::/62,no-resolve
-IP-CIDR6,2607:7b80:2040:4d78::/61,no-resolve
-IP-CIDR6,2607:7b80:2040:4d80::/57,no-resolve
+IP-CIDR6,2607:7b80:2040:4c00::/55,no-resolve
 IP-CIDR6,2607:7b80:2040:4e00::/56,no-resolve
 IP-CIDR6,2607:7b80:2040:4f00::/57,no-resolve
 IP-CIDR6,2607:7b80:2040:4f80::/58,no-resolve

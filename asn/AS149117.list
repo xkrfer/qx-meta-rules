@@ -1,3 +1,4 @@
 IP-CIDR,103.82.28.0/22,no-resolve
 IP-CIDR,103.190.202.0/23,no-resolve
 IP-CIDR,103.227.112.0/22,no-resolve
+IP-CIDR6,2001:df0:f140::/48,no-resolve

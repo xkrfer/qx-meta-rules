@@ -10,4 +10,3 @@ IP-CIDR,161.129.141.32/27,no-resolve
 IP-CIDR,161.129.141.64/26,no-resolve
 IP-CIDR,161.129.141.128/25,no-resolve
 IP-CIDR,161.129.142.0/23,no-resolve
-IP-CIDR6,2602:feca::/36,no-resolve

@@ -417,15 +417,7 @@ IP-CIDR,213.130.94.0/24,no-resolve
 IP-CIDR,213.214.64.0/19,no-resolve
 IP-CIDR6,2a01:5a8::/46,no-resolve
 IP-CIDR6,2a01:5a8:4::/48,no-resolve
-IP-CIDR6,2a01:5a8:6::/48,no-resolve
-IP-CIDR6,2a01:5a8:7:100::/56,no-resolve
-IP-CIDR6,2a01:5a8:7:200::/55,no-resolve
-IP-CIDR6,2a01:5a8:7:400::/54,no-resolve
-IP-CIDR6,2a01:5a8:7:800::/53,no-resolve
-IP-CIDR6,2a01:5a8:7:1000::/52,no-resolve
-IP-CIDR6,2a01:5a8:7:2000::/51,no-resolve
-IP-CIDR6,2a01:5a8:7:4000::/50,no-resolve
-IP-CIDR6,2a01:5a8:7:8000::/49,no-resolve
+IP-CIDR6,2a01:5a8:6::/47,no-resolve
 IP-CIDR6,2a01:5a8:9::/48,no-resolve
 IP-CIDR6,2a01:5a8:a::/47,no-resolve
 IP-CIDR6,2a01:5a8:c::/46,no-resolve

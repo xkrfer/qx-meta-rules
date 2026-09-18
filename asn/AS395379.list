@@ -79,3 +79,4 @@ IP-CIDR,161.129.205.228/30,no-resolve
 IP-CIDR,161.129.205.232/29,no-resolve
 IP-CIDR,161.129.205.240/28,no-resolve
 IP-CIDR,161.129.206.0/23,no-resolve
+IP-CIDR6,2604:e340::/32,no-resolve

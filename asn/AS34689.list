@@ -4,6 +4,5 @@ IP-CIDR,162.254.86.0/23,no-resolve
 IP-CIDR,162.255.152.0/24,no-resolve
 IP-CIDR,185.75.242.0/23,no-resolve
 IP-CIDR6,2a05:5502::/32,no-resolve
-IP-CIDR6,2a13:9400::/31,no-resolve
-IP-CIDR6,2a13:9403::/32,no-resolve
+IP-CIDR6,2a13:9400::/30,no-resolve
 IP-CIDR6,2a13:9404::/32,no-resolve

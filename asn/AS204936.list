@@ -18,6 +18,7 @@ IP-CIDR6,2a00:e462:fffe::/48,no-resolve
 IP-CIDR6,2a00:e463::/32,no-resolve
 IP-CIDR6,2a0d:b143::/32,no-resolve
 IP-CIDR6,2a10:bc45::/32,no-resolve
+IP-CIDR6,2a10:dd44::/32,no-resolve
 IP-CIDR6,2a11:9600::/30,no-resolve
 IP-CIDR6,2a12:5f47::/32,no-resolve
 IP-CIDR6,2a13:9ac1::/32,no-resolve

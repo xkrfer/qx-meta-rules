@@ -11,4 +11,5 @@ IP-CIDR,86.60.56.0/21,no-resolve
 IP-CIDR,86.60.127.0/24,no-resolve
 IP-CIDR,195.10.197.0/24,no-resolve
 IP-CIDR,212.93.203.0/24,no-resolve
+IP-CIDR,212.100.223.0/24,no-resolve
 IP-CIDR6,2a02:df4::/32,no-resolve

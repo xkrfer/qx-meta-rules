@@ -246,7 +246,7 @@ IP-CIDR6,2605:e440:8::/45,no-resolve
 IP-CIDR6,2605:e440:10::/48,no-resolve
 IP-CIDR6,2605:e440:12::/47,no-resolve
 IP-CIDR6,2605:e440:14::/46,no-resolve
-IP-CIDR6,2605:e440:18::/47,no-resolve
+IP-CIDR6,2605:e440:19::/48,no-resolve
 IP-CIDR6,2605:e440:20::/47,no-resolve
 IP-CIDR6,2605:e440:24::/48,no-resolve
 IP-CIDR6,2605:e440:26::/48,no-resolve
@@ -254,6 +254,7 @@ IP-CIDR6,2605:e440:29::/48,no-resolve
 IP-CIDR6,2605:e440:30::/48,no-resolve
 IP-CIDR6,2605:e440:35::/48,no-resolve
 IP-CIDR6,2605:e440:38::/46,no-resolve
+IP-CIDR6,2605:e440:3c::/48,no-resolve
 IP-CIDR6,2605:e440:3e::/47,no-resolve
 IP-CIDR6,2605:e440:41::/48,no-resolve
 IP-CIDR6,2605:e440:46::/47,no-resolve

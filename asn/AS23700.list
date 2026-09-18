@@ -27,5 +27,5 @@ IP-CIDR,149.110.0.0/16,no-resolve
 IP-CIDR,149.113.0.0/16,no-resolve
 IP-CIDR,163.171.195.0/24,no-resolve
 IP-CIDR,163.171.223.0/24,no-resolve
-IP-CIDR,202.73.96.0/22,no-resolve
+IP-CIDR,202.73.96.0/21,no-resolve
 IP-CIDR6,2404:5600::/32,no-resolve

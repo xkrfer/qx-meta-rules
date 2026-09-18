@@ -15,4 +15,3 @@ IP-CIDR,199.190.238.0/23,no-resolve
 IP-CIDR,209.243.0.0/21,no-resolve
 IP-CIDR,209.243.8.0/22,no-resolve
 IP-CIDR,209.243.16.0/21,no-resolve
-IP-CIDR6,2606:1680::/32,no-resolve

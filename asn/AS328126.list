@@ -4,8 +4,7 @@ IP-CIDR,80.15.242.0/23,no-resolve
 IP-CIDR,80.15.246.0/23,no-resolve
 IP-CIDR,80.15.248.0/24,no-resolve
 IP-CIDR,80.15.250.0/23,no-resolve
-IP-CIDR,80.15.252.0/23,no-resolve
-IP-CIDR,80.15.254.0/24,no-resolve
+IP-CIDR,80.15.252.0/22,no-resolve
 IP-CIDR,90.84.153.0/24,no-resolve
 IP-CIDR,197.29.126.0/24,no-resolve
 IP-CIDR6,2a01:c9c0:c000::/48,no-resolve

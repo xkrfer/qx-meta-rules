@@ -15,7 +15,14 @@ IP-CIDR,104.153.146.76/30,no-resolve
 IP-CIDR,104.153.146.80/28,no-resolve
 IP-CIDR,104.153.146.96/27,no-resolve
 IP-CIDR,104.153.146.128/25,no-resolve
-IP-CIDR,104.153.147.0/24,no-resolve
+IP-CIDR,104.153.147.0/25,no-resolve
+IP-CIDR,104.153.147.128/26,no-resolve
+IP-CIDR,104.153.147.192/28,no-resolve
+IP-CIDR,104.153.147.208/31,no-resolve
+IP-CIDR,104.153.147.211/32,no-resolve
+IP-CIDR,104.153.147.212/30,no-resolve
+IP-CIDR,104.153.147.216/29,no-resolve
+IP-CIDR,104.153.147.224/27,no-resolve
 IP-CIDR,104.193.0.0/22,no-resolve
 IP-CIDR,104.193.4.0/24,no-resolve
 IP-CIDR,104.193.5.0/26,no-resolve

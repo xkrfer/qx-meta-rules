@@ -15,6 +15,7 @@ IP-CIDR6,2400:c700:88::/45,no-resolve
 IP-CIDR6,2400:c700:90::/44,no-resolve
 IP-CIDR6,2400:c700:a0::/43,no-resolve
 IP-CIDR6,2400:c700:c0::/42,no-resolve
+IP-CIDR6,2400:c700:100::/48,no-resolve
 IP-CIDR6,2400:c700:106::/47,no-resolve
 IP-CIDR6,2400:c700:108::/45,no-resolve
 IP-CIDR6,2400:c700:110::/44,no-resolve
