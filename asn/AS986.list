@@ -10,4 +10,3 @@ ip-cidr, 161.129.141.32/27, proxy, no-resolve
 ip-cidr, 161.129.141.64/26, proxy, no-resolve
 ip-cidr, 161.129.141.128/25, proxy, no-resolve
 ip-cidr, 161.129.142.0/23, proxy, no-resolve
-ip6-cidr, 2602:feca::/36, proxy, no-resolve

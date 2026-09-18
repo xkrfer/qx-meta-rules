@@ -1,0 +1,3 @@
+ip6-cidr, 2602:fe84:1::/48, proxy, no-resolve
+ip6-cidr, 2602:fe84:3::/48, proxy, no-resolve
+ip6-cidr, 2602:fe84:ff::/48, proxy, no-resolve

@@ -9,7 +9,7 @@ ip6-cidr, 2803:1780:1::/48, proxy, no-resolve
 ip6-cidr, 2803:1780:2::/47, proxy, no-resolve
 ip6-cidr, 2803:1780:4::/46, proxy, no-resolve
 ip6-cidr, 2803:1780:8::/47, proxy, no-resolve
-ip6-cidr, 2803:1780:11::/48, proxy, no-resolve
+ip6-cidr, 2803:1780:10::/47, proxy, no-resolve
 ip6-cidr, 2803:1780:12::/48, proxy, no-resolve
 ip6-cidr, 2803:1780:15::/48, proxy, no-resolve
 ip6-cidr, 2803:1780:8000::/48, proxy, no-resolve

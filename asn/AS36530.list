@@ -13,7 +13,7 @@ ip6-cidr, 2602:f864:211::/48, proxy, no-resolve
 ip6-cidr, 2602:f864:21d::/48, proxy, no-resolve
 ip6-cidr, 2602:f864:221::/48, proxy, no-resolve
 ip6-cidr, 2602:f864:222::/48, proxy, no-resolve
-ip6-cidr, 2602:f864:225::/48, proxy, no-resolve
+ip6-cidr, 2602:f864:224::/47, proxy, no-resolve
 ip6-cidr, 2602:f864:242::/48, proxy, no-resolve
 ip6-cidr, 2602:f864:262::/48, proxy, no-resolve
 ip6-cidr, 2602:f864:26d::/48, proxy, no-resolve

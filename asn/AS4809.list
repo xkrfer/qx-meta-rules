@@ -401,6 +401,4 @@ ip6-cidr, 2a04:f580:9260::/48, proxy, no-resolve
 ip6-cidr, 2a04:f580:9270::/48, proxy, no-resolve
 ip6-cidr, 2a04:f580:9280::/48, proxy, no-resolve
 ip6-cidr, 2a04:f580:9290::/48, proxy, no-resolve
-ip6-cidr, 2c0f:f7a8:9020::/48, proxy, no-resolve
 ip6-cidr, 2c0f:f7a8:9041::/48, proxy, no-resolve
-ip6-cidr, 2c0f:f7a8:9220::/48, proxy, no-resolve

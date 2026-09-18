@@ -13,6 +13,7 @@ ip6-cidr, 2a01:f900:7::/48, proxy, no-resolve
 ip6-cidr, 2a01:f900:10::/45, proxy, no-resolve
 ip6-cidr, 2a01:f900:18::/47, proxy, no-resolve
 ip6-cidr, 2a01:f900:20::/47, proxy, no-resolve
+ip6-cidr, 2a01:f900:158::/47, proxy, no-resolve
 ip6-cidr, 2a01:f900:203::/48, proxy, no-resolve
 ip6-cidr, 2a01:f900:204::/48, proxy, no-resolve
 ip6-cidr, 2a01:f900:2a01::/48, proxy, no-resolve

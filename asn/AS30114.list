@@ -2,7 +2,7 @@ ip-cidr, 23.146.88.0/24, proxy, no-resolve
 ip-cidr, 140.235.104.0/22, proxy, no-resolve
 ip6-cidr, 2602:fab0:20::/46, proxy, no-resolve
 ip6-cidr, 2602:fab0:24::/48, proxy, no-resolve
-ip6-cidr, 2602:fab0:28::/47, proxy, no-resolve
+ip6-cidr, 2602:fab0:29::/48, proxy, no-resolve
 ip6-cidr, 2602:fab0:2a::/48, proxy, no-resolve
 ip6-cidr, 2602:fab0:30::/44, proxy, no-resolve
 ip6-cidr, 2602:fab0:40::/44, proxy, no-resolve

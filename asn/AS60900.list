@@ -18,6 +18,7 @@ ip6-cidr, 2602:f50c:620::/47, proxy, no-resolve
 ip6-cidr, 2602:f50c:640::/47, proxy, no-resolve
 ip6-cidr, 2602:f50c:650::/47, proxy, no-resolve
 ip6-cidr, 2602:f50c:660::/47, proxy, no-resolve
+ip6-cidr, 2602:f50c:670::/47, proxy, no-resolve
 ip6-cidr, 2602:f50c:810::/47, proxy, no-resolve
 ip6-cidr, 2602:f50c:820::/47, proxy, no-resolve
 ip6-cidr, 2602:fab8::/36, proxy, no-resolve

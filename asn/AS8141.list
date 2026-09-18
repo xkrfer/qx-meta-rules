@@ -1,1 +1,5 @@
-ip-cidr, 200.202.32.0/19, proxy, no-resolve
+ip-cidr, 200.202.32.0/22, proxy, no-resolve
+ip-cidr, 200.202.36.0/23, proxy, no-resolve
+ip-cidr, 200.202.39.0/24, proxy, no-resolve
+ip-cidr, 200.202.40.0/21, proxy, no-resolve
+ip-cidr, 200.202.48.0/20, proxy, no-resolve

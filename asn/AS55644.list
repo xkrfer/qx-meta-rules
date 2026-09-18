@@ -15,6 +15,7 @@ ip6-cidr, 2400:c700:88::/45, proxy, no-resolve
 ip6-cidr, 2400:c700:90::/44, proxy, no-resolve
 ip6-cidr, 2400:c700:a0::/43, proxy, no-resolve
 ip6-cidr, 2400:c700:c0::/42, proxy, no-resolve
+ip6-cidr, 2400:c700:100::/48, proxy, no-resolve
 ip6-cidr, 2400:c700:106::/47, proxy, no-resolve
 ip6-cidr, 2400:c700:108::/45, proxy, no-resolve
 ip6-cidr, 2400:c700:110::/44, proxy, no-resolve

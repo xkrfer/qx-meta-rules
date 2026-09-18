@@ -79,3 +79,4 @@ ip-cidr, 161.129.205.228/30, proxy, no-resolve
 ip-cidr, 161.129.205.232/29, proxy, no-resolve
 ip-cidr, 161.129.205.240/28, proxy, no-resolve
 ip-cidr, 161.129.206.0/23, proxy, no-resolve
+ip6-cidr, 2604:e340::/32, proxy, no-resolve

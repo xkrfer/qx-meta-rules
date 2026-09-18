@@ -97,8 +97,8 @@ ip6-cidr, 2001:16a4::/41, proxy, no-resolve
 ip6-cidr, 2001:16a4:80::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:b0::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:c0::/43, proxy, no-resolve
-ip6-cidr, 2001:16a4:f0::/44, proxy, no-resolve
-ip6-cidr, 2001:16a4:100::/42, proxy, no-resolve
+ip6-cidr, 2001:16a4:110::/44, proxy, no-resolve
+ip6-cidr, 2001:16a4:120::/43, proxy, no-resolve
 ip6-cidr, 2001:16a4:140::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:200::/40, proxy, no-resolve
 ip6-cidr, 2001:16a4:300::/43, proxy, no-resolve
@@ -108,7 +108,7 @@ ip6-cidr, 2001:16a4:410::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:420::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:430::/45, proxy, no-resolve
 ip6-cidr, 2001:16a4:43e::/47, proxy, no-resolve
-ip6-cidr, 2001:16a4:450::/44, proxy, no-resolve
+ip6-cidr, 2001:16a4:458::/45, proxy, no-resolve
 ip6-cidr, 2001:16a4:460::/45, proxy, no-resolve
 ip6-cidr, 2001:16a4:500::/44, proxy, no-resolve
 ip6-cidr, 2001:16a4:528::/45, proxy, no-resolve

@@ -20,3 +20,4 @@ ip-cidr, 210.211.96.0/19, proxy, no-resolve
 ip6-cidr, 2401:5f80::/34, proxy, no-resolve
 ip6-cidr, 2401:5f80:4000::/35, proxy, no-resolve
 ip6-cidr, 2401:5f80:6000::/36, proxy, no-resolve
+ip6-cidr, 2406:4c40::/48, proxy, no-resolve

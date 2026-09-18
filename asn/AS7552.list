@@ -126,7 +126,8 @@ ip-cidr, 116.106.88.0/21, proxy, no-resolve
 ip-cidr, 116.106.96.0/21, proxy, no-resolve
 ip-cidr, 116.106.160.0/21, proxy, no-resolve
 ip-cidr, 116.106.224.0/20, proxy, no-resolve
-ip-cidr, 116.107.0.0/20, proxy, no-resolve
+ip-cidr, 116.107.4.0/22, proxy, no-resolve
+ip-cidr, 116.107.8.0/21, proxy, no-resolve
 ip-cidr, 116.107.24.0/21, proxy, no-resolve
 ip-cidr, 116.107.32.0/19, proxy, no-resolve
 ip-cidr, 116.107.64.0/18, proxy, no-resolve

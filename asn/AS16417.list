@@ -55,5 +55,7 @@ ip6-cidr, 2620:101:2002::/47, proxy, no-resolve
 ip6-cidr, 2620:101:2005::/48, proxy, no-resolve
 ip6-cidr, 2620:101:2006::/47, proxy, no-resolve
 ip6-cidr, 2620:101:200b::/48, proxy, no-resolve
+ip6-cidr, 2620:101:200c::/48, proxy, no-resolve
 ip6-cidr, 2620:101:200f::/48, proxy, no-resolve
 ip6-cidr, 2620:101:2010::/48, proxy, no-resolve
+ip6-cidr, 2620:101:2014::/48, proxy, no-resolve

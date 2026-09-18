@@ -112,7 +112,6 @@ ip-cidr, 213.43.255.0/24, proxy, no-resolve
 ip6-cidr, 2a02:4e0:2::/47, proxy, no-resolve
 ip6-cidr, 2a02:4e0:4::/47, proxy, no-resolve
 ip6-cidr, 2a02:4e0:6::/48, proxy, no-resolve
-ip6-cidr, 2a02:4e0:10::/48, proxy, no-resolve
 ip6-cidr, 2a02:4e0:2000::/41, proxy, no-resolve
 ip6-cidr, 2a02:4e0:2100::/41, proxy, no-resolve
 ip6-cidr, 2a02:4e0:2200::/41, proxy, no-resolve

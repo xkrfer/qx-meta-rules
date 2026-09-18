@@ -4,5 +4,4 @@ ip-cidr, 109.125.192.0/19, proxy, no-resolve
 ip-cidr, 109.125.224.0/20, proxy, no-resolve
 ip-cidr, 109.125.240.0/21, proxy, no-resolve
 ip-cidr, 109.125.248.0/22, proxy, no-resolve
-ip-cidr, 109.125.253.0/24, proxy, no-resolve
 ip-cidr, 109.125.254.0/24, proxy, no-resolve

@@ -1,6 +1,6 @@
 ip6-cidr, 2a0a:6040:b801::/48, proxy, no-resolve
 ip6-cidr, 2a0a:6040:b802::/48, proxy, no-resolve
-ip6-cidr, 2a0a:6040:b804::/47, proxy, no-resolve
+ip6-cidr, 2a0a:6040:b805::/48, proxy, no-resolve
 ip6-cidr, 2a0a:6040:b806::/48, proxy, no-resolve
 ip6-cidr, 2a0a:6040:b808::/47, proxy, no-resolve
 ip6-cidr, 2a0a:6040:b825::/48, proxy, no-resolve
