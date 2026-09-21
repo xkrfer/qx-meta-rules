@@ -1,6 +1,3 @@
-host-suffix, tailscale.com, proxy
-host-suffix, tailscale.io, proxy
-host-suffix, ts.net, proxy
 host-suffix, equinox.io, proxy
 host-suffix, ngrok-agent.com, proxy
 host-suffix, ngrok-free.app, proxy
@@ -14,3 +11,6 @@ host-suffix, ngrok.pizza, proxy
 host-suffix, ngrok.pro, proxy
 host-suffix, pinggy.io, proxy
 host-suffix, pinggy.link, proxy
+host-suffix, tailscale.com, proxy
+host-suffix, tailscale.io, proxy
+host-suffix, ts.net, proxy

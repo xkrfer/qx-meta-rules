@@ -6,6 +6,7 @@ host, networkcheck.kde.org, proxy
 host, edge-http.microsoft.com, proxy
 host, www.qualcomm.com, proxy
 host, connectivity-check.ubuntu.com, proxy
+host-suffix, firefox-portal-detection.com, proxy
 host-suffix, kuketz.de, proxy
 host-suffix, msftconnecttest.com, proxy
 host-suffix, msftncsi.com, proxy

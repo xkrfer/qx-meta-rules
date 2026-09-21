@@ -79,9 +79,6 @@ host-suffix, dxmpay.com, proxy
 host-suffix, dxmstatic.com, proxy
 host-suffix, dxmyqh.com, proxy
 host-suffix, paydxm.com, proxy
-host-suffix, zuoyebang.cc, proxy
-host-suffix, zuoyebang.com, proxy
-host-suffix, zybang.com, proxy
 host-suffix, baidu.com.cn, proxy
 host-suffix, adscdn.baidu.com, proxy
 host-suffix, adx.xiaodutv.com, proxy
@@ -133,4 +130,3 @@ host-suffix, wangmeng.baidu.com, proxy
 host-suffix, wkctj.baidu.com, proxy
 host-suffix, wm.baidu.com, proxy
 host-suffix, zz.bdstatic.com, proxy
-host-suffix, syh.zybang.com, proxy

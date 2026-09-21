@@ -95,10 +95,9 @@ host-suffix, facebook.ca, proxy
 host-suffix, facebook.cc, proxy
 host-suffix, facebook.com, proxy
 host-suffix, facebook.design, proxy
-host-suffix, facebook.net, proxy
 host-suffix, facebook.hu, proxy
 host-suffix, facebook.in, proxy
-host-suffix, fecebook.net, proxy
+host-suffix, facebook.net, proxy
 host-suffix, facebook.nl, proxy
 host-suffix, facebook.org, proxy
 host-suffix, facebook.se, proxy
@@ -305,6 +304,7 @@ host-suffix, fecbbok.com, proxy
 host-suffix, fecbooc.com, proxy
 host-suffix, fecbook.com, proxy
 host-suffix, feceboock.com, proxy
+host-suffix, fecebook.net, proxy
 host-suffix, feceboox.com, proxy
 host-suffix, fececbook.com, proxy
 host-suffix, feook.com, proxy
@@ -374,6 +374,7 @@ host-suffix, sportsfacebook.com, proxy
 host-suffix, sportstream.com, proxy
 host-suffix, supportfacebook.com, proxy
 host-suffix, terragraph.com, proxy
+host-suffix, tfbnw.net, proxy
 host-suffix, thefacebook.com, proxy
 host-suffix, thefacebook.net, proxy
 host-suffix, thefind.com, proxy
