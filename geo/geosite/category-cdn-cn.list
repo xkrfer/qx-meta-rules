@@ -5,6 +5,10 @@ host-suffix, funcdn.com, proxy
 host-suffix, hydun.com, proxy
 host-suffix, jiashule.com, proxy
 host-suffix, jiasule.com, proxy
+host-suffix, bootcdn.cn, proxy
+host-suffix, bootcdn.net, proxy
+host-suffix, bootcss.com, proxy
+host-suffix, phpcomposer.com, proxy
 host-suffix, fastcdn.com, proxy
 host-suffix, tlgslb.cn, proxy
 host-suffix, bbbcdns.com, proxy
@@ -66,10 +70,6 @@ host-suffix, wswebpic.com, proxy
 host-suffix, bsclink.cn, proxy
 host-suffix, qingcdn.com, proxy
 host-suffix, trpcdn.net, proxy
-host-suffix, bootcdn.cn, proxy
-host-suffix, bootcdn.net, proxy
-host-suffix, bootcss.com, proxy
-host-suffix, phpcomposer.com, proxy
 host-suffix, dfyun.com.cn, proxy
 host-suffix, fastcdn.com.cn, proxy
 host-suffix, cf-china.info, proxy
