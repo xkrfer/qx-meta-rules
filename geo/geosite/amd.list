@@ -3,3 +3,4 @@ host-suffix, amdfanstore.com, proxy
 host-suffix, amdgaming.com, proxy
 host-suffix, radeon.com, proxy
 host-suffix, amd.com.cn, proxy
+host, drivers.amd.com, proxy
