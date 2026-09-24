@@ -51,7 +51,7 @@ host-suffix, baidu, proxy
 host-suffix, anquan, proxy
 host-suffix, alipay, proxy
 host-suffix, jsjhtz.com, proxy
-host-suffix, rdamicro.com, proxy
+host-suffix, 52etf.site, proxy
 host-suffix, 027htxt.com, proxy
 host-suffix, 027hxzy.com, proxy
 host-suffix, 027hy.com, proxy
@@ -4896,7 +4896,7 @@ host-suffix, 51g4.com, proxy
 host-suffix, 51gaifang.com, proxy
 host-suffix, 51gamecard.com, proxy
 host-suffix, 51ganjie.com, proxy
-host-suffix, 51gaoji.com, proxy
+host-suffix, jssjrfw.com, proxy
 host-suffix, 51gaoxiao.com, proxy
 host-suffix, 51garlic.com, proxy
 host-suffix, 51gdrc.com, proxy
@@ -5432,7 +5432,7 @@ host-suffix, 52dyy.com, proxy
 host-suffix, 52edns.com, proxy
 host-suffix, 52edy.com, proxy
 host-suffix, 52enku.com, proxy
-host-suffix, 52etf.site, proxy
+host-suffix, jssjchyxh.com, proxy
 host-suffix, 52fangzi.com, proxy
 host-suffix, 52fanxing.com, proxy
 host-suffix, 52fzwg.com, proxy
@@ -16724,7 +16724,7 @@ host-suffix, bookshadow.com, proxy
 host-suffix, bookshi.com, proxy
 host-suffix, bookshoptw.com, proxy
 host-suffix, bookshuku.com, proxy
-host-suffix, jssihuan.com, proxy
+host-suffix, booksky.cc, proxy
 host-suffix, bookskys.com, proxy
 host-suffix, booksn.com, proxy
 host-suffix, booksos.net, proxy
@@ -55538,9 +55538,9 @@ host-suffix, jsshrzx.com, proxy
 host-suffix, jsshuangxin.com, proxy
 host-suffix, jsshuntai.com, proxy
 host-suffix, jssia.org, proxy
-host-suffix, booksky.cc, proxy
+host-suffix, yinkead.com, proxy
 host-suffix, 027hpit.com, proxy
-host-suffix, xy3yy.com, proxy
+host-suffix, 51gaoji.com, proxy
 host-suffix, jssjxgyw.com, proxy
 host-suffix, jssks.com, proxy
 host-suffix, jssling.com, proxy
@@ -76282,7 +76282,7 @@ host-suffix, rd-game.com, proxy
 host-suffix, rd351.com, proxy
 host-suffix, rdacs.com, proxy
 host-suffix, rdadiy.com, proxy
-host-suffix, jssjchyxh.com, proxy
+host-suffix, rdamicro.com, proxy
 host-suffix, rdbuy.com, proxy
 host-suffix, rdcnzz.com, proxy
 host-suffix, rdcolg.net, proxy
@@ -82480,6 +82480,7 @@ host-suffix, sjez.com, proxy
 host-suffix, sjf029.com, proxy
 host-suffix, sjfcdn.com, proxy
 host-suffix, sjfh168.com, proxy
+host-suffix, sjfls6.com, proxy
 host-suffix, sjfpro.com, proxy
 host-suffix, sjfzxm.com, proxy
 host-suffix, sjg8.com, proxy
@@ -100999,7 +101000,7 @@ host-suffix, xy1758.com, proxy
 host-suffix, xy178.com, proxy
 host-suffix, xy3000.com, proxy
 host-suffix, xy36z.com, proxy
-host-suffix, jssjrfw.com, proxy
+host-suffix, xy3yy.com, proxy
 host-suffix, xy58.net, proxy
 host-suffix, xy599.com, proxy
 host-suffix, xy980.net, proxy
@@ -103059,7 +103060,7 @@ host-suffix, yinjia.com, proxy
 host-suffix, yinjiabio.com, proxy
 host-suffix, yinjispace.com, proxy
 host-suffix, yinka.co, proxy
-host-suffix, yinkead.com, proxy
+host-suffix, jssihuan.com, proxy
 host-suffix, yinlimedia.com, proxy
 host-suffix, yinlingshuyuan.com, proxy
 host-suffix, yinlvaa.com, proxy

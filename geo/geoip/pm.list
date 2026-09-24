@@ -56,7 +56,7 @@ ip-cidr, 185.66.232.172/32, proxy, no-resolve
 ip-cidr, 185.66.232.176/28, proxy, no-resolve
 ip-cidr, 185.66.232.192/26, proxy, no-resolve
 ip-cidr, 185.66.233.0/24, proxy, no-resolve
-ip-cidr, 185.66.234.0/23, proxy, no-resolve
+ip-cidr, 185.66.234.0/24, proxy, no-resolve
 ip-cidr, 194.50.99.181/32, proxy, no-resolve
 ip6-cidr, 2001:470:d:6ca::/64, proxy, no-resolve
 ip6-cidr, 2001:470:d:708::/64, proxy, no-resolve
