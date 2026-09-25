@@ -1,0 +1,2 @@
+ip6-cidr, 240a:a00e::/48, proxy, no-resolve
+ip6-cidr, 240a:a00e:100::/48, proxy, no-resolve

@@ -21,6 +21,11 @@ host-suffix, cn.pool.ntp.org, proxy
 host-suffix, ntp.neu.edu.cn, proxy
 host-suffix, ntp.ntsc.ac.cn, proxy
 host-suffix, ntp.org.cn, proxy
+host-suffix, 4008-517-517.cn, proxy
+host-suffix, mcd.cn, proxy
+host-suffix, mcdchina.net, proxy
+host-suffix, mcdonalds.com.cn, proxy
+host-suffix, starbucks.com.cn, proxy
 host-suffix, cf-china.info, proxy
 host-suffix, cf-ns.com, proxy
 host-suffix, cf-ns.net, proxy
@@ -40,11 +45,6 @@ host-suffix, cloudflareperf.com, proxy
 host-suffix, cloudflareprod.com, proxy
 host-suffix, cloudflarestaging.com, proxy
 host-suffix, cloudflarestoragegw.com, proxy
-host-suffix, 4008-517-517.cn, proxy
-host-suffix, mcd.cn, proxy
-host-suffix, mcdchina.net, proxy
-host-suffix, mcdonalds.com.cn, proxy
-host-suffix, starbucks.com.cn, proxy
 host-suffix, a2z.org.cn, proxy
 host-suffix, amazonaws.cn, proxy
 host-suffix, amazonaws.com.cn, proxy

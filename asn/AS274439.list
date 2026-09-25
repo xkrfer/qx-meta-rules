@@ -1,1 +1,2 @@
 ip6-cidr, 2806:473:1000::/36, proxy, no-resolve
+ip6-cidr, 2806:473:2000::/36, proxy, no-resolve

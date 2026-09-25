@@ -3,4 +3,6 @@ ip-cidr, 89.190.4.0/23, proxy, no-resolve
 ip-cidr, 89.190.7.0/24, proxy, no-resolve
 ip-cidr, 89.190.8.0/21, proxy, no-resolve
 ip-cidr, 89.190.16.0/20, proxy, no-resolve
-ip6-cidr, 2a03:7c00::/29, proxy, no-resolve
+ip6-cidr, 2a03:7c00::/31, proxy, no-resolve
+ip6-cidr, 2a03:7c02::/32, proxy, no-resolve
+ip6-cidr, 2a03:7c04::/30, proxy, no-resolve

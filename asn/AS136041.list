@@ -8,7 +8,7 @@ ip-cidr, 101.234.43.0/24, proxy, no-resolve
 ip-cidr, 119.234.224.0/22, proxy, no-resolve
 ip-cidr, 119.234.228.0/24, proxy, no-resolve
 ip-cidr, 119.234.234.0/23, proxy, no-resolve
-ip-cidr, 119.234.236.0/24, proxy, no-resolve
+ip-cidr, 119.234.236.0/23, proxy, no-resolve
 ip-cidr, 183.81.224.0/22, proxy, no-resolve
 ip-cidr, 183.81.228.0/23, proxy, no-resolve
 ip-cidr, 183.81.230.0/24, proxy, no-resolve

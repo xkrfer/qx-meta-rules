@@ -56,3 +56,4 @@ ip6-cidr, 2602:fed3:2::/47, proxy, no-resolve
 ip6-cidr, 2602:fed3:4::/47, proxy, no-resolve
 ip6-cidr, 2602:fed3:6::/48, proxy, no-resolve
 ip6-cidr, 2602:fed3:8::/47, proxy, no-resolve
+ip6-cidr, 2602:fed3:10::/48, proxy, no-resolve

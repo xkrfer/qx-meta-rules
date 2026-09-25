@@ -7,6 +7,6 @@ ip6-cidr, 2607:ed40::/43, proxy, no-resolve
 ip6-cidr, 2607:ed40:20::/44, proxy, no-resolve
 ip6-cidr, 2607:ed40:40::/44, proxy, no-resolve
 ip6-cidr, 2607:ed40:60::/44, proxy, no-resolve
+ip6-cidr, 2607:ed40:10f::/48, proxy, no-resolve
 ip6-cidr, 2607:ed40:1fa::/48, proxy, no-resolve
-ip6-cidr, 2607:ed40:1fd::/48, proxy, no-resolve
-ip6-cidr, 2607:ed40:1fe::/47, proxy, no-resolve
+ip6-cidr, 2607:ed40:1ff::/48, proxy, no-resolve

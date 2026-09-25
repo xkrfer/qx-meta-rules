@@ -195,4 +195,3 @@ ip6-cidr, 2a02:ff0:3f00::/40, proxy, no-resolve
 ip6-cidr, 2a02:ff0:4000::/40, proxy, no-resolve
 ip6-cidr, 2a02:ff0:4200::/40, proxy, no-resolve
 ip6-cidr, 2a02:ff0:ffff::/48, proxy, no-resolve
-ip6-cidr, 2a0c:bec0::/29, proxy, no-resolve

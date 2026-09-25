@@ -460,6 +460,7 @@ ip-cidr, 125.208.26.0/24, proxy, no-resolve
 ip-cidr, 125.254.168.0/21, proxy, no-resolve
 ip-cidr, 139.159.166.0/23, proxy, no-resolve
 ip-cidr, 140.210.32.0/22, proxy, no-resolve
+ip-cidr, 140.210.40.0/23, proxy, no-resolve
 ip-cidr, 140.210.65.0/24, proxy, no-resolve
 ip-cidr, 140.210.67.0/24, proxy, no-resolve
 ip-cidr, 140.210.69.0/24, proxy, no-resolve

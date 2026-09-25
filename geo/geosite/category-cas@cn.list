@@ -1,3 +1,10 @@
+host-suffix, dcocsp.cn, proxy
+host-suffix, digicert.cn, proxy
+host-suffix, oemssl.cn, proxy
+host-suffix, oemssl.cn.cdn.cloudflare.net, proxy
+host-suffix, sectigochina.com, proxy
+host-suffix, sectigochina.com.cdn.cloudflare.net, proxy
+host-suffix, trust-provider.cn, proxy
 host-suffix, sslcom.cn, proxy
 host, certs-lb.apple.com.akadns.net, proxy
 host, certs.apple.com, proxy
@@ -7,8 +14,6 @@ host, ocsp.apple.com, proxy
 host, ocsp2.apple.com, proxy
 host, valid.apple.com, proxy
 host, valid.origin-apple.com.akadns.net, proxy
-host-suffix, dcocsp.cn, proxy
-host-suffix, digicert.cn, proxy
 host-suffix, alphassl.com, proxy
 host-suffix, easy-signing.com, proxy
 host-suffix, globalsign.cn, proxy
@@ -24,8 +29,3 @@ host, o.pki.goog, proxy
 host, crl.pki.goog, proxy
 host, crls.pki.goog, proxy
 host, ocsp.pki.goog, proxy
-host-suffix, oemssl.cn, proxy
-host-suffix, oemssl.cn.cdn.cloudflare.net, proxy
-host-suffix, sectigochina.com, proxy
-host-suffix, sectigochina.com.cdn.cloudflare.net, proxy
-host-suffix, trust-provider.cn, proxy

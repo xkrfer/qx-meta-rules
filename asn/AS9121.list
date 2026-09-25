@@ -82,7 +82,14 @@ ip-cidr, 85.100.208.0/20, proxy, no-resolve
 ip-cidr, 85.100.224.0/19, proxy, no-resolve
 ip-cidr, 85.101.0.0/16, proxy, no-resolve
 ip-cidr, 85.102.0.0/15, proxy, no-resolve
-ip-cidr, 85.104.0.0/14, proxy, no-resolve
+ip-cidr, 85.104.0.0/15, proxy, no-resolve
+ip-cidr, 85.106.0.0/17, proxy, no-resolve
+ip-cidr, 85.106.128.0/19, proxy, no-resolve
+ip-cidr, 85.106.160.0/20, proxy, no-resolve
+ip-cidr, 85.106.176.0/21, proxy, no-resolve
+ip-cidr, 85.106.184.0/22, proxy, no-resolve
+ip-cidr, 85.106.192.0/18, proxy, no-resolve
+ip-cidr, 85.107.0.0/16, proxy, no-resolve
 ip-cidr, 85.108.0.0/15, proxy, no-resolve
 ip-cidr, 85.110.64.0/18, proxy, no-resolve
 ip-cidr, 85.110.128.0/17, proxy, no-resolve

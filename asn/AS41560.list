@@ -30,4 +30,4 @@ ip-cidr, 185.13.133.148/30, proxy, no-resolve
 ip-cidr, 185.13.133.152/29, proxy, no-resolve
 ip-cidr, 185.13.133.160/27, proxy, no-resolve
 ip-cidr, 185.13.133.192/26, proxy, no-resolve
-ip-cidr, 185.13.134.0/24, proxy, no-resolve
+ip-cidr, 185.13.134.0/23, proxy, no-resolve

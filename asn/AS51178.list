@@ -25,4 +25,3 @@ ip6-cidr, 2a00:9801:e200::/39, proxy, no-resolve
 ip6-cidr, 2a00:9801:e400::/38, proxy, no-resolve
 ip6-cidr, 2a00:9801:e800::/37, proxy, no-resolve
 ip6-cidr, 2a00:9801:f000::/36, proxy, no-resolve
-ip6-cidr, 2a0b:d0c0::/29, proxy, no-resolve

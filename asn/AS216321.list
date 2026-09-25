@@ -8,4 +8,3 @@ ip6-cidr, 2a13:d8c2::/40, proxy, no-resolve
 ip6-cidr, 2a13:d8c3:2::/48, proxy, no-resolve
 ip6-cidr, 2a13:d8c4:2::/48, proxy, no-resolve
 ip6-cidr, 2a13:d8c4:7::/48, proxy, no-resolve
-ip6-cidr, 2a13:d8c7::/32, proxy, no-resolve

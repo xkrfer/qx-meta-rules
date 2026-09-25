@@ -5387,7 +5387,7 @@ ip6-cidr, 2400:103:c009::/48, proxy, no-resolve
 ip6-cidr, 2400:108::/31, proxy, no-resolve
 ip6-cidr, 2400:110::/31, proxy, no-resolve
 ip6-cidr, 2400:112::/32, proxy, no-resolve
-ip6-cidr, 2400:122::/31, proxy, no-resolve
+ip6-cidr, 2400:120::/30, proxy, no-resolve
 ip6-cidr, 2400:126::/32, proxy, no-resolve
 ip6-cidr, 2400:130::/30, proxy, no-resolve
 ip6-cidr, 2400:134::/32, proxy, no-resolve

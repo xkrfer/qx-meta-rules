@@ -99,7 +99,7 @@ ip6-cidr, 2806:230:1032::/48, proxy, no-resolve
 ip6-cidr, 2806:230:1034::/46, proxy, no-resolve
 ip6-cidr, 2806:230:1038::/45, proxy, no-resolve
 ip6-cidr, 2806:230:1040::/45, proxy, no-resolve
-ip6-cidr, 2806:230:1048::/48, proxy, no-resolve
+ip6-cidr, 2806:230:1048::/46, proxy, no-resolve
 ip6-cidr, 2806:230:10f0::/48, proxy, no-resolve
 ip6-cidr, 2806:230:1100::/40, proxy, no-resolve
 ip6-cidr, 2806:230:1206::/48, proxy, no-resolve

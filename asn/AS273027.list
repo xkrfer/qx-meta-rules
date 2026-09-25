@@ -16,10 +16,12 @@ ip6-cidr, 2801:1ba:80::/45, proxy, no-resolve
 ip6-cidr, 2801:1ba:88::/46, proxy, no-resolve
 ip6-cidr, 2801:1ba:8c::/47, proxy, no-resolve
 ip6-cidr, 2801:1ba:8e::/48, proxy, no-resolve
+ip6-cidr, 2801:1ba:9c::/46, proxy, no-resolve
 ip6-cidr, 2801:1ba:a0::/45, proxy, no-resolve
 ip6-cidr, 2801:1ba:a8::/46, proxy, no-resolve
 ip6-cidr, 2801:1ba:ac::/47, proxy, no-resolve
 ip6-cidr, 2801:1ba:ae::/48, proxy, no-resolve
+ip6-cidr, 2801:1ba:bc::/46, proxy, no-resolve
 ip6-cidr, 2801:1ba:d0::/46, proxy, no-resolve
 ip6-cidr, 2801:1ba:d4::/48, proxy, no-resolve
 ip6-cidr, 2801:1ba:d6::/47, proxy, no-resolve
