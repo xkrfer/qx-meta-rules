@@ -1,5 +1,6 @@
 IP-CIDR,23.172.144.0/24,no-resolve
-IP-CIDR6,2602:fca7:3::/48,no-resolve
+IP-CIDR6,2602:fca7:1::/48,no-resolve
+IP-CIDR6,2602:fca7:2::/47,no-resolve
 IP-CIDR6,2602:fca7:4::/46,no-resolve
 IP-CIDR6,2602:fca7:8::/48,no-resolve
 IP-CIDR6,2602:fca7:d::/48,no-resolve

@@ -130,7 +130,6 @@ IP-CIDR,81.126.148.0/22,no-resolve
 IP-CIDR,81.126.152.0/21,no-resolve
 IP-CIDR,81.126.224.0/19,no-resolve
 IP-CIDR,82.48.0.0/16,no-resolve
-IP-CIDR,82.52.128.0/17,no-resolve
 IP-CIDR,82.53.0.0/17,no-resolve
 IP-CIDR,82.53.128.0/19,no-resolve
 IP-CIDR,82.53.160.0/20,no-resolve

@@ -148,7 +148,6 @@ IP-CIDR6,2400:d802:4200::/44,no-resolve
 IP-CIDR6,2400:d802:4210::/45,no-resolve
 IP-CIDR6,2400:d802:4220::/43,no-resolve
 IP-CIDR6,2400:d802:4240::/42,no-resolve
-IP-CIDR6,2400:d802:4280::/42,no-resolve
 IP-CIDR6,2400:d802:4300::/40,no-resolve
 IP-CIDR6,2400:d802:4400::/38,no-resolve
 IP-CIDR6,2400:d802:4800::/37,no-resolve

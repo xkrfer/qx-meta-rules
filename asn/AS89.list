@@ -4,3 +4,4 @@ IP-CIDR,198.97.81.0/24,no-resolve
 IP-CIDR,198.97.82.0/23,no-resolve
 IP-CIDR,198.97.84.0/22,no-resolve
 IP-CIDR,198.97.88.0/24,no-resolve
+IP-CIDR6,2001:480:540::/48,no-resolve

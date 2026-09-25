@@ -154,7 +154,9 @@ IP-CIDR,130.51.180.0/24,no-resolve
 IP-CIDR,134.172.0.0/16,no-resolve
 IP-CIDR,142.248.181.0/24,no-resolve
 IP-CIDR,144.202.128.0/17,no-resolve
-IP-CIDR,146.202.0.0/16,no-resolve
+IP-CIDR,146.202.0.0/18,no-resolve
+IP-CIDR,146.202.64.0/19,no-resolve
+IP-CIDR,146.202.128.0/17,no-resolve
 IP-CIDR,149.65.0.0/16,no-resolve
 IP-CIDR,156.21.16.0/21,no-resolve
 IP-CIDR,156.21.128.0/18,no-resolve

@@ -34,15 +34,7 @@ IP-CIDR,206.206.188.192/26,no-resolve
 IP-CIDR,206.206.189.0/24,no-resolve
 IP-CIDR,206.206.190.0/23,no-resolve
 IP-CIDR,216.25.48.0/21,no-resolve
-IP-CIDR,216.25.56.0/24,no-resolve
-IP-CIDR,216.25.57.0/25,no-resolve
-IP-CIDR,216.25.57.128/26,no-resolve
-IP-CIDR,216.25.57.192/27,no-resolve
-IP-CIDR,216.25.57.224/31,no-resolve
-IP-CIDR,216.25.57.227/32,no-resolve
-IP-CIDR,216.25.57.228/30,no-resolve
-IP-CIDR,216.25.57.232/29,no-resolve
-IP-CIDR,216.25.57.240/28,no-resolve
+IP-CIDR,216.25.56.0/23,no-resolve
 IP-CIDR,216.25.58.0/24,no-resolve
 IP-CIDR,216.25.59.0/26,no-resolve
 IP-CIDR,216.25.59.64/27,no-resolve

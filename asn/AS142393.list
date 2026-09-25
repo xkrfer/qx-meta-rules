@@ -1,5 +1,5 @@
 IP-CIDR,38.44.248.0/22,no-resolve
-IP-CIDR,38.44.252.0/23,no-resolve
+IP-CIDR,38.44.252.0/24,no-resolve
 IP-CIDR,103.146.38.0/24,no-resolve
 IP-CIDR,103.172.42.0/24,no-resolve
 IP-CIDR,150.107.104.0/23,no-resolve

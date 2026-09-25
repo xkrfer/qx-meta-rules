@@ -7,11 +7,13 @@ IP-CIDR,109.199.160.0/20,no-resolve
 IP-CIDR,109.199.176.0/21,no-resolve
 IP-CIDR,109.199.184.0/22,no-resolve
 IP-CIDR,109.199.188.0/23,no-resolve
+IP-CIDR,109.199.191.0/24,no-resolve
 IP-CIDR,185.9.64.0/22,no-resolve
 IP-CIDR,185.18.36.0/22,no-resolve
 IP-CIDR,185.93.200.0/22,no-resolve
 IP-CIDR6,2a01:a980::/46,no-resolve
 IP-CIDR6,2a01:a980:4::/47,no-resolve
+IP-CIDR6,2a01:a980:7::/48,no-resolve
 IP-CIDR6,2a01:a980:8::/45,no-resolve
 IP-CIDR6,2a01:a980:10::/44,no-resolve
 IP-CIDR6,2a01:a980:20::/43,no-resolve

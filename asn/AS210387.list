@@ -1,1 +1,2 @@
-IP-CIDR6,2a14:9401:4000::/36,no-resolve
+IP-CIDR,45.10.150.0/24,no-resolve
+IP-CIDR,185.148.241.0/24,no-resolve

@@ -8,4 +8,6 @@ IP-CIDR,217.180.40.0/24,no-resolve
 IP-CIDR,217.180.42.0/24,no-resolve
 IP-CIDR6,2001:1a10:9120::/44,no-resolve
 IP-CIDR6,2001:1a10:9130::/45,no-resolve
+IP-CIDR6,2a06:c240:c001::/48,no-resolve
+IP-CIDR6,2a06:c240:c002::/48,no-resolve
 IP-CIDR6,2a0b:c7c0::/35,no-resolve

@@ -46,7 +46,16 @@ IP-CIDR6,2602:fe43:0:7ad6::/63,no-resolve
 IP-CIDR6,2602:fe43:0:7ad8::/61,no-resolve
 IP-CIDR6,2602:fe43:0:7ae0::/59,no-resolve
 IP-CIDR6,2602:fe43:0:7b00::/56,no-resolve
-IP-CIDR6,2602:fe43:0:7c00::/54,no-resolve
+IP-CIDR6,2602:fe43:0:7c00::/56,no-resolve
+IP-CIDR6,2602:fe43:0:7d00::/58,no-resolve
+IP-CIDR6,2602:fe43:0:7d40::/59,no-resolve
+IP-CIDR6,2602:fe43:0:7d60::/60,no-resolve
+IP-CIDR6,2602:fe43:0:7d70::/63,no-resolve
+IP-CIDR6,2602:fe43:0:7d73::/64,no-resolve
+IP-CIDR6,2602:fe43:0:7d74::/62,no-resolve
+IP-CIDR6,2602:fe43:0:7d78::/61,no-resolve
+IP-CIDR6,2602:fe43:0:7d80::/57,no-resolve
+IP-CIDR6,2602:fe43:0:7e00::/55,no-resolve
 IP-CIDR6,2602:fe43:0:8000::/51,no-resolve
 IP-CIDR6,2602:fe43:0:a000::/53,no-resolve
 IP-CIDR6,2602:fe43:0:a800::/54,no-resolve

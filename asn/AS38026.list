@@ -6,6 +6,6 @@ IP-CIDR,202.164.208.0/21,no-resolve
 IP-CIDR6,2404:af80::/48,no-resolve
 IP-CIDR6,2404:af80:3::/48,no-resolve
 IP-CIDR6,2404:af80:4::/48,no-resolve
-IP-CIDR6,2404:af80:10::/47,no-resolve
+IP-CIDR6,2404:af80:10::/48,no-resolve
 IP-CIDR6,2404:af80:12::/48,no-resolve
 IP-CIDR6,2404:af80:14::/47,no-resolve

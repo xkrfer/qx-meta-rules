@@ -10,13 +10,7 @@ IP-CIDR,24.244.100.84/31,no-resolve
 IP-CIDR,24.244.100.87/32,no-resolve
 IP-CIDR,24.244.100.88/29,no-resolve
 IP-CIDR,24.244.100.96/27,no-resolve
-IP-CIDR,24.244.100.128/26,no-resolve
-IP-CIDR,24.244.100.192/28,no-resolve
-IP-CIDR,24.244.100.208/31,no-resolve
-IP-CIDR,24.244.100.211/32,no-resolve
-IP-CIDR,24.244.100.212/30,no-resolve
-IP-CIDR,24.244.100.216/29,no-resolve
-IP-CIDR,24.244.100.224/27,no-resolve
+IP-CIDR,24.244.100.128/25,no-resolve
 IP-CIDR,24.244.101.0/24,no-resolve
 IP-CIDR,24.244.102.0/23,no-resolve
 IP-CIDR,24.244.104.0/22,no-resolve

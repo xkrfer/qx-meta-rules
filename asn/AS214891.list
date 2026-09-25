@@ -6,7 +6,8 @@ IP-CIDR6,2a0d:d940:c0::/44,no-resolve
 IP-CIDR6,2a10:ab80::/40,no-resolve
 IP-CIDR6,2a10:ab80:101::/48,no-resolve
 IP-CIDR6,2a10:ab80:102::/47,no-resolve
-IP-CIDR6,2a10:ab80:104::/46,no-resolve
+IP-CIDR6,2a10:ab80:105::/48,no-resolve
+IP-CIDR6,2a10:ab80:106::/47,no-resolve
 IP-CIDR6,2a10:ab80:108::/45,no-resolve
 IP-CIDR6,2a10:ab80:110::/44,no-resolve
 IP-CIDR6,2a10:ab80:120::/43,no-resolve

@@ -71,4 +71,5 @@ IP-CIDR6,2a0f:b240:22::/48,no-resolve
 IP-CIDR6,2a0f:b240:26::/48,no-resolve
 IP-CIDR6,2a0f:b240:28::/47,no-resolve
 IP-CIDR6,2a0f:b240:1400::/48,no-resolve
+IP-CIDR6,2a0f:b240:1402::/48,no-resolve
 IP-CIDR6,2a13:c3c4::/30,no-resolve

@@ -3,7 +3,4 @@ IP-CIDR,23.169.244.0/23,no-resolve
 IP-CIDR,23.169.248.0/21,no-resolve
 IP-CIDR,64.40.23.0/24,no-resolve
 IP-CIDR,72.20.158.0/24,no-resolve
-IP-CIDR6,2602:800:1000::/45,no-resolve
-IP-CIDR6,2602:800:1008::/46,no-resolve
-IP-CIDR6,2602:800:100c::/47,no-resolve
-IP-CIDR6,2602:800:100e::/48,no-resolve
+IP-CIDR6,2602:800:1000::/44,no-resolve

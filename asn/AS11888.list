@@ -204,8 +204,6 @@ IP-CIDR6,2806:230:102d::/48,no-resolve
 IP-CIDR6,2806:230:102f::/48,no-resolve
 IP-CIDR6,2806:230:1031::/48,no-resolve
 IP-CIDR6,2806:230:1033::/48,no-resolve
-IP-CIDR6,2806:230:1049::/48,no-resolve
-IP-CIDR6,2806:230:104a::/47,no-resolve
 IP-CIDR6,2806:230:104c::/46,no-resolve
 IP-CIDR6,2806:230:1050::/44,no-resolve
 IP-CIDR6,2806:230:1060::/43,no-resolve

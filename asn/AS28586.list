@@ -3,7 +3,10 @@ IP-CIDR,177.92.212.0/23,no-resolve
 IP-CIDR,177.92.217.0/24,no-resolve
 IP-CIDR,177.92.220.0/23,no-resolve
 IP-CIDR,177.92.222.0/24,no-resolve
-IP-CIDR,200.155.80.0/20,no-resolve
+IP-CIDR,200.155.80.0/21,no-resolve
+IP-CIDR,200.155.88.0/22,no-resolve
+IP-CIDR,200.155.92.0/23,no-resolve
+IP-CIDR,200.155.94.0/24,no-resolve
 IP-CIDR6,2801:96::/40,no-resolve
 IP-CIDR6,2801:96:fff1::/48,no-resolve
 IP-CIDR6,2801:96:fff4::/48,no-resolve

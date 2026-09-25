@@ -1,10 +1,8 @@
 IP-CIDR,91.199.242.0/24,no-resolve
 IP-CIDR,91.212.98.0/24,no-resolve
 IP-CIDR,182.161.72.0/22,no-resolve
-IP-CIDR6,2406:2600:1::/48,no-resolve
-IP-CIDR6,2406:2600:2::/47,no-resolve
+IP-CIDR6,2406:2600::/46,no-resolve
 IP-CIDR6,2406:2600:4::/48,no-resolve
 IP-CIDR6,2406:2600:6::/47,no-resolve
 IP-CIDR6,2406:2600:8::/48,no-resolve
 IP-CIDR6,2406:2600:a::/47,no-resolve
-IP-CIDR6,2406:2600:c::/48,no-resolve

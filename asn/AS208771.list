@@ -7,4 +7,5 @@ IP-CIDR,104.165.246.0/24,no-resolve
 IP-CIDR6,2a04:8280::/32,no-resolve
 IP-CIDR6,2a04:8281::/34,no-resolve
 IP-CIDR6,2a04:8281:4000::/35,no-resolve
+IP-CIDR6,2a04:8281:6000::/36,no-resolve
 IP-CIDR6,2a04:8281:b000::/36,no-resolve

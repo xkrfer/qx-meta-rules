@@ -152,6 +152,6 @@ IP-CIDR6,2405:f600:ac::/47,no-resolve
 IP-CIDR6,2405:f600:af::/48,no-resolve
 IP-CIDR6,2405:f600:b0::/47,no-resolve
 IP-CIDR6,2405:f600:b7::/48,no-resolve
-IP-CIDR6,2405:f600:b8::/47,no-resolve
+IP-CIDR6,2405:f600:b8::/46,no-resolve
 IP-CIDR6,2405:f600:bc::/47,no-resolve
 IP-CIDR6,2405:f600:bf::/48,no-resolve

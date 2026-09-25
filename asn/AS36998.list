@@ -13,4 +13,6 @@ IP-CIDR,41.95.252.0/22,no-resolve
 IP-CIDR,41.223.200.0/22,no-resolve
 IP-CIDR,154.100.0.0/19,no-resolve
 IP-CIDR,154.100.32.0/20,no-resolve
+IP-CIDR,154.100.48.0/22,no-resolve
+IP-CIDR,154.100.52.0/23,no-resolve
 IP-CIDR6,2c0f:faa0::/29,no-resolve

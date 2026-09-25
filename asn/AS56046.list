@@ -232,6 +232,7 @@ IP-CIDR6,2409:8027:2c0d::/48,no-resolve
 IP-CIDR6,2409:8087:2000::/37,no-resolve
 IP-CIDR6,2409:8720::/31,no-resolve
 IP-CIDR6,2409:8820::/40,no-resolve
+IP-CIDR6,2409:8820:5f00::/40,no-resolve
 IP-CIDR6,2409:8920::/29,no-resolve
 IP-CIDR6,2409:8a20::/32,no-resolve
 IP-CIDR6,2409:8a21::/33,no-resolve

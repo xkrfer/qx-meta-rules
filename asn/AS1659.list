@@ -27,8 +27,7 @@ IP-CIDR,120.127.192.0/18,no-resolve
 IP-CIDR,134.208.0.0/16,no-resolve
 IP-CIDR,140.92.0.0/16,no-resolve
 IP-CIDR,140.111.0.0/16,no-resolve
-IP-CIDR,140.116.0.0/16,no-resolve
-IP-CIDR,140.118.0.0/15,no-resolve
+IP-CIDR,140.116.0.0/14,no-resolve
 IP-CIDR,140.120.0.0/13,no-resolve
 IP-CIDR,140.128.0.0/16,no-resolve
 IP-CIDR,140.129.0.0/19,no-resolve

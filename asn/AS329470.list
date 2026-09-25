@@ -1,1 +1,2 @@
 IP-CIDR,102.208.54.0/23,no-resolve
+IP-CIDR6,2001:43ff:b000::/48,no-resolve

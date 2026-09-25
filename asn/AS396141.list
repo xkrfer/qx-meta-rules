@@ -20,6 +20,15 @@ IP-CIDR,192.230.217.32/27,no-resolve
 IP-CIDR,192.230.217.64/26,no-resolve
 IP-CIDR,192.230.217.128/25,no-resolve
 IP-CIDR,192.230.218.0/23,no-resolve
-IP-CIDR,192.230.220.0/22,no-resolve
+IP-CIDR,192.230.220.0/23,no-resolve
+IP-CIDR,192.230.222.0/26,no-resolve
+IP-CIDR,192.230.222.64/28,no-resolve
+IP-CIDR,192.230.222.80/30,no-resolve
+IP-CIDR,192.230.222.84/32,no-resolve
+IP-CIDR,192.230.222.86/31,no-resolve
+IP-CIDR,192.230.222.88/29,no-resolve
+IP-CIDR,192.230.222.96/27,no-resolve
+IP-CIDR,192.230.222.128/25,no-resolve
+IP-CIDR,192.230.223.0/24,no-resolve
 IP-CIDR,216.55.240.0/20,no-resolve
 IP-CIDR6,2604:2bc0::/32,no-resolve
