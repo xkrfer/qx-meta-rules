@@ -117,8 +117,8 @@ host, o.pki.goog, proxy
 host, crl.pki.goog, proxy
 host, crls.pki.goog, proxy
 host, ocsp.pki.goog, proxy
-host, redirector.c.play.google.com, proxy
 host-suffix, ggpht.cn, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, update.crashlytics.com, proxy
+host, redirector.c.play.google.com, proxy
