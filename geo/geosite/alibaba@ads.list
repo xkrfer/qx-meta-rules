@@ -35,13 +35,13 @@ host-suffix, v6-adashx.ut.cainiao.com, proxy
 host-suffix, adashx.ut.ele.me, proxy
 host-suffix, h-adashx.ut.ele.me, proxy
 host-suffix, v6-adashx.ut.ele.me, proxy
-host-suffix, ads.uc.cn, proxy
-host-suffix, adslot.uc.cn, proxy
 host-suffix, adashx.ut.amap.com, proxy
 host-suffix, dualstack-logs.amap.com, proxy
 host-suffix, logs.amap.com, proxy
 host-suffix, optimus-ads.amap.com, proxy
 host-suffix, v6-adashx.ut.amap.com, proxy
+host-suffix, ads.uc.cn, proxy
+host-suffix, adslot.uc.cn, proxy
 host-suffix, aaid.umeng.com, proxy
 host-suffix, alog.umeng.com, proxy
 host-suffix, alog.umengcloud.com, proxy
