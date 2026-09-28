@@ -83,6 +83,10 @@ host, volic.download.prss.microsoft.com, proxy
 host, vscode.download.prss.microsoft.com, proxy
 host, vz.download.prss.microsoft.com, proxy
 host, windbg.download.prss.microsoft.com, proxy
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy
+host, download.visualstudio.microsoft.com, proxy
 host-suffix, microsoftnews.cn, proxy
 host-suffix, msn.cn, proxy
 host-suffix, xboxlive.cn, proxy
@@ -183,7 +187,3 @@ host-suffix, ditu.live.com, proxy
 host-suffix, r.bing.com, proxy
 host-suffix, th.bing.com, proxy
 host, bj1.api.bing.com, proxy
-host-suffix, microsoftreactor.cn, proxy
-host-suffix, microsoftreactor.com.cn, proxy
-host-suffix, reactorms.com.cn, proxy
-host, download.visualstudio.microsoft.com, proxy

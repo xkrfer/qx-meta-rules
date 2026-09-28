@@ -151,7 +151,6 @@ host-suffix, bittrex.com, proxy
 host-suffix, blink.org, proxy
 host-suffix, blizzard.com, proxy
 host-suffix, blog.com, proxy
-host-suffix, blog.google, proxy
 host-suffix, blogblog.com, proxy
 host-suffix, blogcdn.com, proxy
 host-suffix, blogger.com, proxy
@@ -500,7 +499,9 @@ host-suffix, git.io, proxy
 host-suffix, gitbook.com, proxy
 host-suffix, githack.com, proxy
 host-suffix, github-avatars.oss-cn-hongkong.aliyuncs.com, proxy
+host-suffix, github.ai, proxy
 host-suffix, github.blog, proxy
+host-suffix, github.career, proxy
 host-suffix, github.com, proxy
 host-suffix, github.community, proxy
 host-suffix, github.dev, proxy
@@ -512,6 +513,7 @@ host-suffix, githubhackathon.com, proxy
 host-suffix, githubnext.com, proxy
 host-suffix, githubpreview.dev, proxy
 host-suffix, githubstatus.com, proxy
+host-suffix, githubsupport.com, proxy
 host-suffix, githubuniverse.com, proxy
 host-suffix, githubusercontent.com, proxy
 host-suffix, gitlab.com, proxy
@@ -544,6 +546,7 @@ host-suffix, goodreads.com, proxy
 host-suffix, googel.com, proxy
 host-suffix, googil.com, proxy
 host-suffix, googl.com, proxy
+host-suffix, google, proxy
 host-suffix, google-analytics-cn.com, proxy
 host-suffix, google-analytics.com, proxy
 host-suffix, google-syndication.com, proxy
@@ -794,6 +797,7 @@ host-suffix, googletraveladservices.com, proxy
 host-suffix, googleusercontent.com, proxy
 host-suffix, googlevads-cn.com, proxy
 host-suffix, googleventures.com, proxy
+host-suffix, googlezip.net, proxy
 host-suffix, googlr.com, proxy
 host-suffix, goolge.com, proxy
 host-suffix, gooogle.com, proxy
@@ -1176,7 +1180,6 @@ host-suffix, redirector.gvt1.com, proxy
 host-suffix, redirector.offline-maps.gvt1.com, proxy
 host-suffix, redirector.snap.gvt1.com, proxy
 host-suffix, redtube.com, proxy
-host-suffix, registry.google, proxy
 host-suffix, repo.new, proxy
 host-suffix, resilio.com, proxy
 host-suffix, reuters.com, proxy
@@ -1600,6 +1603,7 @@ host, cdp.cloud.unity3d.com, proxy
 host, clubhouse.pubnubapi.com, proxy
 host, copilot.microsoft.com, proxy
 host, e13252.dscg.akamaiedge.net, proxy
+host, github-api.arkoselabs.com, proxy
 host, h-netflix.online-metrix.net, proxy
 host, lab.skk.moe, proxy
 host, location.microsoft.com, proxy
