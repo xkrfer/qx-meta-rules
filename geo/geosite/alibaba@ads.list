@@ -25,6 +25,8 @@ host-suffix, v6-adashx.ut.taobao.com, proxy
 host-suffix, adashx.ut.ele.me, proxy
 host-suffix, h-adashx.ut.ele.me, proxy
 host-suffix, v6-adashx.ut.ele.me, proxy
+host-suffix, ads.uc.cn, proxy
+host-suffix, adslot.uc.cn, proxy
 host-suffix, aaid.umeng.com, proxy
 host-suffix, alog.umeng.com, proxy
 host-suffix, alog.umengcloud.com, proxy
@@ -47,6 +49,7 @@ host-suffix, ulogs.umengcloud.com, proxy
 host-suffix, utoken.umeng.com, proxy
 host-suffix, w.cnzz.com, proxy
 host-suffix, z.gds.cnzz.com, proxy
+host-suffix, v6-adashx.ut.cainiao.com, proxy
 host-suffix, ad.api.3g.youku.com, proxy
 host-suffix, ad.api.mobile.youku.com, proxy
 host-suffix, ad.mobile.youku.com, proxy
@@ -82,6 +85,3 @@ host-suffix, dualstack-logs.amap.com, proxy
 host-suffix, logs.amap.com, proxy
 host-suffix, optimus-ads.amap.com, proxy
 host-suffix, v6-adashx.ut.amap.com, proxy
-host-suffix, ads.uc.cn, proxy
-host-suffix, adslot.uc.cn, proxy
-host-suffix, v6-adashx.ut.cainiao.com, proxy
