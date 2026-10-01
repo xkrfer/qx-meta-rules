@@ -1,5 +1,5 @@
-host-suffix, slickvpn.com, proxy
-host-suffix, 6park.com, proxy
+host-suffix, sleazyfork.org, proxy
+host-suffix, kuaichedao.co, proxy
 host-suffix, zzcloud.me, proxy
 host-suffix, 1000giri.net, proxy
 host-suffix, 10beasts.net, proxy
@@ -53,7 +53,7 @@ host-suffix, 666pool.cn, proxy
 host-suffix, 69shuba.cx, proxy
 host-suffix, 6do.news, proxy
 host-suffix, 6do.world, proxy
-host-suffix, kepard.com, proxy
+host-suffix, 6park.com, proxy
 host-suffix, 6parkbbs.com, proxy
 host-suffix, 6parker.com, proxy
 host-suffix, 6parknews.com, proxy
@@ -291,7 +291,7 @@ host-suffix, astrill.com, proxy
 host-suffix, zeronet.io, proxy
 host-suffix, atchinese.com, proxy
 host-suffix, athenaeizou.com, proxy
-host-suffix, atlanta168.com, proxy
+host-suffix, kepard.com, proxy
 host-suffix, atnext.com, proxy
 host-suffix, zerohedge.com, proxy
 host-suffix, audacy.com, proxy
@@ -1395,6 +1395,7 @@ host-suffix, futuremessage.org, proxy
 host-suffix, futustatic.com, proxy
 host-suffix, fututrade.com, proxy
 host-suffix, fututrustee.com, proxy
+host-suffix, fuyin116.com, proxy
 host-suffix, fw.cm, proxy
 host-suffix, fxcm-chinese.com, proxy
 host-suffix, fxnetworks.com, proxy
@@ -1761,7 +1762,7 @@ host-suffix, googlesource.com, proxy
 host-suffix, googleusercontent.com, proxy
 host-suffix, googlevideo.com, proxy
 host-suffix, googleweblight.com, proxy
-host-suffix, kenengba.com, proxy
+host-suffix, googlezip.net, proxy
 host-suffix, gopetition.com, proxy
 host-suffix, goreforum.com, proxy
 host-suffix, goregrish.com, proxy
@@ -1884,7 +1885,7 @@ host-suffix, hkcoc.com, proxy
 host-suffix, waymo.com, proxy
 host-suffix, hkdc.us, proxy
 host-suffix, hkej.com, proxy
-host-suffix, hket.com, proxy
+host-suffix, kendatire.com, proxy
 host-suffix, hkfaa.com, proxy
 host-suffix, hkgalden.com, proxy
 host-suffix, hkgolden.com, proxy
@@ -2191,10 +2192,10 @@ host-suffix, kawaiikawaii.jp, proxy
 host-suffix, kawase.com, proxy
 host-suffix, vpnvip.com, proxy
 host-suffix, kebrum.com, proxy
-host-suffix, kendatire.com, proxy
-host-suffix, googlezip.net, proxy
+host-suffix, hket.com, proxy
 host-suffix, 0rz.tw, proxy
-host-suffix, lvv2.com, proxy
+host-suffix, atlanta168.com, proxy
+host-suffix, kex.com, proxy
 host-suffix, keycdn.com, proxy
 host-suffix, kfor.com, proxy
 host-suffix, khatrimaza.org, proxy
@@ -2227,7 +2228,7 @@ host-suffix, kqes.net, proxy
 host-suffix, kraken.com, proxy
 host-suffix, kspcoin.com, proxy
 host-suffix, ktzhk.com, proxy
-host-suffix, kuaichedao.co, proxy
+host-suffix, kenengba.com, proxy
 host-suffix, kucoin.com, proxy
 host-suffix, kukuku.uk, proxy
 host-suffix, kurtmunger.com, proxy
@@ -2357,7 +2358,7 @@ host-suffix, ludepress.com, proxy
 host-suffix, lupm.org, proxy
 host-suffix, lushstories.com, proxy
 host-suffix, lvhai.org, proxy
-host-suffix, kex.com, proxy
+host-suffix, lvv2.com, proxy
 host-suffix, lyfhk.net, proxy
 host-suffix, lzjscript.com, proxy
 host-suffix, lzmtnews.org, proxy
@@ -2549,6 +2550,7 @@ host-suffix, mthruf.com, proxy
 host-suffix, mubi.com, proxy
 host-suffix, mullvad.net, proxy
 host-suffix, multiply.com, proxy
+host-suffix, muse.ai, proxy
 host-suffix, voaindonesia.com, proxy
 host-suffix, musixmatch.com, proxy
 host-suffix, muzi.com, proxy
@@ -3287,9 +3289,9 @@ host-suffix, skyvegas.com, proxy
 host-suffix, skyxvpn.com, proxy
 host-suffix, slacker.com, proxy
 host-suffix, slashine.onl, proxy
-host-suffix, sleazyfork.org, proxy
-host-suffix, slheng.com, proxy
 host-suffix, 000webhost.com, proxy
+host-suffix, slheng.com, proxy
+host-suffix, slickvpn.com, proxy
 host-suffix, slides.com, proxy
 host-suffix, slides.new, proxy
 host-suffix, slideshare.net, proxy
