@@ -37,4 +37,3 @@ IP-CIDR,199.245.235.0/24,no-resolve
 IP-CIDR6,2607:f2b1:70::/47,no-resolve
 IP-CIDR6,2620:145:400::/48,no-resolve
 IP-CIDR6,2620:145:800::/38,no-resolve
-IP-CIDR6,2a01:6f40:f100::/48,no-resolve

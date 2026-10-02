@@ -67,7 +67,7 @@ IP-CIDR6,2404:f780:b::/48,no-resolve
 IP-CIDR6,2404:f780:301::/48,no-resolve
 IP-CIDR6,2404:f780:302::/47,no-resolve
 IP-CIDR6,2404:f780:304::/47,no-resolve
-IP-CIDR6,2404:f780:aaaa::/47,no-resolve
+IP-CIDR6,2404:f780:aaaa::/48,no-resolve
 IP-CIDR6,2404:f780:aaac::/47,no-resolve
 IP-CIDR6,2404:f780:fffe::/48,no-resolve
 IP-CIDR6,2406:3a00:10::/47,no-resolve

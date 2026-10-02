@@ -20,15 +20,7 @@ IP-CIDR,186.201.0.0/16,no-resolve
 IP-CIDR,186.238.0.0/15,no-resolve
 IP-CIDR,187.8.0.0/15,no-resolve
 IP-CIDR,187.50.0.0/15,no-resolve
-IP-CIDR,187.92.0.0/17,no-resolve
-IP-CIDR,187.92.128.0/18,no-resolve
-IP-CIDR,187.92.192.0/20,no-resolve
-IP-CIDR,187.92.208.0/24,no-resolve
-IP-CIDR,187.92.210.0/23,no-resolve
-IP-CIDR,187.92.212.0/22,no-resolve
-IP-CIDR,187.92.216.0/21,no-resolve
-IP-CIDR,187.92.224.0/19,no-resolve
-IP-CIDR,187.93.0.0/16,no-resolve
+IP-CIDR,187.92.0.0/15,no-resolve
 IP-CIDR,187.113.160.0/20,no-resolve
 IP-CIDR,187.114.144.0/21,no-resolve
 IP-CIDR,189.20.0.0/16,no-resolve

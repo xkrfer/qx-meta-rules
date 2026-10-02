@@ -3,4 +3,9 @@ IP-CIDR,38.127.151.0/24,no-resolve
 IP-CIDR,38.196.217.0/24,no-resolve
 IP-CIDR,38.247.46.0/23,no-resolve
 IP-CIDR6,2803:f550::/34,no-resolve
-IP-CIDR6,2803:f550:a000::/35,no-resolve
+IP-CIDR6,2803:f550:5000::/36,no-resolve
+IP-CIDR6,2803:f550:6000::/35,no-resolve
+IP-CIDR6,2803:f550:8000::/35,no-resolve
+IP-CIDR6,2803:f550:a000::/47,no-resolve
+IP-CIDR6,2803:f550:b000::/47,no-resolve
+IP-CIDR6,2803:f550:c000::/34,no-resolve

@@ -4,3 +4,5 @@ IP-CIDR6,2a14:dd80:1003::/48,no-resolve
 IP-CIDR6,2a14:dd80:1004::/48,no-resolve
 IP-CIDR6,2a14:dd80:1020::/48,no-resolve
 IP-CIDR6,2a14:dd80:1022::/47,no-resolve
+IP-CIDR6,2a14:dd80:1102::/48,no-resolve
+IP-CIDR6,2a14:dd80:1105::/48,no-resolve

@@ -1,5 +1,4 @@
 IP-CIDR,103.147.52.0/24,no-resolve
-IP-CIDR,103.213.231.0/24,no-resolve
 IP-CIDR6,2405:aac0:6::/47,no-resolve
 IP-CIDR6,2405:aac0:8::/48,no-resolve
 IP-CIDR6,2405:aac0:10::/48,no-resolve

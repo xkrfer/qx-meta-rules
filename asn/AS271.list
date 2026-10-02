@@ -13,7 +13,8 @@ IP-CIDR,142.231.2.0/24,no-resolve
 IP-CIDR,142.231.4.0/23,no-resolve
 IP-CIDR,142.231.7.0/24,no-resolve
 IP-CIDR,142.231.8.0/21,no-resolve
-IP-CIDR,142.231.16.0/22,no-resolve
+IP-CIDR,142.231.16.0/23,no-resolve
+IP-CIDR,142.231.19.0/24,no-resolve
 IP-CIDR,142.231.21.0/24,no-resolve
 IP-CIDR,142.231.22.0/23,no-resolve
 IP-CIDR,142.231.32.0/19,no-resolve

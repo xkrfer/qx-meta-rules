@@ -36,10 +36,7 @@ IP-CIDR6,2a02:6680:140c::/48,no-resolve
 IP-CIDR6,2a02:6680:14c0::/47,no-resolve
 IP-CIDR6,2a02:6680:2100::/43,no-resolve
 IP-CIDR6,2a02:6680:2162::/48,no-resolve
-IP-CIDR6,2a02:6680:2400::/48,no-resolve
-IP-CIDR6,2a02:6680:2402::/48,no-resolve
-IP-CIDR6,2a02:6680:2405::/48,no-resolve
-IP-CIDR6,2a02:6680:2406::/47,no-resolve
+IP-CIDR6,2a02:6680:2400::/45,no-resolve
 IP-CIDR6,2a02:6680:2408::/48,no-resolve
 IP-CIDR6,2a02:6680:2410::/45,no-resolve
 IP-CIDR6,2a02:6680:2420::/45,no-resolve

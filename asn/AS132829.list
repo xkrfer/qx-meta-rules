@@ -13,7 +13,6 @@ IP-CIDR,119.42.51.0/24,no-resolve
 IP-CIDR6,2400:1520::/45,no-resolve
 IP-CIDR6,2400:1520:8::/47,no-resolve
 IP-CIDR6,2400:a5e0::/32,no-resolve
-IP-CIDR6,2400:bd60::/32,no-resolve
 IP-CIDR6,2401:8e0::/32,no-resolve
 IP-CIDR6,2406:f900::/45,no-resolve
 IP-CIDR6,2406:f900:8::/47,no-resolve

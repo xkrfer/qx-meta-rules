@@ -30,4 +30,4 @@ IP-CIDR6,2001:fe8:8121::/48,no-resolve
 IP-CIDR6,2001:fe8:8130::/47,no-resolve
 IP-CIDR6,2001:fe8:9000::/48,no-resolve
 IP-CIDR6,2001:fe8:c001::/48,no-resolve
-IP-CIDR6,2001:fe8:c002::/48,no-resolve
+IP-CIDR6,2001:fe8:c002::/47,no-resolve

@@ -4,3 +4,4 @@ IP-CIDR,139.178.198.0/24,no-resolve
 IP-CIDR6,2803:3b80:c020::/48,no-resolve
 IP-CIDR6,2a01:b746:104::/47,no-resolve
 IP-CIDR6,2a01:b746:106::/48,no-resolve
+IP-CIDR6,2a0f:3400:500::/48,no-resolve

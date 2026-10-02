@@ -1,3 +1,12 @@
 IP-CIDR,12.165.86.0/23,no-resolve
-IP-CIDR,12.205.248.0/22,no-resolve
+IP-CIDR,12.205.248.0/23,no-resolve
+IP-CIDR,12.205.250.0/24,no-resolve
+IP-CIDR,12.205.251.0/25,no-resolve
+IP-CIDR,12.205.251.128/26,no-resolve
+IP-CIDR,12.205.251.192/27,no-resolve
+IP-CIDR,12.205.251.224/28,no-resolve
+IP-CIDR,12.205.251.241/32,no-resolve
+IP-CIDR,12.205.251.242/31,no-resolve
+IP-CIDR,12.205.251.244/30,no-resolve
+IP-CIDR,12.205.251.248/29,no-resolve
 IP-CIDR,192.81.32.0/20,no-resolve

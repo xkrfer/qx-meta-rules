@@ -5,7 +5,6 @@ IP-CIDR6,2a05:dfc3:fe05::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe06::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe11::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe13::/48,no-resolve
-IP-CIDR6,2a05:dfc3:fe15::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe17::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe22::/48,no-resolve
 IP-CIDR6,2a05:dfc3:fe30::/47,no-resolve

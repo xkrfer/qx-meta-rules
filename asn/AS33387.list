@@ -26,5 +26,4 @@ IP-CIDR6,2602:f992:e0::/44,no-resolve
 IP-CIDR6,2602:f992:f3::/48,no-resolve
 IP-CIDR6,2604:4300::/32,no-resolve
 IP-CIDR6,2606:6680:27::/48,no-resolve
-IP-CIDR6,2606:6680:28::/48,no-resolve
 IP-CIDR6,2a13:9500:32::/48,no-resolve

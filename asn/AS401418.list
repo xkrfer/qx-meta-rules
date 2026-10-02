@@ -8,3 +8,4 @@ IP-CIDR,207.244.208.0/24,no-resolve
 IP-CIDR6,2602:f7d0::/47,no-resolve
 IP-CIDR6,2602:f7d0:2::/48,no-resolve
 IP-CIDR6,2602:f7d0:4::/47,no-resolve
+IP-CIDR6,2602:f7d0:a::/48,no-resolve

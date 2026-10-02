@@ -100,4 +100,3 @@ IP-CIDR6,2a13:7c00:3::/48,no-resolve
 IP-CIDR6,2a13:7c00:4::/46,no-resolve
 IP-CIDR6,2a13:7c00:8::/48,no-resolve
 IP-CIDR6,2a13:7c00:10::/47,no-resolve
-IP-CIDR6,2a13:7c00:12::/48,no-resolve

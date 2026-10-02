@@ -1,3 +1,2 @@
 IP-CIDR,45.185.96.0/22,no-resolve
-IP-CIDR6,2804:639c::/33,no-resolve
-IP-CIDR6,2804:639c:8000::/34,no-resolve
+IP-CIDR6,2804:639c::/32,no-resolve

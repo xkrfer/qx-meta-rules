@@ -1,5 +1,8 @@
 IP-CIDR,5.104.80.0/21,no-resolve
 IP-CIDR,13.140.56.0/22,no-resolve
+IP-CIDR,13.140.64.0/21,no-resolve
+IP-CIDR,13.140.72.0/22,no-resolve
+IP-CIDR,13.140.76.0/23,no-resolve
 IP-CIDR,45.80.29.0/24,no-resolve
 IP-CIDR,46.250.224.0/19,no-resolve
 IP-CIDR,62.72.40.0/21,no-resolve

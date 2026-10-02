@@ -63,14 +63,7 @@ IP-CIDR,38.162.58.216/30,no-resolve
 IP-CIDR,38.162.58.220/31,no-resolve
 IP-CIDR,38.162.58.223/32,no-resolve
 IP-CIDR,38.162.58.224/27,no-resolve
-IP-CIDR,38.162.59.0/28,no-resolve
-IP-CIDR,38.162.59.16/30,no-resolve
-IP-CIDR,38.162.59.20/31,no-resolve
-IP-CIDR,38.162.59.22/32,no-resolve
-IP-CIDR,38.162.59.24/29,no-resolve
-IP-CIDR,38.162.59.32/27,no-resolve
-IP-CIDR,38.162.59.64/26,no-resolve
-IP-CIDR,38.162.59.128/25,no-resolve
+IP-CIDR,38.162.59.0/24,no-resolve
 IP-CIDR,38.162.60.0/22,no-resolve
 IP-CIDR,66.244.64.0/23,no-resolve
 IP-CIDR,66.244.66.0/24,no-resolve

@@ -168,8 +168,7 @@ IP-CIDR,200.94.165.0/24,no-resolve
 IP-CIDR,200.94.166.0/23,no-resolve
 IP-CIDR,200.94.168.0/21,no-resolve
 IP-CIDR,200.95.144.0/20,no-resolve
-IP-CIDR,201.139.72.0/23,no-resolve
-IP-CIDR,201.139.74.0/24,no-resolve
+IP-CIDR,201.139.72.0/22,no-resolve
 IP-CIDR,201.139.128.0/19,no-resolve
 IP-CIDR,201.140.64.0/20,no-resolve
 IP-CIDR,201.140.192.0/20,no-resolve
@@ -230,3 +229,6 @@ IP-CIDR6,2806:250:1604::/48,no-resolve
 IP-CIDR6,2806:250:160f::/48,no-resolve
 IP-CIDR6,2806:250:1610::/47,no-resolve
 IP-CIDR6,2806:250:161e::/48,no-resolve
+IP-CIDR6,2806:250:1a00::/47,no-resolve
+IP-CIDR6,2806:250:1a02::/48,no-resolve
+IP-CIDR6,2806:250:1a0f::/48,no-resolve

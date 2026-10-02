@@ -1,3 +1,14 @@
 IP-CIDR,23.184.248.0/24,no-resolve
 IP-CIDR,66.208.84.0/22,no-resolve
-IP-CIDR6,2602:f86e::/38,no-resolve
+IP-CIDR6,2602:f86e::/37,no-resolve
+IP-CIDR6,2602:f86e:800::/38,no-resolve
+IP-CIDR6,2602:f86e:c01::/48,no-resolve
+IP-CIDR6,2602:f86e:c02::/47,no-resolve
+IP-CIDR6,2602:f86e:c04::/46,no-resolve
+IP-CIDR6,2602:f86e:c08::/45,no-resolve
+IP-CIDR6,2602:f86e:c10::/44,no-resolve
+IP-CIDR6,2602:f86e:c20::/43,no-resolve
+IP-CIDR6,2602:f86e:c40::/42,no-resolve
+IP-CIDR6,2602:f86e:c80::/41,no-resolve
+IP-CIDR6,2602:f86e:d00::/40,no-resolve
+IP-CIDR6,2602:f86e:e00::/39,no-resolve

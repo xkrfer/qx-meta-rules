@@ -3,7 +3,7 @@ IP-CIDR,208.88.66.0/24,no-resolve
 IP-CIDR6,2a06:40::/32,no-resolve
 IP-CIDR6,2a06:41:30::/44,no-resolve
 IP-CIDR6,2a06:41:40::/43,no-resolve
-IP-CIDR6,2a06:41:70::/44,no-resolve
+IP-CIDR6,2a06:41:60::/44,no-resolve
 IP-CIDR6,2a06:41:c0::/42,no-resolve
 IP-CIDR6,2a06:41:100::/40,no-resolve
 IP-CIDR6,2a06:41:200::/39,no-resolve

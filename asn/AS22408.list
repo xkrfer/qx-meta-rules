@@ -9,7 +9,16 @@ IP-CIDR,148.66.168.96/27,no-resolve
 IP-CIDR,148.66.168.128/25,no-resolve
 IP-CIDR,148.66.169.0/24,no-resolve
 IP-CIDR,148.66.170.0/23,no-resolve
-IP-CIDR,148.66.172.0/22,no-resolve
+IP-CIDR,148.66.172.0/24,no-resolve
+IP-CIDR,148.66.173.0/26,no-resolve
+IP-CIDR,148.66.173.64/27,no-resolve
+IP-CIDR,148.66.173.96/28,no-resolve
+IP-CIDR,148.66.173.112/30,no-resolve
+IP-CIDR,148.66.173.117/32,no-resolve
+IP-CIDR,148.66.173.118/31,no-resolve
+IP-CIDR,148.66.173.120/29,no-resolve
+IP-CIDR,148.66.173.128/25,no-resolve
+IP-CIDR,148.66.174.0/23,no-resolve
 IP-CIDR,148.66.176.0/20,no-resolve
 IP-CIDR,152.38.96.0/19,no-resolve
 IP-CIDR,199.255.64.0/22,no-resolve

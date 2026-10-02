@@ -35,7 +35,13 @@ IP-CIDR6,2400:c700:210::/44,no-resolve
 IP-CIDR6,2400:c700:220::/43,no-resolve
 IP-CIDR6,2400:c700:240::/42,no-resolve
 IP-CIDR6,2400:c700:280::/41,no-resolve
-IP-CIDR6,2400:c700:300::/41,no-resolve
+IP-CIDR6,2400:c700:300::/48,no-resolve
+IP-CIDR6,2400:c700:302::/47,no-resolve
+IP-CIDR6,2400:c700:304::/46,no-resolve
+IP-CIDR6,2400:c700:308::/45,no-resolve
+IP-CIDR6,2400:c700:310::/44,no-resolve
+IP-CIDR6,2400:c700:320::/43,no-resolve
+IP-CIDR6,2400:c700:340::/42,no-resolve
 IP-CIDR6,2400:c700:381::/48,no-resolve
 IP-CIDR6,2400:c700:382::/47,no-resolve
 IP-CIDR6,2400:c700:384::/46,no-resolve
