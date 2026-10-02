@@ -44,7 +44,7 @@ ip-cidr, 119.31.8.0/21, proxy, no-resolve
 ip-cidr, 119.31.16.0/20, proxy, no-resolve
 ip-cidr, 119.31.32.0/19, proxy, no-resolve
 ip-cidr, 119.31.64.0/24, proxy, no-resolve
-ip-cidr, 119.31.66.0/24, proxy, no-resolve
+ip-cidr, 119.31.66.0/23, proxy, no-resolve
 ip-cidr, 119.31.68.0/22, proxy, no-resolve
 ip-cidr, 119.31.72.0/21, proxy, no-resolve
 ip-cidr, 119.31.80.0/20, proxy, no-resolve
@@ -252,7 +252,12 @@ ip6-cidr, 2405:9800:b480::/41, proxy, no-resolve
 ip6-cidr, 2405:9800:b600::/42, proxy, no-resolve
 ip6-cidr, 2405:9800:b680::/41, proxy, no-resolve
 ip6-cidr, 2405:9800:b700::/40, proxy, no-resolve
-ip6-cidr, 2405:9800:b800::/42, proxy, no-resolve
+ip6-cidr, 2405:9800:b800::/44, proxy, no-resolve
+ip6-cidr, 2405:9800:b811::/48, proxy, no-resolve
+ip6-cidr, 2405:9800:b812::/47, proxy, no-resolve
+ip6-cidr, 2405:9800:b814::/46, proxy, no-resolve
+ip6-cidr, 2405:9800:b818::/45, proxy, no-resolve
+ip6-cidr, 2405:9800:b820::/43, proxy, no-resolve
 ip6-cidr, 2405:9800:b840::/43, proxy, no-resolve
 ip6-cidr, 2405:9800:b880::/41, proxy, no-resolve
 ip6-cidr, 2405:9800:ba81::/48, proxy, no-resolve

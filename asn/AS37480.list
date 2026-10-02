@@ -6,3 +6,4 @@ ip-cidr, 197.149.120.0/22, proxy, no-resolve
 ip-cidr, 197.149.124.0/24, proxy, no-resolve
 ip-cidr, 197.149.126.0/23, proxy, no-resolve
 ip-cidr, 197.255.0.0/18, proxy, no-resolve
+ip6-cidr, 2c0f:fb98::/32, proxy, no-resolve

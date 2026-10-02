@@ -93,7 +93,7 @@ ip6-cidr, 2401:3bc0:2800::/37, proxy, no-resolve
 ip6-cidr, 2401:3bc0:3000::/36, proxy, no-resolve
 ip6-cidr, 2401:3bc0:4000::/34, proxy, no-resolve
 ip6-cidr, 2401:3bc0:8000::/33, proxy, no-resolve
-ip6-cidr, 2401:3cc0::/48, proxy, no-resolve
+ip6-cidr, 2401:3cc0::/47, proxy, no-resolve
 ip6-cidr, 2401:3cc0:2::/48, proxy, no-resolve
 ip6-cidr, 2401:3cc0:4::/46, proxy, no-resolve
 ip6-cidr, 2401:3cc0:a::/47, proxy, no-resolve

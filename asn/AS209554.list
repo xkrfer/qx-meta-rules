@@ -17,6 +17,7 @@ ip6-cidr, 2405:84c0:8001::/48, proxy, no-resolve
 ip6-cidr, 2405:84c0:8003::/48, proxy, no-resolve
 ip6-cidr, 2405:84c0:8004::/47, proxy, no-resolve
 ip6-cidr, 2405:84c0:8007::/48, proxy, no-resolve
+ip6-cidr, 2405:84c0:8008::/47, proxy, no-resolve
 ip6-cidr, 2405:84c0:8011::/48, proxy, no-resolve
 ip6-cidr, 2405:84c0:8012::/47, proxy, no-resolve
 ip6-cidr, 2405:84c0:8014::/46, proxy, no-resolve

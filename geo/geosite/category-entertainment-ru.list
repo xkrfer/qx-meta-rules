@@ -1,5 +1,5 @@
-host-suffix, cdnvideo.ru, proxy
-host-suffix, cdnvideohub.com, proxy
+host-suffix, viju.ru, proxy
+host-suffix, kinopoisk.ru, proxy
 host-suffix, kinescopecdn.net, proxy
 host-suffix, trbcdn.net, proxy
 host-suffix, kinorium.com, proxy
@@ -12,9 +12,11 @@ host-suffix, premier.one, proxy
 host-suffix, smotreshka.tv, proxy
 host-suffix, start.ru, proxy
 host-suffix, tvigle.ru, proxy
-host-suffix, viju.ru, proxy
-host-suffix, promodj.com, proxy
+host-suffix, cdnvideohub.com, proxy
+host-suffix, cdnvideo.ru, proxy
 host-suffix, okkoapi.tv, proxy
+host-suffix, rutube.sport, proxy
+host-suffix, promodj.com, proxy
 host-suffix, playfamily.ru, proxy
 host-suffix, okko.sport, proxy
 host-suffix, okko.tv, proxy
@@ -26,6 +28,4 @@ host-suffix, wink.ru, proxy
 host-suffix, rutube.ru, proxy
 host-suffix, rutubelist.ru, proxy
 host-suffix, rtbcdn.ru, proxy
-host-suffix, rutube.sport, proxy
-host-suffix, kinopoisk.ru, proxy
 host-suffix, kinopoisk-ru.clstorage.net, proxy

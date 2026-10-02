@@ -1,3 +1,5 @@
-ip6-cidr, 2a0e:4001:500::/45, proxy, no-resolve
+ip6-cidr, 2a0e:4001:501::/48, proxy, no-resolve
+ip6-cidr, 2a0e:4001:502::/47, proxy, no-resolve
+ip6-cidr, 2a0e:4001:504::/46, proxy, no-resolve
 ip6-cidr, 2a0e:4001:800::/47, proxy, no-resolve
 ip6-cidr, 2a0e:4001:802::/48, proxy, no-resolve

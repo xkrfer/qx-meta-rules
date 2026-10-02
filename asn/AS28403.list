@@ -71,6 +71,9 @@ ip6-cidr, 2806:370:4750::/44, proxy, no-resolve
 ip6-cidr, 2806:370:4760::/43, proxy, no-resolve
 ip6-cidr, 2806:370:4780::/42, proxy, no-resolve
 ip6-cidr, 2806:370:47c0::/44, proxy, no-resolve
+ip6-cidr, 2806:370:4900::/42, proxy, no-resolve
+ip6-cidr, 2806:370:4940::/43, proxy, no-resolve
+ip6-cidr, 2806:370:4960::/44, proxy, no-resolve
 ip6-cidr, 2806:370:5310::/44, proxy, no-resolve
 ip6-cidr, 2806:370:5350::/44, proxy, no-resolve
 ip6-cidr, 2806:370:5360::/44, proxy, no-resolve

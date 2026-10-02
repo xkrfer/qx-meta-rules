@@ -774,13 +774,7 @@ ip-cidr, 167.248.96.38/31, proxy, no-resolve
 ip-cidr, 167.248.96.40/29, proxy, no-resolve
 ip-cidr, 167.248.96.48/28, proxy, no-resolve
 ip-cidr, 167.248.96.64/26, proxy, no-resolve
-ip-cidr, 167.248.96.128/27, proxy, no-resolve
-ip-cidr, 167.248.96.160/29, proxy, no-resolve
-ip-cidr, 167.248.96.168/30, proxy, no-resolve
-ip-cidr, 167.248.96.172/32, proxy, no-resolve
-ip-cidr, 167.248.96.174/31, proxy, no-resolve
-ip-cidr, 167.248.96.176/28, proxy, no-resolve
-ip-cidr, 167.248.96.192/26, proxy, no-resolve
+ip-cidr, 167.248.96.128/25, proxy, no-resolve
 ip-cidr, 167.248.97.0/24, proxy, no-resolve
 ip-cidr, 167.248.98.0/25, proxy, no-resolve
 ip-cidr, 167.248.98.128/27, proxy, no-resolve

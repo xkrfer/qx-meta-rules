@@ -3,7 +3,8 @@ ip-cidr, 78.134.128.0/19, proxy, no-resolve
 ip-cidr, 78.134.160.0/20, proxy, no-resolve
 ip-cidr, 78.134.176.0/24, proxy, no-resolve
 ip-cidr, 78.134.178.0/23, proxy, no-resolve
-ip-cidr, 78.134.180.0/22, proxy, no-resolve
+ip-cidr, 78.134.181.0/24, proxy, no-resolve
+ip-cidr, 78.134.182.0/23, proxy, no-resolve
 ip-cidr, 78.134.184.0/21, proxy, no-resolve
 ip-cidr, 78.134.192.0/18, proxy, no-resolve
 ip-cidr, 82.193.193.0/24, proxy, no-resolve

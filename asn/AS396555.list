@@ -1,3 +1,6 @@
+ip6-cidr, 2001:500:120::/48, proxy, no-resolve
+ip6-cidr, 2001:500:124::/48, proxy, no-resolve
+ip6-cidr, 2001:500:133::/48, proxy, no-resolve
 ip6-cidr, 2001:500:856e::/48, proxy, no-resolve
 ip6-cidr, 2001:502:1ca1::/48, proxy, no-resolve
 ip6-cidr, 2001:503:83eb::/48, proxy, no-resolve

@@ -1,5 +1,3 @@
-ip-cidr, 62.122.64.0/22, proxy, no-resolve
-ip-cidr, 62.122.68.0/23, proxy, no-resolve
-ip-cidr, 62.122.70.0/24, proxy, no-resolve
+ip-cidr, 62.122.64.0/21, proxy, no-resolve
 ip-cidr, 91.192.152.0/22, proxy, no-resolve
 ip6-cidr, 2001:678:d38::/48, proxy, no-resolve

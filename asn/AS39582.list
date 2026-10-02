@@ -10,3 +10,4 @@ ip-cidr, 37.77.24.0/24, proxy, no-resolve
 ip-cidr, 78.135.80.0/24, proxy, no-resolve
 ip-cidr, 185.17.136.0/24, proxy, no-resolve
 ip-cidr, 185.231.109.0/24, proxy, no-resolve
+ip6-cidr, 2a02:4300::/29, proxy, no-resolve

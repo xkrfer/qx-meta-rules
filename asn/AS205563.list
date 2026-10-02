@@ -7,7 +7,7 @@ ip6-cidr, 2001:3786:1600::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1650::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1877::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1997::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:2000::/47, proxy, no-resolve
+ip6-cidr, 2001:3786:2000::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:2003::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:2004::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:2007::/48, proxy, no-resolve
@@ -40,7 +40,7 @@ ip6-cidr, 2001:3786:4600::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4833::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4848::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4949::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:5000::/47, proxy, no-resolve
+ip6-cidr, 2001:3786:5000::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:5003::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:5004::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:5007::/48, proxy, no-resolve

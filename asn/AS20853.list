@@ -41,6 +41,7 @@ ip-cidr, 185.198.37.0/24, proxy, no-resolve
 ip-cidr, 185.226.206.0/24, proxy, no-resolve
 ip-cidr, 193.104.99.0/24, proxy, no-resolve
 ip-cidr, 194.29.67.0/24, proxy, no-resolve
+ip-cidr, 195.210.8.0/24, proxy, no-resolve
 ip-cidr, 204.93.147.0/24, proxy, no-resolve
 ip-cidr, 204.217.163.0/24, proxy, no-resolve
 ip-cidr, 205.234.154.0/24, proxy, no-resolve

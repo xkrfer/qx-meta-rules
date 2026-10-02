@@ -86,7 +86,6 @@ ip6-cidr, 2801:16e:2a::/48, proxy, no-resolve
 ip6-cidr, 2801:16e:2c::/48, proxy, no-resolve
 ip6-cidr, 2801:179:1::/48, proxy, no-resolve
 ip6-cidr, 2801:185::/48, proxy, no-resolve
-ip6-cidr, 2801:185:4::/48, proxy, no-resolve
 ip6-cidr, 2801:18a::/44, proxy, no-resolve
 ip6-cidr, 2801:196::/48, proxy, no-resolve
 ip6-cidr, 2801:196:2::/48, proxy, no-resolve

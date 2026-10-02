@@ -324,7 +324,7 @@ ip-cidr, 197.90.248.0/22, proxy, no-resolve
 ip-cidr, 197.91.0.0/20, proxy, no-resolve
 ip-cidr, 197.91.96.0/19, proxy, no-resolve
 ip-cidr, 197.91.192.0/20, proxy, no-resolve
-ip-cidr, 197.91.208.0/21, proxy, no-resolve
+ip-cidr, 197.91.212.0/22, proxy, no-resolve
 ip-cidr, 197.91.224.0/20, proxy, no-resolve
 ip-cidr, 197.92.64.0/18, proxy, no-resolve
 ip-cidr, 197.92.128.0/20, proxy, no-resolve

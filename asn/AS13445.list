@@ -64,6 +64,7 @@ ip6-cidr, 2402:2500:2100::/44, proxy, no-resolve
 ip6-cidr, 2402:2500:2200::/44, proxy, no-resolve
 ip6-cidr, 2402:2500:2400::/44, proxy, no-resolve
 ip6-cidr, 2402:2500:2500::/44, proxy, no-resolve
+ip6-cidr, 2402:2500:5010::/44, proxy, no-resolve
 ip6-cidr, 2402:2500:5400::/44, proxy, no-resolve
 ip6-cidr, 2607:fcf0::/36, proxy, no-resolve
 ip6-cidr, 2607:fcf0:1000::/41, proxy, no-resolve
@@ -127,5 +128,7 @@ ip6-cidr, 2a00:a640:1300::/44, proxy, no-resolve
 ip6-cidr, 2a00:a640:2100::/44, proxy, no-resolve
 ip6-cidr, 2a00:a640:2200::/44, proxy, no-resolve
 ip6-cidr, 2a00:a640:2300::/44, proxy, no-resolve
+ip6-cidr, 2a00:a640:5100::/44, proxy, no-resolve
+ip6-cidr, 2a00:a640:5200::/44, proxy, no-resolve
 ip6-cidr, 2a00:a640:5300::/44, proxy, no-resolve
 ip6-cidr, 2a05:4200:7::/48, proxy, no-resolve

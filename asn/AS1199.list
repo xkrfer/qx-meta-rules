@@ -1,1 +1,4 @@
+ip-cidr, 145.102.136.0/22, proxy, no-resolve
 ip-cidr, 145.111.0.0/16, proxy, no-resolve
+ip-cidr, 145.152.0.0/13, proxy, no-resolve
+ip6-cidr, 2001:610:5ea::/48, proxy, no-resolve

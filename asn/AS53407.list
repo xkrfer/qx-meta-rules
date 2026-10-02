@@ -50,11 +50,7 @@ ip-cidr, 158.120.38.16/32, proxy, no-resolve
 ip-cidr, 158.120.38.18/31, proxy, no-resolve
 ip-cidr, 158.120.38.20/30, proxy, no-resolve
 ip-cidr, 158.120.38.24/29, proxy, no-resolve
-ip-cidr, 158.120.38.32/28, proxy, no-resolve
-ip-cidr, 158.120.38.48/30, proxy, no-resolve
-ip-cidr, 158.120.38.52/32, proxy, no-resolve
-ip-cidr, 158.120.38.54/31, proxy, no-resolve
-ip-cidr, 158.120.38.56/29, proxy, no-resolve
+ip-cidr, 158.120.38.32/27, proxy, no-resolve
 ip-cidr, 158.120.38.64/26, proxy, no-resolve
 ip-cidr, 158.120.38.128/25, proxy, no-resolve
 ip-cidr, 158.120.39.0/25, proxy, no-resolve
