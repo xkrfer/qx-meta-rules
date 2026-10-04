@@ -1492,6 +1492,7 @@ host-suffix, whoer.net, proxy
 host-suffix, widevine.com, proxy
 host-suffix, wikibooks.org, proxy
 host-suffix, wikidata.org, proxy
+host-suffix, wikifunctions.org, proxy
 host-suffix, wikileaks-forum.com, proxy
 host-suffix, wikileaks.info, proxy
 host-suffix, wikileaks.org, proxy
@@ -1503,6 +1504,7 @@ host-suffix, wikipedia.com, proxy
 host-suffix, wikipedia.org, proxy
 host-suffix, wikiquote.org, proxy
 host-suffix, wikisource.org, proxy
+host-suffix, wikispecies.org, proxy
 host-suffix, wikiversity.org, proxy
 host-suffix, wikivoyage.org, proxy
 host-suffix, wikiwand.com, proxy
