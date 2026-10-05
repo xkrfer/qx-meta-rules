@@ -1,6 +1,6 @@
-host-suffix, ads.youtube.com, proxy
-host-suffix, ads-pixiv.net, proxy
 host-suffix, analytics.tiktok.com, proxy
+host-suffix, ads-pixiv.net, proxy
+host-suffix, ads.youtube.com, proxy
 host, disney.my.sentry.io, proxy
 host, adeventtracker.spotify.com, proxy
 host, adstudio-assets.scdn.co, proxy
