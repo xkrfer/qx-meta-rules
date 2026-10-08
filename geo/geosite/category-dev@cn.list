@@ -1,5 +1,6 @@
 host-suffix, jetbrains.com.cn, proxy
 host-suffix, cdn.jetbrains.com, proxy
+host, cdn.ampproject.org, proxy
 host, cdn.apple-mapkit.com, proxy
 host, cdn1.apple-mapkit.com, proxy
 host, cdn2.apple-mapkit.com, proxy
@@ -14,7 +15,6 @@ host-suffix, researchkit.cn, proxy
 host-suffix, researchkit.com.cn, proxy
 host-suffix, swiftui.cn, proxy
 host-suffix, swiftui.com.cn, proxy
-host, cdn.ampproject.org, proxy
 host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
