@@ -13,5 +13,6 @@ IP-CIDR,31.77.152.0/23,no-resolve
 IP-CIDR,31.77.154.0/24,no-resolve
 IP-CIDR,31.77.201.0/24,no-resolve
 IP-CIDR,94.183.179.0/24,no-resolve
+IP-CIDR,191.217.216.0/23,no-resolve
 IP-CIDR6,2a10:ab80:400::/46,no-resolve
 IP-CIDR6,2a10:ab80:404::/47,no-resolve

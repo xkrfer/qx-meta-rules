@@ -21,8 +21,7 @@ IP-CIDR6,2a14:7581:4828::/45,no-resolve
 IP-CIDR6,2a14:7581:4830::/44,no-resolve
 IP-CIDR6,2a14:7581:4840::/44,no-resolve
 IP-CIDR6,2a14:7581:4850::/45,no-resolve
-IP-CIDR6,2a14:7581:4858::/47,no-resolve
-IP-CIDR6,2a14:7581:485a::/48,no-resolve
+IP-CIDR6,2a14:7581:4858::/46,no-resolve
 IP-CIDR6,2a14:7581:485d::/48,no-resolve
 IP-CIDR6,2a14:7581:485e::/47,no-resolve
 IP-CIDR6,2a14:7581:4860::/43,no-resolve

@@ -69,7 +69,13 @@ IP-CIDR,50.93.248.192/26,no-resolve
 IP-CIDR,50.93.249.0/24,no-resolve
 IP-CIDR,50.93.250.0/23,no-resolve
 IP-CIDR,50.93.252.0/23,no-resolve
-IP-CIDR,50.93.254.0/25,no-resolve
+IP-CIDR,50.93.254.0/28,no-resolve
+IP-CIDR,50.93.254.16/29,no-resolve
+IP-CIDR,50.93.254.24/30,no-resolve
+IP-CIDR,50.93.254.28/31,no-resolve
+IP-CIDR,50.93.254.30/32,no-resolve
+IP-CIDR,50.93.254.32/27,no-resolve
+IP-CIDR,50.93.254.64/26,no-resolve
 IP-CIDR,50.93.254.128/27,no-resolve
 IP-CIDR,50.93.254.160/28,no-resolve
 IP-CIDR,50.93.254.176/30,no-resolve

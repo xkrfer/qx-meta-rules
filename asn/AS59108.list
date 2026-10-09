@@ -14,3 +14,4 @@ IP-CIDR,218.40.128.0/20,no-resolve
 IP-CIDR,219.99.224.0/19,no-resolve
 IP-CIDR,219.121.128.0/19,no-resolve
 IP-CIDR6,2405:7000:400::/40,no-resolve
+IP-CIDR6,2405:7000:6000::/36,no-resolve

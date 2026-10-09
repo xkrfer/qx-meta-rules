@@ -4,7 +4,7 @@ IP-CIDR6,2607:c040:2::/48,no-resolve
 IP-CIDR6,2607:c040:4::/46,no-resolve
 IP-CIDR6,2607:c040:8::/47,no-resolve
 IP-CIDR6,2607:c040:10::/48,no-resolve
-IP-CIDR6,2607:c040:12::/47,no-resolve
+IP-CIDR6,2607:c040:12::/48,no-resolve
 IP-CIDR6,2607:c040:14::/46,no-resolve
 IP-CIDR6,2607:c040:18::/47,no-resolve
 IP-CIDR6,2607:c040:20::/47,no-resolve

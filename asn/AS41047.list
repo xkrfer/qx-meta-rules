@@ -1,1 +1,5 @@
+IP-CIDR6,2a06:a005:1ca0::/43,no-resolve
+IP-CIDR6,2a06:a005:1cc0::/43,no-resolve
+IP-CIDR6,2a06:a005:1ce0::/44,no-resolve
 IP-CIDR6,2a0e:a6c0::/30,no-resolve
+IP-CIDR6,2a0e:a6c4::/32,no-resolve

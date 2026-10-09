@@ -7273,6 +7273,8 @@ IP-CIDR,182.247.116.0/22,no-resolve
 IP-CIDR,182.247.120.0/21,no-resolve
 IP-CIDR,182.247.128.0/18,no-resolve
 IP-CIDR,182.247.192.0/19,no-resolve
+IP-CIDR,182.247.248.0/23,no-resolve
+IP-CIDR,182.247.252.0/24,no-resolve
 IP-CIDR,183.0.0.0/16,no-resolve
 IP-CIDR,183.1.0.0/18,no-resolve
 IP-CIDR,183.2.0.0/18,no-resolve

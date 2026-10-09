@@ -20,6 +20,7 @@ IP-CIDR6,2a00:4bc0:2121::/48,no-resolve
 IP-CIDR6,2a00:4bc0:2129::/48,no-resolve
 IP-CIDR6,2a00:4bc0:212f::/48,no-resolve
 IP-CIDR6,2a00:4bc0:2138::/48,no-resolve
+IP-CIDR6,2a00:4bc0:213b::/48,no-resolve
 IP-CIDR6,2a00:4bc0:213e::/47,no-resolve
 IP-CIDR6,2a00:4bc0:2140::/48,no-resolve
 IP-CIDR6,2a00:4bc0:2148::/48,no-resolve

@@ -85,7 +85,6 @@ IP-CIDR6,2801:16e:28::/47,no-resolve
 IP-CIDR6,2801:16e:2a::/48,no-resolve
 IP-CIDR6,2801:16e:2c::/48,no-resolve
 IP-CIDR6,2801:179:1::/48,no-resolve
-IP-CIDR6,2801:185::/48,no-resolve
 IP-CIDR6,2801:18a::/44,no-resolve
 IP-CIDR6,2801:196::/48,no-resolve
 IP-CIDR6,2801:196:2::/48,no-resolve

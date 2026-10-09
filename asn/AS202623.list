@@ -16,7 +16,8 @@ IP-CIDR6,2a06:98c0:360e::/48,no-resolve
 IP-CIDR6,2a06:98c0:3612::/48,no-resolve
 IP-CIDR6,2a06:98c0:3616::/48,no-resolve
 IP-CIDR6,2a06:98c0:3626::/47,no-resolve
-IP-CIDR6,2a06:98c0:362d::/48,no-resolve
+IP-CIDR6,2a06:98c0:362b::/48,no-resolve
+IP-CIDR6,2a06:98c0:362c::/47,no-resolve
 IP-CIDR6,2a06:98c0:362f::/48,no-resolve
 IP-CIDR6,2a06:98c0:3630::/47,no-resolve
 IP-CIDR6,2a06:98c0:3632::/48,no-resolve

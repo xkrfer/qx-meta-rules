@@ -5,5 +5,4 @@ IP-CIDR6,2602:f688::/33,no-resolve
 IP-CIDR6,2602:f688:8000::/34,no-resolve
 IP-CIDR6,2602:f688:c000::/35,no-resolve
 IP-CIDR6,2602:f688:e000::/36,no-resolve
-IP-CIDR6,2602:f7d5::/32,no-resolve
 IP-CIDR6,2602:f87f::/32,no-resolve

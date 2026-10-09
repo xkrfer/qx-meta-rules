@@ -7,4 +7,5 @@ IP-CIDR6,2803:de80:1003::/48,no-resolve
 IP-CIDR6,2803:de80:1057::/48,no-resolve
 IP-CIDR6,2803:de80:1058::/47,no-resolve
 IP-CIDR6,2803:de80:1061::/48,no-resolve
+IP-CIDR6,2803:de80:1062::/48,no-resolve
 IP-CIDR6,2803:de80:2000::/38,no-resolve

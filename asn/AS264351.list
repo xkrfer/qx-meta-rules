@@ -1,3 +1,4 @@
-IP-CIDR,131.108.212.0/22,no-resolve
+IP-CIDR,131.108.212.0/24,no-resolve
+IP-CIDR,131.108.214.0/23,no-resolve
 IP-CIDR6,2804:1d28:5000::/38,no-resolve
 IP-CIDR6,2804:1d28:c000::/38,no-resolve

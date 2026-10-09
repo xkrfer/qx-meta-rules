@@ -13,3 +13,4 @@ IP-CIDR6,2a05:4140:60::/48,no-resolve
 IP-CIDR6,2a05:4140:62::/47,no-resolve
 IP-CIDR6,2a05:4140:74::/48,no-resolve
 IP-CIDR6,2a05:4140:89::/48,no-resolve
+IP-CIDR6,2a05:4140:ae::/48,no-resolve

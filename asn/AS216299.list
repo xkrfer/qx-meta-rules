@@ -18,6 +18,5 @@ IP-CIDR6,2a14:67c2:a50::/48,no-resolve
 IP-CIDR6,2a14:67c2:a60::/48,no-resolve
 IP-CIDR6,2a14:67c2:a70::/47,no-resolve
 IP-CIDR6,2a14:67c2:a80::/47,no-resolve
-IP-CIDR6,2a14:67c2:a90::/48,no-resolve
 IP-CIDR6,2a14:67c2:aa1::/48,no-resolve
 IP-CIDR6,2a14:67c2:aa2::/48,no-resolve

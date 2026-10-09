@@ -37,7 +37,6 @@ IP-CIDR6,2001:559:84b1::/48,no-resolve
 IP-CIDR6,2001:559:8576::/48,no-resolve
 IP-CIDR6,2001:559:85c3::/48,no-resolve
 IP-CIDR6,2001:559:85da::/48,no-resolve
-IP-CIDR6,2001:559:85e1::/48,no-resolve
 IP-CIDR6,2001:559:866d::/48,no-resolve
 IP-CIDR6,2001:559:86cb::/48,no-resolve
 IP-CIDR6,2001:559:874a::/47,no-resolve

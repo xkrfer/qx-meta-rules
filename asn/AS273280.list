@@ -4,4 +4,4 @@ IP-CIDR,204.157.68.0/23,no-resolve
 IP-CIDR6,2001:1226:1000::/39,no-resolve
 IP-CIDR6,2001:1226:1200::/40,no-resolve
 IP-CIDR6,2001:1226:e000::/36,no-resolve
-IP-CIDR6,2001:1226:f000::/39,no-resolve
+IP-CIDR6,2001:1226:f000::/40,no-resolve
