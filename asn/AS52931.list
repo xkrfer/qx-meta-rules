@@ -7,4 +7,5 @@ ip-cidr, 177.185.110.0/23, proxy, no-resolve
 ip6-cidr, 2804:af8::/33, proxy, no-resolve
 ip6-cidr, 2804:af8:8000::/45, proxy, no-resolve
 ip6-cidr, 2804:af8:8008::/46, proxy, no-resolve
+ip6-cidr, 2804:af8:8010::/44, proxy, no-resolve
 ip6-cidr, 2804:af8:8040::/42, proxy, no-resolve

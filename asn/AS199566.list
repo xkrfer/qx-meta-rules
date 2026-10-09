@@ -1,2 +1,3 @@
 ip-cidr, 144.31.38.0/24, proxy, no-resolve
+ip-cidr, 222.167.230.0/24, proxy, no-resolve
 ip6-cidr, 2a01:ecc0:a::/48, proxy, no-resolve

@@ -383,11 +383,9 @@ ip-cidr, 180.80.128.0/20, proxy, no-resolve
 ip-cidr, 180.80.160.0/19, proxy, no-resolve
 ip-cidr, 180.80.192.0/20, proxy, no-resolve
 ip-cidr, 180.81.0.0/20, proxy, no-resolve
-ip-cidr, 180.81.31.0/24, proxy, no-resolve
 ip-cidr, 180.81.32.0/19, proxy, no-resolve
 ip-cidr, 180.81.114.0/23, proxy, no-resolve
-ip-cidr, 180.81.116.0/22, proxy, no-resolve
-ip-cidr, 180.81.121.0/24, proxy, no-resolve
+ip-cidr, 180.81.116.0/23, proxy, no-resolve
 ip-cidr, 180.81.127.0/24, proxy, no-resolve
 ip-cidr, 180.81.128.0/17, proxy, no-resolve
 ip-cidr, 180.82.0.0/20, proxy, no-resolve

@@ -80,7 +80,6 @@ ip-cidr, 191.97.48.0/20, proxy, no-resolve
 ip-cidr, 200.24.0.0/23, proxy, no-resolve
 ip-cidr, 200.24.2.0/24, proxy, no-resolve
 ip-cidr, 200.24.4.0/24, proxy, no-resolve
-ip-cidr, 200.233.46.0/24, proxy, no-resolve
 ip6-cidr, 2001:13c7:6000::/48, proxy, no-resolve
 ip6-cidr, 2800:310::/40, proxy, no-resolve
 ip6-cidr, 2800:310:100::/45, proxy, no-resolve

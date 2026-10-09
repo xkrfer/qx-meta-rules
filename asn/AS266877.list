@@ -7,4 +7,5 @@ ip6-cidr, 2803:de80:1003::/48, proxy, no-resolve
 ip6-cidr, 2803:de80:1057::/48, proxy, no-resolve
 ip6-cidr, 2803:de80:1058::/47, proxy, no-resolve
 ip6-cidr, 2803:de80:1061::/48, proxy, no-resolve
+ip6-cidr, 2803:de80:1062::/48, proxy, no-resolve
 ip6-cidr, 2803:de80:2000::/38, proxy, no-resolve

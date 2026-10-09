@@ -20,6 +20,7 @@ ip6-cidr, 2a00:4bc0:2121::/48, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:2129::/48, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:212f::/48, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:2138::/48, proxy, no-resolve
+ip6-cidr, 2a00:4bc0:213b::/48, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:213e::/47, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:2140::/48, proxy, no-resolve
 ip6-cidr, 2a00:4bc0:2148::/48, proxy, no-resolve

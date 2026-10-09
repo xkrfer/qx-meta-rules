@@ -3,3 +3,4 @@ ip6-cidr, 2406:840:feb3::/48, proxy, no-resolve
 ip6-cidr, 2602:f92a:1300::/47, proxy, no-resolve
 ip6-cidr, 2602:f92a:1303::/48, proxy, no-resolve
 ip6-cidr, 2602:f92a:1305::/48, proxy, no-resolve
+ip6-cidr, 2602:f92a:1306::/48, proxy, no-resolve

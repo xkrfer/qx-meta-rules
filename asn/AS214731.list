@@ -13,7 +13,7 @@ ip6-cidr, 2a06:1281:4440::/44, proxy, no-resolve
 ip6-cidr, 2a0d:2686:1000::/40, proxy, no-resolve
 ip6-cidr, 2a14:7c0:5200::/48, proxy, no-resolve
 ip6-cidr, 2a14:7c0:5202::/47, proxy, no-resolve
-ip6-cidr, 2a14:7c0:5204::/46, proxy, no-resolve
+ip6-cidr, 2a14:7c0:5206::/47, proxy, no-resolve
 ip6-cidr, 2a14:7c0:52ff::/48, proxy, no-resolve
 ip6-cidr, 2a14:7581:c000::/41, proxy, no-resolve
 ip6-cidr, 2a14:7581:c080::/42, proxy, no-resolve

@@ -70,6 +70,7 @@ ip-cidr, 180.210.96.0/24, proxy, no-resolve
 ip-cidr, 180.210.100.0/22, proxy, no-resolve
 ip-cidr, 180.210.104.0/21, proxy, no-resolve
 ip-cidr, 180.210.112.0/20, proxy, no-resolve
+ip-cidr, 182.255.128.0/23, proxy, no-resolve
 ip-cidr, 210.124.216.0/24, proxy, no-resolve
 ip-cidr, 210.206.88.0/24, proxy, no-resolve
 ip-cidr, 211.32.155.0/24, proxy, no-resolve

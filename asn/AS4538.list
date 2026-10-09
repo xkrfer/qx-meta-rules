@@ -267,7 +267,6 @@ ip6-cidr, 2001:da8:21c::/48, proxy, no-resolve
 ip6-cidr, 2001:da8:21f::/48, proxy, no-resolve
 ip6-cidr, 2001:da8:222::/48, proxy, no-resolve
 ip6-cidr, 2001:da8:224::/48, proxy, no-resolve
-ip6-cidr, 2001:da8:22b::/48, proxy, no-resolve
 ip6-cidr, 2001:da8:22d::/48, proxy, no-resolve
 ip6-cidr, 2001:da8:230::/45, proxy, no-resolve
 ip6-cidr, 2001:da8:238::/48, proxy, no-resolve

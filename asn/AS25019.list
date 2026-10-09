@@ -283,11 +283,11 @@ ip6-cidr, 2001:16a2:8040::/46, proxy, no-resolve
 ip6-cidr, 2001:16a2:b20c::/46, proxy, no-resolve
 ip6-cidr, 2001:16a2:b210::/46, proxy, no-resolve
 ip6-cidr, 2001:16a2:b214::/47, proxy, no-resolve
+ip6-cidr, 2001:16a2:ba86::/48, proxy, no-resolve
 ip6-cidr, 2001:16a2:baaf::/48, proxy, no-resolve
-ip6-cidr, 2001:16a2:bae1::/48, proxy, no-resolve
-ip6-cidr, 2001:16a2:bc4b::/48, proxy, no-resolve
-ip6-cidr, 2001:16a2:bc5e::/47, proxy, no-resolve
-ip6-cidr, 2001:16a2:bc60::/48, proxy, no-resolve
+ip6-cidr, 2001:16a2:bc5f::/48, proxy, no-resolve
+ip6-cidr, 2001:16a2:bc64::/47, proxy, no-resolve
+ip6-cidr, 2001:16a2:bc67::/48, proxy, no-resolve
 ip6-cidr, 2001:16a2:bc87::/48, proxy, no-resolve
 ip6-cidr, 2001:16a2:bc88::/46, proxy, no-resolve
 ip6-cidr, 2001:16a2:bd71::/48, proxy, no-resolve
@@ -317,6 +317,7 @@ ip6-cidr, 2001:16a2:bfbc::/47, proxy, no-resolve
 ip6-cidr, 2001:16a2:bfbf::/48, proxy, no-resolve
 ip6-cidr, 2001:16a2:bfc0::/43, proxy, no-resolve
 ip6-cidr, 2001:16a2:bfe2::/48, proxy, no-resolve
+ip6-cidr, 2001:16a2:bff6::/48, proxy, no-resolve
 ip6-cidr, 2001:16a2:c400::/38, proxy, no-resolve
 ip6-cidr, 2001:16a2:c800::/37, proxy, no-resolve
 ip6-cidr, 2001:16a2:d700::/40, proxy, no-resolve
@@ -387,7 +388,7 @@ ip6-cidr, 2001:16a3:1120::/43, proxy, no-resolve
 ip6-cidr, 2001:16a3:1140::/43, proxy, no-resolve
 ip6-cidr, 2001:16a3:1160::/44, proxy, no-resolve
 ip6-cidr, 2001:16a3:1170::/45, proxy, no-resolve
-ip6-cidr, 2001:16a3:1178::/48, proxy, no-resolve
+ip6-cidr, 2001:16a3:1178::/47, proxy, no-resolve
 ip6-cidr, 2001:16a3:2020::/46, proxy, no-resolve
 ip6-cidr, 2001:16a3:2024::/47, proxy, no-resolve
 ip6-cidr, 2001:16a3:2026::/48, proxy, no-resolve

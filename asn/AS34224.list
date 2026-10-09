@@ -99,7 +99,14 @@ ip6-cidr, 2a00:1728:b::/48, proxy, no-resolve
 ip6-cidr, 2a00:1728:c::/48, proxy, no-resolve
 ip6-cidr, 2a00:1728:e::/47, proxy, no-resolve
 ip6-cidr, 2a00:1728:10::/44, proxy, no-resolve
-ip6-cidr, 2a00:1728:21::/48, proxy, no-resolve
+ip6-cidr, 2a00:1728:21::/56, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:200::/55, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:400::/54, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:800::/53, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:1000::/52, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:2000::/51, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:4000::/50, proxy, no-resolve
+ip6-cidr, 2a00:1728:21:8000::/49, proxy, no-resolve
 ip6-cidr, 2a00:1728:22::/47, proxy, no-resolve
 ip6-cidr, 2a00:1728:25::/48, proxy, no-resolve
 ip6-cidr, 2a00:1728:26::/47, proxy, no-resolve

@@ -1,0 +1,4 @@
+host-suffix, cafe.github.com, proxy
+host-suffix, collector.github.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy

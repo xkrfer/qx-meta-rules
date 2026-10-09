@@ -96,6 +96,8 @@ host, cloudcode-pa.googleapis.com, proxy
 host, cloudsync-prod.s3.amazonaws.com, proxy
 host, configuration-lb.ls-apple.com.akadns.net, proxy
 host, copilot-proxy.githubusercontent.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
 host, copilot-workspace.githubnext.com, proxy
 host, copilotprodattachments.blob.core.windows.net, proxy
 host, crl.microsoft.com, proxy
@@ -264,6 +266,8 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, proxy
 host, img-s-msn-com.akamaized.net, proxy
 host, impala-media-production.s3.amazonaws.com, proxy
 host, imperial.insendi.com, proxy
+host, incoming-telemetry.thunderbird.net, proxy
+host, incoming.telemetry.mozilla.org, proxy
 host, lastfm-img.freetls.fastly.net, proxy
 host, lastfm.freetls.fastly.net, proxy
 host, lazer.ppy.sh, proxy

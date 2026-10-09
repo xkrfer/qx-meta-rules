@@ -5,7 +5,11 @@ ip-cidr, 64.31.224.0/21, proxy, no-resolve
 ip-cidr, 64.31.232.0/24, proxy, no-resolve
 ip-cidr, 64.31.233.0/25, proxy, no-resolve
 ip-cidr, 64.31.233.128/26, proxy, no-resolve
-ip-cidr, 64.31.233.192/27, proxy, no-resolve
+ip-cidr, 64.31.233.192/30, proxy, no-resolve
+ip-cidr, 64.31.233.197/32, proxy, no-resolve
+ip-cidr, 64.31.233.198/31, proxy, no-resolve
+ip-cidr, 64.31.233.200/29, proxy, no-resolve
+ip-cidr, 64.31.233.208/28, proxy, no-resolve
 ip-cidr, 64.31.233.224/28, proxy, no-resolve
 ip-cidr, 64.31.233.240/29, proxy, no-resolve
 ip-cidr, 64.31.233.249/32, proxy, no-resolve

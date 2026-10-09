@@ -1,0 +1,2 @@
+host, incoming.telemetry.mozilla.org, proxy
+host, incoming-telemetry.thunderbird.net, proxy

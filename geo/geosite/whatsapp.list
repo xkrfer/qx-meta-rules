@@ -9,5 +9,3 @@ host-suffix, whatsapp.net, proxy
 host-suffix, whatsapp.org, proxy
 host-suffix, whatsapp.tv, proxy
 host-suffix, whatsappbrand.com, proxy
-host-suffix, graph.whatsapp.com, proxy
-host-suffix, graph.whatsapp.net, proxy

@@ -5,5 +5,4 @@ ip6-cidr, 2602:f688::/33, proxy, no-resolve
 ip6-cidr, 2602:f688:8000::/34, proxy, no-resolve
 ip6-cidr, 2602:f688:c000::/35, proxy, no-resolve
 ip6-cidr, 2602:f688:e000::/36, proxy, no-resolve
-ip6-cidr, 2602:f7d5::/32, proxy, no-resolve
 ip6-cidr, 2602:f87f::/32, proxy, no-resolve

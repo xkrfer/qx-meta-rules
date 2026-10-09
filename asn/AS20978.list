@@ -20,3 +20,4 @@ ip6-cidr, 2a02:2010:6002::/48, proxy, no-resolve
 ip6-cidr, 2a02:2010:9020::/45, proxy, no-resolve
 ip6-cidr, 2a02:2010:9028::/46, proxy, no-resolve
 ip6-cidr, 2a02:2010:902c::/47, proxy, no-resolve
+ip6-cidr, 2a02:2010:9180::/44, proxy, no-resolve

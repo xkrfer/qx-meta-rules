@@ -117,6 +117,7 @@ ip6-cidr, 2001:4878:b225::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:b242::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:b347::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:c007::/48, proxy, no-resolve
+ip6-cidr, 2001:4878:c031::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:c037::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:c048::/48, proxy, no-resolve
 ip6-cidr, 2001:4878:c062::/47, proxy, no-resolve
