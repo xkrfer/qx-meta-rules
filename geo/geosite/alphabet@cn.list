@@ -120,5 +120,5 @@ host, o.pki.goog, proxy
 host, crl.pki.goog, proxy
 host, crls.pki.goog, proxy
 host, ocsp.pki.goog, proxy
-host, redirector.c.play.google.com, proxy
 host-suffix, ggpht.cn, proxy
+host, redirector.c.play.google.com, proxy

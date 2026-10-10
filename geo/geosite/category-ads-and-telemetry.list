@@ -840,3 +840,11 @@ host, api.mindbox.ru, proxy
 host, sentry.mindbox.ru, proxy
 host, sentry.popmechanic.ru, proxy
 host-suffix, ad.api.moji.com, proxy
+host-suffix, cafe.github.com, proxy
+host-suffix, collector.github.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host, incoming.telemetry.mozilla.org, proxy
+host, incoming-telemetry.thunderbird.net, proxy
