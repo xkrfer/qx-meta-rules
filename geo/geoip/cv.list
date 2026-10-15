@@ -115,7 +115,6 @@ IP-CIDR6,2001:470:f854::/48,no-resolve
 IP-CIDR6,2001:43f8:16c0::/47,no-resolve
 IP-CIDR6,2001:43fc:1000::/48,no-resolve
 IP-CIDR6,2001:43fd:5000::/48,no-resolve
-IP-CIDR6,2401:3620:231:3d::/64,no-resolve
 IP-CIDR6,2605:59c0:8100::/40,no-resolve
 IP-CIDR6,2606:40:21a0:2000::/54,no-resolve
 IP-CIDR6,2606:40:22e0:8000::/54,no-resolve
