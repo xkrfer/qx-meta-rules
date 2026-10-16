@@ -27,6 +27,7 @@ IP-CIDR,190.130.125.0/24,no-resolve
 IP-CIDR,190.243.0.0/16,no-resolve
 IP-CIDR,191.64.0.0/14,no-resolve
 IP-CIDR,191.68.0.0/15,no-resolve
+IP-CIDR,191.70.0.0/16,no-resolve
 IP-CIDR,191.72.0.0/13,no-resolve
 IP-CIDR,191.144.0.0/13,no-resolve
 IP-CIDR,191.152.0.0/14,no-resolve
@@ -58,6 +59,7 @@ IP-CIDR6,2800:800:5f0::/44,no-resolve
 IP-CIDR6,2800:800:600::/43,no-resolve
 IP-CIDR6,2800:800:640::/42,no-resolve
 IP-CIDR6,2800:800:680::/42,no-resolve
+IP-CIDR6,2800:800:6f0::/44,no-resolve
 IP-CIDR6,2800:800:700::/41,no-resolve
 IP-CIDR6,2800:800:780::/42,no-resolve
 IP-CIDR6,2800:800:7c0::/44,no-resolve

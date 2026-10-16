@@ -17,4 +17,5 @@ IP-CIDR6,2a0d:b081:2000::/35,no-resolve
 IP-CIDR6,2a0d:b081:4000::/34,no-resolve
 IP-CIDR6,2a0d:b081:8000::/33,no-resolve
 IP-CIDR6,2a0d:b082::/32,no-resolve
-IP-CIDR6,2a0d:b084::/30,no-resolve
+IP-CIDR6,2a0d:b085::/32,no-resolve
+IP-CIDR6,2a0d:b086::/31,no-resolve

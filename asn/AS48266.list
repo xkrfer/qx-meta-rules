@@ -27,9 +27,8 @@ IP-CIDR,212.135.32.0/22,no-resolve
 IP-CIDR,212.135.36.0/23,no-resolve
 IP-CIDR,212.135.40.0/21,no-resolve
 IP-CIDR,212.135.120.0/21,no-resolve
-IP-CIDR,216.235.250.0/23,no-resolve
 IP-CIDR,216.236.6.0/23,no-resolve
-IP-CIDR,217.217.221.0/24,no-resolve
+IP-CIDR,217.217.220.0/24,no-resolve
 IP-CIDR,217.217.222.0/24,no-resolve
 IP-CIDR6,2400:9320::/48,no-resolve
 IP-CIDR6,2a06:a005:90::/44,no-resolve

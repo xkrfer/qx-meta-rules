@@ -395,7 +395,6 @@ IP-CIDR6,2001:1978:2000::/40,no-resolve
 IP-CIDR6,2001:1978:2300::/40,no-resolve
 IP-CIDR6,2001:1978:2400::/39,no-resolve
 IP-CIDR6,2602:fb5e::/36,no-resolve
-IP-CIDR6,2602:fc74::/48,no-resolve
 IP-CIDR6,2605:6c80:3::/48,no-resolve
 IP-CIDR6,2605:9300:1::/48,no-resolve
 IP-CIDR6,2606:be00::/40,no-resolve

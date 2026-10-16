@@ -1,4 +1,5 @@
 IP-CIDR,101.115.32.0/19,no-resolve
+IP-CIDR6,2405:6e00:4ed::/48,no-resolve
 IP-CIDR6,2405:6e00:f800::/48,no-resolve
 IP-CIDR6,2405:6e00:f810::/48,no-resolve
 IP-CIDR6,2405:6e00:f820::/48,no-resolve

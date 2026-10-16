@@ -1,1 +1,2 @@
-IP-CIDR6,2602:f3b5:30::/44,no-resolve
+IP-CIDR,204.138.145.0/24,no-resolve
+IP-CIDR6,2602:f3b5:20::/43,no-resolve

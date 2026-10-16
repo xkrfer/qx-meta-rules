@@ -51,7 +51,13 @@ IP-CIDR,38.13.53.100/31,no-resolve
 IP-CIDR,38.13.53.102/32,no-resolve
 IP-CIDR,38.13.53.104/29,no-resolve
 IP-CIDR,38.13.53.112/28,no-resolve
-IP-CIDR,38.13.53.128/25,no-resolve
+IP-CIDR,38.13.53.128/26,no-resolve
+IP-CIDR,38.13.53.192/30,no-resolve
+IP-CIDR,38.13.53.196/31,no-resolve
+IP-CIDR,38.13.53.199/32,no-resolve
+IP-CIDR,38.13.53.200/29,no-resolve
+IP-CIDR,38.13.53.208/28,no-resolve
+IP-CIDR,38.13.53.224/27,no-resolve
 IP-CIDR,38.13.54.0/25,no-resolve
 IP-CIDR,38.13.54.128/27,no-resolve
 IP-CIDR,38.13.54.160/29,no-resolve

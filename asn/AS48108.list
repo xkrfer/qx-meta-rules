@@ -9,3 +9,4 @@ IP-CIDR6,2a11:7e40::/32,no-resolve
 IP-CIDR6,2a11:7e42::/36,no-resolve
 IP-CIDR6,2a11:7e47:b002::/47,no-resolve
 IP-CIDR6,2a11:8481::/32,no-resolve
+IP-CIDR6,2a11:9647::/32,no-resolve

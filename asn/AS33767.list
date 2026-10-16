@@ -1,3 +1,2 @@
 IP-CIDR,41.203.179.0/24,no-resolve
-IP-CIDR,129.232.0.0/19,no-resolve
-IP-CIDR,129.232.48.0/20,no-resolve
+IP-CIDR,129.232.0.0/18,no-resolve

@@ -28,13 +28,7 @@ IP-CIDR,173.239.95.112/31,no-resolve
 IP-CIDR,173.239.95.115/32,no-resolve
 IP-CIDR,173.239.95.116/30,no-resolve
 IP-CIDR,173.239.95.120/29,no-resolve
-IP-CIDR,173.239.95.128/28,no-resolve
-IP-CIDR,173.239.95.144/30,no-resolve
-IP-CIDR,173.239.95.148/32,no-resolve
-IP-CIDR,173.239.95.150/31,no-resolve
-IP-CIDR,173.239.95.152/29,no-resolve
-IP-CIDR,173.239.95.160/27,no-resolve
-IP-CIDR,173.239.95.192/26,no-resolve
+IP-CIDR,173.239.95.128/25,no-resolve
 IP-CIDR,216.155.216.0/23,no-resolve
 IP-CIDR,216.155.218.0/28,no-resolve
 IP-CIDR,216.155.218.16/29,no-resolve

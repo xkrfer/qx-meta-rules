@@ -47,6 +47,7 @@ IP-CIDR6,2800:320:1050::/44,no-resolve
 IP-CIDR6,2800:320:1060::/43,no-resolve
 IP-CIDR6,2800:320:1080::/44,no-resolve
 IP-CIDR6,2800:320:13f1::/48,no-resolve
+IP-CIDR6,2800:320:140a::/48,no-resolve
 IP-CIDR6,2800:320:4000::/42,no-resolve
 IP-CIDR6,2800:320:4080::/41,no-resolve
 IP-CIDR6,2800:320:4100::/40,no-resolve
@@ -55,6 +56,7 @@ IP-CIDR6,2800:320:4280::/41,no-resolve
 IP-CIDR6,2800:320:4300::/40,no-resolve
 IP-CIDR6,2800:320:4400::/42,no-resolve
 IP-CIDR6,2800:320:4480::/42,no-resolve
+IP-CIDR6,2800:320:4500::/42,no-resolve
 IP-CIDR6,2800:320:4600::/44,no-resolve
 IP-CIDR6,2800:320:4610::/45,no-resolve
 IP-CIDR6,2800:320:461c::/46,no-resolve

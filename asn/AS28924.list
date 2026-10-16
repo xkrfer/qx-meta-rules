@@ -8,6 +8,10 @@ IP-CIDR,212.52.184.0/22,no-resolve
 IP-CIDR,212.52.188.0/23,no-resolve
 IP-CIDR,213.181.220.0/24,no-resolve
 IP-CIDR6,2a01:7d80::/35,no-resolve
+IP-CIDR6,2a01:7d80:2000::/38,no-resolve
+IP-CIDR6,2a01:7d80:2500::/40,no-resolve
+IP-CIDR6,2a01:7d80:2600::/39,no-resolve
+IP-CIDR6,2a01:7d80:2800::/37,no-resolve
 IP-CIDR6,2a01:7d80:3000::/36,no-resolve
 IP-CIDR6,2a01:7d80:4000::/34,no-resolve
 IP-CIDR6,2a01:7d80:8000::/35,no-resolve

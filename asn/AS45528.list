@@ -240,7 +240,6 @@ IP-CIDR,203.90.127.0/24,no-resolve
 IP-CIDR6,2401:3c0:15::/48,no-resolve
 IP-CIDR6,2401:3c0:100::/47,no-resolve
 IP-CIDR6,2401:3c0:102::/48,no-resolve
-IP-CIDR6,2401:3c0:104::/48,no-resolve
 IP-CIDR6,2401:3c0:10d::/48,no-resolve
 IP-CIDR6,2401:3c0:10f::/48,no-resolve
 IP-CIDR6,2401:3c0:110::/48,no-resolve

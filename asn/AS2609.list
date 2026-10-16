@@ -163,7 +163,7 @@ IP-CIDR,197.11.40.0/22,no-resolve
 IP-CIDR,197.11.46.0/23,no-resolve
 IP-CIDR,197.11.48.0/20,no-resolve
 IP-CIDR,197.11.72.0/21,no-resolve
-IP-CIDR,197.11.102.0/23,no-resolve
+IP-CIDR,197.11.103.0/24,no-resolve
 IP-CIDR,197.11.104.0/21,no-resolve
 IP-CIDR,197.11.112.0/20,no-resolve
 IP-CIDR,197.11.157.0/24,no-resolve

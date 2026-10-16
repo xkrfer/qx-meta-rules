@@ -5,7 +5,13 @@ IP-CIDR,50.1.0.0/19,no-resolve
 IP-CIDR,50.1.32.0/20,no-resolve
 IP-CIDR,50.1.64.0/22,no-resolve
 IP-CIDR,50.1.68.0/24,no-resolve
-IP-CIDR,50.1.128.0/17,no-resolve
+IP-CIDR,50.1.128.0/18,no-resolve
+IP-CIDR,50.1.192.0/19,no-resolve
+IP-CIDR,50.1.224.0/21,no-resolve
+IP-CIDR,50.1.232.0/23,no-resolve
+IP-CIDR,50.1.234.0/24,no-resolve
+IP-CIDR,50.1.236.0/22,no-resolve
+IP-CIDR,50.1.240.0/20,no-resolve
 IP-CIDR,64.142.0.0/19,no-resolve
 IP-CIDR,64.142.48.0/20,no-resolve
 IP-CIDR,64.142.96.0/19,no-resolve

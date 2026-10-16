@@ -3,6 +3,7 @@ IP-CIDR,204.10.112.0/22,no-resolve
 IP-CIDR6,2607:eec0:1::/48,no-resolve
 IP-CIDR6,2607:eec0:2::/47,no-resolve
 IP-CIDR6,2607:eec0:4::/47,no-resolve
+IP-CIDR6,2607:eec0:6::/48,no-resolve
 IP-CIDR6,2607:eec0:9::/48,no-resolve
 IP-CIDR6,2607:eec0:10::/46,no-resolve
 IP-CIDR6,2607:eec0:16::/48,no-resolve

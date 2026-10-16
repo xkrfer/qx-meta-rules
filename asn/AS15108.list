@@ -397,7 +397,15 @@ IP-CIDR,140.228.197.0/24,no-resolve
 IP-CIDR,140.228.198.0/23,no-resolve
 IP-CIDR,140.228.200.0/21,no-resolve
 IP-CIDR,140.228.208.0/22,no-resolve
-IP-CIDR,140.228.212.0/23,no-resolve
+IP-CIDR,140.228.212.0/24,no-resolve
+IP-CIDR,140.228.213.0/26,no-resolve
+IP-CIDR,140.228.213.64/28,no-resolve
+IP-CIDR,140.228.213.81/32,no-resolve
+IP-CIDR,140.228.213.82/31,no-resolve
+IP-CIDR,140.228.213.84/30,no-resolve
+IP-CIDR,140.228.213.88/29,no-resolve
+IP-CIDR,140.228.213.96/27,no-resolve
+IP-CIDR,140.228.213.128/25,no-resolve
 IP-CIDR,140.228.214.0/24,no-resolve
 IP-CIDR,140.228.215.0/26,no-resolve
 IP-CIDR,140.228.215.64/28,no-resolve

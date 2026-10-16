@@ -55,15 +55,7 @@ IP-CIDR6,2604:4c40:3016:fcda::/64,no-resolve
 IP-CIDR6,2604:4c40:3016:fcdc::/62,no-resolve
 IP-CIDR6,2604:4c40:3016:fce0::/59,no-resolve
 IP-CIDR6,2604:4c40:3016:fd00::/56,no-resolve
-IP-CIDR6,2604:4c40:3016:fe00::/57,no-resolve
-IP-CIDR6,2604:4c40:3016:fe80::/58,no-resolve
-IP-CIDR6,2604:4c40:3016:fec0::/59,no-resolve
-IP-CIDR6,2604:4c40:3016:fee0::/60,no-resolve
-IP-CIDR6,2604:4c40:3016:fef0::/61,no-resolve
-IP-CIDR6,2604:4c40:3016:fef8::/63,no-resolve
-IP-CIDR6,2604:4c40:3016:fefb::/64,no-resolve
-IP-CIDR6,2604:4c40:3016:fefc::/62,no-resolve
-IP-CIDR6,2604:4c40:3016:ff00::/56,no-resolve
+IP-CIDR6,2604:4c40:3016:fe00::/55,no-resolve
 IP-CIDR6,2604:4c40:3017::/49,no-resolve
 IP-CIDR6,2604:4c40:3017:8000::/50,no-resolve
 IP-CIDR6,2604:4c40:3017:c000::/51,no-resolve

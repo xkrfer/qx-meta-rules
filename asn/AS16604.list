@@ -29,12 +29,7 @@ IP-CIDR,38.22.212.168/31,no-resolve
 IP-CIDR,38.22.212.171/32,no-resolve
 IP-CIDR,38.22.212.172/30,no-resolve
 IP-CIDR,38.22.212.176/28,no-resolve
-IP-CIDR,38.22.212.192/28,no-resolve
-IP-CIDR,38.22.212.208/30,no-resolve
-IP-CIDR,38.22.212.212/32,no-resolve
-IP-CIDR,38.22.212.214/31,no-resolve
-IP-CIDR,38.22.212.216/29,no-resolve
-IP-CIDR,38.22.212.224/27,no-resolve
+IP-CIDR,38.22.212.192/26,no-resolve
 IP-CIDR,38.22.213.0/24,no-resolve
 IP-CIDR,38.22.214.0/23,no-resolve
 IP-CIDR,38.69.24.0/22,no-resolve

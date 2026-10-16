@@ -1,2 +1,2 @@
 IP-CIDR,168.232.16.0/22,no-resolve
-IP-CIDR6,2804:303c:8000::/33,no-resolve
+IP-CIDR6,2804:303c:c000::/34,no-resolve

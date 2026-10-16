@@ -6,6 +6,7 @@ IP-CIDR,118.27.240.0/20,no-resolve
 IP-CIDR,133.226.0.0/20,no-resolve
 IP-CIDR,180.94.40.0/21,no-resolve
 IP-CIDR,210.231.192.0/20,no-resolve
+IP-CIDR,218.217.0.0/19,no-resolve
 IP-CIDR,219.100.16.0/22,no-resolve
 IP-CIDR,221.132.96.0/20,no-resolve
 IP-CIDR,222.229.0.0/20,no-resolve

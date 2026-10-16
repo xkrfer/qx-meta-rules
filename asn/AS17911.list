@@ -19,8 +19,7 @@ IP-CIDR,203.128.12.0/22,no-resolve
 IP-CIDR,203.128.16.0/22,no-resolve
 IP-CIDR,203.128.21.0/24,no-resolve
 IP-CIDR,203.128.22.0/23,no-resolve
-IP-CIDR,203.128.25.0/24,no-resolve
-IP-CIDR,203.128.26.0/23,no-resolve
+IP-CIDR,203.128.24.0/22,no-resolve
 IP-CIDR,203.128.28.0/24,no-resolve
 IP-CIDR,203.128.31.0/24,no-resolve
 IP-CIDR6,2400:4f00::/36,no-resolve
