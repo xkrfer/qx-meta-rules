@@ -3,6 +3,9 @@ host-suffix, bytegecko-i18n.com, proxy
 host-suffix, byteintlapi.com, proxy
 host-suffix, byteoversea.com, proxy
 host-suffix, capcut.com, proxy
+host-suffix, capcutapi.com, proxy
+host-suffix, capcutapi.us, proxy
+host-suffix, capcutstatic.com, proxy
 host-suffix, ibytedtos.com, proxy
 host-suffix, ibyteimg.com, proxy
 host-suffix, ipstatp.com, proxy

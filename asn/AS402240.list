@@ -1,1 +1,2 @@
-ip6-cidr, 2602:f43a:1::/48, proxy, no-resolve
+ip-cidr, 204.58.14.0/24, proxy, no-resolve
+ip6-cidr, 2602:f43a::/40, proxy, no-resolve

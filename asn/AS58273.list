@@ -20,6 +20,7 @@ ip6-cidr, 2a01:6240:24::/48, proxy, no-resolve
 ip6-cidr, 2a01:6240:26::/48, proxy, no-resolve
 ip6-cidr, 2a01:6240:30::/48, proxy, no-resolve
 ip6-cidr, 2a01:6240:80::/48, proxy, no-resolve
+ip6-cidr, 2a01:6241:8000::/34, proxy, no-resolve
 ip6-cidr, 2a01:6242::/34, proxy, no-resolve
 ip6-cidr, 2a01:6242:8000::/34, proxy, no-resolve
 ip6-cidr, 2a01:6243::/34, proxy, no-resolve

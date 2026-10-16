@@ -3,6 +3,7 @@ ip-cidr, 45.187.120.0/22, proxy, no-resolve
 ip-cidr, 138.0.148.0/22, proxy, no-resolve
 ip6-cidr, 2804:52dc::/35, proxy, no-resolve
 ip6-cidr, 2804:52dc:3000::/36, proxy, no-resolve
-ip6-cidr, 2804:52dc:4000::/34, proxy, no-resolve
+ip6-cidr, 2804:52dc:5000::/36, proxy, no-resolve
+ip6-cidr, 2804:52dc:6000::/35, proxy, no-resolve
 ip6-cidr, 2804:52dc:8000::/36, proxy, no-resolve
 ip6-cidr, 2804:52dc:b000::/36, proxy, no-resolve

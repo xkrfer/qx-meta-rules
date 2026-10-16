@@ -33,3 +33,4 @@ ip-cidr, 199.188.118.96/27, proxy, no-resolve
 ip-cidr, 199.188.118.128/25, proxy, no-resolve
 ip-cidr, 199.188.119.0/24, proxy, no-resolve
 ip-cidr, 203.24.247.0/24, proxy, no-resolve
+ip6-cidr, 2605:b440::/32, proxy, no-resolve

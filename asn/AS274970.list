@@ -1,1 +1,2 @@
 ip6-cidr, 2803:5530::/32, proxy, no-resolve
+ip6-cidr, 2803:cae0:8050::/48, proxy, no-resolve

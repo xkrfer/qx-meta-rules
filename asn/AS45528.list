@@ -240,7 +240,6 @@ ip-cidr, 203.90.127.0/24, proxy, no-resolve
 ip6-cidr, 2401:3c0:15::/48, proxy, no-resolve
 ip6-cidr, 2401:3c0:100::/47, proxy, no-resolve
 ip6-cidr, 2401:3c0:102::/48, proxy, no-resolve
-ip6-cidr, 2401:3c0:104::/48, proxy, no-resolve
 ip6-cidr, 2401:3c0:10d::/48, proxy, no-resolve
 ip6-cidr, 2401:3c0:10f::/48, proxy, no-resolve
 ip6-cidr, 2401:3c0:110::/48, proxy, no-resolve

@@ -26,3 +26,6 @@ ip-cidr, 194.147.172.0/24, proxy, no-resolve
 ip-cidr, 194.147.227.0/24, proxy, no-resolve
 ip-cidr, 194.147.228.0/24, proxy, no-resolve
 ip-cidr, 217.18.86.0/24, proxy, no-resolve
+ip6-cidr, 2a00:aa60::/32, proxy, no-resolve
+ip6-cidr, 2a07:6ac0::/29, proxy, no-resolve
+ip6-cidr, 2a0d:7e80::/29, proxy, no-resolve

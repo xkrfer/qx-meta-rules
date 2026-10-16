@@ -17,6 +17,7 @@ ip-cidr, 52.128.31.0/24, proxy, no-resolve
 ip-cidr, 62.72.175.0/24, proxy, no-resolve
 ip-cidr, 64.69.123.0/24, proxy, no-resolve
 ip-cidr, 64.204.145.0/24, proxy, no-resolve
+ip-cidr, 64.205.61.0/24, proxy, no-resolve
 ip-cidr, 66.84.88.0/21, proxy, no-resolve
 ip-cidr, 66.97.179.0/24, proxy, no-resolve
 ip-cidr, 66.146.232.0/22, proxy, no-resolve
@@ -30,6 +31,7 @@ ip-cidr, 68.234.43.0/24, proxy, no-resolve
 ip-cidr, 68.234.44.0/24, proxy, no-resolve
 ip-cidr, 68.234.46.0/23, proxy, no-resolve
 ip-cidr, 72.14.95.0/24, proxy, no-resolve
+ip-cidr, 74.1.130.0/24, proxy, no-resolve
 ip-cidr, 82.23.160.0/23, proxy, no-resolve
 ip-cidr, 82.24.58.0/24, proxy, no-resolve
 ip-cidr, 84.32.56.0/24, proxy, no-resolve
@@ -152,6 +154,7 @@ ip-cidr, 172.96.94.0/24, proxy, no-resolve
 ip-cidr, 172.252.118.0/24, proxy, no-resolve
 ip-cidr, 172.252.232.0/24, proxy, no-resolve
 ip-cidr, 173.214.192.0/22, proxy, no-resolve
+ip-cidr, 178.92.29.0/24, proxy, no-resolve
 ip-cidr, 178.92.246.0/24, proxy, no-resolve
 ip-cidr, 178.93.30.0/24, proxy, no-resolve
 ip-cidr, 178.93.230.0/24, proxy, no-resolve

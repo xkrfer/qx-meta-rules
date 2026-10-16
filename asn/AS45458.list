@@ -308,6 +308,7 @@ ip6-cidr, 2405:9800:c907::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c90d::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c90e::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c916::/48, proxy, no-resolve
+ip6-cidr, 2405:9800:c919::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c91a::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c91e::/48, proxy, no-resolve
 ip6-cidr, 2405:9800:c920::/48, proxy, no-resolve

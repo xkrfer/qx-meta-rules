@@ -1,4 +1,4 @@
 ip-cidr, 81.90.20.0/24, proxy, no-resolve
 ip6-cidr, 2a0d:d940:5c0::/44, proxy, no-resolve
 ip6-cidr, 2a0d:d940:5e0::/44, proxy, no-resolve
-ip6-cidr, 2a0d:d940:b000::/40, proxy, no-resolve
+ip6-cidr, 2a0d:d940:b000::/39, proxy, no-resolve

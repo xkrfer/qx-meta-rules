@@ -1,1 +1,2 @@
-ip6-cidr, 2602:f3b5:30::/44, proxy, no-resolve
+ip-cidr, 204.138.145.0/24, proxy, no-resolve
+ip6-cidr, 2602:f3b5:20::/43, proxy, no-resolve

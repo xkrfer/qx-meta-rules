@@ -9,9 +9,9 @@ host, ipv6-check-perf.radar.cloudflare.com, proxy
 host, myip.dnsomatic.com, proxy
 host, myip.happ.su, proxy
 host, whatismyip.akamai.com, proxy
-host-suffix, jsonip.com, proxy
-host-suffix, extreme-ip-lookup.com, proxy
-host-suffix, 2ip.io, proxy
+host-suffix, ipxapi.com, proxy
+host-suffix, whatismyipaddress.net, proxy
+host-suffix, 2ip.ua, proxy
 host-suffix, 51degrees.com, proxy
 host-suffix, abstractapi.com, proxy
 host-suffix, addr.tools, proxy
@@ -20,6 +20,7 @@ host-suffix, apivoid.com, proxy
 host-suffix, bgp.tools, proxy
 host-suffix, bigdatacloud.net, proxy
 host-suffix, browserleaks.com, proxy
+host-suffix, bulkgeoip.com, proxy
 host-suffix, check-host.net, proxy
 host-suffix, checkip.org, proxy
 host-suffix, checkip.ru, proxy
@@ -32,12 +33,12 @@ host-suffix, dadata.ru, proxy
 host-suffix, db-ip.com, proxy
 host-suffix, dnscheck.tools, proxy
 host-suffix, dnsleaktest.com, proxy
-host-suffix, l2.io, proxy
+host-suffix, extreme-ip-lookup.com, proxy
 host-suffix, find-my-ip.com, proxy
 host-suffix, find-my-ip.net, proxy
 host-suffix, findip.net, proxy
 host-suffix, flagfox.net, proxy
-host-suffix, fraudguard.io, proxy
+host-suffix, l2.io, proxy
 host-suffix, fraudlogix.com, proxy
 host-suffix, freegeoip.app, proxy
 host-suffix, freeipapi.com, proxy
@@ -63,7 +64,7 @@ host-suffix, ifconfig.me, proxy
 host-suffix, infosniper.net, proxy
 host-suffix, ip-adress.com, proxy
 host-suffix, ip-api.com, proxy
-host-suffix, maxmind.com, proxy
+host-suffix, ip-api.io, proxy
 host-suffix, ip-api.ru, proxy
 host-suffix, ip-check.info, proxy
 host-suffix, ip-score.com, proxy
@@ -118,10 +119,10 @@ host-suffix, ipstack.com, proxy
 host-suffix, ipverify.com, proxy
 host-suffix, ipwho.is, proxy
 host-suffix, ipwhois.io, proxy
-host-suffix, ipxapi.com, proxy
-host-suffix, 2ip.ua, proxy
+host-suffix, nodedata.io, proxy
 host-suffix, 2ip.ru, proxy
-host-suffix, ip-api.io, proxy
+host-suffix, fraudguard.io, proxy
+host-suffix, maxmind.com, proxy
 host-suffix, mon-ip.com, proxy
 host-suffix, monip.org, proxy
 host-suffix, my-ip.io, proxy
@@ -165,7 +166,7 @@ host-suffix, myip.wtf, proxy
 host-suffix, myipaddress.com, proxy
 host-suffix, myiplookup.com, proxy
 host-suffix, mylocation.org, proxy
-host-suffix, nodedata.io, proxy
+host-suffix, 2ip.io, proxy
 host-suffix, nossl.sh, proxy
 host-suffix, osint.sh, proxy
 host-suffix, proxycheck.io, proxy
@@ -188,7 +189,7 @@ host-suffix, whatismyip.io, proxy
 host-suffix, whatismyip.net, proxy
 host-suffix, whatismyip.org, proxy
 host-suffix, whatismyipaddress.com, proxy
-host-suffix, whatismyipaddress.net, proxy
+host-suffix, jsonip.com, proxy
 host-suffix, whatismyisp.com, proxy
 host-suffix, whatismyv6.com, proxy
 host-suffix, whatsmyip.com, proxy

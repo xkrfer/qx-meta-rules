@@ -87,7 +87,7 @@ ip-cidr, 46.182.120.0/21, proxy, no-resolve
 ip-cidr, 46.202.254.0/24, proxy, no-resolve
 ip-cidr, 62.212.64.0/19, proxy, no-resolve
 ip-cidr, 64.120.109.0/24, proxy, no-resolve
-ip-cidr, 64.226.54.0/23, proxy, no-resolve
+ip-cidr, 64.226.55.0/24, proxy, no-resolve
 ip-cidr, 64.226.157.0/24, proxy, no-resolve
 ip-cidr, 64.226.158.0/23, proxy, no-resolve
 ip-cidr, 77.235.34.0/24, proxy, no-resolve
@@ -104,7 +104,6 @@ ip-cidr, 77.235.60.0/22, proxy, no-resolve
 ip-cidr, 79.170.241.0/24, proxy, no-resolve
 ip-cidr, 79.170.242.0/24, proxy, no-resolve
 ip-cidr, 79.170.244.0/22, proxy, no-resolve
-ip-cidr, 80.65.32.0/20, proxy, no-resolve
 ip-cidr, 80.249.132.0/24, proxy, no-resolve
 ip-cidr, 80.253.248.0/24, proxy, no-resolve
 ip-cidr, 81.17.47.0/24, proxy, no-resolve
@@ -264,8 +263,6 @@ ip-cidr, 193.41.87.0/24, proxy, no-resolve
 ip-cidr, 193.41.114.0/23, proxy, no-resolve
 ip-cidr, 193.41.122.0/23, proxy, no-resolve
 ip-cidr, 193.43.92.0/24, proxy, no-resolve
-ip-cidr, 193.58.109.0/24, proxy, no-resolve
-ip-cidr, 193.58.110.0/23, proxy, no-resolve
 ip-cidr, 193.104.219.0/24, proxy, no-resolve
 ip-cidr, 193.160.152.0/24, proxy, no-resolve
 ip-cidr, 193.178.227.0/24, proxy, no-resolve
@@ -345,6 +342,7 @@ ip6-cidr, 2a05:35c0::/46, proxy, no-resolve
 ip6-cidr, 2a05:35c0:4::/47, proxy, no-resolve
 ip6-cidr, 2a05:35c0:7::/48, proxy, no-resolve
 ip6-cidr, 2a05:35c0:8::/45, proxy, no-resolve
+ip6-cidr, 2a05:35c0:10::/48, proxy, no-resolve
 ip6-cidr, 2a05:35c0:12::/47, proxy, no-resolve
 ip6-cidr, 2a05:35c0:14::/46, proxy, no-resolve
 ip6-cidr, 2a05:35c0:18::/45, proxy, no-resolve
@@ -449,7 +447,6 @@ ip6-cidr, 2a10:3740::/29, proxy, no-resolve
 ip6-cidr, 2a10:6700::/29, proxy, no-resolve
 ip6-cidr, 2a10:67c6::/32, proxy, no-resolve
 ip6-cidr, 2a10:68c0::/32, proxy, no-resolve
-ip6-cidr, 2a10:68c7::/32, proxy, no-resolve
 ip6-cidr, 2a10:b5c1::/32, proxy, no-resolve
 ip6-cidr, 2a11:1c40::/29, proxy, no-resolve
 ip6-cidr, 2a11:bb40::/29, proxy, no-resolve
@@ -468,7 +465,6 @@ ip6-cidr, 2a13:d46::/32, proxy, no-resolve
 ip6-cidr, 2a13:18c6:a::/48, proxy, no-resolve
 ip6-cidr, 2a13:2fc0::/29, proxy, no-resolve
 ip6-cidr, 2a13:5c80::/29, proxy, no-resolve
-ip6-cidr, 2a13:8c85::/32, proxy, no-resolve
 ip6-cidr, 2a13:8c86:33::/48, proxy, no-resolve
 ip6-cidr, 2a13:8c86:44::/48, proxy, no-resolve
 ip6-cidr, 2a13:8c86:55::/48, proxy, no-resolve

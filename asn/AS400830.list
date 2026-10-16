@@ -11,3 +11,4 @@ ip6-cidr, 2604:f9c0:16::/47, proxy, no-resolve
 ip6-cidr, 2604:f9c0:7ffc::/48, proxy, no-resolve
 ip6-cidr, 2604:f9c0:8005::/48, proxy, no-resolve
 ip6-cidr, 2604:f9c0:8009::/48, proxy, no-resolve
+ip6-cidr, 2604:f9c0:800a::/48, proxy, no-resolve

@@ -136,6 +136,8 @@ ip6-cidr, 2001:1998:8000::/33, proxy, no-resolve
 ip6-cidr, 2600:5801::/32, proxy, no-resolve
 ip6-cidr, 2600:c000::/40, proxy, no-resolve
 ip6-cidr, 2600:c010:100::/40, proxy, no-resolve
+ip6-cidr, 2603:807e:300::/40, proxy, no-resolve
+ip6-cidr, 2603:807e:400::/40, proxy, no-resolve
 ip6-cidr, 2603:90e1:100::/44, proxy, no-resolve
 ip6-cidr, 2603:90f2::/32, proxy, no-resolve
 ip6-cidr, 2603:90f4::/32, proxy, no-resolve

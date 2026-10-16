@@ -172,7 +172,7 @@ ip-cidr, 181.95.0.0/16, proxy, no-resolve
 ip-cidr, 181.96.0.0/14, proxy, no-resolve
 ip-cidr, 181.100.0.0/15, proxy, no-resolve
 ip-cidr, 181.102.0.0/16, proxy, no-resolve
-ip-cidr, 181.103.6.0/23, proxy, no-resolve
+ip-cidr, 181.103.7.0/24, proxy, no-resolve
 ip-cidr, 181.103.8.0/22, proxy, no-resolve
 ip-cidr, 181.103.16.0/20, proxy, no-resolve
 ip-cidr, 181.103.32.0/19, proxy, no-resolve

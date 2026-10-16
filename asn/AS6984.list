@@ -30,10 +30,6 @@ ip6-cidr, 2600:80b:121::/48, proxy, no-resolve
 ip6-cidr, 2600:80b:122::/48, proxy, no-resolve
 ip6-cidr, 2600:80b:1f1::/48, proxy, no-resolve
 ip6-cidr, 2600:80b:1f2::/48, proxy, no-resolve
-ip6-cidr, 2600:80d::/46, proxy, no-resolve
-ip6-cidr, 2600:80d:4::/48, proxy, no-resolve
-ip6-cidr, 2600:80d:6::/47, proxy, no-resolve
-ip6-cidr, 2600:80d:9::/48, proxy, no-resolve
-ip6-cidr, 2600:80d:16::/47, proxy, no-resolve
+ip6-cidr, 2600:80d::/40, proxy, no-resolve
 ip6-cidr, 2620:0:1607::/48, proxy, no-resolve
 ip6-cidr, 2620:0:1654::/48, proxy, no-resolve

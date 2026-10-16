@@ -361,7 +361,7 @@ ip-cidr, 181.63.44.0/22, proxy, no-resolve
 ip-cidr, 181.63.48.0/21, proxy, no-resolve
 ip-cidr, 181.63.56.0/22, proxy, no-resolve
 ip-cidr, 181.63.64.0/22, proxy, no-resolve
-ip-cidr, 181.63.72.0/23, proxy, no-resolve
+ip-cidr, 181.63.73.0/24, proxy, no-resolve
 ip-cidr, 181.63.74.0/24, proxy, no-resolve
 ip-cidr, 181.63.76.0/22, proxy, no-resolve
 ip-cidr, 181.63.80.0/21, proxy, no-resolve
@@ -493,6 +493,7 @@ ip-cidr, 186.83.80.0/20, proxy, no-resolve
 ip-cidr, 186.83.96.0/22, proxy, no-resolve
 ip-cidr, 186.83.104.0/21, proxy, no-resolve
 ip-cidr, 186.83.112.0/22, proxy, no-resolve
+ip-cidr, 186.83.117.0/24, proxy, no-resolve
 ip-cidr, 186.83.118.0/24, proxy, no-resolve
 ip-cidr, 186.83.120.0/22, proxy, no-resolve
 ip-cidr, 186.83.132.0/22, proxy, no-resolve
@@ -656,7 +657,10 @@ ip-cidr, 186.144.128.0/21, proxy, no-resolve
 ip-cidr, 186.144.136.0/22, proxy, no-resolve
 ip-cidr, 186.144.144.0/21, proxy, no-resolve
 ip-cidr, 186.144.152.0/22, proxy, no-resolve
-ip-cidr, 186.144.160.0/20, proxy, no-resolve
+ip-cidr, 186.144.160.0/22, proxy, no-resolve
+ip-cidr, 186.144.164.0/23, proxy, no-resolve
+ip-cidr, 186.144.166.0/24, proxy, no-resolve
+ip-cidr, 186.144.168.0/21, proxy, no-resolve
 ip-cidr, 186.144.184.0/21, proxy, no-resolve
 ip-cidr, 186.144.192.0/20, proxy, no-resolve
 ip-cidr, 186.144.208.0/21, proxy, no-resolve
@@ -1191,7 +1195,6 @@ ip6-cidr, 2800:484:d200::/40, proxy, no-resolve
 ip6-cidr, 2800:484:d600::/40, proxy, no-resolve
 ip6-cidr, 2800:484:d800::/40, proxy, no-resolve
 ip6-cidr, 2800:484:db00::/40, proxy, no-resolve
-ip6-cidr, 2800:484:dc00::/40, proxy, no-resolve
 ip6-cidr, 2800:484:e200::/40, proxy, no-resolve
 ip6-cidr, 2800:484:e500::/40, proxy, no-resolve
 ip6-cidr, 2800:484:e700::/40, proxy, no-resolve
@@ -1202,7 +1205,6 @@ ip6-cidr, 2800:484:f500::/40, proxy, no-resolve
 ip6-cidr, 2800:484:f600::/39, proxy, no-resolve
 ip6-cidr, 2800:484:f800::/38, proxy, no-resolve
 ip6-cidr, 2800:484:fd00::/40, proxy, no-resolve
-ip6-cidr, 2800:484:ff00::/40, proxy, no-resolve
 ip6-cidr, 2800:486:700::/40, proxy, no-resolve
 ip6-cidr, 2800:486:800::/38, proxy, no-resolve
 ip6-cidr, 2800:486:e00::/39, proxy, no-resolve

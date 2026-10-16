@@ -1,0 +1,2 @@
+ip6-cidr, 2602:f72e:111::/48, proxy, no-resolve
+ip6-cidr, 2a12:bec3:10::/44, proxy, no-resolve
