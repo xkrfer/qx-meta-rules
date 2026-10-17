@@ -1,5 +1,5 @@
-host-suffix, kex.com, proxy
-host-suffix, liuxiaotong.com, proxy
+host-suffix, keycdn.com, proxy
+host-suffix, google.mu, proxy
 host-suffix, 1000giri.net, proxy
 host-suffix, 10beasts.net, proxy
 host-suffix, 10musume.com, proxy
@@ -56,6 +56,7 @@ host-suffix, 6parkbbs.com, proxy
 host-suffix, 6parker.com, proxy
 host-suffix, 6parknews.com, proxy
 host-suffix, 7capture.com, proxy
+host-suffix, 7x24hrs.com, proxy
 host-suffix, 8-d.com, proxy
 host-suffix, 85cc.us, proxy
 host-suffix, 881903.com, proxy
@@ -621,7 +622,7 @@ host-suffix, cableav.tv, proxy
 host-suffix, cablegatesearch.net, proxy
 host-suffix, cachefly.com, proxy
 host-suffix, cachefly.net, proxy
-host-suffix, 000webhost.com, proxy
+host-suffix, cacnw.com, proxy
 host-suffix, cactusvpn.com, proxy
 host-suffix, calebelston.com, proxy
 host-suffix, calendarz.com, proxy
@@ -683,7 +684,7 @@ host-suffix, cdp2006.org, proxy
 host-suffix, cdpeu.org, proxy
 host-suffix, yadi.sk, proxy
 host-suffix, cdpweb.org, proxy
-host-suffix, cdpwu.org, proxy
+host-suffix, kepard.com, proxy
 host-suffix, cdw.com, proxy
 host-suffix, cecc.gov, proxy
 host-suffix, cellulo.info, proxy
@@ -1059,7 +1060,7 @@ host-suffix, dpr.info, proxy
 host-suffix, dragonex.io, proxy
 host-suffix, dragonsprings.org, proxy
 host-suffix, drgan.net, proxy
-host-suffix, dropbooks.tv, proxy
+host-suffix, 000webhost.com, proxy
 host-suffix, dropbox.com, proxy
 host-suffix, dropboxapi.com, proxy
 host-suffix, dropboxusercontent.com, proxy
@@ -1702,7 +1703,7 @@ host-suffix, google.mk, proxy
 host-suffix, google.ml, proxy
 host-suffix, google.mn, proxy
 host-suffix, google.ms, proxy
-host-suffix, google.mu, proxy
+host-suffix, kex.com, proxy
 host-suffix, google.mv, proxy
 host-suffix, google.mw, proxy
 host-suffix, google.mx, proxy
@@ -2211,10 +2212,10 @@ host-suffix, vpnshieldapp.com, proxy
 host-suffix, kebrum.com, proxy
 host-suffix, kendatire.com, proxy
 host-suffix, kenengba.com, proxy
-host-suffix, kepard.com, proxy
-host-suffix, cacnw.com, proxy
+host-suffix, cdpwu.org, proxy
 host-suffix, 0rz.tw, proxy
-host-suffix, myjs.tw, proxy
+host-suffix, dropbooks.tv, proxy
+host-suffix, kfor.com, proxy
 host-suffix, khatrimaza.org, proxy
 host-suffix, vpnshazam.com, proxy
 host-suffix, kichiku-doujinko.com, proxy
@@ -2333,7 +2334,7 @@ host-suffix, listennotes.com, proxy
 host-suffix, listentoyoutube.com, proxy
 host-suffix, litenews.hk, proxy
 host-suffix, liuxiaobo.net, proxy
-host-suffix, keycdn.com, proxy
+host-suffix, liuxiaotong.com, proxy
 host-suffix, livecoin.net, proxy
 host-suffix, liveleak.com, proxy
 host-suffix, livemint.com, proxy
@@ -2460,7 +2461,9 @@ host-suffix, meridian-trust.org, proxy
 host-suffix, meripet.com, proxy
 host-suffix, voatibetan.com, proxy
 host-suffix, messenger.com, proxy
+host-suffix, meta.ai, proxy
 host-suffix, meta.com, proxy
+host-suffix, metaaivm.com, proxy
 host-suffix, metafilter.com, proxy
 host-suffix, metamask.io, proxy
 host-suffix, metart.com, proxy
@@ -2589,7 +2592,7 @@ host-suffix, mychinanews.com, proxy
 host-suffix, mycnnews.com, proxy
 host-suffix, myeclipseide.com, proxy
 host-suffix, myiphide.com, proxy
-host-suffix, kfor.com, proxy
+host-suffix, myjs.tw, proxy
 host-suffix, mykomica.org, proxy
 host-suffix, mymoe.moe, proxy
 host-suffix, myparagliding.com, proxy
