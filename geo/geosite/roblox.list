@@ -1,4 +1,7 @@
 host, d1unuk07s6td74.cloudfront.net, proxy
+host, d348twzf7a8p5.cloudfront.net, proxy
+host, devforum-uploads.s3.dualstack.us-east-2.amazonaws.com, proxy
+host, doy2mn9upadnk.cloudfront.net, proxy
 host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, proxy
 host, roblox-poc.global.ssl.fastly.net, proxy
 host, robloxcorp.s.llnwi.net, proxy

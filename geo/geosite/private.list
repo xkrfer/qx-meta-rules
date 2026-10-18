@@ -6,6 +6,8 @@ host, www.asusrouter.com, proxy
 host, oasisauth.h3c.com, proxy
 host, routerlogin.com, proxy
 host, www.routerlogin.com, proxy
+host, localhost.weixin.qq.com, proxy
+host, localhost.work.weixin.qq.com, proxy
 host, tplogin.cn, proxy
 host, miwifi.com, proxy
 host, www.miwifi.com, proxy

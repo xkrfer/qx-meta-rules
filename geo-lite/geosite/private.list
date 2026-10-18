@@ -119,6 +119,8 @@ host-suffix, zte.home, proxy
 host, asusrouter.com, proxy
 host, instant.arubanetworks.com, proxy
 host, local.adguard.org, proxy
+host, localhost.weixin.qq.com, proxy
+host, localhost.work.weixin.qq.com, proxy
 host, miwifi.com, proxy
 host, oasisauth.h3c.com, proxy
 host, router.asus.com, proxy
