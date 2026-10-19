@@ -1,4 +1,3 @@
-host, flightsimulator.azureedge.net, proxy
 host, prodforza.blob.core.windows.net, proxy
 host-suffix, xbox, proxy
 host-suffix, gamepass.com, proxy
@@ -24,8 +23,6 @@ host-suffix, xboxplayanywhere.com, proxy
 host-suffix, xboxservices.com, proxy
 host-suffix, xboxstudios.com, proxy
 host-suffix, xbx.lv, proxy
-host-suffix, asobostudio.com, proxy
-host-suffix, flightsimulator.com, proxy
 host-suffix, beth.games, proxy
 host-suffix, bethesda.net, proxy
 host-suffix, bethesdagamestudios.com, proxy

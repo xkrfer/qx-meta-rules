@@ -18,6 +18,7 @@ host-suffix, primevideo.com, proxy
 host-suffix, primevideo.info, proxy
 host-suffix, primevideo.org, proxy
 host-suffix, primevideo.tv, proxy
+host-suffix, pv-cdn.net, proxy
 host-suffix, prod.service.minerva.devices.a2z.com, proxy
 host-suffix, amazonprimevideo.cn, proxy
 host-suffix, amazonprimevideo.com.cn, proxy
