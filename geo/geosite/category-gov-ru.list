@@ -22,6 +22,7 @@ host-suffix, izbirkom.ru, proxy
 host-suffix, kremlin.ru, proxy
 host-suffix, mil.ru, proxy
 host-suffix, nalog.ru, proxy
+host-suffix, regionvideo.ru, proxy
 host-suffix, xn--80ajghhoc2aj1c8b.xn--p1ai, proxy
 host-suffix, xn--90aivcdt6dxbc.xn--p1ai, proxy
 host-suffix, xn--b1afabzvcegckfhg.xn--p1ai, proxy
@@ -140,3 +141,5 @@ host-suffix, surgut.ru, proxy
 host-suffix, yamal.ru, proxy
 host-suffix, yanao.ru, proxy
 host-suffix, zdrav10.ru, proxy
+host-suffix, mospat.ru, proxy
+host-suffix, patriarchia.ru, proxy

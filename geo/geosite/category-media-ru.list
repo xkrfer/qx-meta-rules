@@ -1,6 +1,6 @@
+host-suffix, rtde.live, proxy
+host-suffix, eurasiadaily.su, proxy
 host-suffix, 72.ru, proxy
-host-suffix, amic.ru, proxy
-host-suffix, e1.ru, proxy
 host-suffix, ekat.ru, proxy
 host-suffix, gazeta.ru, proxy
 host-suffix, rambler.ru, proxy
@@ -9,7 +9,14 @@ host-suffix, eadaily.info, proxy
 host-suffix, eadaily.net, proxy
 host-suffix, eadaily.org, proxy
 host-suffix, eadaily.su, proxy
-host-suffix, eurasiadaily.su, proxy
+host-suffix, rtde.me, proxy
+host-suffix, azbyka.ru, proxy
+host-suffix, posledovania.ru, proxy
+host-suffix, pravoslavie.ru, proxy
+host-suffix, webtypikon.ru, proxy
+host-suffix, xn--80adfddrquddgz.xn--p1ai, proxy
+host-suffix, pravmir.com, proxy
+host-suffix, pravmir.ru, proxy
 host-suffix, 1prime.ru, proxy
 host-suffix, sputnikimages.com, proxy
 host-suffix, rossiyasegodnya.com, proxy
@@ -27,6 +34,7 @@ host-suffix, jinrieluosi.cn, proxy
 host-suffix, sputnikmediabank.com, proxy
 host-suffix, sputniknews.com, proxy
 host-suffix, tok.media, proxy
+host-suffix, ruptly.video, proxy
 host-suffix, asiangooglenetwork.com, proxy
 host-suffix, rt.com, proxy
 host-suffix, rtnewsru.com, proxy
@@ -52,7 +60,7 @@ host-suffix, russieactuelle.fr, proxy
 host-suffix, de-rt.com, proxy
 host-suffix, de-rt.org, proxy
 host-suffix, de-rtnews.com, proxy
-host-suffix, de-rtnews.net, proxy
+host-suffix, rtde.media, proxy
 host-suffix, dert.online, proxy
 host-suffix, dert.site, proxy
 host-suffix, dert.tech, proxy
@@ -64,9 +72,9 @@ host-suffix, rtde.expert, proxy
 host-suffix, rtde.express, proxy
 host-suffix, rtde.info, proxy
 host-suffix, rtde.life, proxy
-host-suffix, rtde.live, proxy
-host-suffix, rtde.me, proxy
-host-suffix, rtde.media, proxy
+host-suffix, e1.ru, proxy
+host-suffix, amic.ru, proxy
+host-suffix, de-rtnews.net, proxy
 host-suffix, rtde.online, proxy
 host-suffix, rtde.org, proxy
 host-suffix, rtde.press, proxy
@@ -137,5 +145,4 @@ host-suffix, rtfestival.ru, proxy
 host-suffix, rt-school.online, proxy
 host-suffix, ruptly.agency, proxy
 host-suffix, ruptly.tv, proxy
-host-suffix, ruptly.video, proxy
 host-suffix, gazetarussa.com.br, proxy

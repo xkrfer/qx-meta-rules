@@ -172,6 +172,8 @@ host-suffix, vkplay.ru, proxy
 host-suffix, vkplay.live, proxy
 host-suffix, youla.io, proxy
 host-suffix, youla.ru, proxy
+host-suffix, dzen.ru, proxy
+host-suffix, dzeninfra.ru, proxy
 host-suffix, odnoklassniki.eu, proxy
 host-suffix, odnoklassniki.lv, proxy
 host-suffix, odkl.ru, proxy
@@ -225,8 +227,6 @@ host-suffix, vkpay.app, proxy
 host-suffix, vkpay.com, proxy
 host-suffix, vkpay.io, proxy
 host-suffix, vkpay.ru, proxy
-host-suffix, dzen.ru, proxy
-host-suffix, dzeninfra.ru, proxy
 host-suffix, odnoklassniki.co.ee, proxy
 host-suffix, ad.mail.ru, proxy
 host-suffix, ads.viqeo.tv, proxy
@@ -281,6 +281,8 @@ host, t.mail.ru, proxy
 host, top-staging.mail.ru, proxy
 host, whiteline.mail.ru, proxy
 host, xray.mail.ru, proxy
+host-suffix, log.dzen.ru, proxy
+host-suffix, ms.dzen.ru, proxy
 host-suffix, adv.vk.com, proxy
 host-suffix, analytics.vk.com, proxy
 host-suffix, ms.vk.com, proxy
@@ -296,5 +298,3 @@ host, advk.vk.ru, proxy
 host, analytics.vk.ru, proxy
 host, stats.vk-portal.net, proxy
 host, target.vk.com, proxy
-host-suffix, log.dzen.ru, proxy
-host-suffix, ms.dzen.ru, proxy

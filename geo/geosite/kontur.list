@@ -1,5 +1,7 @@
-host-suffix, kontur.ru, proxy
-host-suffix, kontur.host, proxy
 host-suffix, kontur-inc.com, proxy
+host-suffix, kontur.host, proxy
+host-suffix, kontur.ru, proxy
+host-suffix, ktalk.host, proxy
+host-suffix, ktalk.ru, proxy
 host, metrika.kontur.ru, proxy
 host, sentry.kontur.host, proxy
