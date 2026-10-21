@@ -1,3 +1,5 @@
+host-suffix, avito.com, proxy
 host-suffix, avito.ru, proxy
 host-suffix, avito.st, proxy
+host-suffix, avito.tech, proxy
 host, stats.avito.ru, proxy

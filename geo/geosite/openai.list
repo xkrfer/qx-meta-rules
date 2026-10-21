@@ -20,4 +20,5 @@ host-suffix, turn.livekit.cloud, proxy
 host-suffix, openai.com.cdn.cloudflare.net, proxy
 host, browser-intake-datadoghq.com, proxy
 host, o33249.ingest.sentry.io, proxy
+host, o33249.ingest.us.sentry.io, proxy
 host, openai.qualtrics.com, proxy
