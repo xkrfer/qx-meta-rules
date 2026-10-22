@@ -333,6 +333,7 @@ ip-cidr, 196.223.6.0/24, proxy, no-resolve
 ip-cidr, 196.249.64.0/18, proxy, no-resolve
 ip-cidr, 197.149.176.0/22, proxy, no-resolve
 ip-cidr, 197.152.0.0/16, proxy, no-resolve
+ip-cidr, 197.158.255.0/24, proxy, no-resolve
 ip-cidr, 197.186.0.0/15, proxy, no-resolve
 ip-cidr, 197.215.240.0/20, proxy, no-resolve
 ip-cidr, 197.221.192.0/19, proxy, no-resolve

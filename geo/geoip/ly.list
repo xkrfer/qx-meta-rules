@@ -97,6 +97,7 @@ ip-cidr, 104.28.245.132/30, proxy, no-resolve
 ip-cidr, 104.28.245.136/32, proxy, no-resolve
 ip-cidr, 104.29.202.229/32, proxy, no-resolve
 ip-cidr, 104.29.202.230/31, proxy, no-resolve
+ip-cidr, 109.66.138.0/24, proxy, no-resolve
 ip-cidr, 140.248.34.146/31, proxy, no-resolve
 ip-cidr, 140.248.36.186/31, proxy, no-resolve
 ip-cidr, 140.248.56.135/32, proxy, no-resolve

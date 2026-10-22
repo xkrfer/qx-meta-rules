@@ -227,7 +227,7 @@ ip-cidr, 172.225.192.0/28, proxy, no-resolve
 ip-cidr, 172.226.10.48/28, proxy, no-resolve
 ip-cidr, 172.226.21.160/28, proxy, no-resolve
 ip-cidr, 172.226.189.160/27, proxy, no-resolve
-ip-cidr, 172.226.199.128/25, proxy, no-resolve
+ip-cidr, 172.226.199.128/27, proxy, no-resolve
 ip-cidr, 173.244.43.0/25, proxy, no-resolve
 ip-cidr, 173.255.163.192/26, proxy, no-resolve
 ip-cidr, 185.121.178.88/29, proxy, no-resolve
