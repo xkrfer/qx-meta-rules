@@ -2,3 +2,4 @@ ip-cidr, 44.32.75.0/24, proxy, no-resolve
 ip6-cidr, 2a11:f2c0:ffd0::/47, proxy, no-resolve
 ip6-cidr, 2a11:f2c0:ffd4::/46, proxy, no-resolve
 ip6-cidr, 2a11:f2c0:ffdc::/47, proxy, no-resolve
+ip6-cidr, 2a11:f2c0:ffde::/48, proxy, no-resolve

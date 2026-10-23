@@ -1,8 +1,8 @@
-host-suffix, ovdinfo.legal, proxy
-host-suffix, 24.kg, proxy
+host-suffix, ozodi.org, proxy
+host-suffix, ovd.info, proxy
 host-suffix, agents.media, proxy
 host-suffix, arbatmedia.kz, proxy
-host-suffix, ozodi.org, proxy
+host-suffix, arsvest.ru, proxy
 host-suffix, astra.press, proxy
 host-suffix, azathabar.com, proxy
 host-suffix, azattyq.org, proxy
@@ -24,7 +24,7 @@ host-suffix, ekhokavkaza.com, proxy
 host-suffix, euronews.com, proxy
 host-suffix, euroradio.fm, proxy
 host-suffix, fn-volga.ru, proxy
-host-suffix, paperpaper.ru, proxy
+host-suffix, fonge.org, proxy
 host-suffix, fortanga.org, proxy
 host-suffix, freeburyatia.org, proxy
 host-suffix, freemedia.io, proxy
@@ -46,7 +46,7 @@ host-suffix, kedr.media, proxy
 host-suffix, korrespondent.net, proxy
 host-suffix, kovcheg.live, proxy
 host-suffix, krymr.com, proxy
-host-suffix, locals.md, proxy
+host-suffix, 24.kg, proxy
 host-suffix, zerkalo.io, proxy
 host-suffix, zasekin.ru, proxy
 host-suffix, zahav.ru, proxy
@@ -54,6 +54,7 @@ host-suffix, mediazona.ca, proxy
 host-suffix, meduza.io, proxy
 host-suffix, metla.press, proxy
 host-suffix, mignews.com, proxy
+host-suffix, navalny.com, proxy
 host-suffix, newizv.ru, proxy
 host-suffix, newtimes.ru, proxy
 host-suffix, novaya.media, proxy
@@ -61,10 +62,10 @@ host-suffix, novayagazeta.eu, proxy
 host-suffix, novayagazeta.ru, proxy
 host-suffix, openmedia.io, proxy
 host-suffix, opposition-news.com, proxy
-host-suffix, ovd.info, proxy
-host-suffix, arsvest.ru, proxy
+host-suffix, paperpaper.ru, proxy
 host-suffix, activatica.org, proxy
-host-suffix, fonge.org, proxy
+host-suffix, locals.md, proxy
+host-suffix, ovdinfo.legal, proxy
 host-suffix, poligon.media, proxy
 host-suffix, polit.ru, proxy
 host-suffix, wonderzine.com, proxy

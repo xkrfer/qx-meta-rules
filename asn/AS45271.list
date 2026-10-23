@@ -330,8 +330,8 @@ ip6-cidr, 2402:8100:320c::/48, proxy, no-resolve
 ip6-cidr, 2402:8100:3211::/48, proxy, no-resolve
 ip6-cidr, 2402:8100:3240::/42, proxy, no-resolve
 ip6-cidr, 2402:8100:3280::/42, proxy, no-resolve
-ip6-cidr, 2402:8100:3300::/42, proxy, no-resolve
-ip6-cidr, 2402:8100:3340::/43, proxy, no-resolve
+ip6-cidr, 2402:8100:3300::/41, proxy, no-resolve
+ip6-cidr, 2402:8100:3380::/43, proxy, no-resolve
 ip6-cidr, 2402:8100:3440::/42, proxy, no-resolve
 ip6-cidr, 2402:8100:3480::/43, proxy, no-resolve
 ip6-cidr, 2402:8100:3702::/48, proxy, no-resolve

@@ -1,6 +1,4 @@
-ip-cidr, 80.246.128.0/24, proxy, no-resolve
-ip-cidr, 80.246.130.0/23, proxy, no-resolve
-ip-cidr, 80.246.132.0/22, proxy, no-resolve
+ip-cidr, 80.246.128.0/21, proxy, no-resolve
 ip-cidr, 80.246.137.0/24, proxy, no-resolve
 ip-cidr, 80.246.138.0/24, proxy, no-resolve
 ip-cidr, 80.246.140.0/23, proxy, no-resolve

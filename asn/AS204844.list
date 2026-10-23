@@ -31,4 +31,3 @@ ip6-cidr, 2a14:7581:6f20::/43, proxy, no-resolve
 ip6-cidr, 2a14:7581:6f40::/42, proxy, no-resolve
 ip6-cidr, 2a14:7581:6f80::/43, proxy, no-resolve
 ip6-cidr, 2a14:7581:6fb0::/44, proxy, no-resolve
-ip6-cidr, 2a14:7581:6fc0::/44, proxy, no-resolve

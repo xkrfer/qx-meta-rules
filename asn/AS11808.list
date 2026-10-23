@@ -2,7 +2,6 @@ ip-cidr, 129.101.128.0/18, proxy, no-resolve
 ip-cidr, 129.101.192.0/20, proxy, no-resolve
 ip-cidr, 129.101.208.0/21, proxy, no-resolve
 ip-cidr, 129.101.216.0/22, proxy, no-resolve
-ip-cidr, 129.101.221.0/24, proxy, no-resolve
 ip-cidr, 129.101.222.0/23, proxy, no-resolve
 ip-cidr, 129.101.224.0/20, proxy, no-resolve
 ip-cidr, 129.101.240.0/21, proxy, no-resolve

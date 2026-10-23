@@ -38,6 +38,7 @@ ip6-cidr, 2806:310:e::/47, proxy, no-resolve
 ip6-cidr, 2806:310:18::/45, proxy, no-resolve
 ip6-cidr, 2806:310:20::/44, proxy, no-resolve
 ip6-cidr, 2806:310:30::/45, proxy, no-resolve
+ip6-cidr, 2806:310:60::/47, proxy, no-resolve
 ip6-cidr, 2806:310:100::/43, proxy, no-resolve
 ip6-cidr, 2806:310:120::/44, proxy, no-resolve
 ip6-cidr, 2806:310:130::/45, proxy, no-resolve

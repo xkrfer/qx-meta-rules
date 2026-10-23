@@ -66,5 +66,4 @@ ip-cidr, 202.66.172.0/22, proxy, no-resolve
 ip-cidr, 202.94.172.0/23, proxy, no-resolve
 ip6-cidr, 2001:df7:49c0::/48, proxy, no-resolve
 ip6-cidr, 2405:7140:2::/48, proxy, no-resolve
-ip6-cidr, 2405:7140:4::/47, proxy, no-resolve
-ip6-cidr, 2405:7140:6::/48, proxy, no-resolve
+ip6-cidr, 2405:7140:4::/46, proxy, no-resolve

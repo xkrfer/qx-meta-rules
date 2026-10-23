@@ -71,4 +71,5 @@ ip6-cidr, 2606:5e86:8000::/36, proxy, no-resolve
 ip6-cidr, 2606:5e86:a000::/35, proxy, no-resolve
 ip6-cidr, 2606:5e86:c000::/35, proxy, no-resolve
 ip6-cidr, 2606:5e88:2000::/36, proxy, no-resolve
+ip6-cidr, 2606:5e88:a000::/36, proxy, no-resolve
 ip6-cidr, 2606:5e8c:7000::/36, proxy, no-resolve

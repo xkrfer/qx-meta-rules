@@ -324,12 +324,14 @@ ip-cidr, 187.77.96.0/21, proxy, no-resolve
 ip-cidr, 187.77.108.0/22, proxy, no-resolve
 ip-cidr, 187.77.112.0/20, proxy, no-resolve
 ip-cidr, 187.77.128.0/17, proxy, no-resolve
+ip-cidr, 187.78.176.0/20, proxy, no-resolve
 ip-cidr, 187.124.0.0/18, proxy, no-resolve
 ip-cidr, 187.124.64.0/19, proxy, no-resolve
 ip-cidr, 187.124.96.0/20, proxy, no-resolve
 ip-cidr, 187.124.112.0/21, proxy, no-resolve
 ip-cidr, 187.124.120.0/23, proxy, no-resolve
 ip-cidr, 187.124.128.0/17, proxy, no-resolve
+ip-cidr, 187.126.0.0/19, proxy, no-resolve
 ip-cidr, 187.126.112.0/20, proxy, no-resolve
 ip-cidr, 187.127.0.0/16, proxy, no-resolve
 ip-cidr, 189.10.112.0/20, proxy, no-resolve
