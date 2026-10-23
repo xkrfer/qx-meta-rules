@@ -1,3 +1,2 @@
 IP-CIDR,128.254.225.0/24,no-resolve
-IP-CIDR6,2602:fbec:600::/39,no-resolve
 IP-CIDR6,2602:fbec:e00::/40,no-resolve

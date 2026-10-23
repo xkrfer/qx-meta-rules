@@ -9,4 +9,7 @@ IP-CIDR,69.57.208.0/21,no-resolve
 IP-CIDR,69.57.216.0/22,no-resolve
 IP-CIDR,69.57.220.0/23,no-resolve
 IP-CIDR,69.57.222.0/24,no-resolve
+IP-CIDR,143.203.112.0/22,no-resolve
+IP-CIDR,155.103.164.0/22,no-resolve
 IP-CIDR,192.133.101.0/24,no-resolve
+IP-CIDR6,2620:5d:a000::/48,no-resolve

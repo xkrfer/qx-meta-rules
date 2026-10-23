@@ -36,7 +36,6 @@ IP-CIDR,217.10.128.0/19,no-resolve
 IP-CIDR,217.20.16.0/20,no-resolve
 IP-CIDR,217.61.176.0/20,no-resolve
 IP-CIDR,217.169.32.0/19,no-resolve
-IP-CIDR6,2001:67c:2644::/48,no-resolve
 IP-CIDR6,2001:1b90::/32,no-resolve
 IP-CIDR6,2a01:450::/32,no-resolve
 IP-CIDR6,2a02:298::/32,no-resolve

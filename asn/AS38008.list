@@ -15,6 +15,7 @@ IP-CIDR6,2400:58a0:1c01::/48,no-resolve
 IP-CIDR6,2400:58a0:1c03::/48,no-resolve
 IP-CIDR6,2400:58a0:1c09::/48,no-resolve
 IP-CIDR6,2400:58a0:1c0a::/48,no-resolve
+IP-CIDR6,2400:58a0:1c0c::/48,no-resolve
 IP-CIDR6,2400:58a0:1c0f::/48,no-resolve
 IP-CIDR6,2400:58a0:1c10::/44,no-resolve
 IP-CIDR6,2400:58a0:1c20::/43,no-resolve

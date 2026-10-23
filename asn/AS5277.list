@@ -1,6 +1,7 @@
 IP-CIDR,6.16.86.0/23,no-resolve
+IP-CIDR,6.16.201.0/24,no-resolve
 IP-CIDR,6.148.80.0/24,no-resolve
-IP-CIDR,6.148.82.0/24,no-resolve
+IP-CIDR,6.148.82.0/23,no-resolve
 IP-CIDR,143.77.0.0/16,no-resolve
 IP-CIDR,143.138.0.0/16,no-resolve
 IP-CIDR,144.59.0.0/16,no-resolve

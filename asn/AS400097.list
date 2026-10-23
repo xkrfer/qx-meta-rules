@@ -24,6 +24,7 @@ IP-CIDR6,2606:3d40:4000::/48,no-resolve
 IP-CIDR6,2606:3d40:4c00::/48,no-resolve
 IP-CIDR6,2606:3d40:4d01::/48,no-resolve
 IP-CIDR6,2606:3d40:5200::/48,no-resolve
+IP-CIDR6,2606:3d40:5301::/48,no-resolve
 IP-CIDR6,2606:3d40:5d00::/51,no-resolve
 IP-CIDR6,2606:3d40:5d00:2000::/55,no-resolve
 IP-CIDR6,2606:3d40:5d00:2200::/56,no-resolve

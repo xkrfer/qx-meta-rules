@@ -8,7 +8,17 @@ IP-CIDR,181.50.64.0/22,no-resolve
 IP-CIDR,181.50.68.0/24,no-resolve
 IP-CIDR,181.50.80.0/20,no-resolve
 IP-CIDR,181.50.96.0/20,no-resolve
-IP-CIDR,181.50.112.0/21,no-resolve
+IP-CIDR,181.50.112.0/23,no-resolve
+IP-CIDR,181.50.114.0/24,no-resolve
+IP-CIDR,181.50.115.0/25,no-resolve
+IP-CIDR,181.50.115.128/28,no-resolve
+IP-CIDR,181.50.115.144/29,no-resolve
+IP-CIDR,181.50.115.152/30,no-resolve
+IP-CIDR,181.50.115.156/32,no-resolve
+IP-CIDR,181.50.115.158/31,no-resolve
+IP-CIDR,181.50.115.160/27,no-resolve
+IP-CIDR,181.50.115.192/26,no-resolve
+IP-CIDR,181.50.116.0/22,no-resolve
 IP-CIDR,181.50.120.0/22,no-resolve
 IP-CIDR,181.50.128.0/23,no-resolve
 IP-CIDR,181.50.136.0/21,no-resolve
@@ -1193,7 +1203,6 @@ IP-CIDR6,2800:484:ce00::/39,no-resolve
 IP-CIDR6,2800:484:d000::/39,no-resolve
 IP-CIDR6,2800:484:d200::/40,no-resolve
 IP-CIDR6,2800:484:d600::/40,no-resolve
-IP-CIDR6,2800:484:d800::/40,no-resolve
 IP-CIDR6,2800:484:db00::/40,no-resolve
 IP-CIDR6,2800:484:e200::/40,no-resolve
 IP-CIDR6,2800:484:e500::/40,no-resolve

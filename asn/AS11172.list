@@ -267,9 +267,10 @@ IP-CIDR6,2001:1248:9e4c::/48,no-resolve
 IP-CIDR6,2001:1248:9e51::/48,no-resolve
 IP-CIDR6,2001:1248:9e52::/47,no-resolve
 IP-CIDR6,2001:1248:9e54::/46,no-resolve
-IP-CIDR6,2001:1248:9e58::/46,no-resolve
-IP-CIDR6,2001:1248:9e5c::/47,no-resolve
-IP-CIDR6,2001:1248:9e5e::/48,no-resolve
+IP-CIDR6,2001:1248:9e58::/45,no-resolve
+IP-CIDR6,2001:1248:9e60::/45,no-resolve
+IP-CIDR6,2001:1248:9e68::/47,no-resolve
+IP-CIDR6,2001:1248:9e6b::/48,no-resolve
 IP-CIDR6,2001:1248:9f00::/40,no-resolve
 IP-CIDR6,2001:1248:a002::/48,no-resolve
 IP-CIDR6,2001:1248:a006::/47,no-resolve

@@ -122,4 +122,5 @@ IP-CIDR6,2407:c080:8000::/36,no-resolve
 IP-CIDR6,2409:2000::/31,no-resolve
 IP-CIDR6,2409:2002::/32,no-resolve
 IP-CIDR6,2409:2003::/47,no-resolve
+IP-CIDR6,2409:2003:10::/44,no-resolve
 IP-CIDR6,2409:27fe::/33,no-resolve

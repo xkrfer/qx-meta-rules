@@ -6,6 +6,7 @@ IP-CIDR6,2a0f:9400:6010::/46,no-resolve
 IP-CIDR6,2a0f:9400:6014::/47,no-resolve
 IP-CIDR6,2a0f:9400:6016::/48,no-resolve
 IP-CIDR6,2a0f:9400:6018::/47,no-resolve
+IP-CIDR6,2a0f:9400:6020::/48,no-resolve
 IP-CIDR6,2a0f:9400:6053::/48,no-resolve
 IP-CIDR6,2a0f:9400:60ff::/48,no-resolve
 IP-CIDR6,2a0f:b240:1c::/48,no-resolve

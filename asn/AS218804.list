@@ -1,2 +1,3 @@
 IP-CIDR6,2a06:9801:fc7::/48,no-resolve
-IP-CIDR6,2a0f:6280:1084::/46,no-resolve
+IP-CIDR6,2a0f:6280:1084::/47,no-resolve
+IP-CIDR6,2a0f:6280:1086::/48,no-resolve

@@ -110,8 +110,7 @@ IP-CIDR,120.222.144.0/22,no-resolve
 IP-CIDR,120.222.150.0/23,no-resolve
 IP-CIDR,120.222.160.0/20,no-resolve
 IP-CIDR,120.222.176.0/21,no-resolve
-IP-CIDR,120.223.0.0/17,no-resolve
-IP-CIDR,120.223.128.0/20,no-resolve
+IP-CIDR,120.223.0.0/18,no-resolve
 IP-CIDR,120.224.0.0/15,no-resolve
 IP-CIDR,211.137.176.0/20,no-resolve
 IP-CIDR,211.137.192.0/20,no-resolve

@@ -1,2 +1,2 @@
 IP-CIDR,204.58.14.0/24,no-resolve
-IP-CIDR6,2602:f43a::/40,no-resolve
+IP-CIDR6,2602:f43a::/47,no-resolve

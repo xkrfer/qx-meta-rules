@@ -38,6 +38,7 @@ IP-CIDR6,2806:310:e::/47,no-resolve
 IP-CIDR6,2806:310:18::/45,no-resolve
 IP-CIDR6,2806:310:20::/44,no-resolve
 IP-CIDR6,2806:310:30::/45,no-resolve
+IP-CIDR6,2806:310:60::/47,no-resolve
 IP-CIDR6,2806:310:100::/43,no-resolve
 IP-CIDR6,2806:310:120::/44,no-resolve
 IP-CIDR6,2806:310:130::/45,no-resolve

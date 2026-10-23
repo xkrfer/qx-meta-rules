@@ -31,4 +31,3 @@ IP-CIDR6,2a14:7581:6f20::/43,no-resolve
 IP-CIDR6,2a14:7581:6f40::/42,no-resolve
 IP-CIDR6,2a14:7581:6f80::/43,no-resolve
 IP-CIDR6,2a14:7581:6fb0::/44,no-resolve
-IP-CIDR6,2a14:7581:6fc0::/44,no-resolve
