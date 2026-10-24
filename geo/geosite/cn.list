@@ -50,8 +50,8 @@ host-suffix, citic, proxy
 host-suffix, baidu, proxy
 host-suffix, anquan, proxy
 host-suffix, alipay, proxy
-host-suffix, jspatch.com, proxy
-host-suffix, hfray.com, proxy
+host-suffix, jspcinc.com, proxy
+host-suffix, formtalk.net, proxy
 host-suffix, 027yx.com, proxy
 host-suffix, 027zb.com, proxy
 host-suffix, 027zikao.com, proxy
@@ -6430,7 +6430,7 @@ host-suffix, 666666.host, proxy
 host-suffix, 6666m.vip, proxy
 host-suffix, 6666ppt.com, proxy
 host-suffix, 6666sa.com, proxy
-host-suffix, 6666xsw.com, proxy
+host-suffix, jsxdyh.com, proxy
 host-suffix, 6668dns.com, proxy
 host-suffix, 6669832.com, proxy
 host-suffix, 666bos.com, proxy
@@ -28972,7 +28972,7 @@ host-suffix, dongguantoday.com, proxy
 host-suffix, donghaidl.com, proxy
 host-suffix, donghaifunds.com, proxy
 host-suffix, donghaileasing.com, proxy
-host-suffix, jsxdyh.com, proxy
+host-suffix, donghaotest.com, proxy
 host-suffix, donghetea.com, proxy
 host-suffix, donghongzx.com, proxy
 host-suffix, donghuangshanquan.com, proxy
@@ -34323,7 +34323,7 @@ host-suffix, form-create.com, proxy
 host-suffix, formeasy.cc, proxy
 host-suffix, formingcn.com, proxy
 host-suffix, formssi.com, proxy
-host-suffix, formtalk.net, proxy
+host-suffix, jsxdf.com, proxy
 host-suffix, fornature.com, proxy
 host-suffix, forrealbio.com, proxy
 host-suffix, forrelaxing.com, proxy
@@ -44438,7 +44438,7 @@ host-suffix, hfplg.com, proxy
 host-suffix, hfpx.cc, proxy
 host-suffix, hfqgmagnet.com, proxy
 host-suffix, hfqinhang.com, proxy
-host-suffix, jsxdf.com, proxy
+host-suffix, hfray.com, proxy
 host-suffix, hfrc.net, proxy
 host-suffix, hfrcbc.com, proxy
 host-suffix, hfrsggff.com, proxy
@@ -55085,9 +55085,9 @@ host-suffix, jsomick.com, proxy
 host-suffix, jsonin.com, proxy
 host-suffix, jsososo.com, proxy
 host-suffix, jspang.com, proxy
-host-suffix, 0.zone, proxy
+host-suffix, jspatch.com, proxy
 host-suffix, jspcgjg.com, proxy
-host-suffix, jspcinc.com, proxy
+host-suffix, 0.zone, proxy
 host-suffix, jspdg.com, proxy
 host-suffix, jspeople.com, proxy
 host-suffix, jspesz.com, proxy
@@ -55246,9 +55246,9 @@ host-suffix, jswyw.com, proxy
 host-suffix, jswzjt.com, proxy
 host-suffix, jsxbxcl.com, proxy
 host-suffix, jsxcra.com, proxy
-host-suffix, snail.com, proxy
+host-suffix, mweda.com, proxy
 host-suffix, 027wcbyy.com, proxy
-host-suffix, donghaotest.com, proxy
+host-suffix, 6666xsw.com, proxy
 host-suffix, jsxfedu.com, proxy
 host-suffix, jsxggx.com, proxy
 host-suffix, jsxgjt.com, proxy
@@ -66264,7 +66264,7 @@ host-suffix, mwclg.com, proxy
 host-suffix, mwcloudcdn.com, proxy
 host-suffix, mwcloudcdn.info, proxy
 host-suffix, mwcname.com, proxy
-host-suffix, mweda.com, proxy
+host-suffix, jsxcx.com, proxy
 host-suffix, mwemp.com, proxy
 host-suffix, mwjournalchina.com, proxy
 host-suffix, mwkj.net, proxy
@@ -82522,7 +82522,7 @@ host-suffix, smzjy.cc, proxy
 host-suffix, smzy.com, proxy
 host-suffix, sn180.com, proxy
 host-suffix, snai.edu, proxy
-host-suffix, jsxcx.com, proxy
+host-suffix, snail.com, proxy
 host-suffix, snail007.com, proxy
 host-suffix, snailgame.net, proxy
 host-suffix, snailovet.com, proxy
@@ -85683,6 +85683,8 @@ host-suffix, sztxsz.com, proxy
 host-suffix, szty56.com, proxy
 host-suffix, sztz.org, proxy
 host-suffix, sztzzs.com, proxy
+host-suffix, szu.app, proxy
+host-suffix, szu.moe, proxy
 host-suffix, szuavia.org, proxy
 host-suffix, szudad.com, proxy
 host-suffix, szunionlab.com, proxy

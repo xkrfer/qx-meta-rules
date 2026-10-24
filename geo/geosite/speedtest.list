@@ -6,8 +6,15 @@ host-suffix, ekahau.com, proxy
 host-suffix, ookla.com, proxy
 host-suffix, ooklaserver.net, proxy
 host-suffix, pingtest.net, proxy
+host-suffix, speedtest.app, proxy
+host-suffix, speedtest.cc, proxy
 host-suffix, speedtest.co, proxy
+host-suffix, speedtest.ee, proxy
+host-suffix, speedtest.in, proxy
+host-suffix, speedtest.me, proxy
 host-suffix, speedtest.net, proxy
+host-suffix, speedtest.ng, proxy
+host-suffix, speedtest.tv, proxy
 host-suffix, speedtestcustom.com, proxy
 host-suffix, webtest.net, proxy
 host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk, proxy

@@ -1,2 +1,4 @@
 host-suffix, openspeedtest.com, proxy
+host-suffix, openspeedtest.in, proxy
+host-suffix, openspeedtest.org, proxy
 host-suffix, open.cachefly.net, proxy
