@@ -1,3 +1,4 @@
+host, stats.avito.ru, proxy
 host, ad.ozone.ru, proxy
 host, adv.ozon.ru, proxy
 host, agency-adv.ozon.ru, proxy
@@ -31,4 +32,3 @@ host, marketing-info.wildberries.ru, proxy
 host, marketplace-sentry.wb.ru, proxy
 host, sentry.wb.ru, proxy
 host, web-analytics.wildberries.ru, proxy
-host, stats.avito.ru, proxy

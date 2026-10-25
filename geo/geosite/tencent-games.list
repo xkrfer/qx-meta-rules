@@ -1,5 +1,5 @@
-host-suffix, videoxiaoyouxi.com, proxy
-host-suffix, wegame.com, proxy
+host-suffix, wcbygame.com, proxy
+host-suffix, yxdmgame.com, proxy
 host-suffix, gameloop.com, proxy
 host-suffix, gcloudcs.com, proxy
 host-suffix, gcloudcstest.com, proxy
@@ -7,7 +7,6 @@ host-suffix, gcloudcstestonly.com, proxy
 host-suffix, gclouddolphin.com, proxy
 host-suffix, gcloudsdk.com, proxy
 host-suffix, gcloudsvcs.com, proxy
-host-suffix, yxdmgame.com, proxy
 host-suffix, goto-game.com, proxy
 host-suffix, goto-game.mobi, proxy
 host-suffix, goto-game.org, proxy
@@ -20,7 +19,7 @@ host-suffix, in.th, proxy
 host-suffix, ludosuperstar.cn, proxy
 host-suffix, ludoworld.net, proxy
 host-suffix, mahjongai.net, proxy
-host-suffix, battlecare.net, proxy
+host-suffix, mahjongcup.cn, proxy
 host-suffix, mahjongcup.com, proxy
 host-suffix, mahjongcup.net, proxy
 host-suffix, metalrevolution.com, proxy
@@ -32,7 +31,7 @@ host-suffix, pubgno1.cn, proxy
 host-suffix, pubgtool.com, proxy
 host-suffix, qqgameapp.com, proxy
 host-suffix, rmwxgame.com, proxy
-host-suffix, skydweller.cn, proxy
+host-suffix, yximg.cn, proxy
 host-suffix, syxlgame.com, proxy
 host-suffix, tencent-gcloud.com, proxy
 host-suffix, tencentstart.com, proxy
@@ -40,10 +39,10 @@ host-suffix, texasholdemcup.cn, proxy
 host-suffix, texasholdemcup.com, proxy
 host-suffix, texasholdemcup.net, proxy
 host-suffix, timibase.com, proxy
-host-suffix, mahjongcup.cn, proxy
+host-suffix, videoxiaoyouxi.com, proxy
 host-suffix, gameitop.com, proxy
-host-suffix, gdtimg.com, proxy
-host-suffix, yximg.cn, proxy
+host-suffix, battlecare.net, proxy
+host-suffix, skydweller.cn, proxy
 host-suffix, yxwsgame.com, proxy
 host-suffix, yzyxgame.com, proxy
 host-suffix, zcjbgame.com, proxy
@@ -62,7 +61,7 @@ host-suffix, gotolink.net, proxy
 host-suffix, 17roco.com, proxy
 host-suffix, gtgres.com, proxy
 host-suffix, realcybertron.com, proxy
-host-suffix, wcbygame.com, proxy
+host-suffix, wegame.com, proxy
 host-suffix, anticheatexpert.com, proxy
 host-suffix, tcfmglobal.com, proxy
 host-suffix, bcfmglobal.com, proxy

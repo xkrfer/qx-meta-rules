@@ -1,3 +1,8 @@
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, update.crashlytics.com, proxy
+host-suffix, jetbrains.com.cn, proxy
+host-suffix, cdn.jetbrains.com, proxy
 host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
@@ -17,8 +22,3 @@ host-suffix, researchkit.cn, proxy
 host-suffix, researchkit.com.cn, proxy
 host-suffix, swiftui.cn, proxy
 host-suffix, swiftui.com.cn, proxy
-host, crashlyticsreports-pa.googleapis.com, proxy
-host, firebase-settings.crashlytics.com, proxy
-host, update.crashlytics.com, proxy
-host-suffix, jetbrains.com.cn, proxy
-host-suffix, cdn.jetbrains.com, proxy

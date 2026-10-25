@@ -25,6 +25,7 @@ host-suffix, btrace.qq.com, proxy
 host-suffix, bugly.qq.com, proxy
 host-suffix, e.qq.com, proxy
 host-suffix, gdt.qq.com, proxy
+host-suffix, gdtimg.com, proxy
 host-suffix, hq-tracking.qq.com, proxy
 host-suffix, htrace.wetvinfo.com, proxy
 host-suffix, isdspeed.qq.com, proxy
@@ -47,7 +48,6 @@ host-suffix, tpstelemetry.tencent.com, proxy
 host-suffix, trace.qq.com, proxy
 host-suffix, ugdtimg.com, proxy
 host-suffix, wit.qq.com, proxy
-host-suffix, badjs.weixinbridge.com, proxy
 host-suffix, ad.tencentmusic.com, proxy
 host-suffix, adstats.tencentmusic.com, proxy
 host-suffix, monitor.music.qq.com, proxy
@@ -69,3 +69,4 @@ host-suffix, pb.i.sogou.com, proxy
 host-suffix, theta.sogoucdn.com, proxy
 host-suffix, uranus.sogou.com, proxy
 host-suffix, wuliao.epro.sogou.com, proxy
+host-suffix, badjs.weixinbridge.com, proxy
