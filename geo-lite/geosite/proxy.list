@@ -130,7 +130,10 @@ host-suffix, behance.net, proxy
 host-suffix, bet365.com, proxy
 host-suffix, betvictor.com, proxy
 host-suffix, bibox.com, proxy
+host-suffix, bidobido.xyz, proxy
 host-suffix, bigsound.org, proxy
+host-suffix, bikaios.xyz, proxy
+host-suffix, bikawebapp.com, proxy
 host-suffix, binance.cc, proxy
 host-suffix, binance.com, proxy
 host-suffix, binance.me, proxy
@@ -379,6 +382,7 @@ host-suffix, discordstatus.com, proxy
 host-suffix, disq.us, proxy
 host-suffix, disqus.com, proxy
 host-suffix, disquscdn.com, proxy
+host-suffix, diwodiwo.xyz, proxy
 host-suffix, dler.io, proxy
 host-suffix, dlive.tv, proxy
 host-suffix, dmm.co.jp, proxy
@@ -397,6 +401,7 @@ host-suffix, dubox.com, proxy
 host-suffix, duckduckgo.com, proxy
 host-suffix, dueapp.com, proxy
 host-suffix, dw.com, proxy
+host-suffix, e-hentai.org, proxy
 host-suffix, earthcam.com, proxy
 host-suffix, easybib.com, proxy
 host-suffix, economist.com, proxy
@@ -412,6 +417,7 @@ host-suffix, episodic.com, proxy
 host-suffix, etherscan.io, proxy
 host-suffix, eurekavpt.com, proxy
 host-suffix, evernote.com, proxy
+host-suffix, exhentai.org, proxy
 host-suffix, extmatrix.com, proxy
 host-suffix, eyny.com, proxy
 host-suffix, f8.com, proxy
@@ -837,6 +843,7 @@ host-suffix, howtogetmo.co.uk, proxy
 host-suffix, hoyolab.com, proxy
 host-suffix, hoyoverse.com, proxy
 host-suffix, html5rocks.com, proxy
+host-suffix, huakacomic.com, proxy
 host-suffix, huffpost.com, proxy
 host-suffix, hulu.com, proxy
 host-suffix, humblebundle.com, proxy
@@ -938,6 +945,7 @@ host-suffix, macrumors.com, proxy
 host-suffix, madewithcode.com, proxy
 host-suffix, mailchimp.com, proxy
 host-suffix, mangaup.jp, proxy
+host-suffix, manhuabika.com, proxy
 host-suffix, manhuaren.com, proxy
 host-suffix, marketwatch.com, proxy
 host-suffix, mashable.com, proxy
@@ -1097,6 +1105,7 @@ host-suffix, periscope.tv, proxy
 host-suffix, phncdn.com, proxy
 host-suffix, phprcdn.com, proxy
 host-suffix, piaotian.net, proxy
+host-suffix, pica-id.com, proxy
 host-suffix, picacomic.com, proxy
 host-suffix, picasa.com, proxy
 host-suffix, picasaweb.com, proxy
@@ -1343,6 +1352,7 @@ host-suffix, tineye.com, proxy
 host-suffix, tiny.cc, proxy
 host-suffix, tinychat.com, proxy
 host-suffix, tinypic.com, proxy
+host-suffix, tipatipa.xyz, proxy
 host-suffix, tmagazine.com, proxy
 host-suffix, tmblr.co, proxy
 host-suffix, todoist.com, proxy
@@ -1490,6 +1500,7 @@ host-suffix, westpoint.edu, proxy
 host-suffix, whatbrowser.org, proxy
 host-suffix, whoer.net, proxy
 host-suffix, widevine.com, proxy
+host-suffix, wikawika.xyz, proxy
 host-suffix, wikibooks.org, proxy
 host-suffix, wikidata.org, proxy
 host-suffix, wikifunctions.org, proxy

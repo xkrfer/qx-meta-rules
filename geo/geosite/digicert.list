@@ -16,6 +16,8 @@ host-suffix, symauth.com, proxy
 host-suffix, symcb.com, proxy
 host-suffix, symcd.com, proxy
 host-suffix, digicert.co.jp, proxy
+host-suffix, pki.symantec.com, proxy
+host-suffix, ws.symantec.com, proxy
 host-suffix, cybertrust.co.jp, proxy
 host-suffix, cybertrust.ne.jp, proxy
 host-suffix, adobe-crl.verisign.com, proxy
@@ -68,7 +70,5 @@ host-suffix, svrsecure-t1-aia.verisign.com, proxy
 host-suffix, svrsecure-t1-crl.verisign.com, proxy
 host-suffix, svrtrial-g2-aia.verisign.com, proxy
 host-suffix, svrtrial-g2-crl.verisign.com, proxy
-host-suffix, pki.symantec.com, proxy
-host-suffix, ws.symantec.com, proxy
 host-suffix, dcocsp.cn, proxy
 host-suffix, digicert.cn, proxy
