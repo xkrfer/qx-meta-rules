@@ -1,5 +1,5 @@
 host-suffix, volcanoarkshare.com, proxy
-host-suffix, volcdns.com, proxy
+host-suffix, speedifyvolcaiv2.com, proxy
 host-suffix, aigc-cloud.com, proxy
 host-suffix, aka815.net, proxy
 host-suffix, ark-doc-resources.cn, proxy
@@ -86,7 +86,7 @@ host-suffix, multilingual-volc.com, proxy
 host-suffix, omini-shield.com, proxy
 host-suffix, openviking.net, proxy
 host-suffix, qingfuwu.cn, proxy
-host-suffix, qingfuwu.com, proxy
+host-suffix, ai-guardrail.com, proxy
 host-suffix, qingfuwuapi.cn, proxy
 host-suffix, qingfuwucdn.com, proxy
 host-suffix, sealsuite.com, proxy
@@ -94,7 +94,7 @@ host-suffix, sealsuite.net, proxy
 host-suffix, slbauto.com, proxy
 host-suffix, sms18.com, proxy
 host-suffix, speedifyvolcai.com, proxy
-host-suffix, speedifyvolcaiv2.com, proxy
+host-suffix, volcapig.com, proxy
 host-suffix, szacq.cn, proxy
 host-suffix, toutiaopan.com, proxy
 host-suffix, toutiaopanapi.com, proxy
@@ -121,7 +121,7 @@ host-suffix, vegtm.net, proxy
 host-suffix, veicplive.com, proxy
 host-suffix, veigagslb.com, proxy
 host-suffix, veigagslb.net, proxy
-host-suffix, vemarsdev.com, proxy
+host-suffix, volcapp.com, proxy
 host-suffix, vemarsstatic.com, proxy
 host-suffix, vemarsweb.com, proxy
 host-suffix, vertciot.com, proxy
@@ -136,9 +136,9 @@ host-suffix, volcadocean.com, proxy
 host-suffix, volcadvc.com, proxy
 host-suffix, volcalb.com, proxy
 host-suffix, volcanoaisearchshare.com, proxy
-host-suffix, volccdn1.com, proxy
+host-suffix, qingfuwu.com, proxy
 host-suffix, ai-kaleidoscope.com, proxy
-host-suffix, volcdns.pub, proxy
+host-suffix, vemarsdev.com, proxy
 host-suffix, volcappbuilder.com, proxy
 host-suffix, volcautovod.com, proxy
 host-suffix, volcbiz.com, proxy
@@ -147,7 +147,7 @@ host-suffix, volcca.com, proxy
 host-suffix, volcca.net, proxy
 host-suffix, volccdn.cn, proxy
 host-suffix, volccdn.com, proxy
-host-suffix, ai-guardrail.com, proxy
+host-suffix, volccdn1.com, proxy
 host-suffix, volccdn2.com, proxy
 host-suffix, volccloudidentity.com, proxy
 host-suffix, volcdcdnlb.net, proxy
@@ -156,12 +156,11 @@ host-suffix, volcddos001.com, proxy
 host-suffix, volcdem.com, proxy
 host-suffix, volcdlspace.cn, proxy
 host-suffix, volcdn.com, proxy
-host-suffix, volcapig.com, proxy
-host-suffix, volcapp.com, proxy
+host-suffix, volcdns.com, proxy
+host-suffix, volcdns.pub, proxy
 host-suffix, volcdsagslb.net, proxy
 host-suffix, volcdsalb.net, proxy
 host-suffix, volceapi.com, proxy
-host-suffix, volceapplog.com, proxy
 host-suffix, volcecr.com, proxy
 host-suffix, volcecw.com, proxy
 host-suffix, volcenginapi.com, proxy
@@ -277,3 +276,4 @@ host-suffix, byteplusapi-test.com.cn, proxy
 host-suffix, byteplus-api.com.cn, proxy
 host-suffix, byteplus-api-test.com.cn, proxy
 host-suffix, ai-guardrail.com.cn, proxy
+host-suffix, volceapplog.com, proxy

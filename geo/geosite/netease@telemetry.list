@@ -1,0 +1,4 @@
+host-suffix, analytics.163.com, proxy
+host-suffix, crash.163.com, proxy
+host-suffix, crashlytics.163.com, proxy
+host-suffix, sentry.music.163.com, proxy

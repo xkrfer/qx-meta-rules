@@ -1,0 +1,5 @@
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, firebaselogging-pa.googleapis.com, proxy
+host, firebaselogging.googleapis.com, proxy
+host, update.crashlytics.com, proxy

@@ -249,12 +249,12 @@ host-suffix, compresspdf.new, proxy
 host-suffix, pdf.new, proxy
 host-suffix, sign.new, proxy
 host-suffix, scene7.com, proxy
-host-suffix, adobestats.io, proxy
 host-suffix, typekit.com, proxy
 host-suffix, typekit.net, proxy
 host-suffix, mageconf.com.ua, proxy
 host-suffix, marketo.co.uk, proxy
 host-suffix, adobedc.cn, proxy
+host-suffix, adobestats.io, proxy
 host-suffix, advertising.adobe.com, proxy
 host-suffix, demdex.net, proxy
 host-suffix, tubemogul.com, proxy

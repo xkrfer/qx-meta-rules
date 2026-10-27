@@ -5,6 +5,6 @@ host, osu.ppy.sh, proxy
 host, m1.ppy.sh, proxy
 host, lazer.ppy.sh, proxy
 host, notify.ppy.sh, proxy
-host, sentry.ppy.sh, proxy
 host, spectator.ppy.sh, proxy
 host-suffix, ppy.sh, proxy
+host, sentry.ppy.sh, proxy

@@ -71,4 +71,6 @@ host-suffix, visualstudio.co.uk, proxy
 host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
+host, dc.services.visualstudio.com, proxy
 host, download.visualstudio.microsoft.com, proxy
+host, rt.services.visualstudio.com, proxy

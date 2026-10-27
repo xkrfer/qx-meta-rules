@@ -1,6 +1,5 @@
 host-suffix, meitu.com, proxy
 host-suffix, meitudata.com, proxy
-host-suffix, meitustat.com, proxy
 host-suffix, designkit.cn, proxy
 host-suffix, kaipai.com, proxy
 host-suffix, meipai.com, proxy
@@ -11,3 +10,4 @@ host-suffix, roboneo.com, proxy
 host-suffix, whee.com, proxy
 host-suffix, wink.cn, proxy
 host-suffix, zcool.com.cn, proxy
+host-suffix, meitustat.com, proxy

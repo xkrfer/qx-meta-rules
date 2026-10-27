@@ -41,7 +41,6 @@ host-suffix, seeip.cn, proxy
 host-suffix, todetect.cn, proxy
 host-suffix, whatip.cn, proxy
 host-suffix, whatismyip.com.cn, proxy
-host-suffix, testipv6.cn, proxy
 host, ip.3322.net, proxy
 host, ip.gymcalc.cn, proxy
 host, ip.kutool.com, proxy
@@ -52,3 +51,4 @@ host, ipv6test.wcode.net, proxy
 host, mip.chinaz.com, proxy
 host, v6test.ipgg.cn, proxy
 host-suffix, whois.pconline.com.cn, proxy
+host-suffix, testipv6.cn, proxy

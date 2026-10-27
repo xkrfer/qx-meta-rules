@@ -1,0 +1,4 @@
+host-suffix, adashx.ut.amap.com, proxy
+host-suffix, dualstack-logs.amap.com, proxy
+host-suffix, logs.amap.com, proxy
+host-suffix, v6-adashx.ut.amap.com, proxy

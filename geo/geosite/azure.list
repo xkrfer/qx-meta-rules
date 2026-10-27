@@ -99,6 +99,7 @@ host-suffix, chinacloudapi.cn, proxy
 host-suffix, chinacloudapp.cn, proxy
 host-suffix, chinacloudsites.cn, proxy
 host-suffix, hdinsightservices.cn, proxy
+host-suffix, in.applicationinsights.azure.com, proxy
 host-suffix, management-azure-devices-provisioning.cn, proxy
 host-suffix, management-azure-devices.cn, proxy
 host-suffix, mcchcdn.com, proxy
@@ -138,6 +139,8 @@ host-suffix, azchcdnp.com, proxy
 host-suffix, azchcdnq.com, proxy
 host-suffix, azchcdnr.com, proxy
 host-suffix, azchcdns.com, proxy
+host, dc.applicationinsights.azure.com, proxy
+host, live.applicationinsights.azure.com, proxy
 host-suffix, azure-dns.cn, proxy
 host-suffix, azure-dns-1.cn, proxy
 host-suffix, azure-dns-2.cn, proxy

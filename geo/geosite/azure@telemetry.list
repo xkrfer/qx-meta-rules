@@ -1,0 +1,3 @@
+host-suffix, in.applicationinsights.azure.com, proxy
+host, dc.applicationinsights.azure.com, proxy
+host, live.applicationinsights.azure.com, proxy

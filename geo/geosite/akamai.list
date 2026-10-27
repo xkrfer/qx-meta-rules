@@ -60,7 +60,6 @@ host-suffix, akamqi.com, proxy
 host-suffix, akastream.com, proxy
 host-suffix, akastream.net, proxy
 host-suffix, akatns.net, proxy
-host-suffix, akstat.io, proxy
 host-suffix, edgekey.net, proxy
 host-suffix, edgesuite.net, proxy
 host-suffix, iamakamai.com, proxy
@@ -73,6 +72,7 @@ host-suffix, akadns88.net, proxy
 host-suffix, akadns99.net, proxy
 host-suffix, akamai.com, proxy
 host-suffix, akcdn.com.cn, proxy
+host-suffix, akstat.io, proxy
 host-suffix, aptdn.net, proxy
 host-suffix, edgekey88.net, proxy
 host-suffix, janrain.biz, proxy

@@ -69,8 +69,8 @@ host-suffix, azure, proxy
 host-suffix, xbox, proxy
 host-suffix, onedriveupdater, proxy
 host-suffix, onedrive, proxy
-host-suffix, microsoftnews.net, proxy
-host-suffix, internetexplorer.com, proxy
+host-suffix, microsoftnews.org, proxy
+host-suffix, xbox.eu, proxy
 host-suffix, microsoft.com, proxy
 host-suffix, microsoft.cz, proxy
 host-suffix, microsoft.de, proxy
@@ -107,9 +107,6 @@ host-suffix, m12.vc, proxy
 host-suffix, a-msedge.net, proxy
 host-suffix, aka.ms, proxy
 host-suffix, ankarazirvesi2018.com, proxy
-host-suffix, applicationinsights.io, proxy
-host-suffix, applicationinsights.net, proxy
-host-suffix, aria.ms, proxy
 host-suffix, asp.net, proxy
 host-suffix, aspnetcdn.com, proxy
 host-suffix, binads.com, proxy
@@ -155,7 +152,7 @@ host-suffix, ie9.com, proxy
 host-suffix, imaginecup.pl, proxy
 host-suffix, ingads.com, proxy
 host-suffix, internetexplorer.co, proxy
-host-suffix, microsoftnewskids.com, proxy
+host-suffix, internetexplorer.com, proxy
 host-suffix, intunewiki.com, proxy
 host-suffix, iotinactionevents.com, proxy
 host-suffix, kidgrid.tv, proxy
@@ -171,7 +168,7 @@ host-suffix, managedmeetingrooms.com, proxy
 host-suffix, meetfasttrack.com, proxy
 host-suffix, meetyourdevices.com, proxy
 host-suffix, mepn.com, proxy
-host-suffix, microsoftnewsforkids.org, proxy
+host-suffix, microsoftedgeinsider.com, proxy
 host-suffix, microsoft-falcon.io, proxy
 host-suffix, microsoft-int.com, proxy
 host-suffix, microsoft-ppe.com, proxy
@@ -265,7 +262,7 @@ host-suffix, sharepointonline.com, proxy
 host-suffix, signalr.net, proxy
 host-suffix, skype.com, proxy
 host-suffix, skype.net, proxy
-host-suffix, skypeassets.com, proxy
+host-suffix, microsoftnewskids.org, proxy
 host-suffix, skypeassets.net, proxy
 host-suffix, spo-msedge.net, proxy
 host-suffix, staffhub.ms, proxy
@@ -275,7 +272,7 @@ host-suffix, svc.ms, proxy
 host-suffix, sway-cdn.com, proxy
 host-suffix, sway.com, proxy
 host-suffix, sysinternals.com, proxy
-host-suffix, microsoftnewskids.net, proxy
+host-suffix, t-msedge.net, proxy
 host-suffix, tailwindtraders.com, proxy
 host-suffix, techhub.ms, proxy
 host-suffix, tfsallin.net, proxy
@@ -307,14 +304,14 @@ host-suffix, microsoftnews.cc, proxy
 host-suffix, xamarin.com, proxy
 host-suffix, vscodeedu.com, proxy
 host-suffix, microsoftnews.com, proxy
+host-suffix, microsoftnews.net, proxy
 host-suffix, microsoft.ch, proxy
-host-suffix, microsoftnews.org, proxy
 host-suffix, microsoftnewsforkids.com, proxy
 host-suffix, microsoftnewsforkids.net, proxy
-host-suffix, microsoftedgeinsider.com, proxy
+host-suffix, microsoftnewsforkids.org, proxy
+host-suffix, xboxservices.com, proxy
 host-suffix, microsoft.cl, proxy
-host-suffix, t-msedge.net, proxy
-host-suffix, microsoftnewskids.org, proxy
+host-suffix, skypeassets.com, proxy
 host-suffix, msn.com, proxy
 host-suffix, msnewskids.com, proxy
 host-suffix, msnewskids.net, proxy
@@ -344,7 +341,7 @@ host-suffix, renovacionxboxlive.com, proxy
 host-suffix, tellmewhygame.com, proxy
 host-suffix, xbox.co, proxy
 host-suffix, xbox.com, proxy
-host-suffix, xbox.eu, proxy
+host-suffix, microsoftnewskids.net, proxy
 host-suffix, xbox.org, proxy
 host-suffix, xbox360.co, proxy
 host-suffix, xbox360.com, proxy
@@ -358,7 +355,7 @@ host-suffix, xboxone.co, proxy
 host-suffix, xboxone.com, proxy
 host-suffix, xboxone.eu, proxy
 host-suffix, xboxplayanywhere.com, proxy
-host-suffix, xboxservices.com, proxy
+host-suffix, microsoftnewskids.com, proxy
 host-suffix, xboxstudios.com, proxy
 host-suffix, xbx.lv, proxy
 host-suffix, beth.games, proxy
@@ -544,6 +541,10 @@ host-suffix, visualstudio.co.uk, proxy
 host-suffix, spoprod-a.akamaihd.net, proxy
 host-suffix, skype-edf.akadns.net, proxy
 host-suffix, microsoftstore.com.hk, proxy
+host-suffix, applicationinsights.io, proxy
+host-suffix, applicationinsights.net, proxy
+host-suffix, aria.ms, proxy
+host-suffix, data.microsoft.com, proxy
 host-suffix, dynamics.cn, proxy
 host-suffix, engkoo.com, proxy
 host-suffix, lync.cn, proxy
@@ -578,6 +579,7 @@ host-suffix, powerappsportals.cn, proxy
 host-suffix, powerautomate.cn, proxy
 host-suffix, powerbi.cn, proxy
 host-suffix, sharepoint.cn, proxy
+host-suffix, telemetry.microsoft.com, proxy
 host-suffix, clarity.ms, proxy
 host-suffix, microsoftads.com, proxy
 host-suffix, msads.net, proxy
@@ -677,6 +679,7 @@ host-suffix, chinacloudapi.cn, proxy
 host-suffix, chinacloudapp.cn, proxy
 host-suffix, chinacloudsites.cn, proxy
 host-suffix, hdinsightservices.cn, proxy
+host-suffix, in.applicationinsights.azure.com, proxy
 host-suffix, management-azure-devices-provisioning.cn, proxy
 host-suffix, management-azure-devices.cn, proxy
 host-suffix, mcchcdn.com, proxy
@@ -716,6 +719,8 @@ host-suffix, azchcdnp.com, proxy
 host-suffix, azchcdnq.com, proxy
 host-suffix, azchcdnr.com, proxy
 host-suffix, azchcdns.com, proxy
+host, dc.applicationinsights.azure.com, proxy
+host, live.applicationinsights.azure.com, proxy
 host-suffix, azure-dns.cn, proxy
 host-suffix, azure-dns-1.cn, proxy
 host-suffix, azure-dns-2.cn, proxy
@@ -743,4 +748,6 @@ host, copilot-telemetry.githubusercontent.com, proxy
 host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
+host, dc.services.visualstudio.com, proxy
 host, download.visualstudio.microsoft.com, proxy
+host, rt.services.visualstudio.com, proxy

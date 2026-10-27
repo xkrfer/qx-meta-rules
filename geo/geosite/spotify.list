@@ -3,7 +3,6 @@ host, audio4-ak-spotify-com.akamaized.net, proxy
 host, cdn-spotify-experiments.conductrics.com, proxy
 host, heads-ak-spotify-com.akamaized.net, proxy
 host, heads4-ak-spotify-com.akamaized.net, proxy
-host, spotify.com.edgesuite.net, proxy
 host, spotify.map.fastly.net, proxy
 host, spotify.map.fastlylb.net, proxy
 host-suffix, byspotify.com, proxy
@@ -23,6 +22,7 @@ host-suffix, spotifyforbrands.com, proxy
 host-suffix, spotifyforvendors.com, proxy
 host-suffix, spotifyjobs.com, proxy
 host-suffix, tospotify.com, proxy
+host-suffix, spotify.com.edgesuite.net, proxy
 host, adeventtracker.spotify.com, proxy
 host, adstudio-assets.scdn.co, proxy
 host, bloodhound.spotify.com, proxy

@@ -1,0 +1,5 @@
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy

@@ -1,0 +1,3 @@
+host-suffix, cloudflareinsights.com, proxy
+host-suffix, cloudflareinsights-cn.com, proxy
+host-suffix, akstat.io, proxy

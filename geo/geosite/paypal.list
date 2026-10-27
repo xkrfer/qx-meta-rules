@@ -136,7 +136,6 @@ host-suffix, paypal.jp, proxy
 host-suffix, paypal.me, proxy
 host-suffix, paypal.so, proxy
 host-suffix, paypal.us, proxy
-host-suffix, paypalbeacon.com, proxy
 host-suffix, paypalbenefits.com, proxy
 host-suffix, paypalbrasil.com, proxy
 host-suffix, paypalcommunity.com, proxy
@@ -238,6 +237,7 @@ host-suffix, beibao.com.cn, proxy
 host-suffix, paypal.com.cn, proxy
 host-suffix, paypal.net.cn, proxy
 host-suffix, paypal.org.cn, proxy
+host-suffix, paypalbeacon.com, proxy
 host-suffix, paypalcommunity.cn, proxy
 host-suffix, paypalhere.cn, proxy
 host-suffix, paypalhere.com.cn, proxy

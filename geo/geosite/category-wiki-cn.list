@@ -2,7 +2,6 @@ host, app.moegirl.org.cn, proxy
 host, storage.moegirl.org.cn, proxy
 host-suffix, allhistory.com, proxy
 host-suffix, fgo.wiki, proxy
-host-suffix, jikipedia.com, proxy
 host-suffix, mbalib.com, proxy
 host-suffix, sec-wiki.com, proxy
 host-suffix, shidianbaike.com, proxy
