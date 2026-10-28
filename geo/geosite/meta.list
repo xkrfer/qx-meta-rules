@@ -4,6 +4,7 @@ host-suffix, atmeta.com, proxy
 host-suffix, llama.com, proxy
 host-suffix, meta.ai, proxy
 host-suffix, meta.com, proxy
+host-suffix, metaaiusercontent.com, proxy
 host-suffix, metaaivm.com, proxy
 host-suffix, muse.ai, proxy
 host-suffix, aboutfacebook.com, proxy

@@ -1,4 +1,5 @@
 host-suffix, adx.36kr.com, proxy
+host-suffix, ad.cctv.com, proxy
 host-suffix, adnet.sohu.com, proxy
 host-suffix, ads.sohu.com, proxy
 host-suffix, adv-sv-show.focus.cn, proxy
@@ -15,4 +16,3 @@ host-suffix, qpb.sohu.com, proxy
 host-suffix, qpb1.sohu.com, proxy
 host-suffix, reke.at.sohu.com, proxy
 host-suffix, track.sohu.com, proxy
-host-suffix, ad.cctv.com, proxy
