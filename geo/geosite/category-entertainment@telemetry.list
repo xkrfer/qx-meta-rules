@@ -1,4 +1,4 @@
-host, sentry.ppy.sh, proxy
+host, disney.my.sentry.io, proxy
 host-suffix, insights-collector.gog.com, proxy
 host-suffix, log-upload-os.hoyoverse.com, proxy
-host, disney.my.sentry.io, proxy
+host, sentry.ppy.sh, proxy
