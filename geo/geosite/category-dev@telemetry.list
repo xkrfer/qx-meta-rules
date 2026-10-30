@@ -1,8 +1,8 @@
+host, dc.services.visualstudio.com, proxy
+host, rt.services.visualstudio.com, proxy
 host-suffix, analytics.cloud.unity3d.com, proxy
 host-suffix, perf.cloud.unity3d.com, proxy
 host-suffix, perf-events.cloud.unity3d.com, proxy
-host, dc.services.visualstudio.com, proxy
-host, rt.services.visualstudio.com, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, firebaselogging-pa.googleapis.com, proxy

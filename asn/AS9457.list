@@ -395,4 +395,6 @@ ip-cidr, 220.230.242.0/24, proxy, no-resolve
 ip-cidr, 220.230.244.0/22, proxy, no-resolve
 ip-cidr, 220.230.248.0/22, proxy, no-resolve
 ip-cidr, 220.230.252.0/23, proxy, no-resolve
+ip-cidr, 223.26.231.0/24, proxy, no-resolve
+ip-cidr, 223.26.234.0/24, proxy, no-resolve
 ip6-cidr, 2001:c48::/32, proxy, no-resolve

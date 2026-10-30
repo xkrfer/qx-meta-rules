@@ -97,7 +97,6 @@ ip-cidr, 210.4.240.0/20, proxy, no-resolve
 ip-cidr, 210.146.96.0/19, proxy, no-resolve
 ip-cidr, 210.155.240.0/20, proxy, no-resolve
 ip-cidr, 210.158.224.0/19, proxy, no-resolve
-ip-cidr, 210.171.160.0/20, proxy, no-resolve
 ip-cidr, 210.171.240.0/20, proxy, no-resolve
 ip-cidr, 211.7.64.0/19, proxy, no-resolve
 ip-cidr, 211.133.192.0/19, proxy, no-resolve

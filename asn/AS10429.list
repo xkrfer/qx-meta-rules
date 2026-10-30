@@ -101,5 +101,4 @@ ip6-cidr, 2804:18:1920::/43, proxy, no-resolve
 ip6-cidr, 2804:18:5890::/44, proxy, no-resolve
 ip6-cidr, 2804:18:6810::/45, proxy, no-resolve
 ip6-cidr, 2804:18:6818::/47, proxy, no-resolve
-ip6-cidr, 2804:1b2:f106::/47, proxy, no-resolve
 ip6-cidr, 2804:1b2:f180::/41, proxy, no-resolve

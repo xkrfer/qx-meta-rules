@@ -40,4 +40,5 @@ ip6-cidr, 240e:874:e80::/41, proxy, no-resolve
 ip6-cidr, 240e:874:f00::/40, proxy, no-resolve
 ip6-cidr, 240e:874:1000::/41, proxy, no-resolve
 ip6-cidr, 240e:874:1100::/40, proxy, no-resolve
+ip6-cidr, 240e:874:1200::/43, proxy, no-resolve
 ip6-cidr, 240e:875:8000::/42, proxy, no-resolve

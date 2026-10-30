@@ -106,6 +106,7 @@ ip6-cidr, 2607:fb10:7300::/42, proxy, no-resolve
 ip6-cidr, 2607:fb10:7340::/43, proxy, no-resolve
 ip6-cidr, 2607:fb10:7360::/46, proxy, no-resolve
 ip6-cidr, 2607:fb10:7364::/47, proxy, no-resolve
+ip6-cidr, 2607:fb10:7367::/48, proxy, no-resolve
 ip6-cidr, 2607:fb10:7368::/45, proxy, no-resolve
 ip6-cidr, 2607:fb10:7370::/44, proxy, no-resolve
 ip6-cidr, 2607:fb10:7380::/41, proxy, no-resolve

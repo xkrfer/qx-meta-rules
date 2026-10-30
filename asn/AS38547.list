@@ -1,3 +1,4 @@
+ip-cidr, 113.203.241.0/24, proxy, no-resolve
 ip-cidr, 202.92.16.0/23, proxy, no-resolve
 ip-cidr, 202.92.24.0/24, proxy, no-resolve
 ip-cidr, 202.92.28.0/23, proxy, no-resolve

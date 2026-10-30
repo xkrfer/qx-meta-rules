@@ -12,14 +12,4 @@ ip6-cidr, 2602:f766:80::/41, proxy, no-resolve
 ip6-cidr, 2602:f766:100::/40, proxy, no-resolve
 ip6-cidr, 2602:f766:200::/39, proxy, no-resolve
 ip6-cidr, 2602:f766:400::/38, proxy, no-resolve
-ip6-cidr, 2602:f766:800::/38, proxy, no-resolve
-ip6-cidr, 2602:f766:c01::/48, proxy, no-resolve
-ip6-cidr, 2602:f766:c02::/47, proxy, no-resolve
-ip6-cidr, 2602:f766:c04::/46, proxy, no-resolve
-ip6-cidr, 2602:f766:c08::/45, proxy, no-resolve
-ip6-cidr, 2602:f766:c10::/44, proxy, no-resolve
-ip6-cidr, 2602:f766:c20::/43, proxy, no-resolve
-ip6-cidr, 2602:f766:c40::/42, proxy, no-resolve
-ip6-cidr, 2602:f766:c80::/41, proxy, no-resolve
-ip6-cidr, 2602:f766:d00::/40, proxy, no-resolve
-ip6-cidr, 2602:f766:e00::/39, proxy, no-resolve
+ip6-cidr, 2602:f766:800::/37, proxy, no-resolve

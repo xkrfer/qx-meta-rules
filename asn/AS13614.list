@@ -108,9 +108,7 @@ ip6-cidr, 2604:a200:3002:40::/59, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:60::/64, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:62::/63, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:64::/62, proxy, no-resolve
-ip6-cidr, 2604:a200:3002:68::/62, proxy, no-resolve
-ip6-cidr, 2604:a200:3002:6d::/64, proxy, no-resolve
-ip6-cidr, 2604:a200:3002:6e::/63, proxy, no-resolve
+ip6-cidr, 2604:a200:3002:68::/61, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:70::/60, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:80::/57, proxy, no-resolve
 ip6-cidr, 2604:a200:3002:100::/56, proxy, no-resolve

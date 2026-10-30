@@ -1,3 +1,2 @@
-ip-cidr, 201.71.8.0/23, proxy, no-resolve
-ip-cidr, 201.71.10.0/24, proxy, no-resolve
+ip-cidr, 201.71.8.0/22, proxy, no-resolve
 ip6-cidr, 2804:69a8::/32, proxy, no-resolve

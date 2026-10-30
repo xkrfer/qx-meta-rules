@@ -5,5 +5,6 @@ ip6-cidr, 2804:8d94:1000::/43, proxy, no-resolve
 ip6-cidr, 2804:8d94:1060::/43, proxy, no-resolve
 ip6-cidr, 2804:8d94:1600::/42, proxy, no-resolve
 ip6-cidr, 2804:8d94:1880::/43, proxy, no-resolve
+ip6-cidr, 2804:8d94:5000::/43, proxy, no-resolve
 ip6-cidr, 2804:8d94:8000::/48, proxy, no-resolve
 ip6-cidr, 2804:8d94:9000::/43, proxy, no-resolve

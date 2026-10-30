@@ -13,5 +13,5 @@ ip-cidr, 170.203.236.172/30, proxy, no-resolve
 ip-cidr, 170.203.236.176/28, proxy, no-resolve
 ip-cidr, 170.203.236.192/26, proxy, no-resolve
 ip-cidr, 170.203.237.0/24, proxy, no-resolve
-ip-cidr, 170.203.238.0/23, proxy, no-resolve
+ip-cidr, 170.203.239.0/24, proxy, no-resolve
 ip-cidr, 198.135.164.0/23, proxy, no-resolve

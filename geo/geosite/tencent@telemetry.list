@@ -12,7 +12,7 @@ host-suffix, rmonitor.qq.com, proxy
 host-suffix, sngmta.qq.com, proxy
 host-suffix, tpstelemetry.tencent.com, proxy
 host-suffix, trace.qq.com, proxy
-host-suffix, badjs.weixinbridge.com, proxy
 host-suffix, monitor.music.qq.com, proxy
 host-suffix, report.tencentmusic.com, proxy
 host-suffix, stat.y.qq.com, proxy
+host-suffix, badjs.weixinbridge.com, proxy

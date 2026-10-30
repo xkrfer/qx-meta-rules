@@ -1,1 +1,2 @@
 ip-cidr, 178.214.98.0/24, proxy, no-resolve
+ip-cidr, 178.214.120.0/24, proxy, no-resolve
