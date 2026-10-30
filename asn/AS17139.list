@@ -10,4 +10,5 @@ IP-CIDR,173.247.228.0/23,no-resolve
 IP-CIDR,173.247.231.0/24,no-resolve
 IP-CIDR,173.247.232.0/23,no-resolve
 IP-CIDR,173.247.236.0/23,no-resolve
+IP-CIDR,173.247.239.0/24,no-resolve
 IP-CIDR6,2607:fca8::/32,no-resolve

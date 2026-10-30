@@ -53,5 +53,3 @@ IP-CIDR,213.21.253.0/24,no-resolve
 IP-CIDR6,2a01:ecc0:1::/48,no-resolve
 IP-CIDR6,2a01:ecc0:5::/48,no-resolve
 IP-CIDR6,2a01:ecc0:8c0::/42,no-resolve
-IP-CIDR6,2a0f:cdc6:10::/44,no-resolve
-IP-CIDR6,2a0f:cdc6:20::/43,no-resolve

@@ -2,3 +2,4 @@ IP-CIDR,62.144.62.0/24,no-resolve
 IP-CIDR6,2a06:9801:85::/48,no-resolve
 IP-CIDR6,2a07:2486:400f::/48,no-resolve
 IP-CIDR6,2a14:7581:5080::/44,no-resolve
+IP-CIDR6,2a14:7581:5107::/48,no-resolve

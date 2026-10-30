@@ -44,7 +44,10 @@ IP-CIDR,200.69.96.0/19,no-resolve
 IP-CIDR,200.75.32.0/19,no-resolve
 IP-CIDR,200.93.128.0/18,no-resolve
 IP-CIDR,200.119.0.0/17,no-resolve
-IP-CIDR,201.219.112.0/20,no-resolve
+IP-CIDR,201.219.112.0/23,no-resolve
+IP-CIDR,201.219.115.0/24,no-resolve
+IP-CIDR,201.219.116.0/22,no-resolve
+IP-CIDR,201.219.120.0/21,no-resolve
 IP-CIDR,201.244.0.0/15,no-resolve
 IP-CIDR6,2800:260::/31,no-resolve
 IP-CIDR6,2800:26a::/31,no-resolve

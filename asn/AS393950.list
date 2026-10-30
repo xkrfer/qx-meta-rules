@@ -7,7 +7,7 @@ IP-CIDR,104.251.174.0/23,no-resolve
 IP-CIDR,107.181.32.0/24,no-resolve
 IP-CIDR,172.98.128.0/20,no-resolve
 IP-CIDR,192.81.0.0/21,no-resolve
-IP-CIDR6,2604:50::/47,no-resolve
+IP-CIDR6,2604:50::/48,no-resolve
 IP-CIDR6,2604:50:2::/48,no-resolve
 IP-CIDR6,2604:50:4::/48,no-resolve
 IP-CIDR6,2604:50:9::/48,no-resolve

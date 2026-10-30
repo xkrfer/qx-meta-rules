@@ -18,4 +18,6 @@ IP-CIDR6,2400:4fc0:39::/48,no-resolve
 IP-CIDR6,2400:4fc0:3a::/47,no-resolve
 IP-CIDR6,2400:4fc0:3c::/47,no-resolve
 IP-CIDR6,2400:4fc0:3f::/48,no-resolve
-IP-CIDR6,2400:4fc0:40::/48,no-resolve
+IP-CIDR6,2400:4fc0:40::/45,no-resolve
+IP-CIDR6,2400:4fc0:48::/47,no-resolve
+IP-CIDR6,2400:4fc0:4a::/48,no-resolve

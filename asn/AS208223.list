@@ -4,7 +4,6 @@ IP-CIDR6,2401:af20:1a30::/48,no-resolve
 IP-CIDR6,2401:af20:1a3b::/48,no-resolve
 IP-CIDR6,2401:af20:1a3f::/48,no-resolve
 IP-CIDR6,2401:af20:1ad1::/48,no-resolve
-IP-CIDR6,2401:af20:1ad2::/48,no-resolve
 IP-CIDR6,2401:af20:1ad4::/46,no-resolve
 IP-CIDR6,2401:af20:1ad8::/46,no-resolve
 IP-CIDR6,2401:af20:1adc::/48,no-resolve

@@ -72,7 +72,8 @@ IP-CIDR,57.140.216.0/21,no-resolve
 IP-CIDR,57.140.224.0/20,no-resolve
 IP-CIDR,57.140.241.0/24,no-resolve
 IP-CIDR,57.140.242.0/23,no-resolve
-IP-CIDR,57.140.244.0/22,no-resolve
+IP-CIDR,57.140.244.0/24,no-resolve
+IP-CIDR,57.140.246.0/23,no-resolve
 IP-CIDR,57.140.248.0/21,no-resolve
 IP-CIDR,64.233.160.0/19,no-resolve
 IP-CIDR,66.22.228.0/23,no-resolve

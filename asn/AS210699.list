@@ -7,4 +7,5 @@ IP-CIDR,200.181.82.0/24,no-resolve
 IP-CIDR,201.7.19.0/24,no-resolve
 IP-CIDR6,2a0f:b240:1403::/48,no-resolve
 IP-CIDR6,2a0f:b240:1404::/47,no-resolve
+IP-CIDR6,2a0f:b240:1407::/48,no-resolve
 IP-CIDR6,2a10:4646:500::/44,no-resolve

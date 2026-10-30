@@ -13,3 +13,4 @@ IP-CIDR,117.51.136.0/21,no-resolve
 IP-CIDR,117.51.144.0/20,no-resolve
 IP-CIDR6,2402:840:d000::/46,no-resolve
 IP-CIDR6,2402:840:e000::/46,no-resolve
+IP-CIDR6,2402:840:f000::/38,no-resolve

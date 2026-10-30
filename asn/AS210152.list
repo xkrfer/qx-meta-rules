@@ -3,7 +3,7 @@ IP-CIDR6,2a01:ffc6:4000::/48,no-resolve
 IP-CIDR6,2a0a:3e40::/30,no-resolve
 IP-CIDR6,2a0a:3e44::/32,no-resolve
 IP-CIDR6,2a0a:3e45:1::/48,no-resolve
-IP-CIDR6,2a0a:3e45:2::/48,no-resolve
+IP-CIDR6,2a0a:3e45:2::/47,no-resolve
 IP-CIDR6,2a0a:3e45:4::/46,no-resolve
 IP-CIDR6,2a0a:3e45:8::/45,no-resolve
 IP-CIDR6,2a0a:3e45:10::/44,no-resolve
@@ -50,6 +50,8 @@ IP-CIDR6,2a0a:3e45:b080::/41,no-resolve
 IP-CIDR6,2a0a:3e45:b100::/40,no-resolve
 IP-CIDR6,2a0a:3e45:b200::/39,no-resolve
 IP-CIDR6,2a0a:3e45:b400::/38,no-resolve
-IP-CIDR6,2a0a:3e45:b800::/37,no-resolve
+IP-CIDR6,2a0a:3e45:b800::/38,no-resolve
+IP-CIDR6,2a0a:3e45:bc00::/39,no-resolve
+IP-CIDR6,2a0a:3e45:bf00::/40,no-resolve
 IP-CIDR6,2a0a:3e45:c000::/34,no-resolve
 IP-CIDR6,2a0a:3e46::/31,no-resolve

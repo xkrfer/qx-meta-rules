@@ -81,6 +81,9 @@ IP-CIDR6,2806:370:47c0::/44,no-resolve
 IP-CIDR6,2806:370:4900::/42,no-resolve
 IP-CIDR6,2806:370:4940::/43,no-resolve
 IP-CIDR6,2806:370:4960::/44,no-resolve
+IP-CIDR6,2806:370:4a00::/42,no-resolve
+IP-CIDR6,2806:370:4a40::/43,no-resolve
+IP-CIDR6,2806:370:4a60::/44,no-resolve
 IP-CIDR6,2806:370:5310::/44,no-resolve
 IP-CIDR6,2806:370:5350::/44,no-resolve
 IP-CIDR6,2806:370:5360::/44,no-resolve
@@ -124,6 +127,8 @@ IP-CIDR6,2806:370:7340::/42,no-resolve
 IP-CIDR6,2806:370:7380::/42,no-resolve
 IP-CIDR6,2806:370:73c0::/43,no-resolve
 IP-CIDR6,2806:370:73e0::/44,no-resolve
+IP-CIDR6,2806:370:7800::/41,no-resolve
+IP-CIDR6,2806:370:7880::/42,no-resolve
 IP-CIDR6,2806:370:7900::/44,no-resolve
 IP-CIDR6,2806:370:7980::/41,no-resolve
 IP-CIDR6,2806:370:7b00::/42,no-resolve

@@ -1,2 +1,4 @@
+IP-CIDR,185.71.60.0/22,no-resolve
 IP-CIDR,193.110.143.0/24,no-resolve
 IP-CIDR6,2a03:2020::/48,no-resolve
+IP-CIDR6,2a03:38a0::/32,no-resolve

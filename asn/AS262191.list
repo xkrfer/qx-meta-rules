@@ -102,8 +102,6 @@ IP-CIDR6,2800:b70:1d::/48,no-resolve
 IP-CIDR6,2800:b70:1e::/48,no-resolve
 IP-CIDR6,2800:b70:20::/46,no-resolve
 IP-CIDR6,2800:b70:25::/48,no-resolve
-IP-CIDR6,2800:b70:26::/47,no-resolve
-IP-CIDR6,2800:b70:28::/48,no-resolve
 IP-CIDR6,2800:b70:2e::/48,no-resolve
 IP-CIDR6,2800:b70:32::/48,no-resolve
 IP-CIDR6,2800:b70:34::/46,no-resolve

@@ -12,14 +12,4 @@ IP-CIDR6,2602:f766:80::/41,no-resolve
 IP-CIDR6,2602:f766:100::/40,no-resolve
 IP-CIDR6,2602:f766:200::/39,no-resolve
 IP-CIDR6,2602:f766:400::/38,no-resolve
-IP-CIDR6,2602:f766:800::/38,no-resolve
-IP-CIDR6,2602:f766:c01::/48,no-resolve
-IP-CIDR6,2602:f766:c02::/47,no-resolve
-IP-CIDR6,2602:f766:c04::/46,no-resolve
-IP-CIDR6,2602:f766:c08::/45,no-resolve
-IP-CIDR6,2602:f766:c10::/44,no-resolve
-IP-CIDR6,2602:f766:c20::/43,no-resolve
-IP-CIDR6,2602:f766:c40::/42,no-resolve
-IP-CIDR6,2602:f766:c80::/41,no-resolve
-IP-CIDR6,2602:f766:d00::/40,no-resolve
-IP-CIDR6,2602:f766:e00::/39,no-resolve
+IP-CIDR6,2602:f766:800::/37,no-resolve

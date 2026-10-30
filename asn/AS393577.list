@@ -33,14 +33,7 @@ IP-CIDR6,2602:f9ba:b8::/47,no-resolve
 IP-CIDR6,2602:f9ba:ba::/48,no-resolve
 IP-CIDR6,2602:f9ba:bc::/46,no-resolve
 IP-CIDR6,2602:f9ba:c0::/42,no-resolve
-IP-CIDR6,2602:f9ba:100::/45,no-resolve
-IP-CIDR6,2602:f9ba:108::/46,no-resolve
-IP-CIDR6,2602:f9ba:10d::/48,no-resolve
-IP-CIDR6,2602:f9ba:10e::/47,no-resolve
-IP-CIDR6,2602:f9ba:110::/44,no-resolve
-IP-CIDR6,2602:f9ba:120::/43,no-resolve
-IP-CIDR6,2602:f9ba:140::/42,no-resolve
-IP-CIDR6,2602:f9ba:180::/41,no-resolve
+IP-CIDR6,2602:f9ba:100::/40,no-resolve
 IP-CIDR6,2602:f9ba:200::/39,no-resolve
 IP-CIDR6,2602:f9ba:400::/39,no-resolve
 IP-CIDR6,2602:f9ba:800::/39,no-resolve

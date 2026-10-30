@@ -28,5 +28,6 @@ IP-CIDR,188.121.56.0/24,no-resolve
 IP-CIDR,188.121.62.0/23,no-resolve
 IP-CIDR6,2607:f208:d310::/44,no-resolve
 IP-CIDR6,2607:f208:df05::/48,no-resolve
+IP-CIDR6,2607:f208:df09::/48,no-resolve
 IP-CIDR6,2607:f208:df0b::/48,no-resolve
 IP-CIDR6,2a00:1169::/39,no-resolve

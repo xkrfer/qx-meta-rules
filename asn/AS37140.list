@@ -1,4 +1,5 @@
-IP-CIDR,196.175.0.0/22,no-resolve
+IP-CIDR,196.175.1.0/24,no-resolve
+IP-CIDR,196.175.2.0/23,no-resolve
 IP-CIDR,196.175.5.0/24,no-resolve
 IP-CIDR,196.175.6.0/23,no-resolve
 IP-CIDR,196.175.8.0/21,no-resolve

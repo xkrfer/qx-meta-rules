@@ -106,6 +106,7 @@ IP-CIDR6,2607:fb10:7300::/42,no-resolve
 IP-CIDR6,2607:fb10:7340::/43,no-resolve
 IP-CIDR6,2607:fb10:7360::/46,no-resolve
 IP-CIDR6,2607:fb10:7364::/47,no-resolve
+IP-CIDR6,2607:fb10:7367::/48,no-resolve
 IP-CIDR6,2607:fb10:7368::/45,no-resolve
 IP-CIDR6,2607:fb10:7370::/44,no-resolve
 IP-CIDR6,2607:fb10:7380::/41,no-resolve

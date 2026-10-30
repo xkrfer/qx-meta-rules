@@ -9,4 +9,4 @@ IP-CIDR6,2a06:dac0::/44,no-resolve
 IP-CIDR6,2a06:dac0:100::/44,no-resolve
 IP-CIDR6,2a06:dac0:120::/43,no-resolve
 IP-CIDR6,2a06:dac0:200::/44,no-resolve
-IP-CIDR6,2a06:dac0:220::/44,no-resolve
+IP-CIDR6,2a06:dac0:220::/43,no-resolve

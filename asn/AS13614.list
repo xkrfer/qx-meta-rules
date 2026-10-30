@@ -108,9 +108,7 @@ IP-CIDR6,2604:a200:3002:40::/59,no-resolve
 IP-CIDR6,2604:a200:3002:60::/64,no-resolve
 IP-CIDR6,2604:a200:3002:62::/63,no-resolve
 IP-CIDR6,2604:a200:3002:64::/62,no-resolve
-IP-CIDR6,2604:a200:3002:68::/62,no-resolve
-IP-CIDR6,2604:a200:3002:6d::/64,no-resolve
-IP-CIDR6,2604:a200:3002:6e::/63,no-resolve
+IP-CIDR6,2604:a200:3002:68::/61,no-resolve
 IP-CIDR6,2604:a200:3002:70::/60,no-resolve
 IP-CIDR6,2604:a200:3002:80::/57,no-resolve
 IP-CIDR6,2604:a200:3002:100::/56,no-resolve

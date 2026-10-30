@@ -14,3 +14,4 @@ IP-CIDR6,2404:63c0:38::/47,no-resolve
 IP-CIDR6,2404:63c0:40::/45,no-resolve
 IP-CIDR6,2404:63c0:48::/47,no-resolve
 IP-CIDR6,2404:63c0:50::/48,no-resolve
+IP-CIDR6,2404:63c0:134::/48,no-resolve

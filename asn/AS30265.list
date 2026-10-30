@@ -12,3 +12,7 @@ IP-CIDR6,2602:f86e:c40::/42,no-resolve
 IP-CIDR6,2602:f86e:c80::/41,no-resolve
 IP-CIDR6,2602:f86e:d00::/40,no-resolve
 IP-CIDR6,2602:f86e:e00::/39,no-resolve
+IP-CIDR6,2602:f86e:1000::/36,no-resolve
+IP-CIDR6,2602:f86e:2000::/35,no-resolve
+IP-CIDR6,2602:f86e:4000::/34,no-resolve
+IP-CIDR6,2602:f86e:8000::/33,no-resolve

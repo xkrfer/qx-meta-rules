@@ -22,7 +22,7 @@ IP-CIDR6,2607:f928:8::/45,no-resolve
 IP-CIDR6,2607:f928:10::/47,no-resolve
 IP-CIDR6,2607:f928:13::/48,no-resolve
 IP-CIDR6,2607:f928:14::/48,no-resolve
-IP-CIDR6,2607:f928:16::/47,no-resolve
+IP-CIDR6,2607:f928:17::/48,no-resolve
 IP-CIDR6,2607:f928:18::/45,no-resolve
 IP-CIDR6,2607:f928:20::/43,no-resolve
 IP-CIDR6,2607:f928:40::/42,no-resolve

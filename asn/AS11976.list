@@ -1,5 +1,4 @@
-IP-CIDR,24.35.128.0/23,no-resolve
-IP-CIDR,24.35.130.0/24,no-resolve
+IP-CIDR,24.35.128.0/22,no-resolve
 IP-CIDR,24.35.132.0/23,no-resolve
 IP-CIDR,24.35.134.0/24,no-resolve
 IP-CIDR,24.35.136.0/21,no-resolve
