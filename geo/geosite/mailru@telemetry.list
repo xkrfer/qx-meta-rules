@@ -10,5 +10,5 @@ host, stats.dahlmessenger.com, proxy
 host, stats.dev.telega.info, proxy
 host, stats.rustore.ru, proxy
 host, stats.telega.info, proxy
-host-suffix, log.dzen.ru, proxy
 host, stats.vk-portal.net, proxy
+host-suffix, log.dzen.ru, proxy

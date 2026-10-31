@@ -1,3 +1,4 @@
+host-suffix, webnovel.com, proxy
 host-suffix, bytedapm.com, proxy
 host-suffix, muscdn.com, proxy
 host-suffix, musical.ly, proxy
@@ -14,9 +15,12 @@ host-suffix, tiktokeu-cdn.com, proxy
 host-suffix, tiktokglobalshopv.com, proxy
 host-suffix, tiktokminis.us, proxy
 host-suffix, tiktokrow-cdn.com, proxy
+host-suffix, tiktokshop.com, proxy
+host-suffix, tiktokstaticb.com, proxy
 host-suffix, tiktokv.com, proxy
 host-suffix, tiktokv.eu, proxy
 host-suffix, tiktokv.us, proxy
+host-suffix, tiktokvapp.com, proxy
 host-suffix, tiktokw.eu, proxy
 host-suffix, tiktokw.us, proxy
 host-suffix, ttcdn-us.com, proxy
@@ -34,4 +38,3 @@ host, roovza-launches.appsflyersdk.com, proxy
 host, roovza.inapps.appsflyersdk.com, proxy
 host, roovza.launches.appsflyersdk.com, proxy
 host, roovza.skadsdk.appsflyersdk.com, proxy
-host-suffix, webnovel.com, proxy
