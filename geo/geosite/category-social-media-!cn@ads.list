@@ -1,9 +1,3 @@
-host-suffix, analytics.facebook.com, proxy
-host-suffix, facebookads.com, proxy
-host-suffix, pixel.facebook.com, proxy
-host-suffix, graph.instagram.com, proxy
-host-suffix, graph-fallback.instagram.com, proxy
-host-suffix, ads-twitter.com, proxy
 host-suffix, adv.vk.com, proxy
 host-suffix, analytics.vk.com, proxy
 host-suffix, ms.vk.com, proxy
@@ -19,3 +13,9 @@ host, advk.vk.ru, proxy
 host, analytics.vk.ru, proxy
 host, stats.vk-portal.net, proxy
 host, target.vk.com, proxy
+host-suffix, analytics.facebook.com, proxy
+host-suffix, facebookads.com, proxy
+host-suffix, pixel.facebook.com, proxy
+host-suffix, ads-twitter.com, proxy
+host-suffix, graph.instagram.com, proxy
+host-suffix, graph-fallback.instagram.com, proxy
