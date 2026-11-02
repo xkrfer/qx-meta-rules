@@ -10,7 +10,7 @@ host, p7-juejin.byteimg.com, proxy
 host, p8-juejin.byteimg.com, proxy
 host, p9-juejin.byteimg.com, proxy
 host-suffix, larkoffice.com, proxy
-host-suffix, ihuoshanstatic.com, proxy
+host-suffix, volcenginepaas.com, proxy
 host-suffix, activity-dy.com, proxy
 host-suffix, activity01.com, proxy
 host-suffix, activity02.com, proxy
@@ -136,7 +136,7 @@ host-suffix, bytetraffic.net, proxy
 host-suffix, bytetstatic.com, proxy
 host-suffix, bytetstatic.net, proxy
 host-suffix, byteurl.cn, proxy
-host-suffix, larkofficeapp-boe.com, proxy
+host-suffix, bytevalk.com, proxy
 host-suffix, bytevcloudapi.com, proxy
 host-suffix, bytevcloudvod.com, proxy
 host-suffix, bytexservice.com, proxy
@@ -147,6 +147,7 @@ host-suffix, cdndns2.com, proxy
 host-suffix, doubo03.com, proxy
 host-suffix, draftstatic.com, proxy
 host-suffix, druid.vip, proxy
+host-suffix, edge-byted.com, proxy
 host-suffix, fedlearner.net, proxy
 host-suffix, feelgood.cn, proxy
 host-suffix, gcloudcache.com, proxy
@@ -322,6 +323,7 @@ host-suffix, ppximg.com, proxy
 host-suffix, ppxstatic.com, proxy
 host-suffix, ppxvod.com, proxy
 host-suffix, xiaoxiaapi.com, proxy
+host-suffix, haimian.com, proxy
 host-suffix, dailygn.com, proxy
 host-suffix, nvsgames.cn, proxy
 host-suffix, buydouke.com, proxy
@@ -432,9 +434,9 @@ host-suffix, larkcloud.net, proxy
 host-suffix, larkfn.com, proxy
 host-suffix, larkmeetings.cn, proxy
 host-suffix, larkmeetings.com, proxy
-host-suffix, douyinliving.com, proxy
+host-suffix, volcalb.com, proxy
 host-suffix, 99uri.com, proxy
-host-suffix, bytevalk.com, proxy
+host-suffix, mchost.guru, proxy
 host-suffix, larkofficeapp-pre.com, proxy
 host-suffix, larkofficeapp.com, proxy
 host-suffix, larkofficeboe.com, proxy
@@ -457,7 +459,7 @@ host-suffix, mcbaas.work, proxy
 host-suffix, mcdemo.show, proxy
 host-suffix, open-douyin.com, proxy
 host-suffix, lifexue.com, proxy
-host-suffix, mchost.guru, proxy
+host-suffix, larkofficeapp-boe.com, proxy
 host-suffix, mcprev.cn, proxy
 host-suffix, tcwqqdy.guru, proxy
 host-suffix, trae.cn, proxy
@@ -601,7 +603,7 @@ host-suffix, volc-dns.pub, proxy
 host-suffix, volc-embed.com, proxy
 host-suffix, volcadocean.com, proxy
 host-suffix, volcadvc.com, proxy
-host-suffix, volcalb.com, proxy
+host-suffix, 99uri.cn, proxy
 host-suffix, volcanoaisearchshare.com, proxy
 host-suffix, qingfuwu.com, proxy
 host-suffix, ai-kaleidoscope.com, proxy
@@ -645,7 +647,7 @@ host-suffix, volcengineapi.cn, proxy
 host-suffix, volcengineapi.com, proxy
 host-suffix, volcenginedns.com, proxy
 host-suffix, volcenginedns.net, proxy
-host-suffix, volcenginepaas.com, proxy
+host-suffix, thelarkcloud.com, proxy
 host-suffix, volces-test.com, proxy
 host-suffix, volces.cn, proxy
 host-suffix, volces.com, proxy
@@ -773,6 +775,7 @@ host-suffix, building.fun, proxy
 host-suffix, instreet.com, proxy
 host-suffix, doubao-dev.com, proxy
 host-suffix, doubao.com, proxy
+host-suffix, doubaoapps.com, proxy
 host-suffix, doubaocdn.com, proxy
 host-suffix, hi-butterfly.cn, proxy
 host-suffix, maoxiangai.com, proxy
@@ -800,7 +803,7 @@ host-suffix, douyinact.com, proxy
 host-suffix, douyinact.net, proxy
 host-suffix, douyincdn.com, proxy
 host-suffix, douyinfe.com, proxy
-host-suffix, 99uri.cn, proxy
+host-suffix, douyinliving.com, proxy
 host-suffix, douyinmusicpromotion.com, proxy
 host-suffix, douyinpic.com, proxy
 host-suffix, douyinstatic.com, proxy
@@ -834,7 +837,7 @@ host-suffix, ieshuodong.net, proxy
 host-suffix, ihst8.com, proxy
 host-suffix, ihuoshanimg.com, proxy
 host-suffix, ihuoshanlive.com, proxy
-host-suffix, thelarkcloud.com, proxy
+host-suffix, ihuoshanstatic.com, proxy
 host-suffix, ihuoshanvod.com, proxy
 host-suffix, kolbuyer.cn, proxy
 host-suffix, nextvid.net, proxy
@@ -948,7 +951,6 @@ host, roovza.inapps.appsflyersdk.com, proxy
 host, roovza.launches.appsflyersdk.com, proxy
 host, roovza.skadsdk.appsflyersdk.com, proxy
 host-suffix, analytics.tiktok.com, proxy
-host-suffix, volceapplog.com, proxy
 host-suffix, coze.com, proxy
 host-suffix, marscode.com, proxy
 host-suffix, trae.ai, proxy
@@ -956,3 +958,4 @@ host-suffix, cici.com, proxy
 host-suffix, ciciai.com, proxy
 host-suffix, ciciaicdn.com, proxy
 host-suffix, dola.com, proxy
+host-suffix, volceapplog.com, proxy

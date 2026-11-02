@@ -48,6 +48,7 @@ host-suffix, tpstelemetry.tencent.com, proxy
 host-suffix, trace.qq.com, proxy
 host-suffix, ugdtimg.com, proxy
 host-suffix, wit.qq.com, proxy
+host-suffix, badjs.weixinbridge.com, proxy
 host-suffix, ad.tencentmusic.com, proxy
 host-suffix, adstats.tencentmusic.com, proxy
 host-suffix, monitor.music.qq.com, proxy
@@ -69,4 +70,3 @@ host-suffix, pb.i.sogou.com, proxy
 host-suffix, theta.sogoucdn.com, proxy
 host-suffix, uranus.sogou.com, proxy
 host-suffix, wuliao.epro.sogou.com, proxy
-host-suffix, badjs.weixinbridge.com, proxy

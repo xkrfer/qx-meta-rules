@@ -4,8 +4,6 @@ host-suffix, roistat.com, proxy
 host-suffix, targetads.io, proxy
 host-suffix, terratraf.com, proxy
 host-suffix, terratraf.io, proxy
-host, metrika.kontur.ru, proxy
-host, sentry.kontur.host, proxy
 host-suffix, neon.click, proxy
 host-suffix, sbermarketing.ru, proxy
 host, error-tracking.megamarket.tech, proxy
@@ -15,10 +13,6 @@ host, tracing-http.megamarket.tech, proxy
 host-suffix, ads.sber.ru, proxy
 host-suffix, clickstream.sberbank.ru, proxy
 host, visor.sberbank.ru, proxy
-host, sentry.iptv.rt.ru, proxy
-host, ads.x5.ru, proxy
-host, ads.x5media.ru, proxy
-host, sentry.x5.ru, proxy
 host, api-eu.carrotquest.app, proxy
 host, api-eu.carrotquest.io, proxy
 host, api-ru.carrotquest.app, proxy
@@ -43,6 +37,8 @@ host, sentry.popmechanic.ru, proxy
 host-suffix, ads.sber.ru, proxy
 host-suffix, clickstream.sberbank.ru, proxy
 host, visor.sberbank.ru, proxy
+host, metrika.kontur.ru, proxy
+host, sentry.kontur.host, proxy
 host-suffix, a.mts.ru, proxy
 host-suffix, obs.mts.ru, proxy
 host, stats.avito.ru, proxy
@@ -132,6 +128,8 @@ host, t.mail.ru, proxy
 host, top-staging.mail.ru, proxy
 host, whiteline.mail.ru, proxy
 host, xray.mail.ru, proxy
+host-suffix, log.dzen.ru, proxy
+host-suffix, ms.dzen.ru, proxy
 host-suffix, adv.vk.com, proxy
 host-suffix, analytics.vk.com, proxy
 host-suffix, ms.vk.com, proxy
@@ -147,8 +145,10 @@ host, advk.vk.ru, proxy
 host, analytics.vk.ru, proxy
 host, stats.vk-portal.net, proxy
 host, target.vk.com, proxy
-host-suffix, log.dzen.ru, proxy
-host-suffix, ms.dzen.ru, proxy
+host, ads.x5.ru, proxy
+host, ads.x5media.ru, proxy
+host, sentry.x5.ru, proxy
+host, sentry.iptv.rt.ru, proxy
 host-suffix, adfox.ru, proxy
 host-suffix, adfox.yandex.ru, proxy
 host-suffix, admetrica.ru, proxy

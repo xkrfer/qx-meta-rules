@@ -1,3 +1,4 @@
+host-suffix, xboxlive.cn, proxy
 host-suffix, bluearchive-cn.com, proxy
 host, gog.qtlglb.com, proxy
 host-suffix, steamserver.net, proxy
@@ -33,5 +34,4 @@ host-suffix, mariokart.com.cn, proxy
 host-suffix, supermariobros.com.cn, proxy
 host-suffix, leagueoflegends.cn, proxy
 host-suffix, lpl.com.cn, proxy
-host-suffix, xboxlive.cn, proxy
 host-suffix, yostar.cn, proxy
