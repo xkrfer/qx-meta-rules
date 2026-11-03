@@ -1,5 +1,5 @@
-host-suffix, cloudflareinsights-cn.com, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, update.crashlytics.com, proxy
+host-suffix, cloudflareinsights-cn.com, proxy
 host-suffix, cloudflareinsights-cn.com, proxy
