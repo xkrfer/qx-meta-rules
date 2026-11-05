@@ -48,6 +48,9 @@ ip-cidr, 89.150.8.0/21, proxy, no-resolve
 ip-cidr, 91.187.64.0/19, proxy, no-resolve
 ip-cidr, 94.125.138.0/23, proxy, no-resolve
 ip-cidr, 94.125.140.0/23, proxy, no-resolve
+ip-cidr, 94.192.72.134/31, proxy, no-resolve
+ip-cidr, 94.192.74.134/31, proxy, no-resolve
+ip-cidr, 94.192.76.134/31, proxy, no-resolve
 ip-cidr, 95.142.120.0/24, proxy, no-resolve
 ip-cidr, 98.159.226.16/28, proxy, no-resolve
 ip-cidr, 102.38.225.0/24, proxy, no-resolve
@@ -184,13 +187,6 @@ ip-cidr, 188.241.26.0/23, proxy, no-resolve
 ip-cidr, 194.50.99.1/32, proxy, no-resolve
 ip-cidr, 194.158.64.0/19, proxy, no-resolve
 ip-cidr, 195.123.237.47/32, proxy, no-resolve
-ip-cidr, 196.48.35.0/24, proxy, no-resolve
-ip-cidr, 196.56.35.0/24, proxy, no-resolve
-ip-cidr, 196.57.35.0/24, proxy, no-resolve
-ip-cidr, 196.58.35.0/24, proxy, no-resolve
-ip-cidr, 196.197.35.0/24, proxy, no-resolve
-ip-cidr, 196.198.35.0/24, proxy, no-resolve
-ip-cidr, 196.199.35.0/24, proxy, no-resolve
 ip-cidr, 202.181.129.176/29, proxy, no-resolve
 ip-cidr, 208.127.27.1/32, proxy, no-resolve
 ip-cidr, 208.127.27.2/31, proxy, no-resolve
@@ -242,6 +238,7 @@ ip-cidr, 208.127.248.64/29, proxy, no-resolve
 ip-cidr, 208.127.248.72/32, proxy, no-resolve
 ip-cidr, 209.206.29.176/28, proxy, no-resolve
 ip-cidr, 213.236.8.0/21, proxy, no-resolve
+ip-cidr, 217.194.178.213/32, proxy, no-resolve
 ip6-cidr, 2001:470:5:103::/64, proxy, no-resolve
 ip6-cidr, 2001:470:8:196::/64, proxy, no-resolve
 ip6-cidr, 2001:470:b:431::/64, proxy, no-resolve
@@ -335,6 +332,9 @@ ip6-cidr, 2a04:4e41:58:8000::/55, proxy, no-resolve
 ip6-cidr, 2a04:4e41:5c:8000::/55, proxy, no-resolve
 ip6-cidr, 2a04:4e41:60:8000::/55, proxy, no-resolve
 ip6-cidr, 2a04:4e41:70:8000::/55, proxy, no-resolve
+ip6-cidr, 2a04:4e41:80:3700::/56, proxy, no-resolve
+ip6-cidr, 2a04:4e41:84:3700::/56, proxy, no-resolve
+ip6-cidr, 2a04:4e41:88:3700::/56, proxy, no-resolve
 ip6-cidr, 2a04:4e41:1304::/48, proxy, no-resolve
 ip6-cidr, 2a04:4e41:1604::/48, proxy, no-resolve
 ip6-cidr, 2a04:4e41:4010::/52, proxy, no-resolve

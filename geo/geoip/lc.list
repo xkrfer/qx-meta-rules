@@ -21,6 +21,9 @@ ip-cidr, 69.80.16.0/20, proxy, no-resolve
 ip-cidr, 69.80.32.0/22, proxy, no-resolve
 ip-cidr, 72.14.98.0/24, proxy, no-resolve
 ip-cidr, 72.14.99.0/25, proxy, no-resolve
+ip-cidr, 94.192.73.160/31, proxy, no-resolve
+ip-cidr, 94.192.75.160/31, proxy, no-resolve
+ip-cidr, 94.192.77.160/31, proxy, no-resolve
 ip-cidr, 104.28.11.165/32, proxy, no-resolve
 ip-cidr, 104.28.11.166/31, proxy, no-resolve
 ip-cidr, 104.28.32.60/31, proxy, no-resolve
@@ -73,13 +76,7 @@ ip-cidr, 186.247.64.0/24, proxy, no-resolve
 ip-cidr, 192.58.142.0/23, proxy, no-resolve
 ip-cidr, 192.147.231.0/24, proxy, no-resolve
 ip-cidr, 195.123.237.9/32, proxy, no-resolve
-ip-cidr, 196.48.166.0/24, proxy, no-resolve
-ip-cidr, 196.56.166.0/24, proxy, no-resolve
-ip-cidr, 196.57.166.0/24, proxy, no-resolve
-ip-cidr, 196.58.166.0/24, proxy, no-resolve
-ip-cidr, 196.197.166.0/24, proxy, no-resolve
-ip-cidr, 196.198.166.0/24, proxy, no-resolve
-ip-cidr, 196.199.166.0/24, proxy, no-resolve
+ip-cidr, 199.16.57.0/24, proxy, no-resolve
 ip-cidr, 199.38.192.0/22, proxy, no-resolve
 ip-cidr, 199.38.196.0/27, proxy, no-resolve
 ip-cidr, 199.38.196.32/28, proxy, no-resolve
@@ -147,6 +144,9 @@ ip6-cidr, 2a02:26f7:b504:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:b505:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:b50c:4000::/64, proxy, no-resolve
 ip6-cidr, 2a02:26f7:b50d:4000::/64, proxy, no-resolve
+ip6-cidr, 2a04:4e41:80:c400::/56, proxy, no-resolve
+ip6-cidr, 2a04:4e41:84:c400::/56, proxy, no-resolve
+ip6-cidr, 2a04:4e41:88:c400::/56, proxy, no-resolve
 ip6-cidr, 2a04:4e41:21b::/48, proxy, no-resolve
 ip6-cidr, 2a04:4e41:3017::/48, proxy, no-resolve
 ip6-cidr, 2a04:4e41:3418::/48, proxy, no-resolve
