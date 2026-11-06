@@ -8,6 +8,7 @@ IP-CIDR6,2620:125:9014::/47,no-resolve
 IP-CIDR6,2620:125:9017::/48,no-resolve
 IP-CIDR6,2620:125:9018::/48,no-resolve
 IP-CIDR6,2620:125:9020::/48,no-resolve
+IP-CIDR6,2620:125:9025::/48,no-resolve
 IP-CIDR6,2620:125:9026::/48,no-resolve
 IP-CIDR6,2620:125:9032::/48,no-resolve
 IP-CIDR6,2620:125:9050::/48,no-resolve

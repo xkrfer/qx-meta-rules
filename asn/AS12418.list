@@ -26,4 +26,5 @@ IP-CIDR,185.18.200.0/24,no-resolve
 IP-CIDR,185.18.202.0/24,no-resolve
 IP-CIDR,213.170.64.0/18,no-resolve
 IP-CIDR6,2a00:f30::/47,no-resolve
+IP-CIDR6,2a00:f30:2::/48,no-resolve
 IP-CIDR6,2a00:f30:10::/48,no-resolve

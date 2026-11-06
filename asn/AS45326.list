@@ -8,7 +8,6 @@ IP-CIDR,202.5.48.0/20,no-resolve
 IP-CIDR6,2401:8a40:1::/48,no-resolve
 IP-CIDR6,2401:8a40:2::/47,no-resolve
 IP-CIDR6,2401:8a40:5::/48,no-resolve
-IP-CIDR6,2401:8a40:6::/48,no-resolve
 IP-CIDR6,2401:8a40:14::/46,no-resolve
 IP-CIDR6,2401:8a40:18::/45,no-resolve
 IP-CIDR6,2401:8a40:20::/45,no-resolve

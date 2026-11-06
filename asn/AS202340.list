@@ -1,5 +1,4 @@
 IP-CIDR,44.30.22.0/24,no-resolve
 IP-CIDR6,2a10:cc40:210::/47,no-resolve
-IP-CIDR6,2a10:cc40:213::/48,no-resolve
 IP-CIDR6,2a10:cc40:214::/48,no-resolve
 IP-CIDR6,2a10:cc40:216::/48,no-resolve

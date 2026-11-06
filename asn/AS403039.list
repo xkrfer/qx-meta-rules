@@ -1,1 +1,2 @@
 IP-CIDR,198.183.180.0/24,no-resolve
+IP-CIDR6,2602:f289::/48,no-resolve

@@ -19,6 +19,7 @@ IP-CIDR6,2a0d:b9c7::/32,no-resolve
 IP-CIDR6,2a0d:cdc1::/32,no-resolve
 IP-CIDR6,2a0d:e280::/31,no-resolve
 IP-CIDR6,2a0d:e283::/32,no-resolve
+IP-CIDR6,2a0d:e285::/32,no-resolve
 IP-CIDR6,2a0d:e286::/31,no-resolve
 IP-CIDR6,2a0e:4584::/32,no-resolve
 IP-CIDR6,2a0e:8083::/32,no-resolve

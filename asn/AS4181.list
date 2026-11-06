@@ -89,7 +89,16 @@ IP-CIDR,64.35.192.248/29,no-resolve
 IP-CIDR,64.35.193.0/24,no-resolve
 IP-CIDR,64.35.194.0/23,no-resolve
 IP-CIDR,64.35.196.0/22,no-resolve
-IP-CIDR,64.35.200.0/22,no-resolve
+IP-CIDR,64.35.200.0/28,no-resolve
+IP-CIDR,64.35.200.16/31,no-resolve
+IP-CIDR,64.35.200.18/32,no-resolve
+IP-CIDR,64.35.200.20/30,no-resolve
+IP-CIDR,64.35.200.24/29,no-resolve
+IP-CIDR,64.35.200.32/27,no-resolve
+IP-CIDR,64.35.200.64/26,no-resolve
+IP-CIDR,64.35.200.128/25,no-resolve
+IP-CIDR,64.35.201.0/24,no-resolve
+IP-CIDR,64.35.202.0/23,no-resolve
 IP-CIDR,64.35.204.0/28,no-resolve
 IP-CIDR,64.35.204.16/29,no-resolve
 IP-CIDR,64.35.204.24/30,no-resolve

@@ -19,7 +19,7 @@ IP-CIDR6,2a03:5f00:180::/41,no-resolve
 IP-CIDR6,2a03:5f00:200::/39,no-resolve
 IP-CIDR6,2a03:5f00:400::/38,no-resolve
 IP-CIDR6,2a03:5f00:800::/37,no-resolve
-IP-CIDR6,2a03:5f00:1002::/47,no-resolve
+IP-CIDR6,2a03:5f00:1003::/48,no-resolve
 IP-CIDR6,2a03:5f00:1004::/46,no-resolve
 IP-CIDR6,2a03:5f00:1008::/45,no-resolve
 IP-CIDR6,2a03:5f00:1010::/44,no-resolve

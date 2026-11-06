@@ -91,13 +91,7 @@ IP-CIDR,76.164.122.104/30,no-resolve
 IP-CIDR,76.164.122.109/32,no-resolve
 IP-CIDR,76.164.122.110/31,no-resolve
 IP-CIDR,76.164.122.112/28,no-resolve
-IP-CIDR,76.164.122.128/28,no-resolve
-IP-CIDR,76.164.122.144/29,no-resolve
-IP-CIDR,76.164.122.152/30,no-resolve
-IP-CIDR,76.164.122.156/32,no-resolve
-IP-CIDR,76.164.122.158/31,no-resolve
-IP-CIDR,76.164.122.160/27,no-resolve
-IP-CIDR,76.164.122.192/26,no-resolve
+IP-CIDR,76.164.122.128/25,no-resolve
 IP-CIDR,76.164.123.0/24,no-resolve
 IP-CIDR,76.164.124.0/22,no-resolve
 IP-CIDR,135.26.0.0/21,no-resolve

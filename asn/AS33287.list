@@ -70,7 +70,6 @@ IP-CIDR6,2001:559:2f4::/47,no-resolve
 IP-CIDR6,2001:559:30f::/48,no-resolve
 IP-CIDR6,2001:559:312::/48,no-resolve
 IP-CIDR6,2001:559:35a::/48,no-resolve
-IP-CIDR6,2001:559:35d::/48,no-resolve
 IP-CIDR6,2001:559:369::/48,no-resolve
 IP-CIDR6,2001:559:387::/48,no-resolve
 IP-CIDR6,2001:559:38a::/48,no-resolve

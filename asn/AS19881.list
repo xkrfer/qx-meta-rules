@@ -14,4 +14,3 @@ IP-CIDR,207.114.177.0/24,no-resolve
 IP-CIDR,209.203.84.0/23,no-resolve
 IP-CIDR,209.203.93.0/24,no-resolve
 IP-CIDR,209.234.183.0/24,no-resolve
-IP-CIDR6,2605:2b00::/32,no-resolve

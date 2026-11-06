@@ -1,1 +1,2 @@
-IP-CIDR6,2804:878c:fffc::/46,no-resolve
+IP-CIDR6,2804:878c:fffc::/48,no-resolve
+IP-CIDR6,2804:878c:fffe::/47,no-resolve

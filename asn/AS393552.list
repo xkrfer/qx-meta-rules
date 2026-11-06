@@ -165,8 +165,7 @@ IP-CIDR,161.97.207.64/28,no-resolve
 IP-CIDR,161.97.207.80/29,no-resolve
 IP-CIDR,161.97.207.89/32,no-resolve
 IP-CIDR,161.97.207.90/31,no-resolve
-IP-CIDR,161.97.207.93/32,no-resolve
-IP-CIDR,161.97.207.94/31,no-resolve
+IP-CIDR,161.97.207.92/30,no-resolve
 IP-CIDR,161.97.207.96/27,no-resolve
 IP-CIDR,161.97.207.128/25,no-resolve
 IP-CIDR,161.97.208.0/27,no-resolve

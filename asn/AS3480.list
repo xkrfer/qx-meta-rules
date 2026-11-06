@@ -52,4 +52,7 @@ IP-CIDR,168.11.62.0/23,no-resolve
 IP-CIDR,168.11.64.0/18,no-resolve
 IP-CIDR,168.11.128.0/17,no-resolve
 IP-CIDR,168.12.0.0/16,no-resolve
+IP-CIDR,185.162.148.0/23,no-resolve
+IP-CIDR,185.162.150.0/24,no-resolve
+IP-CIDR,193.43.244.0/22,no-resolve
 IP-CIDR,198.72.64.0/22,no-resolve
