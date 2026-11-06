@@ -6,7 +6,6 @@ ip-cidr, 190.106.240.0/20, proxy, no-resolve
 ip-cidr, 190.107.32.0/19, proxy, no-resolve
 ip-cidr, 200.58.64.0/19, proxy, no-resolve
 ip-cidr, 201.150.160.0/23, proxy, no-resolve
-ip-cidr, 201.150.163.0/24, proxy, no-resolve
 ip-cidr, 201.150.164.0/22, proxy, no-resolve
 ip-cidr, 201.150.168.0/21, proxy, no-resolve
 ip-cidr, 201.150.176.0/20, proxy, no-resolve

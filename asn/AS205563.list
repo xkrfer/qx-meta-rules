@@ -4,11 +4,8 @@ ip6-cidr, 2001:3786:2::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:1111::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1500::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1600::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:1650::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:1877::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:1997::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:2000::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:2002::/47, proxy, no-resolve
+ip6-cidr, 2001:3786:2000::/46, proxy, no-resolve
 ip6-cidr, 2001:3786:2004::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:2007::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:2008::/48, proxy, no-resolve
@@ -40,8 +37,7 @@ ip6-cidr, 2001:3786:4600::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4833::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4848::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:4949::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:5000::/48, proxy, no-resolve
-ip6-cidr, 2001:3786:5002::/47, proxy, no-resolve
+ip6-cidr, 2001:3786:5000::/46, proxy, no-resolve
 ip6-cidr, 2001:3786:5004::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:5007::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:5008::/47, proxy, no-resolve
@@ -56,7 +52,7 @@ ip6-cidr, 2001:3786:6700::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:6799::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:6886::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:6940::/47, proxy, no-resolve
-ip6-cidr, 2001:3786:6969::/48, proxy, no-resolve
+ip6-cidr, 2001:3786:6968::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:7000::/47, proxy, no-resolve
 ip6-cidr, 2001:3786:7002::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:7656::/48, proxy, no-resolve
@@ -65,6 +61,7 @@ ip6-cidr, 2001:3786:7900::/46, proxy, no-resolve
 ip6-cidr, 2001:3786:8273::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:9234::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:9456::/48, proxy, no-resolve
+ip6-cidr, 2001:3786:9696::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:9833::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:9923::/48, proxy, no-resolve
 ip6-cidr, 2001:3786:a949::/48, proxy, no-resolve

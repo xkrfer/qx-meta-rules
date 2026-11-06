@@ -1,1 +1,2 @@
-ip6-cidr, 2a05:dfc1:7200::/46, proxy, no-resolve
+ip6-cidr, 2a05:dfc1:7200::/47, proxy, no-resolve
+ip6-cidr, 2a05:dfc1:7203::/48, proxy, no-resolve

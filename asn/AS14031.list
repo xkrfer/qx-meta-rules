@@ -1,0 +1,2 @@
+ip-cidr, 140.221.128.0/17, proxy, no-resolve
+ip6-cidr, 2001:468:1f07::/48, proxy, no-resolve
