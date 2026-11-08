@@ -27,6 +27,7 @@ host, productionresultssa18.blob.core.windows.net, proxy
 host, productionresultssa19.blob.core.windows.net, proxy
 host, copilot-proxy.githubusercontent.com, proxy
 host, copilot-workspace.githubnext.com, proxy
+host, production-copilot-host-westus.webpubsub.azure.com, proxy
 host, copilotprodattachments.blob.core.windows.net, proxy
 host-suffix, atom.io, proxy
 host-suffix, dependabot.com, proxy

@@ -1,3 +1,4 @@
+host, stats.avito.ru, proxy
 host, ad.ozone.ru, proxy
 host, adv.ozon.ru, proxy
 host, agency-adv.ozon.ru, proxy
@@ -31,7 +32,6 @@ host, marketing-info.wildberries.ru, proxy
 host, marketplace-sentry.wb.ru, proxy
 host, sentry.wb.ru, proxy
 host, web-analytics.wildberries.ru, proxy
-host, stats.avito.ru, proxy
 host-suffix, ad.games.dmm.com, proxy
 host-suffix, bluekai.com, proxy
 host-suffix, fout.jp, proxy
