@@ -10,7 +10,6 @@ ip6-cidr, 2602:fa9b:e0::/43, proxy, no-resolve
 ip6-cidr, 2602:fa9b:100::/40, proxy, no-resolve
 ip6-cidr, 2602:fa9b:200::/39, proxy, no-resolve
 ip6-cidr, 2602:fa9b:400::/38, proxy, no-resolve
-ip6-cidr, 2602:fa9b:800::/40, proxy, no-resolve
 ip6-cidr, 2602:fa9b:a00::/39, proxy, no-resolve
 ip6-cidr, 2602:fa9b:c00::/38, proxy, no-resolve
 ip6-cidr, 2602:fa9b:1000::/36, proxy, no-resolve

@@ -154,7 +154,7 @@ ip6-cidr, 2600:2705::/32, proxy, no-resolve
 ip6-cidr, 2600:2706::/31, proxy, no-resolve
 ip6-cidr, 2600:2708::/29, proxy, no-resolve
 ip6-cidr, 2602:f64d::/40, proxy, no-resolve
-ip6-cidr, 2602:f6b8::/40, proxy, no-resolve
+ip6-cidr, 2602:f6b8::/44, proxy, no-resolve
 ip6-cidr, 2610:28::/35, proxy, no-resolve
 ip6-cidr, 2610:28:2000::/36, proxy, no-resolve
 ip6-cidr, 2610:28:3000::/41, proxy, no-resolve

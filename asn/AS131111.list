@@ -133,7 +133,11 @@ ip-cidr, 119.235.220.0/22, proxy, no-resolve
 ip-cidr, 122.50.4.0/22, proxy, no-resolve
 ip-cidr, 202.43.176.0/20, proxy, no-resolve
 ip-cidr, 202.125.80.0/23, proxy, no-resolve
-ip-cidr, 202.150.64.0/19, proxy, no-resolve
+ip-cidr, 202.150.64.0/22, proxy, no-resolve
+ip-cidr, 202.150.69.0/24, proxy, no-resolve
+ip-cidr, 202.150.70.0/23, proxy, no-resolve
+ip-cidr, 202.150.72.0/21, proxy, no-resolve
+ip-cidr, 202.150.80.0/20, proxy, no-resolve
 ip-cidr, 203.176.180.0/22, proxy, no-resolve
 ip6-cidr, 2001:df7:b100::/48, proxy, no-resolve
 ip6-cidr, 2001:df7:b300::/48, proxy, no-resolve

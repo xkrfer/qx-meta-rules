@@ -524,7 +524,9 @@ ip-cidr, 222.73.236.0/24, proxy, no-resolve
 ip-cidr, 222.73.250.0/24, proxy, no-resolve
 ip-cidr, 222.73.252.0/23, proxy, no-resolve
 ip6-cidr, 2400:6e60:1301::/48, proxy, no-resolve
+ip6-cidr, 2400:79c0:1600::/48, proxy, no-resolve
 ip6-cidr, 2400:9600:8800::/48, proxy, no-resolve
+ip6-cidr, 2402:3ba0::/48, proxy, no-resolve
 ip6-cidr, 2405:7040:6000::/48, proxy, no-resolve
 ip6-cidr, 240e:18::/44, proxy, no-resolve
 ip6-cidr, 240e:18:12::/47, proxy, no-resolve

@@ -9,4 +9,8 @@ ip-cidr, 202.157.190.104/29, proxy, no-resolve
 ip-cidr, 202.157.190.112/28, proxy, no-resolve
 ip-cidr, 202.157.190.128/25, proxy, no-resolve
 ip-cidr, 202.157.191.0/24, proxy, no-resolve
-ip6-cidr, 2400:ecc0::/32, proxy, no-resolve
+ip6-cidr, 2400:ecc0:1000::/47, proxy, no-resolve
+ip6-cidr, 2400:ecc0:1008::/48, proxy, no-resolve
+ip6-cidr, 2400:ecc0:19fe::/47, proxy, no-resolve
+ip6-cidr, 2400:ecc0:9000::/36, proxy, no-resolve
+ip6-cidr, 2400:ecc0:f000::/36, proxy, no-resolve

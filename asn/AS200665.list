@@ -8,5 +8,3 @@ ip-cidr, 185.154.16.0/22, proxy, no-resolve
 ip-cidr, 185.180.232.0/22, proxy, no-resolve
 ip-cidr, 185.181.80.0/22, proxy, no-resolve
 ip6-cidr, 2a06:700::/29, proxy, no-resolve
-ip6-cidr, 2a0a:9b80::/32, proxy, no-resolve
-ip6-cidr, 2a0a:9c80::/32, proxy, no-resolve

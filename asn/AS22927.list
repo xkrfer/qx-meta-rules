@@ -100,7 +100,9 @@ ip-cidr, 186.58.0.0/15, proxy, no-resolve
 ip-cidr, 186.60.0.0/14, proxy, no-resolve
 ip-cidr, 186.65.108.0/22, proxy, no-resolve
 ip-cidr, 186.100.0.0/16, proxy, no-resolve
-ip-cidr, 186.128.0.0/13, proxy, no-resolve
+ip-cidr, 186.128.0.0/14, proxy, no-resolve
+ip-cidr, 186.134.160.0/20, proxy, no-resolve
+ip-cidr, 186.134.176.0/21, proxy, no-resolve
 ip-cidr, 186.140.0.0/14, proxy, no-resolve
 ip-cidr, 190.48.0.0/14, proxy, no-resolve
 ip-cidr, 190.172.0.0/14, proxy, no-resolve

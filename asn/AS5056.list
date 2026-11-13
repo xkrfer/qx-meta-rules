@@ -380,14 +380,6 @@ ip-cidr, 207.32.45.0/24, proxy, no-resolve
 ip-cidr, 207.32.47.0/24, proxy, no-resolve
 ip-cidr, 207.32.49.0/24, proxy, no-resolve
 ip-cidr, 207.32.59.0/24, proxy, no-resolve
-ip-cidr, 207.32.63.0/25, proxy, no-resolve
-ip-cidr, 207.32.63.128/26, proxy, no-resolve
-ip-cidr, 207.32.63.192/31, proxy, no-resolve
-ip-cidr, 207.32.63.194/32, proxy, no-resolve
-ip-cidr, 207.32.63.196/30, proxy, no-resolve
-ip-cidr, 207.32.63.200/29, proxy, no-resolve
-ip-cidr, 207.32.63.208/28, proxy, no-resolve
-ip-cidr, 207.32.63.224/27, proxy, no-resolve
 ip-cidr, 207.177.0.0/24, proxy, no-resolve
 ip-cidr, 207.177.2.0/24, proxy, no-resolve
 ip-cidr, 207.177.4.0/22, proxy, no-resolve

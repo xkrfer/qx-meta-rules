@@ -203,7 +203,12 @@ ip6-cidr, 2001:480:122::/47, proxy, no-resolve
 ip6-cidr, 2001:480:124::/46, proxy, no-resolve
 ip6-cidr, 2001:480:128::/45, proxy, no-resolve
 ip6-cidr, 2001:480:130::/44, proxy, no-resolve
-ip6-cidr, 2001:480:140::/42, proxy, no-resolve
+ip6-cidr, 2001:480:140::/43, proxy, no-resolve
+ip6-cidr, 2001:480:160::/48, proxy, no-resolve
+ip6-cidr, 2001:480:162::/47, proxy, no-resolve
+ip6-cidr, 2001:480:164::/46, proxy, no-resolve
+ip6-cidr, 2001:480:168::/45, proxy, no-resolve
+ip6-cidr, 2001:480:170::/44, proxy, no-resolve
 ip6-cidr, 2001:480:180::/41, proxy, no-resolve
 ip6-cidr, 2001:480:200::/41, proxy, no-resolve
 ip6-cidr, 2001:480:281::/48, proxy, no-resolve

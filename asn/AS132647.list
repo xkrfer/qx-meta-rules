@@ -5,3 +5,4 @@ ip6-cidr, 2402:ee80:b::/48, proxy, no-resolve
 ip6-cidr, 2402:ee80:c::/47, proxy, no-resolve
 ip6-cidr, 2402:ee80:56::/48, proxy, no-resolve
 ip6-cidr, 2402:ee80:58::/48, proxy, no-resolve
+ip6-cidr, 2402:ee80:176::/48, proxy, no-resolve

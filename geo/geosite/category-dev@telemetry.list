@@ -1,3 +1,5 @@
+host, dc.services.visualstudio.com, proxy
+host, rt.services.visualstudio.com, proxy
 host-suffix, cafe.github.com, proxy
 host-suffix, collector.github.com, proxy
 host, copilot-telemetry-service.githubusercontent.com, proxy
@@ -10,5 +12,3 @@ host, firebase-settings.crashlytics.com, proxy
 host, firebaselogging-pa.googleapis.com, proxy
 host, firebaselogging.googleapis.com, proxy
 host, update.crashlytics.com, proxy
-host, dc.services.visualstudio.com, proxy
-host, rt.services.visualstudio.com, proxy

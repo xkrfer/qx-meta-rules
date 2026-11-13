@@ -61,13 +61,7 @@ ip6-cidr, 2404:bf40:84c8::/45, proxy, no-resolve
 ip6-cidr, 2404:bf40:84d0::/44, proxy, no-resolve
 ip6-cidr, 2404:bf40:84e0::/43, proxy, no-resolve
 ip6-cidr, 2404:bf40:8500::/40, proxy, no-resolve
-ip6-cidr, 2404:bf40:8600::/42, proxy, no-resolve
-ip6-cidr, 2404:bf40:8640::/47, proxy, no-resolve
-ip6-cidr, 2404:bf40:8643::/48, proxy, no-resolve
-ip6-cidr, 2404:bf40:8644::/46, proxy, no-resolve
-ip6-cidr, 2404:bf40:8648::/45, proxy, no-resolve
-ip6-cidr, 2404:bf40:8650::/44, proxy, no-resolve
-ip6-cidr, 2404:bf40:8660::/43, proxy, no-resolve
+ip6-cidr, 2404:bf40:8600::/41, proxy, no-resolve
 ip6-cidr, 2404:bf40:8680::/42, proxy, no-resolve
 ip6-cidr, 2404:bf40:86c0::/48, proxy, no-resolve
 ip6-cidr, 2404:bf40:86c2::/47, proxy, no-resolve
@@ -208,8 +202,7 @@ ip6-cidr, 2404:bf40:c150::/44, proxy, no-resolve
 ip6-cidr, 2404:bf40:c160::/43, proxy, no-resolve
 ip6-cidr, 2404:bf40:c180::/41, proxy, no-resolve
 ip6-cidr, 2404:bf40:c200::/42, proxy, no-resolve
-ip6-cidr, 2404:bf40:c240::/47, proxy, no-resolve
-ip6-cidr, 2404:bf40:c243::/48, proxy, no-resolve
+ip6-cidr, 2404:bf40:c240::/46, proxy, no-resolve
 ip6-cidr, 2404:bf40:c245::/48, proxy, no-resolve
 ip6-cidr, 2404:bf40:c246::/47, proxy, no-resolve
 ip6-cidr, 2404:bf40:c248::/45, proxy, no-resolve

@@ -84,4 +84,5 @@ ip6-cidr, 2a12:f680:a80::/42, proxy, no-resolve
 ip6-cidr, 2a12:f680:ac0::/43, proxy, no-resolve
 ip6-cidr, 2a12:f680:b00::/42, proxy, no-resolve
 ip6-cidr, 2a12:f680:b40::/43, proxy, no-resolve
+ip6-cidr, 2a12:f680:b62::/48, proxy, no-resolve
 ip6-cidr, 2a12:f680:d80::/42, proxy, no-resolve

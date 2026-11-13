@@ -3,4 +3,5 @@ ip-cidr, 31.3.120.0/21, proxy, no-resolve
 ip-cidr, 83.136.184.0/21, proxy, no-resolve
 ip-cidr, 83.147.63.0/24, proxy, no-resolve
 ip-cidr, 95.129.112.0/21, proxy, no-resolve
+ip-cidr, 181.201.128.0/20, proxy, no-resolve
 ip-cidr, 185.23.120.0/22, proxy, no-resolve

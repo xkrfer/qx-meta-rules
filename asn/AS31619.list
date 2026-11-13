@@ -1,3 +1,1 @@
-ip-cidr, 84.205.96.0/21, proxy, no-resolve
-ip-cidr, 84.205.104.0/22, proxy, no-resolve
-ip-cidr, 84.205.110.0/24, proxy, no-resolve
+ip-cidr, 84.205.96.0/19, proxy, no-resolve
