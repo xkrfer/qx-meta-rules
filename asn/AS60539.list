@@ -9,7 +9,12 @@ IP-CIDR6,2a13:aac4:e000::/36,no-resolve
 IP-CIDR6,2a13:aac4:f010::/44,no-resolve
 IP-CIDR6,2a13:aac4:f020::/43,no-resolve
 IP-CIDR6,2a13:aac4:f040::/44,no-resolve
-IP-CIDR6,2a13:aac4:f070::/44,no-resolve
+IP-CIDR6,2a13:aac4:f050::/47,no-resolve
+IP-CIDR6,2a13:aac4:f053::/48,no-resolve
+IP-CIDR6,2a13:aac4:f054::/48,no-resolve
+IP-CIDR6,2a13:aac4:f056::/47,no-resolve
+IP-CIDR6,2a13:aac4:f058::/45,no-resolve
+IP-CIDR6,2a13:aac4:f060::/43,no-resolve
 IP-CIDR6,2a13:aac4:f080::/41,no-resolve
 IP-CIDR6,2a13:aac4:f100::/40,no-resolve
 IP-CIDR6,2a13:aac4:f200::/39,no-resolve

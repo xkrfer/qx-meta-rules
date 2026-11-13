@@ -9,7 +9,7 @@ IP-CIDR,61.5.128.0/20,no-resolve
 IP-CIDR,61.5.144.0/21,no-resolve
 IP-CIDR,61.5.152.0/22,no-resolve
 IP-CIDR,61.5.157.0/24,no-resolve
-IP-CIDR,61.5.159.0/24,no-resolve
+IP-CIDR,61.5.158.0/23,no-resolve
 IP-CIDR,72.255.0.0/18,no-resolve
 IP-CIDR,101.53.224.0/20,no-resolve
 IP-CIDR,101.53.240.0/22,no-resolve
@@ -201,6 +201,7 @@ IP-CIDR6,2400:adc7:4000::/39,no-resolve
 IP-CIDR6,2400:adc7:4800::/39,no-resolve
 IP-CIDR6,2400:adc7:5000::/39,no-resolve
 IP-CIDR6,2400:adc7:5800::/39,no-resolve
+IP-CIDR6,2400:adc7:6000::/39,no-resolve
 IP-CIDR6,2400:adc9:a000::/40,no-resolve
 IP-CIDR6,2400:adc9:c000::/48,no-resolve
 IP-CIDR6,2400:adc9:e000::/40,no-resolve

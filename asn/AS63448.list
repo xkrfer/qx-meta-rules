@@ -20,7 +20,13 @@ IP-CIDR,143.55.131.248/29,no-resolve
 IP-CIDR,143.55.132.0/22,no-resolve
 IP-CIDR,143.55.136.0/22,no-resolve
 IP-CIDR,143.55.140.0/23,no-resolve
-IP-CIDR,143.55.142.0/25,no-resolve
+IP-CIDR,143.55.142.0/26,no-resolve
+IP-CIDR,143.55.142.64/27,no-resolve
+IP-CIDR,143.55.142.96/28,no-resolve
+IP-CIDR,143.55.142.112/30,no-resolve
+IP-CIDR,143.55.142.116/31,no-resolve
+IP-CIDR,143.55.142.118/32,no-resolve
+IP-CIDR,143.55.142.120/29,no-resolve
 IP-CIDR,143.55.142.128/27,no-resolve
 IP-CIDR,143.55.142.160/29,no-resolve
 IP-CIDR,143.55.142.168/32,no-resolve

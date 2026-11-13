@@ -203,7 +203,12 @@ IP-CIDR6,2001:480:122::/47,no-resolve
 IP-CIDR6,2001:480:124::/46,no-resolve
 IP-CIDR6,2001:480:128::/45,no-resolve
 IP-CIDR6,2001:480:130::/44,no-resolve
-IP-CIDR6,2001:480:140::/42,no-resolve
+IP-CIDR6,2001:480:140::/43,no-resolve
+IP-CIDR6,2001:480:160::/48,no-resolve
+IP-CIDR6,2001:480:162::/47,no-resolve
+IP-CIDR6,2001:480:164::/46,no-resolve
+IP-CIDR6,2001:480:168::/45,no-resolve
+IP-CIDR6,2001:480:170::/44,no-resolve
 IP-CIDR6,2001:480:180::/41,no-resolve
 IP-CIDR6,2001:480:200::/41,no-resolve
 IP-CIDR6,2001:480:281::/48,no-resolve

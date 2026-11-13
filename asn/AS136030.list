@@ -17,3 +17,4 @@ IP-CIDR,180.149.222.0/24,no-resolve
 IP-CIDR,204.157.158.0/24,no-resolve
 IP-CIDR,206.42.122.0/23,no-resolve
 IP-CIDR,206.42.125.0/24,no-resolve
+IP-CIDR6,2404:1940:2000::/35,no-resolve

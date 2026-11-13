@@ -40,10 +40,11 @@ IP-CIDR,216.158.224.0/23,no-resolve
 IP-CIDR,216.219.90.0/24,no-resolve
 IP-CIDR,216.219.95.0/24,no-resolve
 IP-CIDR6,2601:2010::/31,no-resolve
-IP-CIDR6,2601:2014::/31,no-resolve
-IP-CIDR6,2601:2017::/32,no-resolve
+IP-CIDR6,2601:2012::/32,no-resolve
+IP-CIDR6,2601:2014::/30,no-resolve
 IP-CIDR6,2604:a00:101::/48,no-resolve
 IP-CIDR6,2604:a00:1ac1::/48,no-resolve
 IP-CIDR6,2604:a00:1aca::/48,no-resolve
 IP-CIDR6,2604:a00:2000::/36,no-resolve
+IP-CIDR6,2a0f:35c0::/29,no-resolve
 IP-CIDR6,2a13:9500:50::/48,no-resolve

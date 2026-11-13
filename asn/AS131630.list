@@ -1,10 +1,14 @@
 IP-CIDR,151.158.224.0/24,no-resolve
 IP-CIDR,160.30.99.0/24,no-resolve
-IP-CIDR6,2402:4f20::/46,no-resolve
+IP-CIDR6,2402:4f20::/47,no-resolve
+IP-CIDR6,2402:4f20:3::/48,no-resolve
 IP-CIDR6,2402:4f20:4::/48,no-resolve
 IP-CIDR6,2402:4f20:a::/47,no-resolve
 IP-CIDR6,2402:4f20:c::/46,no-resolve
-IP-CIDR6,2402:4f20:10::/44,no-resolve
+IP-CIDR6,2402:4f20:10::/48,no-resolve
+IP-CIDR6,2402:4f20:13::/48,no-resolve
+IP-CIDR6,2402:4f20:14::/46,no-resolve
+IP-CIDR6,2402:4f20:18::/45,no-resolve
 IP-CIDR6,2402:4f20:20::/43,no-resolve
 IP-CIDR6,2402:4f20:40::/42,no-resolve
 IP-CIDR6,2402:4f20:80::/41,no-resolve

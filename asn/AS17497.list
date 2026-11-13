@@ -52,6 +52,7 @@ IP-CIDR,156.255.16.0/20,no-resolve
 IP-CIDR,156.255.48.0/21,no-resolve
 IP-CIDR,163.227.196.0/23,no-resolve
 IP-CIDR,178.92.41.0/24,no-resolve
+IP-CIDR,188.221.3.0/24,no-resolve
 IP-CIDR,193.203.214.0/23,no-resolve
 IP-CIDR,203.168.240.0/22,no-resolve
 IP-CIDR6,2402:620::/46,no-resolve

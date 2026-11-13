@@ -44,7 +44,14 @@ IP-CIDR,146.86.148.148/30,no-resolve
 IP-CIDR,146.86.148.152/29,no-resolve
 IP-CIDR,146.86.148.160/27,no-resolve
 IP-CIDR,146.86.148.192/26,no-resolve
-IP-CIDR,146.86.149.0/24,no-resolve
+IP-CIDR,146.86.149.0/25,no-resolve
+IP-CIDR,146.86.149.129/32,no-resolve
+IP-CIDR,146.86.149.130/31,no-resolve
+IP-CIDR,146.86.149.132/30,no-resolve
+IP-CIDR,146.86.149.136/29,no-resolve
+IP-CIDR,146.86.149.144/28,no-resolve
+IP-CIDR,146.86.149.160/27,no-resolve
+IP-CIDR,146.86.149.192/26,no-resolve
 IP-CIDR,146.86.150.0/24,no-resolve
 IP-CIDR,146.86.151.0/26,no-resolve
 IP-CIDR,146.86.151.64/28,no-resolve

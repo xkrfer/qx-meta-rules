@@ -12,4 +12,4 @@ IP-CIDR,191.52.184.0/21,no-resolve
 IP-CIDR,191.52.192.0/20,no-resolve
 IP-CIDR6,2804:1654::/34,no-resolve
 IP-CIDR6,2804:1654:4000::/36,no-resolve
-IP-CIDR6,2804:1654:5000::/48,no-resolve
+IP-CIDR6,2804:1654:5000::/47,no-resolve

@@ -1,2 +1,10 @@
-IP-CIDR,85.27.128.0/17,no-resolve
-IP-CIDR6,2a13:8a00::/29,no-resolve
+IP-CIDR,85.27.128.0/19,no-resolve
+IP-CIDR,85.27.160.0/21,no-resolve
+IP-CIDR,85.27.168.0/22,no-resolve
+IP-CIDR,85.27.173.0/24,no-resolve
+IP-CIDR,85.27.174.0/23,no-resolve
+IP-CIDR,85.27.176.0/20,no-resolve
+IP-CIDR,85.27.192.0/18,no-resolve
+IP-CIDR6,2a13:8a00::/30,no-resolve
+IP-CIDR6,2a13:8a04::/31,no-resolve
+IP-CIDR6,2a13:8a06::/32,no-resolve

@@ -1,6 +1,9 @@
-IP-CIDR,38.46.8.0/22,no-resolve
 IP-CIDR,45.13.150.0/24,no-resolve
-IP-CIDR,45.197.32.0/19,no-resolve
+IP-CIDR,45.197.32.0/20,no-resolve
+IP-CIDR,45.197.48.0/22,no-resolve
+IP-CIDR,45.197.52.0/24,no-resolve
+IP-CIDR,45.197.54.0/23,no-resolve
+IP-CIDR,45.197.56.0/21,no-resolve
 IP-CIDR,81.168.116.0/24,no-resolve
 IP-CIDR,103.101.176.0/22,no-resolve
 IP-CIDR,103.181.134.0/23,no-resolve

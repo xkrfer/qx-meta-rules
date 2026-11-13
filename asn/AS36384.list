@@ -129,8 +129,7 @@ IP-CIDR6,2a00:79e1:f08::/45,no-resolve
 IP-CIDR6,2a00:79e1:f10::/44,no-resolve
 IP-CIDR6,2a00:79e1:f20::/44,no-resolve
 IP-CIDR6,2a00:79e1:f30::/45,no-resolve
-IP-CIDR6,2a00:79e1:f38::/47,no-resolve
-IP-CIDR6,2a00:79e1:f3a::/48,no-resolve
+IP-CIDR6,2a00:79e1:f38::/46,no-resolve
 IP-CIDR6,2a00:79e1:f3c::/47,no-resolve
 IP-CIDR6,2a00:79e1:f3f::/48,no-resolve
 IP-CIDR6,2a00:79e1:f40::/46,no-resolve

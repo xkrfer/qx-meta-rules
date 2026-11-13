@@ -20,5 +20,4 @@ IP-CIDR,201.220.36.0/23,no-resolve
 IP-CIDR,201.220.39.0/24,no-resolve
 IP-CIDR,201.220.44.0/22,no-resolve
 IP-CIDR,201.220.57.0/24,no-resolve
-IP-CIDR6,2800:24::/32,no-resolve
 IP-CIDR6,2800:1d0::/32,no-resolve

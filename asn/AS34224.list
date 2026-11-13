@@ -95,8 +95,7 @@ IP-CIDR,212.87.207.0/24,no-resolve
 IP-CIDR6,2a00:1728::/45,no-resolve
 IP-CIDR6,2a00:1728:8::/47,no-resolve
 IP-CIDR6,2a00:1728:b::/48,no-resolve
-IP-CIDR6,2a00:1728:c::/48,no-resolve
-IP-CIDR6,2a00:1728:e::/47,no-resolve
+IP-CIDR6,2a00:1728:c::/46,no-resolve
 IP-CIDR6,2a00:1728:10::/44,no-resolve
 IP-CIDR6,2a00:1728:21::/56,no-resolve
 IP-CIDR6,2a00:1728:21:200::/55,no-resolve

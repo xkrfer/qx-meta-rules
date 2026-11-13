@@ -3,3 +3,4 @@ IP-CIDR6,2a0f:b240:7300::/40,no-resolve
 IP-CIDR6,2a14:6781:ff01::/48,no-resolve
 IP-CIDR6,2a14:6781:ff02::/47,no-resolve
 IP-CIDR6,2a14:6781:ff04::/47,no-resolve
+IP-CIDR6,2a14:6781:ff06::/48,no-resolve

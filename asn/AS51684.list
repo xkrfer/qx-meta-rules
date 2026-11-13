@@ -84,4 +84,5 @@ IP-CIDR6,2a12:f680:a80::/42,no-resolve
 IP-CIDR6,2a12:f680:ac0::/43,no-resolve
 IP-CIDR6,2a12:f680:b00::/42,no-resolve
 IP-CIDR6,2a12:f680:b40::/43,no-resolve
+IP-CIDR6,2a12:f680:b62::/48,no-resolve
 IP-CIDR6,2a12:f680:d80::/42,no-resolve

@@ -47,5 +47,6 @@ IP-CIDR,196.27.96.0/19,no-resolve
 IP-CIDR,196.201.1.0/24,no-resolve
 IP-CIDR,196.201.16.0/21,no-resolve
 IP-CIDR,197.211.192.0/18,no-resolve
-IP-CIDR6,2c0f:f830:100::/42,no-resolve
+IP-CIDR6,2c0f:f830:100::/43,no-resolve
+IP-CIDR6,2c0f:f830:120::/44,no-resolve
 IP-CIDR6,2c0f:f8f0::/32,no-resolve

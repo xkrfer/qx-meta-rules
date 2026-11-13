@@ -3,3 +3,4 @@ IP-CIDR6,2804:4aac:1000::/38,no-resolve
 IP-CIDR6,2804:4aac:1800::/38,no-resolve
 IP-CIDR6,2804:4aac:2000::/48,no-resolve
 IP-CIDR6,2804:4aac:4000::/38,no-resolve
+IP-CIDR6,2804:4aac:6000::/38,no-resolve

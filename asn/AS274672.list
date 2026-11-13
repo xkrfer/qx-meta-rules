@@ -1,3 +1,4 @@
+IP-CIDR,177.12.143.0/24,no-resolve
 IP-CIDR6,2804:91e0::/39,no-resolve
 IP-CIDR6,2804:91e0:f300::/40,no-resolve
 IP-CIDR6,2804:91e0:f400::/38,no-resolve

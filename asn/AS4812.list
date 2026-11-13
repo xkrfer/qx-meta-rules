@@ -524,7 +524,9 @@ IP-CIDR,222.73.236.0/24,no-resolve
 IP-CIDR,222.73.250.0/24,no-resolve
 IP-CIDR,222.73.252.0/23,no-resolve
 IP-CIDR6,2400:6e60:1301::/48,no-resolve
+IP-CIDR6,2400:79c0:1600::/48,no-resolve
 IP-CIDR6,2400:9600:8800::/48,no-resolve
+IP-CIDR6,2402:3ba0::/48,no-resolve
 IP-CIDR6,2405:7040:6000::/48,no-resolve
 IP-CIDR6,240e:18::/44,no-resolve
 IP-CIDR6,240e:18:12::/47,no-resolve

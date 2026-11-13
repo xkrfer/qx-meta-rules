@@ -6,6 +6,8 @@ IP-CIDR6,2a11:240::/29,no-resolve
 IP-CIDR6,2a11:580::/29,no-resolve
 IP-CIDR6,2a11:2000::/29,no-resolve
 IP-CIDR6,2a11:4fc0::/29,no-resolve
+IP-CIDR6,2a11:9f80::/29,no-resolve
 IP-CIDR6,2a11:a400::/29,no-resolve
 IP-CIDR6,2a11:a700::/29,no-resolve
 IP-CIDR6,2a11:d680::/29,no-resolve
+IP-CIDR6,2a11:d780::/29,no-resolve

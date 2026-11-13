@@ -8,5 +8,3 @@ IP-CIDR,185.154.16.0/22,no-resolve
 IP-CIDR,185.180.232.0/22,no-resolve
 IP-CIDR,185.181.80.0/22,no-resolve
 IP-CIDR6,2a06:700::/29,no-resolve
-IP-CIDR6,2a0a:9b80::/32,no-resolve
-IP-CIDR6,2a0a:9c80::/32,no-resolve

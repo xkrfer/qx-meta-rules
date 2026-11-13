@@ -5,3 +5,4 @@ IP-CIDR6,2a14:7dc0:512::/48,no-resolve
 IP-CIDR6,2a14:7dc0:515::/48,no-resolve
 IP-CIDR6,2a14:7dc0:516::/48,no-resolve
 IP-CIDR6,2a14:7dc0:51b::/48,no-resolve
+IP-CIDR6,2a14:7dc0:51d::/48,no-resolve

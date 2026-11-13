@@ -1,3 +1,5 @@
+IP-CIDR,42.64.0.0/16,no-resolve
+IP-CIDR,42.66.0.0/16,no-resolve
 IP-CIDR,42.70.0.0/15,no-resolve
 IP-CIDR,42.72.0.0/13,no-resolve
 IP-CIDR,111.70.0.0/18,no-resolve
