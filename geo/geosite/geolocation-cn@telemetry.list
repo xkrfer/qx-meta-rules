@@ -7,6 +7,6 @@ host-suffix, dc-uo.api.leiniao.com, proxy
 host-suffix, dc-ut.api.leiniao.com, proxy
 host-suffix, qms-report-o.api.leiniao.com, proxy
 host-suffix, qms-report-t.api.leiniao.com, proxy
-host-suffix, shuqistat.com, proxy
 host-suffix, meitustat.com, proxy
+host-suffix, shuqistat.com, proxy
 host-suffix, cloudflareinsights-cn.com, proxy
