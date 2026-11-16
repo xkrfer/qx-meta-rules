@@ -2,3 +2,4 @@ host-suffix, microsoftreactor.cn, proxy
 host-suffix, microsoftreactor.com.cn, proxy
 host-suffix, reactorms.com.cn, proxy
 host, download.visualstudio.microsoft.com, proxy
+host, vscode.download.prss.microsoft.com, proxy

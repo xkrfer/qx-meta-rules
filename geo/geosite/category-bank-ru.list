@@ -1,9 +1,9 @@
 host, edu.tinkoff.ru, proxy
 host, education.tbank.ru, proxy
 host-suffix, novikom.ru, proxy
-host-suffix, xn----8sbkfzespdwig.xn--p1ai, proxy
+host-suffix, tinkoffjournal.ru, proxy
 host-suffix, alfabank.st, proxy
-host-suffix, alfadirect.ru, proxy
+host-suffix, alfa.me, proxy
 host-suffix, myapelsin.ru, proxy
 host-suffix, bank131.com, proxy
 host-suffix, bank131.ru, proxy
@@ -82,6 +82,8 @@ host-suffix, vtb.ru, proxy
 host-suffix, vtbbo.ru, proxy
 host-suffix, vtbglobalperspectives.com, proxy
 host-suffix, xn--90ab2c.xn--p1ai, proxy
+host-suffix, yandex-bank.net, proxy
+host-suffix, yb-payment.ru, proxy
 host-suffix, credit-zenit.ru, proxy
 host-suffix, zenit-card.ru, proxy
 host-suffix, zenit.ru, proxy
@@ -95,7 +97,7 @@ host-suffix, rbsuat.com, proxy
 host-suffix, rncoluminis.ru, proxy
 host-suffix, veb.ru, proxy
 host-suffix, westernunion.ru, proxy
-host-suffix, ns-bank.ru, proxy
+host-suffix, yoobusiness.ru, proxy
 host-suffix, abr.ru, proxy
 host-suffix, absolutbank.ru, proxy
 host-suffix, agroros.ru, proxy
@@ -113,7 +115,7 @@ host-suffix, autofinancebank.ru, proxy
 host-suffix, autokreditbank.ru, proxy
 host-suffix, avangard.ru, proxy
 host-suffix, aversbank.ru, proxy
-host-suffix, bancaintesa.ru, proxy
+host-suffix, ns-bank.ru, proxy
 host-suffix, bank-arzamas.ru, proxy
 host-suffix, bank-hlynov.ru, proxy
 host-suffix, bankermak.ru, proxy
@@ -174,9 +176,9 @@ host-suffix, nico-bank.ru, proxy
 host-suffix, nipbank.ru, proxy
 host-suffix, noosferabank.ru, proxy
 host-suffix, norvikbank.ru, proxy
-host-suffix, vfbank.ru, proxy
+host-suffix, alfadirect.ru, proxy
 host-suffix, alfabank.ru, proxy
-host-suffix, yoobusiness.ru, proxy
+host-suffix, bancaintesa.ru, proxy
 host-suffix, nskbl.ru, proxy
 host-suffix, okbank.ru, proxy
 host-suffix, orbank.ru, proxy
@@ -221,7 +223,7 @@ host-suffix, uralprombank.ru, proxy
 host-suffix, uralsib.ru, proxy
 host-suffix, vbrr.ru, proxy
 host-suffix, venets-bank.ru, proxy
-host-suffix, alfa.me, proxy
+host-suffix, vfbank.ru, proxy
 host-suffix, vlb100.ru, proxy
 host-suffix, vlbb.ru, proxy
 host-suffix, wb-bank.ru, proxy
@@ -242,7 +244,7 @@ host-suffix, spasibobonus.ru, proxy
 host-suffix, spasibosb.ru, proxy
 host-suffix, spasibosberbank.ru, proxy
 host-suffix, xn----7sbhmncai5a0arm7c1e.xn--p1ai, proxy
-host-suffix, novobank.ru, proxy
+host-suffix, xn----8sbkfzespdwig.xn--p1ai, proxy
 host-suffix, xn----8sbwjbxyd.xn--p1ai, proxy
 host-suffix, xn--90aifd0azb.xn--p1acf, proxy
 host-suffix, 2w.ru, proxy
@@ -335,7 +337,7 @@ host-suffix, tinkoff.ru, proxy
 host-suffix, tinkoffcapital.ru, proxy
 host-suffix, tinkoffinsurance.ru, proxy
 host-suffix, tinkoffinsurancefuture.ru, proxy
-host-suffix, tinkoffjournal.ru, proxy
+host-suffix, novobank.ru, proxy
 host-suffix, tinkoffmobile.com, proxy
 host-suffix, tinsurance.ru, proxy
 host-suffix, tinsurancefuture.ru, proxy
