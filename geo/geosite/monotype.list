@@ -3,6 +3,8 @@ host-suffix, monotype.com, proxy
 host-suffix, monotypeimaging.com, proxy
 host-suffix, bitstream.com, proxy
 host-suffix, itcfonts.com, proxy
+host-suffix, myfonts.com, proxy
+host-suffix, myfonts.net, proxy
 host-suffix, fontexplorerx.com, proxy
 host-suffix, fonts.com, proxy
 host-suffix, fonts.net, proxy
@@ -10,5 +12,3 @@ host-suffix, fontbook.com, proxy
 host-suffix, fontshop.com, proxy
 host-suffix, fstopimages.com, proxy
 host-suffix, linotype.com, proxy
-host-suffix, myfonts.com, proxy
-host-suffix, myfonts.net, proxy
