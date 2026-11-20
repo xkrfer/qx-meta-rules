@@ -4,7 +4,6 @@ IP-CIDR6,2804:6f94::/33,no-resolve
 IP-CIDR6,2804:6f94:8000::/34,no-resolve
 IP-CIDR6,2804:6f94:c000::/35,no-resolve
 IP-CIDR6,2804:6f94:e000::/36,no-resolve
-IP-CIDR6,2804:6f94:f001::/48,no-resolve
 IP-CIDR6,2804:6f94:f002::/47,no-resolve
 IP-CIDR6,2804:6f94:f004::/46,no-resolve
 IP-CIDR6,2804:6f94:f008::/45,no-resolve

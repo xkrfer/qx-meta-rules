@@ -154,7 +154,6 @@ IP-CIDR6,2001:1260:5f2::/47,no-resolve
 IP-CIDR6,2001:1260:5f4::/46,no-resolve
 IP-CIDR6,2001:1260:5f8::/45,no-resolve
 IP-CIDR6,2001:1260:602::/48,no-resolve
-IP-CIDR6,2001:1260:60a::/47,no-resolve
 IP-CIDR6,2001:1260:60c::/47,no-resolve
 IP-CIDR6,2001:1260:60e::/48,no-resolve
 IP-CIDR6,2001:1260:616::/47,no-resolve

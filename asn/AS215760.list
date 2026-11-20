@@ -1,5 +1,7 @@
+IP-CIDR,89.144.18.0/24,no-resolve
 IP-CIDR6,2a06:a002:140::/44,no-resolve
 IP-CIDR6,2a06:a002:153::/48,no-resolve
+IP-CIDR6,2a06:a002:c70::/44,no-resolve
 IP-CIDR6,2a06:a002:a010::/44,no-resolve
 IP-CIDR6,2a06:a002:a100::/40,no-resolve
 IP-CIDR6,2a06:a002:aca5::/48,no-resolve

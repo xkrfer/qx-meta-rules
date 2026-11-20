@@ -80,7 +80,16 @@ IP-CIDR,192.111.72.250/31,no-resolve
 IP-CIDR,192.111.72.252/30,no-resolve
 IP-CIDR,192.111.73.0/24,no-resolve
 IP-CIDR,192.111.74.0/23,no-resolve
-IP-CIDR,192.111.76.0/22,no-resolve
+IP-CIDR,192.111.76.0/23,no-resolve
+IP-CIDR,192.111.78.0/24,no-resolve
+IP-CIDR,192.111.79.0/25,no-resolve
+IP-CIDR,192.111.79.128/30,no-resolve
+IP-CIDR,192.111.79.132/31,no-resolve
+IP-CIDR,192.111.79.134/32,no-resolve
+IP-CIDR,192.111.79.136/29,no-resolve
+IP-CIDR,192.111.79.144/28,no-resolve
+IP-CIDR,192.111.79.160/27,no-resolve
+IP-CIDR,192.111.79.192/26,no-resolve
 IP-CIDR,198.57.80.0/20,no-resolve
 IP-CIDR,198.134.212.0/24,no-resolve
 IP-CIDR,198.254.80.0/20,no-resolve

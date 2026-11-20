@@ -1,1 +1,4 @@
-IP-CIDR,146.94.0.0/16,no-resolve
+IP-CIDR,146.94.0.0/17,no-resolve
+IP-CIDR,146.94.128.0/18,no-resolve
+IP-CIDR,146.94.192.0/19,no-resolve
+IP-CIDR,146.94.240.0/20,no-resolve

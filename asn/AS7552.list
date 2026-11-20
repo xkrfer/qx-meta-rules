@@ -92,7 +92,12 @@ IP-CIDR,116.103.200.0/21,no-resolve
 IP-CIDR,116.103.224.0/20,no-resolve
 IP-CIDR,116.103.240.0/21,no-resolve
 IP-CIDR,116.103.252.0/22,no-resolve
-IP-CIDR,116.104.0.0/18,no-resolve
+IP-CIDR,116.104.0.0/19,no-resolve
+IP-CIDR,116.104.32.0/20,no-resolve
+IP-CIDR,116.104.48.0/21,no-resolve
+IP-CIDR,116.104.56.0/22,no-resolve
+IP-CIDR,116.104.60.0/24,no-resolve
+IP-CIDR,116.104.62.0/23,no-resolve
 IP-CIDR,116.104.64.0/19,no-resolve
 IP-CIDR,116.104.112.0/20,no-resolve
 IP-CIDR,116.104.128.0/20,no-resolve

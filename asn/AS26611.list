@@ -118,4 +118,6 @@ IP-CIDR6,2800:800:27a0::/44,no-resolve
 IP-CIDR6,2800:800:27b0::/46,no-resolve
 IP-CIDR6,2800:800:2e00::/42,no-resolve
 IP-CIDR6,2800:800:2ec0::/42,no-resolve
-IP-CIDR6,2800:800:3000::/40,no-resolve
+IP-CIDR6,2800:800:4300::/41,no-resolve
+IP-CIDR6,2800:800:4380::/42,no-resolve
+IP-CIDR6,2800:800:43c0::/43,no-resolve

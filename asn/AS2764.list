@@ -1164,7 +1164,6 @@ IP-CIDR6,2404:bf40:a105::/48,no-resolve
 IP-CIDR6,2404:bf40:a141::/48,no-resolve
 IP-CIDR6,2404:bf40:a142::/47,no-resolve
 IP-CIDR6,2404:bf40:a1c2::/48,no-resolve
-IP-CIDR6,2404:bf40:a1c6::/48,no-resolve
 IP-CIDR6,2404:bf40:a241::/48,no-resolve
 IP-CIDR6,2404:bf40:a380::/48,no-resolve
 IP-CIDR6,2404:bf40:a3c3::/48,no-resolve

@@ -13836,14 +13836,7 @@ IP-CIDR6,240e:690:5640::/42,no-resolve
 IP-CIDR6,240e:690:5680::/41,no-resolve
 IP-CIDR6,240e:690:5700::/40,no-resolve
 IP-CIDR6,240e:690:5800::/39,no-resolve
-IP-CIDR6,240e:690:5a00::/47,no-resolve
-IP-CIDR6,240e:690:5a03::/48,no-resolve
-IP-CIDR6,240e:690:5a04::/46,no-resolve
-IP-CIDR6,240e:690:5a08::/45,no-resolve
-IP-CIDR6,240e:690:5a10::/44,no-resolve
-IP-CIDR6,240e:690:5a20::/43,no-resolve
-IP-CIDR6,240e:690:5a40::/42,no-resolve
-IP-CIDR6,240e:690:5a80::/41,no-resolve
+IP-CIDR6,240e:690:5a00::/40,no-resolve
 IP-CIDR6,240e:690:5b00::/47,no-resolve
 IP-CIDR6,240e:690:5b04::/47,no-resolve
 IP-CIDR6,240e:690:5b08::/45,no-resolve

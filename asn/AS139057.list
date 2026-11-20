@@ -113,7 +113,6 @@ IP-CIDR6,2407:2440:a028::/48,no-resolve
 IP-CIDR6,2407:2440:a02a::/48,no-resolve
 IP-CIDR6,2407:2440:a031::/48,no-resolve
 IP-CIDR6,2407:2440:a036::/47,no-resolve
-IP-CIDR6,2407:2440:a03d::/48,no-resolve
 IP-CIDR6,2407:2440:a055::/48,no-resolve
 IP-CIDR6,2407:2440:a057::/48,no-resolve
 IP-CIDR6,2407:2440:a05e::/48,no-resolve

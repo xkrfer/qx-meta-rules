@@ -10,6 +10,7 @@ IP-CIDR,201.8.65.0/24,no-resolve
 IP-CIDR6,2a0f:6284:c00::/48,no-resolve
 IP-CIDR6,2a0f:6284:4300::/44,no-resolve
 IP-CIDR6,2a0f:b240:4::/46,no-resolve
-IP-CIDR6,2a14:7c0:7000::/39,no-resolve
+IP-CIDR6,2a14:7c0:7000::/47,no-resolve
+IP-CIDR6,2a14:7c0:7100::/40,no-resolve
 IP-CIDR6,2a14:7c0:7eff::/48,no-resolve
 IP-CIDR6,2a14:7c0:7f00::/40,no-resolve

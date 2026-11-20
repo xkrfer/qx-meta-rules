@@ -1,3 +1,2 @@
-IP-CIDR6,2a09:3f02::/32,no-resolve
-IP-CIDR6,2a14:7581:5050::/44,no-resolve
+IP-CIDR6,2a09:3f02:b00::/40,no-resolve
 IP-CIDR6,2a14:7581:5104::/48,no-resolve

@@ -1,3 +1,4 @@
 IP-CIDR,200.4.104.0/23,no-resolve
+IP-CIDR,200.4.106.0/24,no-resolve
 IP-CIDR6,2804:7930::/33,no-resolve
 IP-CIDR6,2804:7930:8000::/34,no-resolve
