@@ -207,6 +207,7 @@ ip-cidr, 209.180.81.0/24, proxy, no-resolve
 ip-cidr, 209.198.192.0/20, proxy, no-resolve
 ip-cidr, 209.235.192.0/18, proxy, no-resolve
 ip-cidr, 209.236.96.0/20, proxy, no-resolve
+ip-cidr, 209.240.13.0/24, proxy, no-resolve
 ip-cidr, 216.21.240.0/24, proxy, no-resolve
 ip-cidr, 216.21.244.0/24, proxy, no-resolve
 ip-cidr, 216.21.247.0/24, proxy, no-resolve

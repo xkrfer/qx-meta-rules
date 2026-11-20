@@ -22,7 +22,8 @@ ip-cidr, 31.141.8.0/22, proxy, no-resolve
 ip-cidr, 31.141.16.0/20, proxy, no-resolve
 ip-cidr, 31.141.32.0/19, proxy, no-resolve
 ip-cidr, 31.141.80.0/20, proxy, no-resolve
-ip-cidr, 31.141.176.0/20, proxy, no-resolve
+ip-cidr, 31.141.144.0/20, proxy, no-resolve
+ip-cidr, 31.141.160.0/19, proxy, no-resolve
 ip-cidr, 31.141.192.0/18, proxy, no-resolve
 ip-cidr, 31.142.0.0/16, proxy, no-resolve
 ip-cidr, 31.143.0.0/18, proxy, no-resolve

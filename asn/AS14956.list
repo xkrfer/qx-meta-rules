@@ -70,5 +70,6 @@ ip6-cidr, 2602:fa59:4::/46, proxy, no-resolve
 ip6-cidr, 2602:fa59:9::/48, proxy, no-resolve
 ip6-cidr, 2602:fa59:10::/45, proxy, no-resolve
 ip6-cidr, 2602:fa59:18::/47, proxy, no-resolve
-ip6-cidr, 2602:fa59:20::/48, proxy, no-resolve
+ip6-cidr, 2602:fa59:20::/45, proxy, no-resolve
+ip6-cidr, 2602:fa59:28::/48, proxy, no-resolve
 ip6-cidr, 2605:7980::/48, proxy, no-resolve

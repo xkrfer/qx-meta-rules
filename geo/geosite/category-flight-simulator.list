@@ -49,6 +49,8 @@ host-suffix, x-plane.com, proxy
 host-suffix, x-plane.org, proxy
 host-suffix, xenviro.net, proxy
 host-suffix, xpilot-project.org, proxy
+host-suffix, asobostudio.com, proxy
+host-suffix, flightsimulator.com, proxy
 host-suffix, vatsim.me, proxy
 host-suffix, vatssa.com, proxy
 host-suffix, vatcan.ca, proxy
@@ -71,8 +73,6 @@ host-suffix, vat-apac.com, proxy
 host-suffix, vatsim.net, proxy
 host-suffix, vatsim.uk, proxy
 host-suffix, vatroc.net, proxy
-host-suffix, asobostudio.com, proxy
-host-suffix, flightsimulator.com, proxy
 host-suffix, hifisimtech.zendesk.com, proxy
 host-suffix, vatsim.com.br, proxy
 host-suffix, vatmex.com.mx, proxy

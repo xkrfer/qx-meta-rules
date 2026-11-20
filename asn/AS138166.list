@@ -1,1 +1,2 @@
 ip-cidr, 160.30.212.0/23, proxy, no-resolve
+ip6-cidr, 2001:df6:cb40::/48, proxy, no-resolve

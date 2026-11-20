@@ -6,4 +6,7 @@ ip-cidr, 202.94.48.0/20, proxy, no-resolve
 ip-cidr, 202.158.224.0/20, proxy, no-resolve
 ip-cidr, 202.223.44.0/22, proxy, no-resolve
 ip-cidr, 219.124.48.0/20, proxy, no-resolve
+ip-cidr, 220.38.0.0/18, proxy, no-resolve
+ip-cidr, 220.38.64.0/19, proxy, no-resolve
+ip-cidr, 220.38.96.0/21, proxy, no-resolve
 ip6-cidr, 2404:df40::/32, proxy, no-resolve

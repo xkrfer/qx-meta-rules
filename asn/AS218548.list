@@ -1,1 +1,2 @@
 ip6-cidr, 2a03:5840:169::/48, proxy, no-resolve
+ip6-cidr, 2a03:5840:390::/48, proxy, no-resolve

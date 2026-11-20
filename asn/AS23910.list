@@ -924,9 +924,7 @@ ip6-cidr, 240c:c02e::/32, proxy, no-resolve
 ip6-cidr, 240c:c030::/28, proxy, no-resolve
 ip6-cidr, 240c:c040::/26, proxy, no-resolve
 ip6-cidr, 240c:c080::/27, proxy, no-resolve
-ip6-cidr, 240c:c0a0::/32, proxy, no-resolve
-ip6-cidr, 240c:c0a2::/31, proxy, no-resolve
-ip6-cidr, 240c:c0a4::/30, proxy, no-resolve
+ip6-cidr, 240c:c0a0::/29, proxy, no-resolve
 ip6-cidr, 240c:c0a9::/36, proxy, no-resolve
 ip6-cidr, 240c:c0a9:1100::/40, proxy, no-resolve
 ip6-cidr, 240c:c0a9:1200::/39, proxy, no-resolve

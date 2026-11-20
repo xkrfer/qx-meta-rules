@@ -5,3 +5,4 @@ ip6-cidr, 2602:f99b:2::/47, proxy, no-resolve
 ip6-cidr, 2602:f99b:4::/47, proxy, no-resolve
 ip6-cidr, 2602:f99b:a::/48, proxy, no-resolve
 ip6-cidr, 2602:f99b:a0::/48, proxy, no-resolve
+ip6-cidr, 2602:f99b:c0::/48, proxy, no-resolve

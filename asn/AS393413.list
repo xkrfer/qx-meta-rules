@@ -1,1 +1,2 @@
 ip-cidr, 23.143.24.0/24, proxy, no-resolve
+ip6-cidr, 2602:fda9::/36, proxy, no-resolve

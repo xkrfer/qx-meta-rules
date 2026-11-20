@@ -159,7 +159,7 @@ ip-cidr, 87.107.44.0/22, proxy, no-resolve
 ip-cidr, 87.107.48.0/23, proxy, no-resolve
 ip-cidr, 87.107.64.0/23, proxy, no-resolve
 ip-cidr, 87.107.72.0/21, proxy, no-resolve
-ip-cidr, 87.107.84.0/23, proxy, no-resolve
+ip-cidr, 87.107.85.0/24, proxy, no-resolve
 ip-cidr, 87.107.87.0/24, proxy, no-resolve
 ip-cidr, 87.107.94.0/23, proxy, no-resolve
 ip-cidr, 87.107.103.0/24, proxy, no-resolve

@@ -23,10 +23,9 @@ ip6-cidr, 2602:fa59:a::/47, proxy, no-resolve
 ip6-cidr, 2602:fa59:c::/46, proxy, no-resolve
 ip6-cidr, 2602:fa59:1a::/47, proxy, no-resolve
 ip6-cidr, 2602:fa59:1c::/46, proxy, no-resolve
-ip6-cidr, 2602:fa59:21::/48, proxy, no-resolve
-ip6-cidr, 2602:fa59:22::/47, proxy, no-resolve
-ip6-cidr, 2602:fa59:24::/46, proxy, no-resolve
-ip6-cidr, 2602:fa59:28::/45, proxy, no-resolve
+ip6-cidr, 2602:fa59:29::/48, proxy, no-resolve
+ip6-cidr, 2602:fa59:2a::/47, proxy, no-resolve
+ip6-cidr, 2602:fa59:2c::/46, proxy, no-resolve
 ip6-cidr, 2602:fa59:30::/44, proxy, no-resolve
 ip6-cidr, 2602:fa59:40::/42, proxy, no-resolve
 ip6-cidr, 2602:fa59:80::/41, proxy, no-resolve
