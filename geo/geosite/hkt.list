@@ -1,8 +1,9 @@
+host-suffix, hkt, proxy
+host-suffix, hkt.com, proxy
 host-suffix, esmarthealth.com, proxy
 host-suffix, hkcsl.com, proxy
 host-suffix, hkt-enterprise.com, proxy
 host-suffix, hkt-eye.com, proxy
-host-suffix, hkt.com, proxy
 host-suffix, hkteducation.com, proxy
 host-suffix, hktpremier.com, proxy
 host-suffix, hktshop.com, proxy

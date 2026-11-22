@@ -51,8 +51,6 @@ host, t.mail.ru, proxy
 host, top-staging.mail.ru, proxy
 host, whiteline.mail.ru, proxy
 host, xray.mail.ru, proxy
-host-suffix, log.dzen.ru, proxy
-host-suffix, ms.dzen.ru, proxy
 host-suffix, adv.vk.com, proxy
 host-suffix, analytics.vk.com, proxy
 host-suffix, ms.vk.com, proxy
@@ -68,3 +66,5 @@ host, advk.vk.ru, proxy
 host, analytics.vk.ru, proxy
 host, stats.vk-portal.net, proxy
 host, target.vk.com, proxy
+host-suffix, log.dzen.ru, proxy
+host-suffix, ms.dzen.ru, proxy
