@@ -1,5 +1,5 @@
+host-suffix, graph.instagram.com, proxy
+host-suffix, graph-fallback.instagram.com, proxy
 host-suffix, analytics.facebook.com, proxy
 host-suffix, facebookads.com, proxy
 host-suffix, pixel.facebook.com, proxy
-host-suffix, graph.instagram.com, proxy
-host-suffix, graph-fallback.instagram.com, proxy
