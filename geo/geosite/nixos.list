@@ -7,6 +7,7 @@ host-suffix, nixlang.com, proxy
 host-suffix, nixos.org, proxy
 host-suffix, nixpkgs.org, proxy
 host-suffix, builtwithnix.org, proxy
+host-suffix, cachix.org, proxy
 host-suffix, mynixos.com, proxy
 host-suffix, nix-community.org, proxy
 host-suffix, nixos.wiki, proxy

@@ -1,2 +1,3 @@
 host-suffix, debian.org, proxy
 host-suffix, dotdeb.org, proxy
+host-suffix, debian.map.fastlydns.net, proxy

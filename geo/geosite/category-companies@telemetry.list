@@ -1,9 +1,10 @@
-host, sentry.hetzner.company, proxy
 host, crashlyticsreports-pa.googleapis.com, proxy
 host, firebase-settings.crashlytics.com, proxy
 host, firebaselogging-pa.googleapis.com, proxy
 host, firebaselogging.googleapis.com, proxy
 host, update.crashlytics.com, proxy
+host, sentry.hetzner.company, proxy
+host-suffix, adobestats.io, proxy
 host-suffix, appmetrica.yandex.com, proxy
 host-suffix, appmetrica.yandex.net, proxy
 host-suffix, appmetrica.yandex.ru, proxy
@@ -38,11 +39,7 @@ host, stats.rustore.ru, proxy
 host, stats.telega.info, proxy
 host-suffix, log.dzen.ru, proxy
 host, stats.vk-portal.net, proxy
-host, incoming.telemetry.mozilla.org, proxy
-host, incoming-telemetry.thunderbird.net, proxy
 host, sentry.iptv.rt.ru, proxy
-host, sentry.mindbox.ru, proxy
-host, sentry.popmechanic.ru, proxy
 host-suffix, applicationinsights.io, proxy
 host-suffix, applicationinsights.net, proxy
 host-suffix, aria.ms, proxy
@@ -60,4 +57,7 @@ host-suffix, cafe.github.com, proxy
 host-suffix, collector.github.com, proxy
 host, copilot-telemetry-service.githubusercontent.com, proxy
 host, copilot-telemetry.githubusercontent.com, proxy
-host-suffix, adobestats.io, proxy
+host, sentry.mindbox.ru, proxy
+host, sentry.popmechanic.ru, proxy
+host, incoming.telemetry.mozilla.org, proxy
+host, incoming-telemetry.thunderbird.net, proxy
