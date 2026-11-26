@@ -1,9 +1,10 @@
-host-suffix, aiesa.ru, proxy
+host-suffix, polza.ai, proxy
 host-suffix, copymonkey.app, proxy
+host-suffix, devmachine.ai, proxy
 host-suffix, gerwin.io, proxy
 host-suffix, giga.chat, proxy
 host-suffix, gptunnel.ru, proxy
-host-suffix, polza.ai, proxy
+host-suffix, aiesa.ru, proxy
 host-suffix, robotext.io, proxy
 host-suffix, rugpt.io, proxy
 host-suffix, tokenator.top, proxy
