@@ -23,4 +23,5 @@ IP-CIDR6,2800:280:4800::/37,no-resolve
 IP-CIDR6,2800:280:5000::/36,no-resolve
 IP-CIDR6,2800:280:6000::/35,no-resolve
 IP-CIDR6,2800:280:8000::/33,no-resolve
+IP-CIDR6,2803:7380:7f00::/47,no-resolve
 IP-CIDR6,2803:7380:8000::/33,no-resolve

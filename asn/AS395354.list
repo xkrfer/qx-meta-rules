@@ -1,4 +1,15 @@
-IP-CIDR,8.3.80.0/20,no-resolve
+IP-CIDR,8.3.80.0/21,no-resolve
+IP-CIDR,8.3.88.0/22,no-resolve
+IP-CIDR,8.3.92.0/23,no-resolve
+IP-CIDR,8.3.94.0/24,no-resolve
+IP-CIDR,8.3.95.0/25,no-resolve
+IP-CIDR,8.3.95.128/28,no-resolve
+IP-CIDR,8.3.95.144/29,no-resolve
+IP-CIDR,8.3.95.153/32,no-resolve
+IP-CIDR,8.3.95.154/31,no-resolve
+IP-CIDR,8.3.95.156/30,no-resolve
+IP-CIDR,8.3.95.160/27,no-resolve
+IP-CIDR,8.3.95.192/26,no-resolve
 IP-CIDR,38.13.0.0/21,no-resolve
 IP-CIDR,38.13.8.0/23,no-resolve
 IP-CIDR,38.13.10.0/24,no-resolve

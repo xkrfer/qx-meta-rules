@@ -210,6 +210,7 @@ IP-CIDR,209.55.193.0/24,no-resolve
 IP-CIDR,209.55.214.0/23,no-resolve
 IP-CIDR,209.55.218.0/24,no-resolve
 IP-CIDR,213.152.228.0/24,no-resolve
+IP-CIDR,220.42.24.0/24,no-resolve
 IP-CIDR6,2a03:eec0:1200::/39,no-resolve
 IP-CIDR6,2a03:eec0:1400::/38,no-resolve
 IP-CIDR6,2a03:eec0:1800::/37,no-resolve

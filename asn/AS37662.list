@@ -15,5 +15,6 @@ IP-CIDR6,2c0f:8a0::/32,no-resolve
 IP-CIDR6,2c0f:ef68::/46,no-resolve
 IP-CIDR6,2c0f:ef68:5::/48,no-resolve
 IP-CIDR6,2c0f:ef68:10::/47,no-resolve
+IP-CIDR6,2c0f:ef68:12::/48,no-resolve
 IP-CIDR6,2c0f:f3e8::/32,no-resolve
 IP-CIDR6,2c0f:f748::/32,no-resolve

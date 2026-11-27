@@ -5,14 +5,7 @@ IP-CIDR,130.104.0.0/16,no-resolve
 IP-CIDR,134.58.0.0/16,no-resolve
 IP-CIDR,134.184.0.0/16,no-resolve
 IP-CIDR,138.48.0.0/16,no-resolve
-IP-CIDR,139.165.0.0/18,no-resolve
-IP-CIDR,139.165.64.0/20,no-resolve
-IP-CIDR,139.165.80.0/21,no-resolve
-IP-CIDR,139.165.88.0/22,no-resolve
-IP-CIDR,139.165.93.0/24,no-resolve
-IP-CIDR,139.165.94.0/23,no-resolve
-IP-CIDR,139.165.96.0/19,no-resolve
-IP-CIDR,139.165.128.0/17,no-resolve
+IP-CIDR,139.165.0.0/16,no-resolve
 IP-CIDR,143.129.0.0/16,no-resolve
 IP-CIDR,143.169.0.0/16,no-resolve
 IP-CIDR,144.248.0.0/16,no-resolve

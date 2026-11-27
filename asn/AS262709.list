@@ -1,1 +1,4 @@
-IP-CIDR,187.111.0.0/20,no-resolve
+IP-CIDR,187.111.0.0/22,no-resolve
+IP-CIDR,187.111.4.0/23,no-resolve
+IP-CIDR,187.111.7.0/24,no-resolve
+IP-CIDR,187.111.8.0/21,no-resolve

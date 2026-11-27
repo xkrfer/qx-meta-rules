@@ -115,7 +115,6 @@ IP-CIDR6,2402:ef2f:48::/48,no-resolve
 IP-CIDR6,2402:ef2f:4a::/47,no-resolve
 IP-CIDR6,2402:ef2f:4c::/47,no-resolve
 IP-CIDR6,2402:ef2f:51::/48,no-resolve
-IP-CIDR6,2402:ef30::/32,no-resolve
 IP-CIDR6,2402:ef32::/32,no-resolve
 IP-CIDR6,2402:ef39:a::/47,no-resolve
 IP-CIDR6,2402:ef39:c::/48,no-resolve

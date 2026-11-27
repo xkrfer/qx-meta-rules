@@ -125,5 +125,8 @@ IP-CIDR6,2001:67c:2b20::/48,no-resolve
 IP-CIDR6,2001:67c:2ea0::/48,no-resolve
 IP-CIDR6,2a02:11f8:70::/48,no-resolve
 IP-CIDR6,2a07:cb81::/32,no-resolve
+IP-CIDR6,2a10:4780:8247::/48,no-resolve
+IP-CIDR6,2a10:4780:8277::/48,no-resolve
+IP-CIDR6,2a10:4780:8297::/48,no-resolve
 IP-CIDR6,2a10:8802::/36,no-resolve
 IP-CIDR6,2a11:4d40::/48,no-resolve

@@ -7,5 +7,4 @@ IP-CIDR,89.125.222.0/24,no-resolve
 IP-CIDR,176.126.174.0/24,no-resolve
 IP-CIDR6,2a06:2840::/30,no-resolve
 IP-CIDR6,2a13:4980::/32,no-resolve
-IP-CIDR6,2a13:4982::/31,no-resolve
-IP-CIDR6,2a13:4984::/30,no-resolve
+IP-CIDR6,2a13:4982::/32,no-resolve

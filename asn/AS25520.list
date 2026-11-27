@@ -1,3 +1,5 @@
-IP-CIDR,78.137.104.0/21,no-resolve
+IP-CIDR,78.137.104.0/22,no-resolve
+IP-CIDR,78.137.109.0/24,no-resolve
+IP-CIDR,78.137.110.0/23,no-resolve
 IP-CIDR,217.15.16.0/20,no-resolve
 IP-CIDR6,2a02:c0c0::/29,no-resolve

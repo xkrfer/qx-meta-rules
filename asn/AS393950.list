@@ -10,4 +10,3 @@ IP-CIDR,192.81.0.0/21,no-resolve
 IP-CIDR6,2604:50::/48,no-resolve
 IP-CIDR6,2604:50:2::/48,no-resolve
 IP-CIDR6,2604:50:4::/48,no-resolve
-IP-CIDR6,2604:50:9::/48,no-resolve

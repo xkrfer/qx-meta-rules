@@ -193,11 +193,7 @@ IP-CIDR6,240e:982:d9e8::/47,no-resolve
 IP-CIDR6,240e:982:d9eb::/48,no-resolve
 IP-CIDR6,240e:982:d9ec::/46,no-resolve
 IP-CIDR6,240e:982:d9f0::/44,no-resolve
-IP-CIDR6,240e:982:da00::/45,no-resolve
-IP-CIDR6,240e:982:da08::/46,no-resolve
-IP-CIDR6,240e:982:da0c::/47,no-resolve
-IP-CIDR6,240e:982:da0e::/48,no-resolve
-IP-CIDR6,240e:982:da10::/44,no-resolve
+IP-CIDR6,240e:982:da00::/43,no-resolve
 IP-CIDR6,240e:982:da20::/46,no-resolve
 IP-CIDR6,240e:982:da24::/47,no-resolve
 IP-CIDR6,240e:982:da27::/48,no-resolve

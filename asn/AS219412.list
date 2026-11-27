@@ -6,9 +6,10 @@ IP-CIDR6,2a05:dfc3:f900::/40,no-resolve
 IP-CIDR6,2a09:3f00:3c30::/44,no-resolve
 IP-CIDR6,2a09:3f00:3c40::/43,no-resolve
 IP-CIDR6,2a09:3f00:3c60::/44,no-resolve
-IP-CIDR6,2a09:3f00:3c70::/46,no-resolve
-IP-CIDR6,2a09:3f00:3c74::/47,no-resolve
-IP-CIDR6,2a09:3f00:3c76::/48,no-resolve
+IP-CIDR6,2a09:3f00:3c70::/45,no-resolve
+IP-CIDR6,2a09:3f00:3c78::/46,no-resolve
+IP-CIDR6,2a09:3f00:3c7c::/48,no-resolve
+IP-CIDR6,2a09:3f00:3c80::/44,no-resolve
 IP-CIDR6,2a0d:d904::/42,no-resolve
 IP-CIDR6,2a0d:d904:40::/44,no-resolve
 IP-CIDR6,2a0d:d904:50::/47,no-resolve

@@ -222,5 +222,4 @@ IP-CIDR6,2a00:4802:4a00::/43,no-resolve
 IP-CIDR6,2a00:4802:4e00::/44,no-resolve
 IP-CIDR6,2a00:4802:4e20::/44,no-resolve
 IP-CIDR6,2a00:4802:5000::/44,no-resolve
-IP-CIDR6,2a00:4802:5200::/44,no-resolve
 IP-CIDR6,2a01:288:100::/43,no-resolve

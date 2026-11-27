@@ -141,7 +141,11 @@ IP-CIDR,74.218.224.0/19,no-resolve
 IP-CIDR,74.219.0.0/19,no-resolve
 IP-CIDR,75.176.0.0/15,no-resolve
 IP-CIDR,75.178.0.0/17,no-resolve
-IP-CIDR,75.178.128.0/18,no-resolve
+IP-CIDR,75.178.128.0/19,no-resolve
+IP-CIDR,75.178.160.0/20,no-resolve
+IP-CIDR,75.178.176.0/22,no-resolve
+IP-CIDR,75.178.180.0/23,no-resolve
+IP-CIDR,75.178.184.0/21,no-resolve
 IP-CIDR,75.180.192.0/18,no-resolve
 IP-CIDR,75.181.0.0/16,no-resolve
 IP-CIDR,75.182.0.0/15,no-resolve

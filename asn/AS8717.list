@@ -250,7 +250,6 @@ IP-CIDR,151.251.198.0/23,no-resolve
 IP-CIDR,151.251.237.0/24,no-resolve
 IP-CIDR,176.12.15.0/24,no-resolve
 IP-CIDR,193.22.103.0/24,no-resolve
-IP-CIDR,193.109.54.0/23,no-resolve
 IP-CIDR,195.24.32.0/20,no-resolve
 IP-CIDR,195.24.48.0/21,no-resolve
 IP-CIDR,195.24.58.0/23,no-resolve
@@ -506,11 +505,7 @@ IP-CIDR6,2a00:4802:5020::/43,no-resolve
 IP-CIDR6,2a00:4802:5040::/42,no-resolve
 IP-CIDR6,2a00:4802:5080::/41,no-resolve
 IP-CIDR6,2a00:4802:5100::/40,no-resolve
-IP-CIDR6,2a00:4802:5210::/44,no-resolve
-IP-CIDR6,2a00:4802:5220::/43,no-resolve
-IP-CIDR6,2a00:4802:5240::/42,no-resolve
-IP-CIDR6,2a00:4802:5280::/41,no-resolve
-IP-CIDR6,2a00:4802:5300::/40,no-resolve
+IP-CIDR6,2a00:4802:5200::/39,no-resolve
 IP-CIDR6,2a00:4802:5400::/38,no-resolve
 IP-CIDR6,2a00:4802:5800::/37,no-resolve
 IP-CIDR6,2a00:4802:6000::/35,no-resolve

@@ -34,4 +34,14 @@ IP-CIDR,220.247.228.0/22,no-resolve
 IP-CIDR,220.247.232.0/21,no-resolve
 IP-CIDR,220.247.240.0/20,no-resolve
 IP-CIDR,222.165.128.0/18,no-resolve
-IP-CIDR6,2402:d000::/32,no-resolve
+IP-CIDR6,2402:d000::/36,no-resolve
+IP-CIDR6,2402:d000:1000::/41,no-resolve
+IP-CIDR6,2402:d000:1080::/42,no-resolve
+IP-CIDR6,2402:d000:10c0::/43,no-resolve
+IP-CIDR6,2402:d000:1100::/40,no-resolve
+IP-CIDR6,2402:d000:1200::/39,no-resolve
+IP-CIDR6,2402:d000:1400::/38,no-resolve
+IP-CIDR6,2402:d000:1800::/37,no-resolve
+IP-CIDR6,2402:d000:2000::/35,no-resolve
+IP-CIDR6,2402:d000:4000::/34,no-resolve
+IP-CIDR6,2402:d000:8000::/33,no-resolve

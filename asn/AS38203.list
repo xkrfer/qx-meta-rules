@@ -13,6 +13,7 @@ IP-CIDR,163.47.144.0/22,no-resolve
 IP-CIDR,202.51.176.0/20,no-resolve
 IP-CIDR,203.194.116.0/22,no-resolve
 IP-CIDR6,2400:9220::/32,no-resolve
+IP-CIDR6,2402:b500::/48,no-resolve
 IP-CIDR6,2402:b500:5::/48,no-resolve
 IP-CIDR6,2402:b500:31::/48,no-resolve
 IP-CIDR6,2402:b500:1000::/44,no-resolve

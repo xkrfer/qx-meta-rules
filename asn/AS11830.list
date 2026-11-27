@@ -91,3 +91,6 @@ IP-CIDR6,2801:151:5::/48,no-resolve
 IP-CIDR6,2801:151:6::/48,no-resolve
 IP-CIDR6,2801:151:f::/48,no-resolve
 IP-CIDR6,2801:151:32::/48,no-resolve
+IP-CIDR6,2801:15d:1::/48,no-resolve
+IP-CIDR6,2801:15d:2::/47,no-resolve
+IP-CIDR6,2801:15d:4::/46,no-resolve

@@ -13,4 +13,4 @@ IP-CIDR6,2800:5e0::/32,no-resolve
 IP-CIDR6,2803:8d20:9187::/48,no-resolve
 IP-CIDR6,2803:8d20:9188::/47,no-resolve
 IP-CIDR6,2803:8d20:918b::/48,no-resolve
-IP-CIDR6,2803:8d20:918c::/47,no-resolve
+IP-CIDR6,2803:8d20:918c::/48,no-resolve

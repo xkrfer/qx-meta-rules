@@ -1,0 +1,4 @@
+IP-CIDR6,2a05:8907::/48,no-resolve
+IP-CIDR6,2a05:8907:10::/48,no-resolve
+IP-CIDR6,2a05:8907:12::/48,no-resolve
+IP-CIDR6,2a05:8907:20::/48,no-resolve

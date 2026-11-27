@@ -309,13 +309,7 @@ IP-CIDR,209.245.213.0/24,no-resolve
 IP-CIDR,209.247.124.0/22,no-resolve
 IP-CIDR,216.228.0.0/20,no-resolve
 IP-CIDR,216.228.16.0/24,no-resolve
-IP-CIDR,216.228.17.0/28,no-resolve
-IP-CIDR,216.228.17.16/29,no-resolve
-IP-CIDR,216.228.17.24/31,no-resolve
-IP-CIDR,216.228.17.27/32,no-resolve
-IP-CIDR,216.228.17.28/30,no-resolve
-IP-CIDR,216.228.17.32/27,no-resolve
-IP-CIDR,216.228.17.64/26,no-resolve
+IP-CIDR,216.228.17.0/25,no-resolve
 IP-CIDR,216.228.17.128/30,no-resolve
 IP-CIDR,216.228.17.132/32,no-resolve
 IP-CIDR,216.228.17.134/31,no-resolve
