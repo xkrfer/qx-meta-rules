@@ -3,6 +3,7 @@ ip-cidr, 72.56.44.0/23, proxy, no-resolve
 ip-cidr, 72.56.47.0/24, proxy, no-resolve
 ip-cidr, 72.56.48.0/24, proxy, no-resolve
 ip-cidr, 72.56.50.0/23, proxy, no-resolve
+ip-cidr, 72.56.56.0/24, proxy, no-resolve
 ip-cidr, 72.56.59.0/24, proxy, no-resolve
 ip-cidr, 72.56.60.0/24, proxy, no-resolve
 ip-cidr, 72.56.217.0/24, proxy, no-resolve

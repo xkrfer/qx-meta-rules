@@ -1,0 +1,2 @@
+ip-cidr, 45.196.111.0/24, proxy, no-resolve
+ip6-cidr, 2a03:5840:16d::/48, proxy, no-resolve

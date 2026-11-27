@@ -332,6 +332,6 @@ ip-cidr, 217.56.128.0/17, proxy, no-resolve
 ip-cidr, 217.57.0.0/16, proxy, no-resolve
 ip-cidr, 217.58.0.0/15, proxy, no-resolve
 ip-cidr, 217.141.0.0/16, proxy, no-resolve
-ip-cidr, 217.172.192.0/20, proxy, no-resolve
+ip-cidr, 217.172.192.0/21, proxy, no-resolve
 ip-cidr, 217.222.0.0/15, proxy, no-resolve
 ip6-cidr, 2a01:2000::/20, proxy, no-resolve

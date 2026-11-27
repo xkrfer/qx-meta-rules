@@ -1,0 +1,4 @@
+ip6-cidr, 2a05:8907::/48, proxy, no-resolve
+ip6-cidr, 2a05:8907:10::/48, proxy, no-resolve
+ip6-cidr, 2a05:8907:12::/48, proxy, no-resolve
+ip6-cidr, 2a05:8907:20::/48, proxy, no-resolve

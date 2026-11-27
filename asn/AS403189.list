@@ -1,1 +1,2 @@
+ip6-cidr, 2602:f26f:1::/48, proxy, no-resolve
 ip6-cidr, 2602:f26f:2::/48, proxy, no-resolve

@@ -1,0 +1,2 @@
+ip-cidr, 113.30.224.0/24, proxy, no-resolve
+ip6-cidr, 2400:ec40:e000::/36, proxy, no-resolve

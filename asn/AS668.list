@@ -54,6 +54,7 @@ ip-cidr, 140.178.0.0/16, proxy, no-resolve
 ip-cidr, 143.56.0.0/16, proxy, no-resolve
 ip-cidr, 144.3.0.0/16, proxy, no-resolve
 ip-cidr, 147.227.0.0/16, proxy, no-resolve
+ip-cidr, 147.241.56.0/21, proxy, no-resolve
 ip-cidr, 147.241.72.0/21, proxy, no-resolve
 ip-cidr, 147.241.96.0/22, proxy, no-resolve
 ip-cidr, 147.241.104.0/22, proxy, no-resolve
@@ -61,6 +62,9 @@ ip-cidr, 147.241.112.0/22, proxy, no-resolve
 ip-cidr, 147.241.118.0/24, proxy, no-resolve
 ip-cidr, 147.241.120.0/22, proxy, no-resolve
 ip-cidr, 147.241.126.0/24, proxy, no-resolve
+ip-cidr, 147.241.128.0/21, proxy, no-resolve
+ip-cidr, 147.241.168.0/21, proxy, no-resolve
+ip-cidr, 147.241.176.0/21, proxy, no-resolve
 ip-cidr, 147.241.192.0/18, proxy, no-resolve
 ip-cidr, 147.248.48.0/20, proxy, no-resolve
 ip-cidr, 150.125.0.0/16, proxy, no-resolve
@@ -139,6 +143,7 @@ ip-cidr, 199.208.32.0/21, proxy, no-resolve
 ip-cidr, 199.208.158.0/24, proxy, no-resolve
 ip-cidr, 199.209.144.0/21, proxy, no-resolve
 ip-cidr, 199.209.240.0/20, proxy, no-resolve
+ip-cidr, 204.34.198.0/24, proxy, no-resolve
 ip-cidr, 204.44.136.0/23, proxy, no-resolve
 ip-cidr, 204.222.6.0/23, proxy, no-resolve
 ip-cidr, 204.222.8.0/23, proxy, no-resolve
@@ -164,6 +169,7 @@ ip-cidr, 214.9.96.0/21, proxy, no-resolve
 ip-cidr, 214.10.25.0/24, proxy, no-resolve
 ip-cidr, 214.27.178.0/24, proxy, no-resolve
 ip-cidr, 214.29.136.0/21, proxy, no-resolve
+ip-cidr, 214.64.84.0/22, proxy, no-resolve
 ip6-cidr, 2001:480::/44, proxy, no-resolve
 ip6-cidr, 2001:480:11::/48, proxy, no-resolve
 ip6-cidr, 2001:480:12::/47, proxy, no-resolve
@@ -263,14 +269,7 @@ ip6-cidr, 2001:480:634::/46, proxy, no-resolve
 ip6-cidr, 2001:480:638::/45, proxy, no-resolve
 ip6-cidr, 2001:480:640::/42, proxy, no-resolve
 ip6-cidr, 2001:480:680::/41, proxy, no-resolve
-ip6-cidr, 2001:480:700::/42, proxy, no-resolve
-ip6-cidr, 2001:480:741::/48, proxy, no-resolve
-ip6-cidr, 2001:480:742::/47, proxy, no-resolve
-ip6-cidr, 2001:480:744::/46, proxy, no-resolve
-ip6-cidr, 2001:480:748::/45, proxy, no-resolve
-ip6-cidr, 2001:480:750::/44, proxy, no-resolve
-ip6-cidr, 2001:480:760::/43, proxy, no-resolve
-ip6-cidr, 2001:480:780::/41, proxy, no-resolve
+ip6-cidr, 2001:480:700::/40, proxy, no-resolve
 ip6-cidr, 2001:480:800::/37, proxy, no-resolve
 ip6-cidr, 2001:480:1000::/38, proxy, no-resolve
 ip6-cidr, 2001:480:1400::/39, proxy, no-resolve

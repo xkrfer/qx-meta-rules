@@ -10,3 +10,4 @@ ip-cidr, 194.180.191.0/24, proxy, no-resolve
 ip6-cidr, 2001:67c:2db8::/48, proxy, no-resolve
 ip6-cidr, 2a0a:c800::/31, proxy, no-resolve
 ip6-cidr, 2a0a:c802::/45, proxy, no-resolve
+ip6-cidr, 2a0a:c802:8::/48, proxy, no-resolve
