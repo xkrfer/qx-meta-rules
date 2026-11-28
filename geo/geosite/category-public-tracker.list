@@ -139,7 +139,6 @@ host, opentor.org, proxy
 host, opentracker.acgnx.com, proxy
 host, opentracker.acgnx.se, proxy
 host, opentracker.io, proxy
-host, opentrackr.org, proxy
 host, oscar.reyesleon.xyz, proxy
 host, p2p.0g.cx, proxy
 host, p2p.publictracker.xyz, proxy
@@ -312,7 +311,6 @@ host, tracker.netmap.top, proxy
 host, tracker.nighthawk.pw, proxy
 host, tracker.open-internet.nl, proxy
 host, tracker.openbittorrent.com, proxy
-host, tracker.opentrackr.org, proxy
 host, tracker.picotorrent.one, proxy
 host, tracker.pirateparty.gr, proxy
 host, tracker.plx.im, proxy
@@ -405,7 +403,7 @@ host, yolo.liberbear.com, proxy
 host, z.paranoid.agency, proxy
 host, zupix.online, proxy
 host-suffix, peckservers.com, proxy
-host-suffix, shnflac.net, proxy
+host-suffix, searchtor.to, proxy
 host-suffix, bitseduce.com, proxy
 host-suffix, biztorrents.com, proxy
 host-suffix, blackcats-games.net, proxy
@@ -414,15 +412,17 @@ host-suffix, freerainbowtables.com, proxy
 host-suffix, genesis-sp.org, proxy
 host-suffix, learnbits.me, proxy
 host-suffix, legittorrents.info, proxy
-host-suffix, megatorrents.kg, proxy
+host-suffix, shnflac.net, proxy
 host-suffix, mvgroup.org, proxy
 host-suffix, nnm-club.cc, proxy
 host-suffix, nnm-club.info, proxy
+host-suffix, opentracker.xyz, proxy
+host-suffix, opentrackr.org, proxy
 host-suffix, bit-hdtv.com, proxy
 host-suffix, all4nothin.net, proxy
-host-suffix, thegeeks.bz, proxy
+host-suffix, megatorrents.kg, proxy
 host-suffix, siambt.com, proxy
-host-suffix, searchtor.to, proxy
+host-suffix, thegeeks.bz, proxy
 host-suffix, theoccult.bz, proxy
 host-suffix, theplace.bz, proxy
 host-suffix, thetradersden.org, proxy
@@ -434,4 +434,5 @@ host-suffix, tvnihon.com, proxy
 host-suffix, worldboxingvideoarchive.com, proxy
 host-suffix, xwt-classics.net, proxy
 host-suffix, yuwabits.net, proxy
+host-suffix, zer0day.ch, proxy
 host-suffix, torrent.eu.org, proxy

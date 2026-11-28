@@ -1,2 +1,3 @@
-host-suffix, faceit.com, proxy
 host-suffix, faceit-cdn.net, proxy
+host-suffix, faceit.com, proxy
+host-suffix, fce.gg, proxy
